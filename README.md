@@ -1,9 +1,9 @@
 # csi-corpus
 
 This repository contains annotated screenplays [1] for 39 CSI:Crime Scene Investigation episodes
-from seasons 1--5. Each episode contains 
-1. word-level gold standard entity annotations using three types (perpetrator, suspect, other),
-2. human behavioral perpetrator guesses (sentence-level), and 
+from seasons 1-5. Each episode contains 
+1. word-level gold standard entity annotations using three types (perpetrator, suspect, other)
+2. human behavioral perpetrator guesses (sentence-level)
 3. case disambiguation information for episodes featuring two cases
 (sentence-level).
 
@@ -50,13 +50,13 @@ for the first time (sentence-level label)
 
 - end_time: end time of video segment corrqesponding to current sentence
 
-- i1_time--i5_time: five equally spaced time points covering video
+- i1_time-i5_time: five equally spaced time points covering video
 segment corresponding to current sentence. Audio feature samples were
 taken at these points. 
 
 Note that except for the columns 'word', 'killer_gold',
 'suspect_gold', and 'other_gold' all labels are provided on the
-sentence-level (i.e., invariant for words in the same sentence).
+sentence-level (i.e., their values are invariant for words in the same sentence).
 
 
 -----------------------------------------------------------------------------
