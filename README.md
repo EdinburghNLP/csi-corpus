@@ -13,7 +13,7 @@ Amazon and eBay.
 
 If you use this data in your research please cite the following paper:
 
-Frermann, Cohen, Lapata (2017) Whodunnit? Crime Drama as a Case for Natural 
+Lea Frermann, Shay B. Cohen, Mirella Lapata (2017) Whodunnit? Crime Drama as a Case for Natural 
 Language Understanding. Transactions of the Association for Computational 
 Linguistics (TACL).
 
