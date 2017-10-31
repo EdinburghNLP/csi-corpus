@@ -1,8 +1,10 @@
-This repository contains annotated screenplays [1] for 39 CSI episodes
-from seasons 1--5. Each episode contains (i) word-level gold standard
-entity annotations using three types (perpetrator, suspect, other),
-(ii) human behavioral perpetrator guesses (sentence-level), and (iii)
-case disambiguation information for episodes featuring two cases
+# csi-corpus
+
+This repository contains annotated screenplays [1] for 39 CSI:Crime Scene Investigation episodes
+from seasons 1--5. Each episode contains 
+1. word-level gold standard entity annotations using three types (perpetrator, suspect, other),
+2. human behavioral perpetrator guesses (sentence-level), and 
+3. case disambiguation information for episodes featuring two cases
 (sentence-level).
 
 If you would like to obtain the visual and auditory features used in
@@ -17,6 +19,7 @@ Lea Frermann, Shay B. Cohen, Mirella Lapata (2017) Whodunnit? Crime Drama as a C
 Language Understanding. Transactions of the Association for Computational 
 Linguistics (TACL).
 
+## Annotation Format
 
 Each file contains the screenplay corresponding to one CSI episode (identified 
 in the title), one word per line. It contains the following annotations in 
