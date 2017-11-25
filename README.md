@@ -36,10 +36,10 @@ episodes cover two cases)
 - killer_gold: binary indicator whether word refers to perpetrator (word-level 
 label)
 
-- other_gold: binary indicator whether word refers to suspect (word-level label)
-
-- suspect_gold: binary indicator whether word refers to any other participant 
+- other_gold: binary indicator whether word refers to any other participant
 in the plot (word-level label)
+
+- suspect_gold: binary indicator whether word refers to suspect (word-level label)
 
 - human_guess: human behavioral perpetrator guesses when watching the episode 
 for the first time (sentence-level label)
