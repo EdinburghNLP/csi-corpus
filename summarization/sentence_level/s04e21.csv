@@ -1,0 +1,923 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( The chains pull the roller coaster up the large ramp . ),0
+0,1, ( The MOTHER and DAUGHTER sit in their seat just behind JOEY . ),0
+0,2, [[Daughter]] i do n't wan na go !,0
+0,3, [[Daughter]] ooh !,0
+0,4," [[Daughter]] oh , mommy",0
+0,5, ( JOEY unbuckles his seat belt and turns around to look back at them . ),0
+0,6, [[Joey]] we 're all going to die,0
+0,7, [[Daughter]] cut it out !,0
+0,8," [[Mother]] joey , put your seat belt on",0
+0,9, [[Mother]] now !,0
+0,10, ( The cars reach the top and they can feel it as it starts its journey down the rails . ),0
+0,11, [[Voice]] here we go !,0
+0,12," [[Voice]] voice : oh , my goodness !",0
+0,13, [[Voice]] voice : whoa !,0
+0,14, ( A close up of the coaster wheels shows it wobbling . ),0
+0,15, ( Various cuts of the roller coaster ride with some emphasis on the wheels . ),0
+0,16, ( The roller coaster comes to a stop at the platform . ),0
+0,17," [[Mother]] okay , guys , come on",0
+0,18, ( The family gets off of the ride . ),0
+0,19, [[Daughter]] that was so fun,0
+0,20, ( The next set of passengers board the coaster ride . ),0
+0,21," [[Zack_Lawrence]] all right , ladies and gentlemen , welcome to pharaoh 's fever",0
+0,22, [[Zack_Lawrence]] buckle up,0
+0,23, [[Zack_Lawrence]] get ready to scream,0
+0,24, ( The passengers are locked in and the ride starts . ),0
+0,25, ( The young family steps out onto the walkway and heads over to the nearby food vendor . ),0
+0,26, ( The kids are still excited about the ride . ),0
+0,27, [[Joey]] that was so awesome,0
+0,28, [[Daughter]] when can we ride again ?,0
+0,29," [[Mother]] um , we 'll ride it in a minute",0
+0,30, ( The MOTHER turns to place in the order . ),0
+0,31," [[Mother]] um , four king tut burgers , uh , two nile river ice teas and two milks",0
+0,32, [[Daughter]] milk is nasty,0
+0,33, [[Mother]] yeah,0
+0,34," ( At the sounds of the excessive screams , the family looks up in time to see the roller coaster cars fly off of the tracks )",0
+0,35, ( The roller coaster cars crash head first into the red car parked in the parking lot . ),0
+1,0, ( BRASS stands in front of the wrecked car . ),1
+1,1, ( The bodies of the riders are still on the pavement . ),1
+1,2, ( GRISSOM ducks under the crime scene tape and walks over to BRASS . ),0
+1,3," [[Brass]] so , dr thrillseeker , you ever been on this roller coaster ?",0
+1,4, ( GRISSOM looks up at the ride . ),1
+1,5," [[Grissom]] pharaoh 's fever , yeah ... but my ride ended at the platform",0
+1,6, [[Grissom]] what do you know ?,0
+1,7, [[Brass]] six dead,0
+1,8, [[Brass]] park full of eyewitnesses saw the train fly off the tracks,0
+1,9, [[Brass]] four-oh-one-b,0
+1,10, [[Grissom]] accident with injury,0
+1,11, [[Brass]] uh-huh,0
+1,12, [[Grissom]] it 's also a four-eighteen-b,0
+1,13, [[Brass]] a runaway ?,0
+1,14, [[Grissom]] a runaway train,0
+2,0," ( The amusement park parking lot is filled with personnel , curious on-lookers and the media . )",0
+2,1," ( An OFFICER holds up the tape for NICK , SARA and GREG . )",0
+2,2, ( GREG is carrying SARA 'S kit for her in addition to his own . ),0
+2,3, ( They make their way over to GRISSOM . ),0
+2,4, [[Nick]] hey,0
+2,5, [[Nick]] sorry we 're late,0
+2,6, [[Nick]] there was a news van blocking the entrance,0
+2,7, [[Grissom]] this is the first time a roller coaster has derailed in clark county,0
+2,8," [[Grissom]] huge criminal and civil liabilities issues , so keep it quiet",0
+2,9, [[Grissom]] photograph the scene,0
+2,10, [[Grissom]] bag and tag all the detritus,0
+2,11, [[Grissom]] forklift anything bigger than greg,0
+2,12, [[Grissom]] we 're going to put up a tent on the other side of the parking lot for accident reconstruction,0
+2,13, [[Grissom]] questions ?,0
+2,14, [[Greg]] yeah,0
+2,15, [[Greg]] what 's that guy doing so far away from the others ?,0
+2,16, ( They look over at the lone body on the ground away from the wreckage . ),0
+2,17," [[Grissom]] curious , is n't it ?",0
+2,18, ( GRISSOM turns and leaves . ),0
+2,19, ( GREG looks at SARA . ),0
+2,20," [[Greg]] so , when he asks if anybody has any questions , he 's not really asking ?",0
+2,21," [[Sara]] well , i do n't know much about roller coaster accidents , but in auto collisions , the victims found furthest away from the car usually were n't wearing a seat belt",0
+2,22, [[Sara]] that 'd be my bet,0
+2,23, ( Quick flashback to : [_DAY_] The roller coaster car flies off the track . ),0
+2,24, ( The lone body flies out of the car . ),0
+2,25, ( End of flashback . ),0
+2,26, ( Resume to present . ),0
+2,27," [[Nick]] okay , let 's go to work",0
+2,28, [[Greg]] what should i do ?,0
+2,29," [[Nick]] uh , photo-evidence log -- just record everything we collect , okay ?",0
+3,0, ( The OFFICER shows WARRICK and CATHERINE to the body . ),1
+3,1, ( DAVID PHILLIPS is already there logging his findings . ),0
+3,2, [[Officer]] couple of mountain bikers called in the body,0
+3,3, [[Officer]] coroner just arrived,0
+3,4," [[Catherine]] hi , david",0
+3,5, [[David_Phillips]] hey,0
+3,6, [[David_Phillips]] tessa press,1
+3,7, [[David_Phillips]] school i.d,0
+3,8, [[David_Phillips]] was in her pocket,1
+3,9, [[David_Phillips]] she 's 13,1
+3,10, ( CATHERINE and WARRICK kneels down next to the body to get a better look . ),0
+3,11, [[Warrick]] i hate these cases,0
+3,12, [[Catherine]] now ... the body position is inconsistent with her lividity,0
+3,13," [[David_Phillips]] after she died , blood settled to her anterior and lividity fixed",1
+3,14, [[Catherine]] so she had been facedown,1
+3,15, [[David_Phillips]] yeah,0
+3,16, [[Warrick]] and someone dumped her face up,1
+3,17, ( DAVID PHILLIPS nods . ),0
+3,18, [[Catherine]] how long has she been here ?,1
+3,19, [[David_Phillips]] i 'll defer that question to the insects,0
+3,20, ( DAVID rolls the body and shows them to CATHERINE . ),0
+3,21, [[Catherine]] instar maggots,0
+3,22," [[David_Phillips]] given the ambient temperature and last night 's rain , i 'd estimate she 's been out here twenty-four hours",1
+3,23, [[Catherine]] takes that long for blowfly eggs to hatch,0
+3,24," [[Warrick]] i guess the rain would 've washed away any trace evidence : tire prints , shoe impressions",0
+3,25, [[Catherine]] let 's just hope there 's some evidence on her body,1
+3,26," [[David_Phillips]] if you 're going to drive all the way out here to dump a body , why not take another ten minutes and bury her ?",0
+3,27, [[Warrick]] guess it was n't worth the killer 's time,1
+4,0, ( SARA continues to snap photos of the evidence and evidence markers on the asphalt . ),0
+4,1, ( NICK bags the evidence while GREG logs them down . ),0
+4,2, ( They work methodotically . ),0
+4,3," ( In the background , we see the CORONERS remove the bodies . )",0
+4,4, ( A large crane arrives to move the larger pieces -- smashed red car and roller coaster car . ),0
+5,0, ( BRASS questions ZACK LAWRENCE . ),0
+5,1," [[Brass]] so , how long you been operating the roller coaster ?",0
+5,2, [[Zack_Lawrence]] couple of months,0
+5,3, [[Zack_Lawrence]] i got a promotion,0
+5,4, [[Zack_Lawrence]] i used to work the merry-go-round,0
+5,5," [[Brass]] that 's a promotion , huh ?",0
+5,6, [[Zack_Lawrence]] yeah,0
+5,7, [[Zack_Lawrence]] only little kids go on the merry-go-round,0
+5,8," [[Brass]] oh , i see",0
+5,9, [[Brass]] so you get to meet girls your own age on pharaoh 's fever,0
+5,10," [[Zack_Lawrence]] yeah , something like that",0
+5,11, [[Brass]] what kind of training do you get to be an operator ?,0
+5,12, [[Zack_Lawrence]] training ?,0
+5,13, [[Zack_Lawrence]] i release the brake,0
+5,14, [[Zack_Lawrence]] i press a button,0
+5,15, [[Zack_Lawrence]] it 's green and marked 'start ',0
+5,16, [[Brass]] i get the picture,0
+5,17," [[Brass]] all right , look , there are six victims it 'd be helpful to know where each of them was sitting",0
+5,18, [[Zack_Lawrence]] um ... front bench was a girl,0
+5,19, [[Zack_Lawrence]] she was blond,0
+5,20, [[Brass]] yeah ?,0
+5,21, [[Zack_Lawrence]] cute,0
+5,22, ( Quick flashback to : ZACK presses the green button . ),0
+5,23, ( The ride starts . ),0
+5,24," [[Zack_Lawrence]] uh , followed by a punk , old folks and some other dude",0
+5,25, ( End of flashback . ),0
+5,26, ( Resume to present . ),0
+5,27, [[Brass]] that 's only five,0
+5,28, [[Zack_Lawrence]] that 's all i remember,0
+5,29, ( BRASS looks over at the photo vendor stand . ),0
+5,30, ( There 's a big sign on it : SEE YOURSELF SCREAM ! ),0
+5,31, [[Brass]] 'see yourself scream ' ?,0
+5,32, [[Brass]] what 's this about ?,0
+5,33, [[Zack_Lawrence]] we got a digital camera,0
+5,34, [[Zack_Lawrence]] it 's mounted right over there,0
+5,35, [[Brass]] how does that work ?,0
+5,36, [[Zack_Lawrence]] camera 's on a trigger,0
+5,37," [[Zack_Lawrence]] train passes by , automatically snaps a picture and stores it in the computer 's hard drive",0
+5,38, [[Zack_Lawrence]] the train was airborne,0
+5,39, [[Zack_Lawrence]] never even got close to the camera,0
+5,40, [[Brass]] i 'm still going to want to take that computer,0
+6,0, ( GRISSOM interviews WOODY . ),0
+6,1, [[Woody]] i 'm the park 's chief engineer,0
+6,2, [[Woody]] been working on coasters since before i was tall enough to ride 'em,0
+6,3, [[Grissom]] you responsible for maintaining this roller coaster ?,0
+6,4, [[Woody]] i keep all the rides up to code,0
+6,5, [[Grissom]] you have any idea what would cause this train to go off the track ?,0
+6,6," [[Woody]] well , in theory , i did n't think it was possible",0
+6,7, [[Woody]] there 's never been an accident like this anywhere,0
+6,8," [[Grissom]] so , you 're an expert ?",0
+6,9, [[Woody]] on roller coasters ?,0
+6,10, [[Woody]] hell yeah,0
+6,11, [[Woody]] ten years of service on six flags ' american eagle before moving to vegas,0
+6,12, ( GRISSOM looks down and sees the nut . ),0
+6,13, ( He uses his pen and picks it up . ),0
+6,14, [[Grissom]] do you know what that is ?,0
+6,15, [[Woody]] that 's a nut,1
+6,16," [[Woody]] it , uh ... secures the wheel to the screw",0
+6,17," [[Grissom]] well , one loose screw ... could n't cause a train to derail , could it ?",0
+6,18," [[Woody]] no , no , there 's , uh ... eight wheels per train they-they 'd all have to be loose , and , uh ... that just does n't happen",0
+6,19, ( Camera holds on a close up of the nut . ),0
+7,0, ( They 've set up a large tent in the parking lot . ),0
+7,1," ( Inside , GRISSOM walks in A long table has been set up with the various pieces of evidence gathered on it . )",0
+7,2," ( NICK , SARA and GREG are going through everything . )",0
+7,3, [[Grissom]] 'there are three things in human life that are important,0
+7,4, [[Grissom]] the first is to be kind ; the second one is to be kind ; and the third one is to be kind ',0
+7,5, [[Sara]] henry james,0
+7,6, [[Grissom]] very good,0
+7,7, [[Grissom]] author of one of the greatest horror stories ever written : turn of the screw,0
+7,8, [[Grissom]] and i 'm looking for one,0
+7,9, ( He holds up the baggie with the nut . ),0
+7,10, [[Sara]] a screw ?,0
+7,11, [[Grissom]] yes,0
+7,12," [[Nick]] oh , well ... technically , these are eccentric shafts , not screws",0
+7,13," [[Grissom]] well , as long as you can screw a nut on it , it 's a screw",0
+7,14, [[Sara]] 'turn of the screw ' is n't really a horror story,0
+7,15, [[Sara]] it 's more of a mystery,0
+7,16," [[Sara]] did the governess kill the little boy , or did the ghost do it ?",0
+7,17," [[Grissom]] well , it 's only a mystery if you believe in ghosts",0
+7,18, ( GRISSOM picks up a screw and looks at the threads . ),0
+7,19, [[Grissom]] end threads are stripped,0
+7,20, [[Nick]] means the nuts were loose,0
+7,21, [[Nick]] excessive play on the screws would 've worn down the threads,0
+7,22, [[Grissom]] and the nuts would 've popped off,0
+7,23, ( Quick flashback to : [_ROLLER_COASTER_WHEELS_] The nut is loose and pops off . ),0
+7,24, ( End of flashback . ),0
+7,25, ( Resume to present . ),0
+7,26, [[Greg]] nuts do n't just pop off by themselves,0
+7,27, [[Grissom]] we got tool marks,0
+7,28," [[Grissom]] vertical striations , evenly spaced",0
+7,29, [[Nick]] could 've been a pipe wrench,0
+7,30, [[Sara]] maybe whoever maintains the roll coaster uses a pipe wrench to tighten the nuts,0
+7,31, [[Nick]] or whoever loosened the nuts screwed up,0
+8,0, ( WARRICK hands the morgue photo to RAINA to look at . ),0
+8,1, [[Raina_Press]] it 's tessa,1
+8,2, [[Raina_Press]] i do n't understand,0
+8,3, [[Raina_Press]] how could this ... ?,0
+8,4, [[Raina_Press]] my baby,1
+8,5, [[Catherine]] i 'm very sorry,0
+8,6," [[Raina_Press]] she 's beautiful , is n't she ?",1
+8,7," [[Warrick]] ma'am , the coroner believes that tessa died over twenty-four hours ago",1
+8,8, [[Warrick]] had you reported her missing ?,1
+8,9," [[Raina_Press]] couple nights a week , she 'd sleep at her friend carrie 's",1
+8,10, [[Raina_Press]] there 's just the two of us,1
+8,11, [[Raina_Press]] i 'm a waitress,0
+8,12, [[Raina_Press]] work nights,0
+8,13, [[Raina_Press]] that way i can ... make her breakfast and be there when she gets home from school,0
+8,14, [[Warrick]] when was the last time that you saw her ?,1
+8,15, [[Raina_Press]] yesterday morning,0
+8,16, [[Raina_Press]] i got home around 6:00,0
+8,17, [[Raina_Press]] we made pancakes,0
+8,18, [[Raina_Press]] i packed her lunch and kissed her good-bye,1
+8,19," [[Raina_Press]] when she did n't come home from school , i just figured she was at carrie 's",1
+8,20," [[Raina_Press]] i should have called , but i did n't want to be a nag",0
+8,21, [[Raina_Press]] i want to see her,1
+8,22," [[Catherine]] officer , could you please escort ms press ... to the morgue when 's the last time you went twenty-four hours without talking to lindsey ?",1
+8,23," [[Catherine]] a single mother , working nights",1
+8,24," [[Warrick]] i 'm just saying , she did n't check on her own kid , you know ?",0
+8,25," [[Catherine]] ah , you do the best you can",1
+9,0, ( ROBBINS goes over the bodies with GRISSOM . ),0
+9,1, [[Robbins]] introductions,0
+9,2," [[Robbins]] shelly hoffman , 25",1
+9,3, [[Robbins]] cause of death -- lacerated ventricle,0
+9,4," [[Robbins]] noah nuland , 15",1
+9,5, [[Robbins]] c.o.d. -- head contusion,0
+9,6, [[Robbins]] the swelling of the brain killed him within minutes,1
+9,7," [[Robbins]] now , gary clodfelter died of shock",1
+9,8," [[Robbins]] his wife , may , exsanguinated",1
+9,9," [[Robbins]] and their son , cameron - another head contusion",1
+9,10, [[Grissom]] what about this guy ?,0
+9,11," [[Robbins]] jim nevins , 20",1
+9,12, [[Robbins]] park employee,0
+9,13, [[Robbins]] died from a temporal herniation,1
+9,14," [[Robbins]] impact to the head caused the brain to swell , which , in turn , put pressure on the brain stem",1
+9,15," [[Grissom]] according the ride operator , there were only five passengers on the roller coaster , and no employees",0
+9,16, [[Robbins]] right,0
+9,17, [[Grissom]] so ... maybe nevins was just an unfortunate bystander,0
+9,18, [[Grissom]] hit in the head by a falling roller coaster,0
+9,19, [[Robbins]] the chicken little theory ?,0
+9,20, [[Robbins]] but here 's the hitch,0
+9,21, [[Robbins]] the others died roughly ten hours ago,0
+9,22, [[Robbins]] mr nevins ' rigor mortis is fixed,1
+9,23, [[Robbins]] body temp puts the time of his death approximately sixteen hours before the others -- right around 1:00 a.m,1
+9,24, ( GRISSOM sighs . ),0
+9,25, [[Grissom]] albert ... dead men do n't ride roller coasters,0
+10,0, ( GRISSOM and SARA walk with WOODY . ),0
+10,1, [[Grissom]] we 're going to need to see the underside of the loading platform,0
+10,2," [[Woody]] oh , follow me",0
+10,3, [[Woody]] rumor has it the park 's going to shut down pharaoh 's fever for good,0
+10,4, [[Woody]] you know anything about that ?,0
+10,5, [[Grissom]] no,0
+10,6, [[Woody]] newspaper called it 'a death trap ' an 'accident waiting to happen ',0
+10,7, [[Sara]] you disagree with that ?,0
+10,8, ( They reach the platform . ),0
+10,9, ( WOODY opens the gate . ),0
+10,10," [[Woody]] well , she 's old and wrinkled , but i took good care of her",0
+10,11, ( SARA and GRISSOM crawl under the platform . ),0
+10,12," ( WOODY starts to follow them , but GRISSOM stops him . )",0
+10,13," [[Grissom]] uh , woody ?",0
+10,14, [[Grissom]] we 'd like to be alone,0
+10,15, [[Woody]] holler if you need anything,0
+10,16," ( He shuts the gate behind them , turns and leaves . )",0
+10,17, ( GRISSOM and SARA both look at the coaster railings from under the platform . ),0
+10,18," ( They envision the train cars rolling in , pausing , and rolling out . )",0
+10,19, ( The cars vanish . ),0
+10,20," [[Grissom]] well , easy access",0
+10,21, [[Grissom]] wheels are in reach,0
+10,22, [[Sara]] anyone could have loosened the nuts from down here,0
+10,23, ( SARA sees something . ),0
+10,24, [[Sara]] check this out,0
+10,25," [[Sara]] is that lubricant , maybe ?",0
+10,26, [[Grissom]] it 's a funny place for lubricant,0
+10,27, [[Grissom]] it 's not even on the track,0
+10,28, [[Sara]] i 'll swab it,0
+10,29, ( SARA takes a sample . ),0
+10,30, ( GRISSOM looks up when he hears the sound of metal upon metal in the wind . ),0
+10,31," [[Grissom]] hey , look at that",0
+10,32, [[Sara]] that 's worse than just a wrinkle,0
+10,33, [[Woody]] it 's got a support beam under it,0
+10,34," ( At the sound of his voice , they both turn and see WOODY peering at them through the grate . )",0
+10,35, [[Woody]] it 's just a cosmetic problem,0
+10,36," [[Sara]] sir , you need to step away",0
+10,37, ( SARA opens the gate door and steps out from under the platform . ),0
+10,38, ( GRISSOM follows her . ),0
+10,39, [[Sara]] we need some time,0
+10,40, [[Sara]] this is an active investigation,0
+10,41, [[Grissom]] were you aware that that support beam was detached ?,0
+10,42," [[Woody]] well , hell , yeah",0
+10,43, [[Woody]] fixed it a half dozen times this year,0
+10,44, [[Woody]] it 's in my maintenance log,0
+10,45," [[Woody]] but like i said , that cross bar is supported by the metal beam",0
+10,46," [[Woody]] but since my hours were cut back last november , i 've had to prioritize my 'fix-ums ' yeah , it 's really too back , but , uh , you know --",0
+10,47, ( GRISSOM notices the wrench in WODDY 'S tool belt . ),0
+10,48," ( He glances at SARA , then back at WOODY . )",0
+10,49," [[Grissom]] woody , we 'd like to requisition your pipe wrench",0
+10,50," [[Woody]] it 's , uh , not technically mine",0
+10,51, [[Sara]] are you the only one that uses it ?,0
+10,52," [[Woody]] yeah , but it 's the property of the park",0
+10,53," [[Grissom]] well , i promise we 'll get it back to you",0
+10,54, ( SARA takes out an evidence bag and WOODY puts his pipe wrench in it . ),0
+10,55, [[Sara]] thank you,0
+10,56," ( GRISSOM 'S phone rings , he answers it . )",0
+10,57, [[Grissom]] yeah ?,0
+11,0, ( NICK holds up a tweezer with the red fiber . ),0
+11,1, [[Nick]] i 'm processing the dead park employee 's clothing,0
+11,2, [[Nick]] the shirt and the pants are covered in red fibers,0
+11,3, ( He looks through the scope at the fiber . ),0
+11,4, [[Grissom]] anything distinctive ?,0
+11,5," [[Nick]] well , they 're trilobal",0
+11,6, [[Grissom]] very good,0
+11,7," [[Grissom]] thanks , nick",0
+11,8," [[Grissom]] well , we need to find a car with a red interior",0
+12,0, ( GREG works on logging in the various car parts . ),0
+12,1, [[Sara]] hi,0
+12,2, ( He looks up and sees SARA walk in with GRISSOM . ),0
+12,3, ( He gets to his feet . ),0
+12,4, [[Greg]] the roller coaster broke into one hundred and six parts,0
+12,5, [[Greg]] i just logged the final piece,0
+12,6, [[Sara]] good work,0
+12,7," [[Greg]] i found something a little unusual , for a roller coaster",0
+12,8, ( GREG motions for them to follow him . ),0
+12,9, ( He shows them the roller coaster car . ),0
+12,10," [[Greg]] not a sailor , but a",0
+12,11, [[Sara]] semen ?,1
+12,12, [[Sara]] s*x on the roller coaster ?,0
+12,13, [[Greg]] or some kid shaking hands with shorty,0
+12,14, ( He grabs the ALS and shows it to them . ),0
+12,15, [[Grissom]] the release of epinephrine and adrenaline while riding a roller coaster can produce a stimulatory effect,0
+12,16, [[Grissom]] it enhances ejaculation,0
+12,17, [[Greg]] right,0
+12,18, [[Greg]] but is it probative to our investigation ?,0
+12,19," [[Sara]] well , um , why do n't you swab a sample , and you can tell us",0
+12,20," [[Grissom]] greg , do we know who the r.o",0
+12,21, [[Grissom]] of this t-bird is ?,0
+12,22, ( GREG grabs the registration papers and reads off the name . ),0
+12,23, [[Greg]] uh ... jim nevins,1
+12,24, [[Grissom]] the dead employee,1
+12,25, [[Greg]] i did n't realize the cars were relevant to our investigation,0
+12,26," [[Grissom]] everything 's relevant greg , until it 's not",0
+12,27, ( GRISSOM and SARA both look into the car . ),0
+12,28, ( SARA sees something in the trunk . ),0
+12,29, [[Sara]] grissom,0
+12,30, ( She takes out a glove and uses it to pick up the wrench . ),0
+12,31, [[Sara]] take a look at this,0
+12,32, ( She shows it to him . ),0
+12,33, [[Grissom]] a pipe wrench,1
+12,34, ( She turns it around and sees something else . ),0
+12,35, [[Sara]] blood,1
+12,36," [[Grissom]] greg , may i ?",0
+12,37, ( He holds out his hand and GREG hands him the ALS . ),0
+12,38, ( GRISSOM checks the back of the trunk and envisions the dead body over it . ),0
+12,39, [[Grissom]] blood pool,1
+12,40, ( End of vision . ),0
+12,41, ( GRISSOM turns to look at SARA and GREG . ),0
+12,42, [[Grissom]] camouflaged by the red carpet,0
+12,43, [[Grissom]] that explains the autopsy findings,0
+12,44, [[Grissom]] nevins may have never been in the roller coaster,0
+12,45, [[Grissom]] possibly killed by that wrench and stuffed in his own trunk,0
+12,46," [[Sara]] and , uh , then what ?",0
+12,47," [[Sara]] a renegade roller coaster comes along sixteen hours later , and propels nevin 's body from the trunk to the blacktop ?",0
+12,48, [[Grissom]] i 'm just following the evidence,0
+12,49," [[Sara]] i 'll call brass , see if he can find an eyewitness that can place the car in the parking lot at the time of nevin 's death",0
+13,0, ( BRASS re-interviews ZACK LAWRENCE . ),1
+13,1," [[Zack_Lawrence]] uh , so , woody said that i might be able to help you with your investigation",0
+13,2," [[Brass]] zack , you close up shop at the sphinx at night",1
+13,3," [[Zack_Lawrence]] yeah , monday to friday",0
+13,4," [[Zack_Lawrence]] uh , class till 3:00",0
+13,5," [[Zack_Lawrence]] tutor kids in math till 5:00 , and then i head over to the park",0
+13,6, [[Zack_Lawrence]] we close at 10:00,0
+13,7, [[Brass]] did you notice any cars in the parking lot after closing on thursday night ?,1
+13,8, [[Zack_Lawrence]] jimmy nevins,1
+13,9, [[Zack_Lawrence]] his red t-bird was out there,0
+13,10," [[Brass]] oh , you know jimmy ?",1
+13,11," [[Zack_Lawrence]] yeah , sure ; pretty cool guy",0
+13,12, [[Zack_Lawrence]] worked the bumper cars,0
+13,13," [[Zack_Lawrence]] i still ca n't believe what happened , you know ?",0
+13,14," [[Zack_Lawrence]] i mean , i must have rode that coaster , like , phew , a hundred times , maybe more",0
+13,15," [[Zack_Lawrence]] anyway , sometimes jimmy stayed after closing",1
+13,16, [[Brass]] why ?,0
+13,17," [[Zack_Lawrence]] look , i 'm not trying to get anybody in trouble , but occasionally , jimmy would take his ... dates for rides on the fever , you know ?",1
+13,18, [[Zack_Lawrence]] everybody knew about it,0
+13,19, [[Zack_Lawrence]] it was really no big deal,0
+13,20, [[Brass]] do you happen to know the name of his date on thursday night ?,1
+13,21," [[Zack_Lawrence]] no , sorry",0
+13,22, [[Brass]] how did jimmy get access to the park ?,1
+13,23," [[Brass]] i mean , all the power is shut down at night",0
+13,24, [[Zack_Lawrence]] the same key that opens up the men 's room door opens up all the power boxes at the park,0
+13,25, [[Brass]] no kidding,0
+13,26, [[Zack_Lawrence]] it 's just hanging outside woody 's office,0
+13,27, [[Brass]] what about security ?,0
+13,28, [[Zack_Lawrence]] nope,0
+13,29, [[Zack_Lawrence]] night guy got laid off,0
+13,30, [[Zack_Lawrence]] budget cuts last winter,0
+13,31," [[Zack_Lawrence]] it 's not like anybody 's going break into an amusement park and steal a coaster , you know ?",0
+14,0, ( DAVID goes over the findings with WARRICK . ),0
+14,1, ( He shows WARRICK the x-ray . ),0
+14,2, [[David_Phillips]] x-rayed tessa 's neck,0
+14,3," [[David_Phillips]] blade appears to have perforated her fifth cervical intervertebral disc , lacerating the spinal cord",0
+14,4, ( Quick CGI POV of : Close up of the back of TESSA 'S neck . ),0
+14,5, ( The blade swipes across and -- her vertebrae snaps in two . ),0
+14,6, ( End of CGI POV . ),0
+14,7, ( Resume to present . ),0
+14,8, [[David_Phillips]] type of trauma suggests we 're looking at asphyxia due to diaphragmatic paralysis,0
+14,9, ( WARRICK leans in close . ),0
+14,10, [[Warrick]] it looks like there 's soil inside of her wound,0
+14,11," [[David_Phillips]] well , we did find her outside",0
+14,12, [[Warrick]] right,0
+14,13, [[Warrick]] should be soil around the wound,0
+14,14," [[Warrick]] and on the wound , but not inside of it",0
+14,15, ( WARRICK takes a swab sample of the wound . ),0
+15,0, ( NICK works on taking mold samples of the wrench grips . ),0
+15,1," ( He sets up a screw , takes a sample of the wrench grip on the screw and makes molds of the markings . )",0
+15,2, ( He puts the samples under the scope and compares the two . ),0
+15,3," [[Nick]] oh , i am the man",0
+15,4, ( GRISSOM walks into the lab and hears him . ),0
+15,5, [[Grissom]] are you ?,0
+15,6, [[Nick]] i microsilled the pipe wrenches you and sara turned into evidence,0
+15,7, [[Nick]] i excluded woody 's wrench,0
+15,8, [[Nick]] take a look at the tool marks from the wrench found in the t-bird,0
+15,9," [[Nick]] on the left , the sabotaged nut",0
+15,10," [[Nick]] on the right , the test marks",0
+15,11, ( GRISSOM looks through the scope and lines up the two samples . ),0
+15,12, [[Grissom]] perfect match,0
+15,13, [[Nick]] i have a theory maybe jim nevins sabotaged the roller coaster,0
+15,14, ( Quick flashback to : JIM NEVINS loosens the screw on the coaster . ),0
+15,15, ( End of flashback . ),0
+15,16, ( Resume to present . ),0
+15,17," [[Nick]] when he left the park , someone attacked him , grabbed his wrench and hit him over the head with it",0
+15,18, ( Quick flashback to : SOMEONE drags JIM NEVINS body over to the car and dumps it into the trunk . ),0
+15,19, ( He tosses the pipe wrench in the trunk with the body . ),0
+15,20, ( End of flashback . ),0
+15,21, ( Resume to present . ),0
+15,22, [[Grissom]] did you any prints off the wrench ?,0
+15,23, [[Nick]] i got a partial,0
+15,24, [[Nick]] and i had a tech print the t-bird,0
+15,25, [[Nick]] found two sets of prints on the trunk 's lid,0
+15,26, ( GREG walks into the lab . ),0
+15,27," [[Nick]] one belonged to the vic , the other unknown , but it did match the partial",0
+15,28," ( Quick flashback to : SOMEONE closes the trunk , their hand lingering on the trunk hood . )",0
+15,29, ( End of flashback . ),0
+15,30, ( Resume to present . ),0
+15,31, [[Greg]] that semen from the coaster 's cab was just processed in my lab,0
+15,32," [[Greg]] all i can say is , nevins was a cad",0
+15,33, [[Nick]] semen match the dead guy 's ?,0
+15,34, [[Greg]] yup,0
+15,35," [[Greg]] and sara spoke to brass , who says nevins was known for taking girls on private rides",0
+15,36, [[Greg]] pharaoh 's fever was his spanish fly,0
+15,37," [[Nick]] well , there goes my theory",0
+15,38, [[Nick]] no one tampers with their s*x machine,0
+16,0, ( SARA goes through the security camera pictures . ),0
+16,1, ( NICK sits next to her at the table . ),0
+16,2, [[Sara]] multitrack digital camera snaps photos of all the passengers,0
+16,3," [[Sara]] the park finally sent over their computer , so i 'm scanning through the day of the accident",0
+16,4," [[Nick]] can you go back in time , to the night before ?",0
+16,5, [[Sara]] yeah,0
+16,6, [[Sara]] why ?,0
+16,7, [[Nick]] jim nevins may have been on that coaster,1
+16,8, [[Nick]] i want to see if anyone was with him,0
+16,9, ( SARA scrolls back and finds the photo of JIM NEVINS with a woman on the coaster . ),1
+16,10, [[Nick]] oh,0
+16,11, [[Nick]] so much for safe s*x,0
+16,12, [[Sara]] who 's the girl ?,0
+16,13, [[Nick]] reverse one more pic,0
+16,14," ( SARA goes back a couple of pictures and sees JIM NEVINS and his date side by side in the coaster , both their arms raised as they enjoy the ride . )",0
+16,15," [[Nick]] now , that picture 's worth five bucks",0
+16,16, [[Sara]] last time stamp of the night was 12:45 a.m. coroner placed nevins ' t.o.d at 1:00 a.m,0
+16,17, [[Nick]] we need to find that girl,0
+17,0, ( CATHERINE gets out of the car . ),0
+17,1, ( WARRICK is already there . ),0
+17,2, [[Catherine]] hey,0
+17,3, [[Catherine]] got your page,0
+17,4, [[Catherine]] what 's up ?,0
+17,5," [[Warrick]] tessa press took the bus to and from school , not far from here",0
+17,6, [[Catherine]] mm-hmm,0
+17,7, [[Warrick]] i showed her picture to the mini-mart manager,0
+17,8, [[Warrick]] she remembers seeing her the day that she was killed,0
+17,9, ( CATHERINE looks around and sees a lot of kids there hanging out after school . ),0
+17,10, [[Catherine]] wow,0
+17,11, [[Catherine]] this place is crawling with kids,0
+17,12, [[Catherine]] she remembers her ?,0
+17,13, [[Warrick]] she says she came in every afternoon and bought a little debbie and a soda,0
+17,14," [[Catherine]] have we tracked down her friend , carrie ?",0
+17,15," [[Warrick]] officer ray did speak with carrie and her parents , and they confirmed that tessa sleeps at least two nights a week over their place",0
+17,16, [[Catherine]] and was she supposed to sleep over the day that she was killed ?,0
+17,17, [[Warrick]] i do n't think they had any kind of a schedule,0
+17,18," [[Warrick]] she would just show up , and when she did n't , they 'd assumed that she was at home",0
+17,19, ( CATHERINE sees the security camera . ),0
+17,20, ( She points to it . ),0
+17,21, [[Catherine]] warrick,0
+17,22, [[Warrick]] i 've already secured the footage,0
+18,0, ( GRISSOM and SARA walk through the park . ),0
+18,1, ( SARA looks through the folder with the photos of the young woman on the ride while GRISSOM munches on a box of popcorn . ),0
+18,2, ( She looks up and sees WOODY headed toward them . ),0
+18,3," [[Sara]] oh , roller coaster wacko at 12:00",0
+18,4, [[Woody]] i heard you were looking for someone,0
+18,5," [[Sara]] sir , do you recognize this young woman ?",0
+18,6, ( She shows him the photo . ),0
+18,7," [[Woody]] oh , sure , it 's cleopatra",0
+18,8, [[Woody]] she works in food services,0
+18,9, [[Woody]] second pyramid on the left,0
+18,10," [[Grissom]] thank you , woody",0
+18,11, ( GRISSOM and SARA head in that direction . ),0
+18,12, ( GRISSOM and SARA reach the food stand . ),0
+18,13," [[Marc_Anthony]] hey , can i help you ?",0
+18,14," [[Sara]] actually , we 're looking for cleopatra",0
+18,15, [[Marc_Anthony]] she 's on break,0
+18,16, [[Marc_Anthony]] but can i get you anything ?,0
+18,17, ( They turn to look at the WOMAN sitting at the bench . ),0
+18,18," [[Sara]] no , thanks",0
+18,19, ( They both leave the stand and walk over to the woman who is going through her text book . ),0
+18,20, ( GRISSOM looks over her shoulder as SARA sits down . ),0
+18,21, [[Grissom]] quadratic equations ?,0
+18,22, [[Grissom]] that 's not easy,0
+18,23, [[Lisa_Hunt]] glad you think so,0
+18,24, [[Lisa_Hunt]] i have a 'd ' average,0
+18,25," [[Lisa_Hunt]] if i fail the final , my family 's going to hawaii without me",0
+18,26, [[Sara]] we 're with the crime lab,0
+18,27, [[Sara]] we have some questions,0
+18,28, ( SARA shows her the photos . ),0
+18,29, [[Lisa_Hunt]] i had no idea those cameras worked at night,0
+18,30, [[Grissom]] is your name really cleopatra ?,0
+18,31, [[Lisa_Hunt]] lisa,0
+18,32, [[Lisa_Hunt]] lisa hunt,0
+18,33," [[Sara]] lisa , you know your friend in this photograph is dead , right ?",0
+18,34, [[Lisa_Hunt]] right,0
+18,35, [[Sara]] you do n't seem too upset about that,0
+18,36, [[Lisa_Hunt]] d.l,0
+18,37," [[Lisa_Hunt]] on jimmy nevins : four years ago , when i was a frosh and he was a senior , he was my jordan catalano",0
+18,38, [[Lisa_Hunt]] know what i mean ?,0
+18,39, [[Lisa_Hunt]] but he did n't know my name,0
+18,40," [[Lisa_Hunt]] so four years later , when i started working here , he 's still working here -- total loser , but still really hot -- so when he asked me out , there was only one answer : 'when and where ?",0
+18,41, [[Lisa_Hunt]] ',0
+18,42, [[Sara]] after hours at the roller coaster,0
+18,43," [[Lisa_Hunt]] i know , i thought the same thing -- cheez whiz",0
+18,44," [[Lisa_Hunt]] but , i mean , what the hell ?",0
+18,45, [[Lisa_Hunt]] i 'd never done it on a roller coaster,0
+18,46, [[Sara]] it was your first date,0
+18,47, [[Lisa_Hunt]] you sound like my mother,0
+18,48," [[Lisa_Hunt]] oh , god , you 're not going to tell her , are you ?",0
+18,49, [[Lisa_Hunt]] i just turned eighteen,0
+18,50," [[Lisa_Hunt]] there is nothing statutory about it , i swear",0
+18,51," [[Grissom]] lisa , we need to know what the two of you did when you got off the ride",0
+18,52, [[Lisa_Hunt]] we talked,0
+18,53," [[Lisa_Hunt]] i mean , not that he had much to say",0
+18,54," [[Lisa_Hunt]] he offered to drive me home , but i only live a few blocks from here , so i told him i 'd huff it",0
+18,55," [[Lisa_Hunt]] mm , we kissed - way too much slobber",0
+18,56, [[Lisa_Hunt]] and that was it,0
+18,57, [[Sara]] was there anyone else around ?,0
+18,58," [[Lisa_Hunt]] i-i did n't see anybody , but i was n't really looking",0
+19,0, ( WARRICK looks through the security camera footage from the mini-mart . ),0
+19,1, ( CATHERINE walks into the room and joins him . ),0
+19,2, [[Warrick]] i found tessa,0
+19,3," ( On the screen , they watch as a young boy grabs TESSA by the hand and pull her toward the car . )",0
+19,4," [[Catherine]] yeah , you 're not the only one",0
+19,5, [[Warrick]] yeah,0
+19,6," ( On the monitor , they both walk off screen . )",0
+19,7, [[Catherine]] can you enlarge it ?,0
+19,8, ( WARRICK blocks and enlarges the photo of HENRY with TESSA . ),0
+20,0, ( CATHERINE shows the photo to HENRY . ),0
+20,1, ( She interviews HENRY while his mother sits and listens . ),0
+20,2," [[Henry]] yeah , that 's me",0
+20,3, [[Catherine]] and who 's that with you ?,0
+20,4, [[Henry]] tessa press,0
+20,5, [[Catherine]] you two were friends ?,0
+20,6, [[Henry]] we sat next to each other on the bus,0
+20,7, [[Catherine]] she was thirteen,0
+20,8, [[Catherine]] how old are you ?,0
+20,9, ( HENRY 'S eyes widen at the implication . ),0
+20,10, [[Henry's_Mother]] what 's that supposed to mean ?,0
+20,11," [[Henry]] no , mom , it 's okay",0
+20,12, [[Henry]] i-i 'm 15,0
+20,13, [[Henry]] i felt sorry for her,0
+20,14, [[Henry]] the girls picked on her,0
+20,15," [[Henry]] made fun of her frizzy hair , her old clothes",0
+20,16, [[Henry]] stuff like that,0
+20,17," [[Henry]] she 'd sit next to me , and they 'd leave her alone",0
+20,18," [[Catherine]] in the photo , you 're grabbing her arm",0
+20,19, [[Henry]] it was n't like that,0
+20,20, [[Henry]] i just got my learner 's permit,0
+20,21, [[Henry]] my mom was waiting in the car,0
+20,22, [[Henry]] we were just going to get slushies,0
+20,23, [[Henry]] i saw tessa in the parking lot,0
+20,24, ( Quick flashback to : [_MINI-MART-DAY_] HENRY walks over to the mini-mart and sees TESSA standing outside . ),0
+20,25," [[Henry]] hey , tessa",0
+20,26, [[Henry]] hey,0
+20,27, [[Tessa_Press]] henry,0
+20,28," [[Henry]] you want a ride , just door to door ?",0
+20,29," [[Tessa_Press]] no , that 's okay",0
+20,30," [[Henry]] oh , come on",0
+20,31," [[Henry]] you 're not scared to drive with me , are you ?",0
+20,32, ( He grabs her arm playfully and pulls her toward the car . ),0
+20,33," [[Tessa_Press]] no , it 's okay",0
+20,34, [[Tessa_Press]] i got it,0
+20,35, ( She pulls away and backs up . ),0
+20,36, ( End of flashback . ),0
+20,37, ( Resume to present . ),0
+20,38, [[Henry]] she said she was getting a ride from someone else,0
+20,39, [[Catherine]] did she say who ?,0
+20,40, [[Henry]] no,0
+20,41," [[Henry]] but when we pulled away , i saw her getting into a truck",0
+20,42, [[Henry]] i did n't see the driver,0
+21,0," ( SARA walks through the hallway when DAVID HODGES steps out , grabs her arm and tugs her into the trace lab . )",0
+21,1, [[David_Hodges]] i 've got a question for you,0
+21,2," [[David_Hodges]] what substance contains the following ingredients : sorbitol , cetyl alcohol , isopropyl myristate , glyceryl , stearate , peg-100 stearate , petrolatum , benzylalcohol , titanium dioxide and purified water ?",0
+21,3," [[Sara]] okay , i assume that you 've identified the substance we found on the roller coaster track ?",0
+21,4, [[David_Hodges]] correct,0
+21,5, [[David_Hodges]] it 's doxepin ointment,1
+21,6, ( He chuckles . ),0
+21,7," [[David_Hodges]] sounds klingon , huh ?",0
+21,8," [[David_Hodges]] anyway , uh , it 's prescribed by doctors to treat dermatological inflammations caused by contact with certain types of plants",0
+21,9, [[Sara]] maybe whoever messed with the tracks transferred the ointment when they loosened the wheels,1
+21,10, ( Quick flashback to : A hand holding the pipe wrench reaches out under the platform . ),0
+21,11, ( Camera focuses on the person 's arm . ),0
+21,12, ( End of flashback . ),0
+21,13, ( Resume to present . ),0
+21,14, [[David_Hodges]] your killer has a rash,1
+21,15, [[Sara]] and we need to catch it,0
+22,0, ( CATHERINE turns the hallway corner and sees WARRICK talking with someone . ),0
+22,1, ( He sees her and waves her over . ),0
+22,2, ( The WOMAN takes the folder and leaves . ),0
+22,3, [[Warrick]] i 've been looking for you,0
+22,4, [[Catherine]] what 's up ?,0
+22,5, [[Warrick]] hodges analyzed the trace from inside tessa 's wound,1
+22,6, [[Warrick]] it seems it was zoodoo,1
+22,7, [[Catherine]] come again,0
+22,8, [[Warrick]] hoof stock,0
+22,9," [[Warrick]] it 's a combination of feces from rhinos , zebras , and bison",0
+22,10, [[Catherine]] you 're kidding ?,0
+22,11, [[Warrick]] they say that the smell of wild animal crap keeps the deer away,0
+22,12, [[Catherine]] who knew ?,0
+22,13," [[Catherine]] uh , so can we track the source of ... ?",0
+22,14, [[Warrick]] there is a zoo in auckland that exports it,0
+22,15, [[Warrick]] and there 's only one landscaping company in clark county that imports it -- adl,0
+22,16," [[Warrick]] i contacted adl , and guess what they told me ?",0
+22,17," [[Warrick]] couple of months back , they were hired by the victim 's mother",1
+23,0, ( CATHERINE and an OFFICER exit their cars . ),0
+23,1, ( CATHERINE is carrying a camera . ),0
+23,2, ( She notices the sign on the truck : ADL LANDSCAPE . ),0
+23,3, [[Brown]] hmm,0
+23,4, [[Brown]] adl landscaping,0
+23,5, [[Brown]] must 've been a big job -- she hired them months ago,0
+23,6, ( In the back of the truck is a partially opened bag of ZOODOO COMPOST . ),0
+23,7, [[Catherine]] zoodoo,0
+23,8, ( CATHERINE takes a picture of the bag . ),0
+23,9, ( CATHERINE knocks on the front door . ),0
+23,10," ( RAINA PRESS opens the door , JUSTIN MACK is behind her . )",0
+23,11, ( He 's wearing a gray t-shirt with ADL LANDSCAPE on the front . ),0
+23,12, [[Catherine]] hello,0
+23,13, [[Raina_Press]] hi,0
+23,14, [[Raina_Press]] i just left you a message,0
+23,15, [[Raina_Press]] any news ?,0
+23,16," [[Raina_Press]] honey , these guys are from the crime lab",0
+23,17," [[Raina_Press]] justin mack , my boyfriend",0
+23,18, [[Justin_Mack]] how you doing ?,0
+23,19, [[Warrick]] hey,0
+23,20, [[Warrick]] could i have a word with you outside for a moment ?,0
+23,21, [[Justin_Mack]] why ?,0
+23,22, [[Warrick]] why not ?,0
+23,23, ( JUSTIN steps out of the house and follows WARRICK . ),0
+23,24," ( RAINA PRESS watches him go with alarm , but she does n't say anything . )",0
+23,25, ( CATHERINE looks at her . ),0
+23,26, [[Catherine]] may i ?,0
+24,0, ( CATHERINE follows RAINA PRESS into the living room . ),1
+24,1, [[Raina_Press]] how can you be sure it was justin 's truck ?,0
+24,2," [[Catherine]] at this point , we 're just following a lead",0
+24,3, [[Catherine]] how long have you known justin ?,1
+24,4, [[Raina_Press]] uh ... few months,0
+24,5, [[Raina_Press]] hired him to lay sod,0
+24,6, [[Raina_Press]] now we 're in the midst of an outdoor overhaul,0
+24,7, [[Catherine]] and where 's tessa 's father ?,1
+24,8," [[Raina_Press]] l.a. , maybe",0
+24,9, [[Raina_Press]] i do n't know,0
+24,10, [[Raina_Press]] i have n't heard from him since the divorce,0
+24,11, [[Raina_Press]] he 'll find a way to blame me for this,0
+24,12, ( WARRICK questions JUSTIN MACK . ),0
+24,13," [[Justin_Mack]] you see , raina said it was important for tessa to take the bus to school",1
+24,14, [[Justin_Mack]] said it helps build independence,0
+24,15," [[Justin_Mack]] but sometimes i 'd pick her up at the bus stop , buy her an ice-cream cone , and drop her off here",1
+24,16, [[Warrick]] did you pick her up that afternoon ?,1
+24,17," [[Justin_Mack]] look , i know there are a lot of whack-jobs in the world , and you 're just doing your job , but watch it",0
+24,18, [[Warrick]] you mind if i take a look in the back of your truck ?,0
+24,19, [[Justin_Mack]] do n't you need a warrant ?,0
+24,20, [[Warrick]] only if you deny me access,0
+24,21, ( JUSTIN steps aside . ),0
+24,22, [[Justin_Mack]] go ahead,0
+24,23, [[Warrick]] thanks,0
+24,24, [[Catherine]] have you ever left tessa alone with justin ?,1
+24,25, [[Raina_Press]] sure,0
+24,26, [[Raina_Press]] he 's over here all the time,0
+24,27, [[Raina_Press]] he 's a good man,0
+24,28," [[Raina_Press]] he would n't hurt anybody , especially not tessa",1
+24,29," [[Raina_Press]] damn , i keep expecting her to walk through that door",1
+24,30, ( WARRICK covers the back of the truck . ),0
+24,31, ( He sprays the tools with luminol . ),0
+24,32, ( The tip of the shovel glows with the presence of blood . ),1
+25,0, ( WARRICK reads through a file . ),0
+25,1," [[Warrick]] in 1988 , your client was arrested for a drunk and disorderly",1
+25,2, [[Warrick]] your fingerprints were then entered into our database,1
+25,3, [[Warrick]] they match the fingerprints that we found on this shovel,0
+25,4, ( He points to the shovel in the plastic bag on the table behind him . ),0
+25,5, ( RAINA PRESS does n't say anything . ),1
+25,6, [[Catherine]] the blood on the blade matches your daughter 's dna,1
+25,7, [[Lawyer_(woman)]] my client is landscaping her backyard with her boyfriend,1
+25,8, [[Lawyer_(woman)]] explains her prints on his shovel,1
+25,9, [[Warrick]] they were the only prints on the shovel,0
+25,10, [[Raina_Press]] justin wears work gloves,0
+25,11, [[Lawyer_(woman)]] which explains the absence of his prints,0
+25,12, [[Warrick]] that 's possible,0
+25,13, [[Warrick]] but your client 's fingerprints provided a sufficient basis for a warrant to search her vehicle,1
+25,14, ( Quick flashback to : [_BACK_OF_CAR_] WARRICK sprays luminol on the back seat . ),0
+25,15, ( It starts to glow . ),0
+25,16, ( End of flashback . ),0
+25,17, ( Resume to present . ),0
+25,18, [[Warrick]] the choice of weapon and the manner of disposal suggest that this was not a premeditated murder,1
+25,19, ( He puts the shovel on the table . ),0
+25,20, [[Catherine]] you can help yourself here,1
+25,21, [[Catherine]] you can avoid murder one by telling us what set you off,1
+25,22, [[Raina_Press]] you would n't understand,0
+25,23, [[Catherine]] try me,0
+25,24," [[Raina_Press]] i bought tessa a bus pass , and that little slut still gets my guy to pick her up after school",1
+25,25, [[Lawyer_(woman)]] raina,1
+25,26, [[Raina_Press]] shut up !,0
+25,27, [[Raina_Press]] we all know why,0
+25,28, [[Catherine]] why do n't you tell us ?,0
+25,29, [[Raina_Press]] she was trying to steal him from me,1
+25,30, ( Quick flashback to : [_THAT_AFTERNOON_] RAINA watches grimly as JUSTIN 'S truck turns into her driveway . ),1
+25,31, ( TESSA gets out of the truck . ),1
+25,32, [[Tessa]] bye !,0
+25,33," [[Tessa]] thanks , justin !",0
+25,34," ( She closes the truck door , adjusts her backpack and heads for the house . )",1
+25,35, [[Raina_Press]] what the hell were you doing with him ?,1
+25,36," [[Tessa_Press]] mom , he just gave me a ride home",1
+25,37, [[Raina_Press]] you think you got him wrapped around your little finger ?,0
+25,38," [[Tessa_Press]] he 's just being nice , okay ?",0
+25,39, [[Raina_Press]] were you nice back ?,1
+25,40," [[Tessa_Press]] do n't do this again , please !",0
+25,41," [[Raina_Press]] you do n't talk to me like that , you little bitch",1
+25,42," [[Tessa_Press]] mom , you 're being ridiculous",1
+25,43, ( TESSA turns and heads for the house . ),1
+25,44, [[Raina_Press]] where the hell do you think you 're going ?,1
+25,45, [[Raina_Press]] i 've given you everything,0
+25,46, ( She swings and hits TESSA on the back of her head . ),1
+25,47, ( She falls . ),0
+25,48, ( End of flashback . ),0
+25,49, ( Resume to present . ),0
+25,50, [[Raina_Press]] justin was the best thing in my life,0
+25,51, [[Catherine]] no,0
+25,52, [[Catherine]] your daughter was the best thing in your life,1
+25,53, ( CATHERINE stands up . ),0
+25,54, [[Raina_Press]] you did n't know her,1
+25,55, [[Catherine]] i know she was thirteen years old,1
+25,56, [[Catherine]] a child,0
+25,57, ( CATHERINE leaves . ),0
+26,0, ( GRISSOM and SARA walk through the hallway . ),0
+26,1, ( SARA fills GRISSOM in ),0
+26,2, [[Sidle]] i just got the court order from the pharmaceutical database,0
+26,3," [[Sidle]] fortunately , dioxipin is n't widely prescribed",0
+26,4," [[Sidle]] fda only approved it two years ago , and most dermatologists do n't even know what it is",0
+26,5, [[Grissom]] how many names on the list ?,0
+26,6," [[Sara]] well , in clark county , twelve prescriptions were filled",0
+26,7," [[Sara]] i cross-referenced them with the employees from the park , and i got a hit",0
+26,8, [[Sara]] you want a clue ?,0
+26,9," [[Sara]] her death ended the ptolemy dynasty 's reign in ancient egypt , hence making her the last pharaoh",0
+26,10," [[Grissom]] ah , the lovely cleopatra",0
+27,0, ( GRISSOM and SARA interview LISA HUNT . ),0
+27,1, ( Her lawyer sits next to her . ),0
+27,2, [[Lisa_Hunt]] i had a rash,0
+27,3, [[Lisa_Hunt]] so what ?,0
+27,4, [[Lisa_Hunt]] that 's not a crime,0
+27,5, [[Lawyer_(man)]] i read the court order,0
+27,6," [[Lawyer_(man)]] uh , you found trace amounts of some ointment on the roller coaster tracks ?",0
+27,7, [[Lawyer_(man)]] is that the only reason for this conversation ?,0
+27,8," [[Grissom]] your client had a prescription for doxepin may we see your arms , please ?",0
+27,9, [[Lisa_Hunt]] rash was on my legs,0
+27,10, [[Lisa_Hunt]] went away days ago,0
+27,11, [[Lisa_Hunt]] you want to see ?,0
+27,12," [[Sara]] uh , that 's okay",0
+27,13," [[Lawyer_(man)]] unless you want to argue that my client stood on her head and held a wrench in her toes , we 're done here",0
+27,14," [[Grissom]] do you know how you contracted the rash , lisa ?",0
+27,15," [[Lisa_Hunt]] best guess , i was getting some help with my homework",0
+27,16, [[Lisa_Hunt]] we were studying outside on the grass,0
+27,17," [[Lisa_Hunt]] took a break , went for a walk",0
+27,18, [[Lisa_Hunt]] i think i brushed up against something,0
+27,19, [[Sara]] who 's 'we ' ?,0
+27,20, [[Lisa_Hunt]] my math tutor,1
+27,21, [[Sara]] and what 's his name ?,0
+27,22, [[Lisa_Hunt]] zack lawrence,1
+27,23," [[Grissom]] do you know if he contracted the rash , as well ?",1
+27,24, [[Lisa_Hunt]] yeah,0
+27,25," [[Lisa_Hunt]] actually , i gave him some of my ointment",1
+28,0, ( BRASS and SARA walk up to ZACK LAWRENCE standing on the carousel . ),0
+28,1," [[Brass]] hey , zack",0
+28,2," [[Zack_Lawrence]] oh , hey , guys",0
+28,3, [[Brass]] we spoke with lisa,0
+28,4, [[Brass]] she said she gave you some ointment for some nasty rash you have,0
+28,5," [[Zack_Lawrence]] yeah , yeah",0
+28,6," [[Sara]] you know , it 's illegal to use someone else 's prescription medications",0
+28,7, [[Zack_Lawrence]] is that why you guys are here ?,0
+28,8, [[Brass]] not exactly,0
+28,9," [[Zack_Lawrence]] um , you guys mind if we talk about this somewhere else ?",0
+28,10," [[Brass]] hey , good idea",0
+28,11, [[Brass]] why do n't we go downtown ?,0
+28,12, [[Brass]] we can talk there,0
+28,13, ( ZACK LAWRENCE leaves his broom and steps off the carousel . ),0
+28,14, [[Brass]] come on,0
+28,15, [[Brass]] come on,0
+28,16, [[Zack_Lawrence]] all right,0
+28,17, ( SARA stands there thinking a moment . ),0
+28,18, ( BRASS turns to look at her . ),0
+28,19, [[Brass]] you coming ?,0
+28,20," [[Sara]] you know , i 'm going to catch up",0
+28,21, [[Brass]] okay,0
+28,22," ( SARA steps up onto the carousel , puts her kit down , takes out a pair of gloves and dusts the broom handle for fingerprints . )",0
+29,0, ( SARA and GRISSOM interview ZACK LAWRENCE as his lawyer sits next to him . ),1
+29,1, ( He shows them his arm . ),1
+29,2," [[Zack_Lawrence]] yeah , it 's , uh , just a little bit of a rash",0
+29,3, [[Zack_Lawrence]] it 's really no big deal,0
+29,4," [[Grissom]] zack , what do you have against roller coasters ?",1
+29,5, [[Zack_Lawrence]] what do ... ?,0
+29,6, [[Zack_Lawrence]] i-i do n't understand,0
+29,7, [[Sara]] this a fingerprint analysis,0
+29,8," [[Sara]] zack , i lifted some fingerprints off your broom back at the park",1
+29,9," [[Sara]] turns out , they 're a match to prints that we lifted off of jim nevins ' t-bird and the wrench that was used to kill him",1
+29,10, [[Lawyer_(man)]] circumstantial evidence at best,0
+29,11, [[Sara]] i also talked to your school principal,1
+29,12," [[Sara]] you 're a straight 'a ' student , mathalete",1
+29,13, [[Sara]] science team,0
+29,14, [[Sara]] you had a full ride to stanford next year,1
+29,15, [[Sara]] you do n't sound like the kind of kid that would mess with a roller coaster just for kicks,1
+29,16," [[Grissom]] you 're a smart guy , zack",1
+29,17," [[Grissom]] so , uh ... let 's talk this out , logically",0
+29,18," [[Grissom]] according to your previous statement , when you locked up on thursday night , jim nevins ' car was the only one in the parking lot , right ?",1
+29,19," [[Zack_Lawrence]] yes , sir , that 's correct",0
+29,20, [[Grissom]] and you knew he was staying in the park to ride the roller coaster,1
+29,21, [[Zack_Lawrence]] i do n't care about jim nevins,1
+29,22, [[Sara]] what about lisa hunt ?,0
+29,23," [[Sara]] you tutor her , right ?",1
+29,24, [[Sara]] did lisa tell you that she had a date with jim ?,1
+29,25," [[Zack_Lawrence]] no , she did n't say anything",0
+29,26, [[Zack_Lawrence]] it was all over the park,0
+29,27, [[Zack_Lawrence]] jim was going to take lisa on one of his coaster dates,1
+29,28, [[Zack_Lawrence]] i asked her about it,0
+29,29, [[Zack_Lawrence]] she said it was a rumor,0
+29,30, [[Sara]] it seems to matter to you that she had a date with jim,1
+29,31," [[Zack_Lawrence]] lady , i make $ 20 an hour tutoring",0
+29,32, [[Zack_Lawrence]] why do you think i 'd take minimum wage at the sphinx ?,0
+29,33," [[Sara]] i 'm thinking , you want lisa to see you away from the textbooks",1
+29,34, [[Zack_Lawrence]] we started hanging out at breaks,0
+29,35, [[Zack_Lawrence]] having dinner,0
+29,36," [[Zack_Lawrence]] and then last week , after tutoring , we went for a walk",0
+29,37, [[Zack_Lawrence]] and she grabbed my hand,0
+29,38, [[Grissom]] did you think that meant something ?,1
+29,39, [[Zack_Lawrence]] of course,0
+29,40, [[Grissom]] but ... you did n't trust her,1
+29,41, [[Zack_Lawrence]] no,0
+29,42, [[Zack_Lawrence]] i wanted to,0
+29,43, ( Quick flashback to : [_ROLLER_COASTER_] ZACK stands on the ground and watches LISA on the roller coaster with JIMMY . ),1
+29,44, ( End of flashback . ),0
+29,45, ( Resume to present . ),0
+29,46, [[Sara]] you tampered with the screws,1
+29,47," [[Sara]] if she was n't lying , she would n't be on the roller coaster",0
+29,48," [[Sara]] no harm , no foul",0
+29,49," [[Zack_Lawrence]] oh , but you see , she was lying",0
+29,50, [[Grissom]] uh-huh,0
+29,51," [[Grissom]] but you did n't loosen the wheels enough , did you ?",1
+29,52, [[Lawyer_(man)]] do n't answer that,0
+29,53," [[Grissom]] so when the roller coaster did n't derail , you took things into your own hands",1
+29,54, ( Quick flashback to : [_NIGHT_] ZACK LAWRENCE waits outside as JIMMY and LISA kiss and make their way off of the ride . ),1
+29,55, ( End of flashback . ),0
+29,56, ( Resume to present . ),0
+29,57, [[Sara]] lisa walked home,0
+29,58, [[Sara]] jim walked over to his car,0
+29,59, ( Quick flashback to : ZACK attacks JIM and knocks him over the back of the head with the wrench . ),1
+29,60, ( End of flashback . ),0
+29,61, ( Resume to present . ),0
+29,62, [[Grissom]] what i do n't understand is why you did n't go back and fix the roller coaster,1
+29,63, [[Zack_Lawrence]] guess i just did n't think about it,0
+29,64, [[Sara]] you 'll be thinking about it now,1
+29,65, [[Sara]] and for the rest of your life,1
+30,0, ( The OFFICERS remove the crime scene tape and open the ride . ),0
+30,1," [[Worker]] all right , ladies and gentlemen",0
+30,2, [[Worker]] welcome to pharaoh 's fever,0
+30,3, [[Worker]] buckle up,0
+30,4, [[Worker]] get ready to scream,0
+30,5, ( GRISSOM and WOODY sit at the vendor 's booth sipping from their drinks . ),0
+30,6, [[Woody]] i should have caught those loose screws,0
+30,7," [[Woody]] used to check 'em every morning , but since management cut back on my hours",0
+30,8," [[Grissom]] you 're not to blame for this , woody",0
+30,9," [[Woody]] oh , i just hope they do n't blame the coaster",0
+30,10," [[Woody]] it may not be the manhattan express at new york , new york or the desperado in primm , but it-it ... it still makes grown men scream",0
+30,11," [[Grissom]] my first week in vegas , i road the desperado",0
+30,12, [[Woody]] my first coaster marathon,0
+30,13, [[Woody]] i rode that monster for a week straight,0
+30,14, [[Grissom]] hmm,0
+30,15," [[Grissom]] the steel phantom , kennywood park , pennsylvania -- i actually hold the marathon record there",0
+30,16," [[Woody]] uh , uh",0
+30,17," [[Woody]] my-my favorite 's still the , um , king 's island",0
+30,18, [[Woody]] the beast,0
+30,19, [[Grissom]] mm,0
+30,20, [[Grissom]] i presented a paper at an entomology convention in cincinnati just so i could ride son of beast,0
+30,21, [[Grissom]] head over heels on a wooden track,0
+30,22, [[Woody]] ah,0
+30,23," [[Woody]] so , you prefer wood over steel ?",0
+30,24, [[Grissom]] no,0
+30,25, [[Grissom]] not really,0
+30,26," [[Grissom]] for me , it 's not about the track",0
+30,27, [[Grissom]] it 's about the thrill,0
+30,28, ( The riders on the roller coaster scream as it swoops down the track . ),0

@@ -1,0 +1,1131 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0," [[Woman]] this wo n't help , do n't you see ?",0
+0,1," [[Woman]] after me , there 'll be others",0
+0,2," [[Woman]] you 'll have to go on killing , on and on until they catch you",0
+0,3, [[Woman]] i wo n't be the last ;,0
+1,0, [[Woman]] ... there 'll be others after me,0
+1,1," [[Woman]] you ca n't help yourself because you 're mad , mad , mad !",0
+1,2, ( A cell phone rings . ),0
+1,3, [[Man]] no one will question you,0
+1,4, [[Man]] they 'll say it 's just another suicide,0
+1,5, ( The cell phone rings . ),0
+1,6, [[Woman]] hello ?,0
+1,7, ( A cell phone rings . ),0
+1,8, [[Woman]] hello ?,0
+1,9, ( The cell phone continues to ring and is irritating the other members of the audience . ),0
+1,10, [[Audience]] shh !,0
+1,11, [[Man_In_Audience]] turn it off !,0
+1,12, ( The cell phone rings . ),0
+1,13, ( The USHER walks into the theatre and starts looking for the person with the cell phone . ),0
+1,14, [[Woman]] burgess !,0
+1,15, [[Woman]] burgess !,0
+1,16, ( The phone on the screen hangs up . ),0
+1,17, [[Woman]] burgess !,0
+1,18, ( The cell phone in the audience continues to ring . ),0
+1,19, [[Woman]] burgess !,0
+1,20, ( The USHER finds the MAN sitting in his seat with the cell phone clutched in his left hand and approaches him from one row behind . ),1
+1,21, ( From on screen comes the sound of glass shattering . ),0
+1,22," [[Usher]] excuse me , sir",0
+1,23, [[Usher]] i 'm going to have to ask you to turn the phone off,0
+1,24, ( The USHER gets no response from the MAN . ),0
+1,25, [[Usher]] sir ?,0
+1,26, [[Usher]] i 'll have to,0
+1,27," ( The USHER taps the MAN on the shoulder and he slumps forward , blood oozing out from his mouth and into his popcorn . )",1
+1,28, ( The cell phone continues to ring . ),0
+2,0, ( CATHERINE and GRISSOM walk into the theatre . ),0
+2,1, [[Catherine]] whoo !,0
+2,2, [[Catherine]] theaters are like nightclubs ; they should always keep the lights off,0
+2,3, ( They walk toward the body still sitting in the theatre seat . ),0
+2,4, [[Grissom]] this is the last art house left in vegas,0
+2,5," [[Grissom]] i saw baraka here , on a double bill with koyaanisqatsi",0
+2,6, [[Catherine]] was there anyone else here ?,0
+2,7, [[Grissom]] sure,0
+2,8, [[Catherine]] with you ?,0
+2,9, [[Grissom]] no,0
+2,10, ( GRISSOM and CATHERINE walk through the rows and reach the body . ),0
+2,11, ( GRISSOM is standing one row behind the body and CATHERINE is in the same row as the body . ),0
+2,12, ( GRISSOM puts his kit down and both lean over to look at the body . ),0
+2,13," ( Inspired by the venue , BRASS stands on the other side of the body and starts reciting the victim information as if he were a private eye in a 1940 's black and white movie ; his voice as smooth as silk . )",0
+2,14, [[Brass]] thursday night is noir night,0
+2,15," [[Brass]] the poor sap was slumped over like a sack of potatoes , oozing blood like a broken bottle of ketchup",1
+2,16, ( BRASS puts his pretend cigarette to his lips and takes a puff . ),0
+2,17," ( If he had a hat on , he 'd tilt it . )",0
+2,18, ( GRISSOM looks at BRASS . ),0
+2,19, ( CATHERINE looks at BRASS . ),0
+2,20," ( BRASS looks at them both , takes a deep breath and continues to recite information in his usual manner . )",0
+2,21, [[Brass]] his name is gus sugarman,1
+2,22, [[Brass]] runs a dental practice in henderson,0
+2,23, [[Brass]] cell phone went off three times during the movie,0
+2,24," [[Brass]] so , the usher finally came over to shut him up",1
+2,25," [[Catherine]] yeah , somebody beat him to it",0
+2,26, ( GRISSOM looks down at the wound at the back of the victim 's neck . ),1
+2,27, [[Grissom]] single puncture wound to the base of the skull,1
+2,28, [[Catherine]] and nobody saw anything ?,0
+2,29, ( Everyone straightens and looks around the theatre . ),1
+2,30, [[Grissom]] they were watching the movie,0
+2,31, [[Grissom]] dark room,0
+2,32, [[Grissom]] loud music,0
+2,33, [[Grissom]] four exits,0
+2,34, [[Grissom]] everybody looking the other way,0
+2,35, [[Catherine]] professional killer ?,0
+2,36, [[Grissom]] ... or a movie buff,0
+3,0, ( ROBBINS is in the theatre with GRISSOM and CATHERINE . ),0
+3,1, ( All are standing around the victim seated in the theatre chair . ),1
+3,2, ( GRISSOM is looking at the wound at the back of the victim 's neck and arguing with ROBBINS . ),1
+3,3," [[Robbins]] it was 'build my gallows high ' , with robert mitchum , 1947",0
+3,4," [[Grissom]] it was 'out of the past ' , with robert mitchum and jane greer ... and kirk douglas",0
+3,5," [[Robbins]] trust me , the book was 'build my gallows high '",0
+3,6," [[Catherine]] mr siskel , mr ebert , may i have a cause of death , please ?",0
+3,7, ( ROBBINS leans over and looks at the wound . ),0
+3,8, [[Robbins]] puncture wound is small,1
+3,9, [[Robbins]] not a knife,1
+3,10," [[Robbins]] seems like it penetrated all the way to the brain stem , and there 's some bruising around the mouth",1
+3,11," [[Grissom]] well , the killer could have stood over him , placed his hand over his mouth , stabbed him in the back of the head",1
+3,12, ( Quick flashback to : The killer puncturing something into the back of the victim 's neck . ),1
+3,13, ( End of flashback . ),0
+3,14, ( Resume to present . ),0
+3,15, [[Robbins]] did n't telly savalas do that in 'the dirty dozen ' ?,0
+3,16," [[Grissom]] anthony quinn did it , too , in 'guns of navaronne '",0
+3,17, [[Robbins]] right,0
+3,18," [[Catherine]] well , what movie did you see this in ?",0
+3,19, ( CATHERINE shines the flashlight at the other side of the victim 's neck . ),0
+3,20, ( Both ROBBINS and GRISSOM lean in to look where they see the abrasions and bruising . ),1
+3,21, [[Robbins]] looks like somebody ripped something off his neck,1
+3,22," [[Grissom]] small patterns ; could have been a chain , maybe , huh ?",1
+3,23, ( Quick flashback to : The killer grabbing the chain and ripping it from the victim 's neck . ),1
+3,24, ( End of flashback . ),0
+3,25, ( Resume to present . ),0
+3,26, ( CATHERINE starts looking on the floor . ),0
+3,27, [[Catherine]] or necklace,0
+3,28, [[Catherine]] oh !,0
+3,29, ( She drops her flashlight and it starts rolling toward the front of the theatre . ),0
+3,30, [[Catherine]] butterfingers,0
+3,31, ( CATHERINE leaves the body to go get her flashlight . ),0
+3,32, ( GRISSOM snaps a photograph of the cellphone then takes it out of the victim 's grip . ),0
+3,33, [[Robbins]] what 'd you got ?,0
+3,34," [[Grissom]] well , whoever called him did n't leave their number",0
+3,35, ( GRISSOM checks the list of calls received from the cell phone . ),0
+3,36," ( Meanwhile , CATHERINE is a few rows in front of the victim where her flashlight stopped rolling . )",0
+3,37," ( She looks down and finds the murder weapon , a screwdriver , next to the flashlight on the floor . )",1
+3,38, ( She picks it up and holds it up to examine . ),0
+3,39, [[Catherine]] hey !,0
+3,40, [[Catherine]] i was n't the only one who dropped something tonight,0
+3,41, ( BRASS appears at the top of the theatre near the doorway . ),0
+3,42, [[Brass]] i got a witness,0
+4,0, ( BRASS and GRISSOM interview the witness . ),0
+4,1," [[Movie_Goer]] i only noticed 'cause she got up during the best part of the movie , right before the gunfight",0
+4,2, [[Grissom]] is the gunfight loud ?,0
+4,3, [[Movie_Goer]] yeah,0
+4,4, [[Movie_Goer]] i mean it 's not thx surround-sound,0
+4,5, [[Movie_Goer]] this was 1950 and mono optical track,0
+4,6, [[Movie_Goer]] i like how loud this theater keeps it,0
+4,7, [[Grissom]] perfect moment to do it,0
+4,8, [[Grissom]] cover up any noise the victim might make,0
+4,9, [[Brass]] you get a look at her ?,0
+4,10," [[Movie_Goer]] i drove forty minutes to see this flick ; my eyes were on the screen , but , uh , she was tall , not old ... a redhead",0
+4,11, [[Grissom]] did she come back in ?,0
+4,12, [[Movie_Goer]] no,0
+4,13," [[Movie_Goer]] and , uh",0
+4,14, ( He looks around at the crowd of people outside the theatre . ),0
+4,15, [[Movie_Goer]] i-i do n't see her here,0
+4,16, [[Grissom]] did anyone see her coming into the lobby ?,0
+4,17," [[Brass]] well , manager had left for the night",0
+4,18, [[Brass]] the usher who found the body had left before we got here,0
+4,19, [[Brass]] he had been smoking blunts,0
+4,20, [[Brass]] he was afraid we were going to bust him for marijuana,0
+4,21, [[Brass]] i 'll be tweaking him when i call him for my statement,0
+4,22," [[Movie_Goer]] if you ask me , anybody who leaves their phone on in a movie deserves to get stabbed in the head",0
+4,23, [[Brass]] that 's why nobody ask you,0
+5,0," ( NICK , WARRICK and SARA get out of their cars and make their way past the gathering police cars . )",0
+5,1, ( They head toward the warehouse and meet up with DET O'RILEY . ),0
+5,2, [[Nick]] detective,0
+5,3, [[O'Riley]] guys,0
+5,4, [[Warrick]] who called it in ?,0
+5,5, ( They walk under the crime scene tape toward DET O'RILEY . ),0
+5,6, ( The four of them walk toward the warehouse . ),0
+5,7, [[O'Riley]] passing motorist heard gunshots,0
+5,8, [[O'Riley]] first officer did a drive up,0
+5,9, [[O'Riley]] found the scene,0
+5,10, [[O'Riley]] called in the world,0
+5,11, [[O'Riley]] i hope you brought extra supplies,0
+5,12, [[Sara]] why 's that ?,0
+5,13, [[O'Riley]] you 're gon na be here awhile,0
+5,14, ( DET O'RILEY opens the warehouse door . ),0
+5,15, ( The CSIs look at the scene inside in amazement . ),0
+5,16, ( In the middle of the empty warehouse is the body lying face down on the floor . ),1
+5,17, ( The walls are riddled with bullet holes that are visible with the sunlight streaming in through them . ),1
+5,18, [[Nick]] looks like a war zone,0
+5,19, ( They walk inside toward the body . ),0
+5,20, [[Warrick]] we got an i.d,0
+5,21, [[Warrick]] on the body ?,0
+5,22," [[O'Riley]] no cash , no i.d. , just a driver 's permit",0
+5,23, [[Warrick]] driver 's permit,0
+5,24, ( WARRICK leans forward and looks at the body . ),0
+5,25," [[Sara]] what is he , 16 ?",0
+5,26, [[O'Riley]] fifteen-and-a-half,0
+5,27, [[O'Riley]] timmy mccallum,1
+5,28, [[O'Riley]] coroner 's on his way,0
+5,29, [[Warrick]] tell them to watch their step,0
+5,30, [[Warrick]] there 's casings and blood everywhere,1
+5,31, ( WARRICK stands up and turns around to SARA and NICK . ),0
+5,32, [[Warrick]] divide and conquer,0
+5,33, [[Warrick]] inside or outside ?,0
+5,34, [[Sara]] outside perimeter,0
+5,35, ( SARA heads outside . ),0
+5,36, [[Nick]] i 'm dennis rodman,0
+5,37, ( NICK turns and walks out . ),0
+5,38, ( WARRICK turns back toward the body . ),0
+5,39, [[Warrick]] i 'll take everything below the knees,0
+6,0, ( Camera close up of the screwdriver found in the theatre . ),0
+6,1, ( GREG is holding the screwdriver and looking at it with JACQUI FRANCO and CATHERINE . ),0
+6,2, [[Greg]] question is not what we 're going to find on the murder weapon ; question is what is n't on it,0
+6,3, [[Greg]] the sticky substance ?,0
+6,4, [[Catherine]] soda,0
+6,5, [[Jacqui_Franco]] yellow crumbs ?,0
+6,6, [[Catherine]] popcorn,0
+6,7, [[Greg]] carpet fibers,0
+6,8, [[Catherine]] it was n't the cleanest theater in the world,0
+6,9, [[Catherine]] i just want to match the blood to our victim,0
+6,10, [[Jacqui_Franco]] and you want to know if there 's a recoverable print,0
+6,11, [[Catherine]] uh-huh,0
+6,12, ( GREG and JACQUI look at each other . ),0
+6,13, ( CATHERINE smiles at the two lab techs in front of her . ),0
+6,14, [[Greg]] you want to race ?,0
+6,15, [[Jacqui_Franco]] what 's the bet ?,0
+6,16, [[Greg]] hmm,0
+7,0," ( JACQUI carefully takes the substances stuck on the screwdriver off , cleaning it as much as she can . )",0
+7,1," ( She opens the plastic fume container , then adds a couple of drops to the dish . )",0
+7,2, ( she puts the dish on the heater and the screwdriver inside the container . ),0
+7,3, ( She replaces the fume hood on the container and lets the fumes cover the screwdriver . ),0
+7,4, ( She walks away . ),0
+7,5, ( Camera close up as the prints appear on the screwdriver . ),0
+8,0, ( Camera opens on a NEVADA DRIVER 'S LICENSE with the following information . ),0
+8,1, [[Archie]] is that our guy ?,0
+8,2, ( ARCHIE looks at GRISSOM who sits next to him looking at the monitor . ),0
+8,3, ( GRISSOM nods . ),0
+8,4, [[Archie]] phone company unblocked all his private numbers for us,0
+8,5, [[Grissom]] they can do that now ?,0
+8,6, ( ARCHIE looks at GRISSOM and smiles . ),0
+8,7, [[Archie]] yeah,0
+8,8, [[Archie]] on the left side of the screen are the outgoing calls,0
+8,9," [[Archie]] on the right , the incoming",0
+8,10, [[Archie]] what time did the movie start ?,0
+8,11, ( GRISSOM looks at the paper . ),0
+8,12, [[Grissom]] ten-forty,0
+8,13, [[Archie]] last outgoing call your vic made was at 10:38,0
+8,14, [[Archie]] 555-0110,0
+8,15, [[Archie]] twenty-six seconds,0
+8,16, [[Grissom]] that sounds like a no answer,0
+8,17, ( ARCHIE highlights the two calls from the list: ),0
+8,18," [[Archie]] yeah , but 555-0110 was the number that called him three times in a row : 11:26 , 11:27 and 11:28",0
+8,19, [[Archie]] someone needed to talk to him pretty bad,0
+8,20," [[Grissom]] yeah , well , he was already dead by then",0
+8,21, [[Archie]] dr robbins was that accurate with the t.o.d,0
+8,22, [[Grissom]] that 's when the gunfire erupted,0
+8,23, [[Archie]] there was gunfire ?,0
+8,24, [[Grissom]] in the movie,0
+8,25, [[Grissom]] i 'll need an address for that number,0
+8,26, ( GRISSOM stands up . ),0
+9,0, ( NICK stands in the middle of the warehouse and looks at the bullet-riddled walls with the sunlight streaming through them . ),0
+9,1, ( Cut to : NICK starts to mark every bullet hole with a marker rod . ),0
+9,2, ( Dissolve to : NICK stands on a ladder and continues to mark the bullet holes with marker rods . ),0
+9,3, ( He 's about halfway done with the first wall . ),0
+9,4, ( Dissolve to : NICK stands on the ladder and continues to mark bullet holes . ),0
+9,5, ( He 's about three-quarters done with the first wall . ),0
+9,6, ( Dissolve to : NICK stands on the ladder and nearly finishes the first wall . ),0
+9,7, ( Cut to : WARRICK picks up a beer bottle and pours its contents into a container . ),0
+9,8, ( It 's the first of many beer bottles . ),0
+9,9, ( He caps the container and marks it . ),0
+9,10, ( He puts the empty beer bottle into a package . ),0
+9,11, ( SARA takes pictures of the tire treadmarks on the road . ),0
+9,12, ( Cut to : SARA walks the warehouse perimeter and finds prints on the ground . ),0
+9,13, ( She takes pictures of those also . ),0
+9,14, ( Cut to : SARA finds a wooden ladder to the roof of the warehouse leaning against the wall . ),0
+9,15, ( She looks up where she sees the end of a long bamboo pole sticking out the side of the rooftop . ),0
+9,16, ( WARRICK has evidence markers on the ground next to each of the bullet shell casings that he finds . ),0
+9,17, ( He kneels down and puts marker # 40 down . ),0
+9,18, ( He looks around . ),0
+9,19, ( WARRICK takes a step over some markers and puts marker # 63 down on the ground . ),0
+9,20," ( Behind him , the coroner 's office carries the body . )",0
+9,21, ( Dissolve to : WARRICK puts down evidence markers # 68 and # 69 down on the ground . ),0
+9,22," ( Behind him , the coroner 's office wheels out the victim 's body on a gurney . )",0
+9,23, ( Cut to : WARRICK puts down evidence markers # 96 and # 97 down on the ground . ),0
+9,24, ( He looks around for more bullet casings . ),0
+10,0, ( SARA walks into the warehouse carrying a very long bamboo pole . ),0
+10,1, ( NICK is on the ladder and finishing up the final wall . ),0
+10,2," [[Sara]] hey , guys",0
+10,3, [[Sara]] what do you make of this piece of bamboo ?,0
+10,4, [[Sara]] i found it on the roof,0
+10,5, [[Nick]] bag it,0
+10,6, [[Sara]] that 's funny,0
+10,7, [[Sara]] very funny,0
+10,8, ( WARRICK sees something in the middle of the warehouse floor . ),0
+10,9, ( It looks like small pieces of glass . ),0
+10,10, ( He walks in for a closer look . ),0
+10,11, ( SARA look up and notices something in the ceiling . ),0
+10,12, [[Sara]] did you get the hole in the roof ?,0
+10,13, ( NICK also looks up at the ceiling . ),0
+10,14, [[Nick]] you find anything else up there ?,0
+10,15, [[Sara]] no,0
+10,16, [[Warrick]] got some shards of glass,0
+10,17, [[Warrick]] clear in color,0
+10,18, [[Warrick]] mixed with small pieces of black plastic,0
+10,19, ( WARRICK picks up a piece of black plastic and puts it in a ),0
+10,20, [[Warrick]] you almost finished with that ?,0
+10,21, [[Warrick]] what 's your count ?,0
+10,22, [[Nick]] yeah,0
+10,23, [[Nick]] 109 rods,0
+10,24, [[Warrick]] 109 bullets ?,0
+10,25, [[Nick]] how in the world do trajectories occur 15 to 20 feet off the ground ?,0
+10,26, [[Nick]] horizontally ?,0
+10,27, [[Sara]] what in the hell went on here ?,0
+11,0, ( The front door opens . ),0
+11,1, [[Grissom]] audrey hilden ?,1
+11,2, [[Audrey_Hilden]] yes,0
+11,3, [[Catherine]] we 're with the las vegas crime lab,0
+11,4, [[Catherine]] do you know a gus sugarman ?,1
+11,5, [[Audrey_Hilden]] why do n't you come inside,0
+11,6, [[Audrey_Hilden]] please,0
+11,7, ( GRISSOM glances at the driveway behind them . ),0
+11,8, ( He and CATHERINE enter the residence . ),0
+12,0, ( GRISSOM and CATHERINE interview AUDREY HILDEN in her living room . ),0
+12,1, [[Audrey_Hilden]] he was my dentist,0
+12,2, [[Audrey_Hilden]] that 's terrible,0
+12,3," [[Audrey_Hilden]] he 'd asked me to go to the movies , and i said yes , but",0
+12,4," [[Audrey_Hilden]] it was a late show , and i had to get up early for work",0
+12,5," [[Catherine]] well , we know that dr sugarman called you at home two minutes before the movie started , and that you did n't pick up",0
+12,6, [[Audrey_Hilden]] i was screening,0
+12,7, [[Audrey_Hilden]] i figured he 'd get my message,0
+12,8," [[Grissom]] and why did you call him three times in a row , 40 minutes later ?",0
+12,9, [[Audrey_Hilden]] i felt bad standing him up,0
+12,10, [[Audrey_Hilden]] i called to apologize,0
+12,11," [[Audrey_Hilden]] i figured i 'd get his voice mail , but when i did n't , i tried again",0
+12,12, [[Catherine]] and you were here alone ?,0
+12,13, [[Audrey_Hilden]] yes,0
+12,14, [[Catherine]] can anyone verify that ?,0
+12,15, [[Audrey_Hilden]] why ?,0
+12,16, ( The phone rings . ),0
+12,17, ( AUDREY HILDEN does n't move to answer it . ),0
+12,18, [[Catherine]] still screening ?,0
+12,19, ( AUDREY HILDEN looks at CATHERINE then moves toward her telephone where she turns the volume down just as the answering machine kicks on . ),0
+12,20, ( GRISSOM walks around and examines the surroundings . ),0
+12,21, ( He sees an April calendar for the Wonderland Theatre pinned to her bulletin board . ),0
+12,22, ( AUDREY HILDEN moves to stand between GRISSOM and the theatre calendar he 's interested in ),0
+12,23, [[Grissom]] do you see a lot of movies at the art house theater ?,0
+12,24, [[Audrey_Hilden]] sure,0
+12,25, [[Audrey_Hilden]] i love old movies,0
+12,26, [[Grissom]] i see they recently had a hitchcock retrospective,0
+12,27, [[Audrey_Hilden]] i prefer french new wave,0
+12,28," [[Audrey_Hilden]] if you 'll excuse me now , i have to go to work",0
+12,29, [[Catherine]] we 'll be in touch,0
+12,30, ( GRISSOM and CATHERINE move to leave . ),0
+13,0, ( ROBBINS pulls the sheet on the body down to show WARRICK the victim 's torso and the purple bruises on it . ),0
+13,1, ( They both lean in to examine them . ),0
+13,2," [[Warrick]] geez , what was this kid , tortured ?",1
+13,3, [[Robbins]] couple of fractured ribs,0
+13,4, [[Robbins]] deep purple contusions of the presternal chest wall,0
+13,5, [[Robbins]] each one around two inches in diameter,0
+13,6, [[Robbins]] i stopped counting around nine,0
+13,7, [[Warrick]] what do you think could 've done this ?,0
+13,8, [[Warrick]] baseball bat ?,0
+13,9, [[Robbins]] it 's hard to tell,0
+13,10," [[Robbins]] whatever it was , it had a great deal of velocity",0
+13,11, [[Warrick]] yeah,0
+13,12, [[Robbins]] cause of death : single gunshot to the chest,1
+13,13, [[Robbins]] no evidence of gunshot residue,1
+13,14, [[Warrick]] shot from a distance,1
+13,15," [[Warrick]] and at a downward angle ... it 's , uh ... it 's about 25 degrees",1
+13,16, [[Warrick]] he was shot from above,1
+13,17, ( Quick flashback to : TIMMY McCALLUM is having a beer with his friend . ),1
+13,18, ( Someone stands at the top of the warehouse and shoots . ),0
+13,19, ( It hits TIMMY . ),1
+13,20, ( End of flashback . ),0
+13,21, ( Resume to present . ),0
+13,22, [[Warrick]] rooftop angle is 45 degrees,1
+13,23, [[Warrick]] this is 25 degrees ?,1
+13,24, [[Warrick]] it 's impossible,0
+13,25," [[Robbins]] if that 's the case , he was shot by somebody 10 to 15 feet tall",0
+13,26, [[Warrick]] what else you got ?,0
+13,27," [[Robbins]] scabbing abrasions on the elbows , the back and kneecaps",0
+13,28, ( ROBBINS lifts the sheet to expose the victim 's right leg . ),0
+13,29, [[Robbins]] looks to be harmless 'boys will be boys ' stuff,0
+13,30, [[Warrick]] there 's nothing harmless about death,0
+14,0, ( GRISSOM and CATHERINE walk into the lab . ),0
+14,1, [[Catherine]] do n't tell me -- greg won the bet,0
+14,2, ( JACQUI FRANCO turns around to look at them . ),0
+14,3," ( On her head , she 's wearing GREG 'S 'swami ' turban . )",0
+14,4, [[Jacqui_Franco]] the blood on the screwdriver definitely belongs to your victim,0
+14,5, [[Jacqui_Franco]] it was incredible how fast he got me back the results,0
+14,6, [[Jacqui_Franco]] i do n't know how he does it,0
+14,7, [[Jacqui_Franco]] now i got to wear this stupid thing all day,0
+14,8," ( Behind her , there 's a knock on the glass . )",0
+14,9, ( JACQUI turns to look . ),0
+14,10, ( It 's GREG . ),0
+14,11, ( He smiles and waves at her . ),0
+14,12," [[Jacqui_Franco]] oh , look at him , hovering",0
+14,13, [[Jacqui_Franco]] making sure i still have it on,0
+14,14," [[Jacqui_Franco]] do us all a favor and get him out in the field , will you , he 's going stir crazy in here",0
+14,15," [[Grissom]] jacqui , do you have anything for us ?",0
+14,16, [[Jacqui_Franco]] a palm print,0
+14,17," [[Catherine]] oh , great",0
+14,18," [[Catherine]] let 's , uh , go back to audrey 's and see if we have a match",0
+14,19, [[Jacqui_Franco]] not quite,0
+14,20, ( JACQUI turns the laptop monitor toward them to show them close-up pictures of the prints on the screwdriver . ),0
+14,21, [[Jacqui_Franco]] look at the ridges,0
+14,22, [[Grissom]] too consistent,0
+14,23, [[Grissom]] looks like fine grain,0
+14,24, [[Jacqui_Franco]] leather,0
+14,25, [[Jacqui_Franco]] killer wore gloves,0
+14,26, ( GRISSOM looks at JACQUI . ),0
+15,0, ( BRASS walks up to GRISSOM and CATHERINE . ),0
+15,1," [[Brass]] okay ... here 's what 's happening -- three months ago , audrey hilden filed a sexual malpractice suit against our dr sugarman",0
+15,2, [[Brass]] the suit claims that she was molested while she was under anesthesia,0
+15,3, [[Catherine]] and she was going on a date with this guy ?,0
+15,4, [[Brass]] yeah,0
+15,5, [[Brass]] sugarman counter-sued,0
+15,6," [[Brass]] he 's represented by big-time attorneys , so she backed down",0
+15,7," [[Grissom]] well , a screwdriver 's cheaper than an attorney",0
+15,8," [[Brass]] well , uh , there 's more",0
+15,9, [[Brass]] remember the usher who likes to smoke the chronic ?,0
+15,10," [[Brass]] he claims he saw a redheaded woman make a phone call halfway through the movie , so i 'm going to check it out",0
+15,11, ( BRASS turns to leave . ),0
+15,12, [[Brass]] want to tag along ?,0
+15,13, ( GRISSOM glances at CATHERINE . ),0
+15,14, ( They both follow BRASS . ),0
+16,0, ( SARA prints the bamboo rod round at the warehouse rooftop . ),0
+16,1, [[Warrick]] this where the limbo party is ?,0
+16,2, ( SARA looks up toward the door and sees WARRICK standing outside just beyond the crime scene tape SARA stuck across the door . ),0
+16,3, [[Warrick]] can i come in ?,0
+16,4, ( WARRICK ducks under the tape and enters the room . ),0
+16,5, [[Sara]] yeah,0
+16,6," [[Sara]] sorry , i do n't let everyone in here",0
+16,7," [[Warrick]] well , i 've got your one-to-ones",0
+16,8," [[Warrick]] the tire treads , there 's nothing specific here",0
+16,9, [[Sara]] bummer,0
+16,10," [[Warrick]] but the shoe prints that you took , they look interesting",0
+16,11," [[Warrick]] it looks like five suspects walked in , and four ran out",0
+16,12, ( WARRICK shows her the photograph of the shoe prints taken from the ground outside the warehouse . ),0
+16,13, ( They 're marked and color-coded on the photograph . ),0
+16,14, [[Sara]] four guilty people out there somewhere,0
+16,15, [[Warrick]] no doubt,0
+16,16, [[Warrick]] how 's it coming with your big bamboo here ?,0
+16,17," [[Sara]] well , i have black lung from all the powder , and not a single print , nothing , nada",0
+16,18, [[Warrick]] you test for gsr ?,0
+16,19, [[Warrick]] the place was riddled with bullets -- it would n't hurt,0
+16,20, [[Sara]] would n't hurt,0
+17,0, ( WARRICK and SARA test the bamboo for GSR . ),0
+17,1, [[Sara]] nothing,0
+17,2, [[Warrick]] maybe this has nothing to do with the case,0
+17,3, [[Warrick]] maybe it was just a piece of debris left at the scene,0
+17,4," [[Sara]] no , no",0
+17,5, [[Sara]] i-i 'm not quitting,0
+17,6, [[Sara]] no,0
+17,7, [[Sara]] i am in too deep,0
+17,8, ( SARA picks up the bamboo and heads out the door . ),0
+17,9, ( WARRICK ducks under the tape to stand in the hallway looking out at SARA 'S retreating back . ),0
+17,10, [[Warrick]] where you going ?,0
+17,11, [[Sara]] trace,0
+17,12, [[Sara]] maybe hodges can find something,0
+17,13, ( SARA nearly pokes a TECH in the gut with the bamboo . ),0
+17,14, ( He dodges her . ),0
+17,15," [[Sara]] oh , coming through",0
+17,16, [[Lab_Tech]] whoa !,0
+17,17," [[Sara]] careful , people",0
+17,18, [[Sara]] easy,0
+17,19, ( The LAB TECH heads for WARRICK . ),0
+17,20," [[Lab_Tech]] hey , brown",0
+17,21, [[Lab_Tech]] pd called,0
+17,22, [[Lab_Tech]] mrs mccallum 's there,0
+17,23, [[Warrick]] the mother,0
+17,24, [[Warrick]] tell them i 'm on my way,0
+17,25, ( The LAB TECH leaves . ),0
+18,0," ( BRASS , GRISSOM and CATHERINE interview the USHER . )",0
+18,1, [[Usher]] i was getting myself a soda,0
+18,2," [[Usher]] you know , we 're allowed to do that",0
+18,3," [[Usher]] a tall redhead came out of the theater , and then she made a phone call from over there",0
+18,4, ( He indicates the pay phone on the side of the lobby . ),0
+18,5, ( They all turn to look at the phone . ),0
+18,6, ( Quick flashback to : The Tall Redhead walks out of the theatre and heads for the phone . ),0
+18,7, ( She picks up the receiver . ),0
+18,8, ( The USHER turns and notices her as he takes a drink of his soda . ),0
+18,9, ( End of flashback . ),0
+18,10, ( Resume to present . ),0
+18,11, ( They all turn back to the USHER . ),0
+18,12, [[Brass]] from the pay phone ?,0
+18,13, ( BRASS looks at GRISSOM who does n't say anything . ),0
+18,14, [[Brass]] what ?,0
+18,15, [[Brass]] i ... what ?,0
+18,16, [[Brass]] i 'm on it,0
+18,17, [[Brass]] i 'm on it,0
+18,18, ( BRASS leaves . ),0
+18,19, [[Catherine]] did you happen to notice if she was wearing gloves ?,0
+18,20," [[Usher]] yeah , she was , actually",0
+18,21," [[Usher]] i thought it was really weird , 'cause it 's , like , seventy in here",0
+18,22, [[Grissom]] did you notice anything else ?,0
+18,23, [[Usher]] no,0
+18,24, [[Usher]] she just threw something in the trash and headed out,0
+18,25, ( GRISSOM and CATHERINE head for the trash can near the pay phone . ),0
+18,26, ( GRISSOM lifts the cover of the can and they both look inside . ),0
+18,27, ( GRISSOM and CATHERINE turn to look at the USHER who knows that the can is empty . ),0
+18,28, [[Usher]] the cleaning crew 's in the theater now,0
+18,29, [[Usher]] they got a late start 'cause of you guys,0
+18,30, ( CATHERINE heads for the theater . ),0
+18,31, ( GRISSOM replaces the cover back on the can and follows her . ),0
+19,0, ( CATHERINE enters the theatre . ),0
+19,1, ( She walks up to the older cleaning woman . ),0
+19,2, [[Catherine]] excuse me,0
+19,3, ( The CLEANING WOMAN looks up . ),0
+19,4, [[Catherine]] what happened to the garbage that was in the can in the lobby ?,0
+19,5," [[Cleaning_Woman]] well , it 's already been bagged up , but it should be around here somewhere",0
+19,6," ( Inside one of the seating rows , the Younger Cleaning Woman cleans off one of the seats . )",0
+19,7, ( She 's wearing a pair of expensive-looking leather gloves . ),0
+19,8, ( GRISSOM walks into the theatre and immediately notices her . ),0
+19,9, [[Grissom]] excuse me,0
+19,10, [[Grissom]] where 'd you get those gloves ?,0
+19,11, ( The Younger Cleaning Woman looks at the Older Cleaning Woman . ),0
+19,12," [[Cleaning_Woman]] if it 's garbage , it 's hers",0
+19,13, [[Cleaning_Woman]] they let us keep whatever we find as long as it 's been thrown out,0
+19,14, ( GRISSOM takes out some money . ),0
+19,15, [[Grissom]] i 'll tell you what -- i 'll buy you a new pair of gloves,0
+19,16, ( He holds out three bills to her . ),0
+19,17, ( The Younger Cleaning Woman looks at the Older Cleaning Woman . ),0
+19,18, ( She nods her head . ),0
+20,0, ( GREG is working in his lab and singing softly to himself . ),0
+20,1, ( He appears to be extremely bored . ),0
+20,2," ( Behind him , we can see NICK heading toward GREG . )",0
+20,3, ( He manages to hear the last part of GREG 'S song . ),0
+20,4, [[Greg]] 99 bottles of beer on the wall / 99 bottles of beer / you swab one down / run it through codis / 98 bottles of beer on the wall,0
+20,5," [[Nick]] whatever happened to 'take one down , pass it around ' ?",0
+20,6, [[Nick]] that 's the best part,0
+20,7, [[Greg]] you know us lab rats have to do something to get through the day,0
+20,8," [[Nick]] i know , i just dumped a sack of bullets on bobby dawson",0
+20,9," [[Nick]] so , why do n't you sing me a tune i want to hear ?",0
+20,10, [[Greg]] well ... how about,0
+20,11, [[Greg]] harold melvin and the blue notes,0
+20,12, [[Greg]] he ai n't heavy,0
+20,13, [[Greg]] he 's my brother,0
+20,14, [[Nick]] dna ?,0
+20,15, [[Nick]] from the beer bottles ?,0
+20,16, [[Greg]] five different donors -- two of them are related,1
+20,17," [[Greg]] donor number one , tim mccallum , the victim ; donor number two , his relative , most likely a brother",1
+20,18, ( GREG hands NICK the results . ),0
+20,19, [[Greg]] no telling if he 's heavy or not,0
+21,0," ( WARRICK interviews MRS McCALLUM and her son , KEVIN McCALLUM . )",1
+21,1," [[Warrick]] i 'm very sorry for your loss , mrs mccallum",0
+21,2, [[Warrick]] are you timmy 's brother ?,1
+21,3, ( KEVIN McCALLUM slowly raises his head to look at WARRICK . ),1
+21,4," ( But before he can say anything , his mother answers . )",1
+21,5, [[Mrs._McCallum]] yeah,0
+21,6, ( KEVIN turns to look at his mom . ),1
+21,7, [[Mrs._McCallum]] kevin 's the only son i have left,1
+21,8, [[Warrick]] we were able to identify timmy by the driver 's permit that we found at the scene,1
+21,9, [[Warrick]] had he been driving long ?,1
+21,10, [[Mrs._McCallum]] a few months,0
+21,11," [[Mrs._McCallum]] i know that law says you 're supposed to have an adult present , but i work graveyard",0
+21,12, [[Mrs._McCallum]] kevin usually drives with him,1
+21,13, [[Warrick]] what kind of car does timmy drive ?,1
+21,14, [[Mrs._McCallum]] we have a mini-van,0
+21,15, [[Mrs._McCallum]] it 's more safe,0
+21,16," [[Warrick]] this is an ongoing investigation , so we are going to need to see that vehicle",0
+21,17," [[Warrick]] do you ever drive the mini-van , kevin ?",1
+21,18," [[Kevin_McCallum]] sometimes , yeah",0
+21,19, [[Warrick]] did you drive timmy to the warehouse the other night ?,1
+21,20, [[Kevin_McCallum]] no,0
+21,21, [[Mrs._McCallum]] what warehouse ?,0
+21,22, [[Warrick]] we have reason to believe that kevin was at the warehouse that night,1
+21,23, [[Warrick]] we found his dna on some beer bottles,1
+21,24, [[Mrs._McCallum]] beer ?,0
+21,25, [[Mrs._McCallum]] kevin,1
+21,26, [[Kevin_McCallum]] mom,0
+21,27, [[Kevin_McCallum]] i bought beer for timmy,1
+21,28, [[Kevin_McCallum]] i do n't do it all the time,1
+21,29, [[Kevin_McCallum]] he begged me,1
+21,30, [[Kevin_McCallum]] he ... he said he was going out partying with some friends,1
+21,31, ( Quick flashback to : KEVIN passes the six pack to TIMMY through the car window . ),1
+21,32, ( He grabs a bottle for himself . ),1
+21,33," [[Kevin_McCallum]] if mom catches you with these , you did n't get them from me",1
+21,34," [[Timmy_McCallum]] bro , there 's one missing",1
+21,35, [[Kevin_McCallum]] i got thirsty,1
+21,36, ( KEVIN takes a sip and passes the open bottle to TIMMY . ),1
+21,37, ( TIMMY turns away and KEVIN drives off . ),1
+21,38," [[Kevin_McCallum]] later , freak",0
+21,39, ( End of flashback . ),0
+21,40, ( Resume to present . ),0
+21,41, [[Kevin_McCallum]] i took a sip -- i gave him the rest of the 12-pack,1
+21,42," [[Kevin_McCallum]] sorry , mom",0
+21,43," [[Mrs._McCallum]] mr brown , i do n't know what to say",0
+21,44, [[Mrs._McCallum]] i 'm a single mother,0
+21,45," [[Mrs._McCallum]] i work nights , and you ca n't keep your eyes on your kids all the time",0
+21,46," [[Mrs._McCallum]] at a certain age , you just have to trust them",0
+21,47, [[Warrick]] i understand,0
+21,48, [[Warrick]] we are going to need to keep kevin here to ask him some more questions about that night,1
+21,49, [[Warrick]] do you object ?,0
+21,50, [[Mrs._McCallum]] n-no,0
+22,0, ( HODGES looks up from the scope . ),0
+22,1, [[Hodges]] spiral gouges,0
+22,2, [[Hodges]] check it out,0
+22,3, ( He moves aside for SARA to see . ),0
+22,4, ( SARA looks through the scope . ),0
+22,5, [[Sara]] from tip to tip,0
+22,6, [[Sara]] what do you think caused these marks ?,0
+22,7, [[Hodges]] give me more time -- i 'm not a miracle worker,0
+22,8," [[Sara]] well , that 's obvious , hodges",0
+22,9," [[Sara]] if you were a miracle worker , you would n't be rude",0
+22,10," [[Hodges]] i was n't being 'rude ' , i was being 'curt '",0
+22,11," [[Hodges]] 'rude ' would be , 'when i know , you 'll know '",0
+22,12, [[Hodges]] friends ?,0
+22,13, ( HODGES smiles sarcastically at SARA . ),0
+22,14, ( SARA shakes her head . ),0
+22,15, [[Sara]] no,0
+22,16, ( WARRICK walks into the lab . ),0
+22,17," [[Warrick]] hodges , how 's it coming with that glass ?",0
+22,18, ( HODGES taps another scope indicating that WARRICK look and see . ),0
+22,19, ( WARRICK looks at the scope . ),0
+22,20, [[Warrick]] looks like there 's some kind of coating on it,0
+22,21," [[Hodges]] more specifically , crystallized calcium fluoride",0
+22,22, ( SARA looks at the scope . ),0
+22,23, [[Sara]] you ran it through the i.r,0
+22,24, [[Hodges]] please,0
+22,25, [[Hodges]] i.r,0
+22,26, [[Hodges]] says 'fluorspar ',0
+22,27, [[Hodges]] i say 'high-end optics ',0
+22,28, [[Sara]] camera lens,0
+22,29, [[Warrick]] you think someone has this murder on tape ?,0
+23,0, ( GRISSOM and CATHERINE confer with BRASS . ),0
+23,1," [[Catherine]] so , the gloves match the palm print on the murder weapon as well as the pay phone in the theater lobby",0
+23,2," [[Catherine]] unfortunately , there was no epithelials inside the gloves because the cleaning woman had ammonia on her hands",0
+23,3," [[Brass]] ah , i see",0
+23,4," [[Brass]] well , according to this , a phone call was made from the theater lobby to audrey 's home at 11:25",0
+23,5, ( GRISSOM holds up another phone listing . ),0
+23,6," [[Grissom]] well , audrey called dr sugarman 's cell from her home at 11:26",0
+23,7," [[Catherine]] well , obviously , she did n't make it home in one minute",0
+23,8, [[Brass]] we 're looking for someone else,0
+23,9, [[Grissom]] the mysterious redhead in the theater ?,0
+23,10," [[Brass]] maybe audrey hired a pro who called up to say , uh , 'it 's done '",0
+23,11," [[Catherine]] well , if she could n't afford a powerful attorney , how did she pay for a hit man ?",0
+23,12, [[Grissom]] hit woman,0
+23,13, [[Brass]] why do n't we ask her ?,0
+24,0, ( BRASS knocks on the front door . ),0
+24,1, ( He pauses and listens . ),0
+24,2, [[Brass]] you hear that ?,0
+24,3, [[Brass]] phone 's off the hook,0
+24,4," ( BRASS knocks on the door again When there 's no answer , he tries the door . )",0
+24,5, ( It 's locked . ),0
+24,6, ( He starts looking around . ),0
+24,7, [[Brass]] there must be another way in,0
+24,8, ( BRASS leaves the front porch . ),0
+25,0," ( With his weapon in hand , BRASS pushes the partially opened sliding door open and walks into the residence . )",0
+25,1, ( CATHERINE and GRISSOM follow . ),0
+25,2, ( The telephone is off the hook and is beeping . ),0
+25,3," ( As they walk in , they notice the phone on the counter . )",0
+25,4, ( They walk into the living room and find AUDREY HILDEN hanging suspended in the middle of the living room from a cord tied from around her neck to the second story banister . ),1
+25,5, [[Catherine]] she used an extension cord and tied it to the railing and must have jumped off,1
+25,6, ( GRISSOM looks down and notices a chain on the floor . ),1
+25,7, ( He cautiously picks it up to look at it . ),0
+25,8, ( BRASS phones it in ),0
+25,9," [[Brass]] yeah , this is brass",0
+25,10, [[Brass]] i got a db,0
+25,11, [[Brass]] yeah,0
+25,12, [[Brass]] well,0
+25,13," ( Quick flashback to : GUS SUGARMAN sits in the theatre , dead . )",1
+25,14, ( The killer reaches out and rips the chain from his neck . ),1
+25,15, ( End of flashback . ),0
+25,16, ( Resume to present . ),0
+25,17, ( GRISSOM holds up the chain and looks at it . ),0
+25,18, [[Catherine]] our only suspect apparently commits suicide,0
+25,19, [[Catherine]] convenient,0
+25,20, [[Grissom]] too convenient,0
+26,0, ( GRISSOM examines the marks on the victim 's neck . ),0
+26,1," [[Grissom]] catherine ... she 's got a whole 'nother set of horizontal marks on her neck , below the cord",1
+26,2, [[Grissom]] and postmortem bruising,1
+26,3, [[Grissom]] i think she was strangled first and then hanged,1
+26,4, ( Quick flashback to : AUDREY HILDEN fights off her attacker who has a firm hold on her neck . ),1
+26,5, ( End of flashback . ),0
+26,6, ( Resume to present . ),0
+26,7, ( GRISSOM continues to examine the body . ),0
+26,8, ( This time paying close attention to the victim 's feet and legs . ),0
+26,9, ( CATHERINE is on the second floor looking around . ),0
+26,10, [[Catherine]] no signs of a break-in ... or a struggle,1
+26,11, [[Catherine]] she may have been killed by someone she knew,1
+26,12, [[Grissom]] she was dragged,1
+26,13, [[Grissom]] she 's got carpet fibers on her heels,1
+26,14, ( Quick flashback to : The killer drags AUDREY HILDEN across the floor . ),1
+26,15, ( End of flashback . ),0
+26,16, ( Resume to present . ),0
+26,17," [[Catherine]] yeah , she was dragged over here , tied off and shoved over",1
+26,18, ( Quick flashback to : The killer lifts up AUDREY HILDEN and pushes her over the second floor balcony . ),1
+26,19," ( AUDREY never hits the floor , her body jerks as it reaches the end of the short cord . )",1
+26,20, ( End of flashback . ),0
+26,21, ( Resume to present . ),0
+26,22, ( GRISSOM holds up his flashlight and looks at something in particular across the room . ),0
+26,23, ( CATHERINE joins GRISSOM and notices his intent on something . ),0
+26,24, [[Catherine]] you got something ?,0
+26,25, ( GRISSOM indicates the now empty section of the bulletin board with a thumbtack that has a bit of pink paper stuck underneath . ),0
+26,26, ( He stares at it . ),0
+26,27," [[Grissom]] when we were here earlier , there was a movie schedule pinned up there that had a handwritten note on it",0
+26,28, [[Grissom]] i 'm not sure she wanted me to see it,0
+26,29, [[Grissom]] now it 's gone,0
+26,30, [[Catherine]] maybe she threw it away,0
+26,31, ( CATHERINE walks over to the trash can in the room and checks it . ),0
+26,32, ( The playbill is n't there . ),0
+26,33, ( Cut to : GRISSOM pushes the bathroom door open and turns on the light . ),0
+26,34, ( He checks the trash can and notices the water on the floor near the toilet bowl . ),0
+26,35, ( He checks the toilet bowl and notices that it 's clogged . ),0
+26,36, ( GRISSOM takes the plunger and unclogs the bowl . ),0
+26,37, ( He sticks his hand in the water and pulls out a crumpled pink paper . ),1
+26,38, ( He checks it . ),0
+27,0, ( WARRICK checks the tire tracks taken from the warehouse to the tires of the McCALLUM 'S mini-van . ),0
+27,1, ( He puts the clear plastic tracks over the tire . ),0
+27,2, [[Warrick]] venus and serena,0
+27,3, [[Warrick]] perfect match,0
+27,4, ( Cut to : WARRICK opens the door and checks the inside of the mini-van . ),0
+27,5, ( He finds the torn beer carton that bears the price tag : 'JENKO LIQUOR ' 10.29 . ),0
+27,6, ( He checks the door and notices red pots . ),0
+27,7, ( He checks it and it turns dark pink . ),0
+28,0, ( DET O'RILEY sits at the table with KEVIN McCALLUM . ),0
+28,1," [[Kevin_McCallum]] timmy 's 15 , i 'm 18",0
+28,2," [[Kevin_McCallum]] he 's got his friends , i got my friends",0
+28,3, [[Kevin_McCallum]] we do n't do the same things,0
+28,4, [[Kevin_McCallum]] we do n't hang together,0
+28,5, [[O'Riley]] evidence says you were there,0
+28,6, [[O'Riley]] you want to go down for suspicion of murder ?,0
+28,7, ( KEVIN McCALLUM sighs . ),0
+28,8, [[O'Riley]] or you want to stop digging your own grave ?,0
+28,9, [[Nick]] just talked to bobby dawson,0
+28,10, [[Nick]] all the bullets came from the same gun : nine-millimeter semi-automatic,0
+28,11, [[Nick]] how 's this going ?,0
+28,12, [[Warrick]] i found a 12-pack container in the mccallum minivan,0
+28,13, [[Warrick]] sales slip said 'jenko liquors ',0
+28,14," [[Nick]] i 'll check the surveillance , see if we can get some footage of this guy",0
+28,15," ( In the Interview Room , NICK watches as KEVIN McCALLUM shifts and brings his left hand up to show a blood stain on his shirt . )",0
+28,16, [[Nick]] what is that on his elbow ?,0
+29,0, ( KEVIN McCALLUM looks up at NICK and WARRICK both standing next to the table watching him . ),1
+29,1, [[Kevin_McCallum]] it 's just a scab,0
+29,2, [[Kevin_McCallum]] got it skateboarding,0
+29,3, [[Nick]] can we see it ?,0
+29,4, ( KEVIN sighs . ),1
+29,5, [[Warrick]] peel it back,0
+29,6, ( KEVIN takes off the bandage and shows the cut . ),0
+29,7, ( It does n't look like it came from skateboarding . ),0
+29,8, ( It looks like he was grazed by a bullet . ),1
+29,9, [[Warrick]] skateboarding ?,0
+29,10, [[Warrick]] why do n't you stand up and take off your shirt,1
+29,11, [[Kevin_McCallum]] do n't you guys need a warrant for that ?,0
+29,12," [[O'Riley]] we get a warrant , and we 're going to strip you down to nothing , then ask you to bend over -- choose",1
+29,13," ( Not liking the sound of that option , KEVIN exhales . )",1
+29,14, ( He stands up and takes off his shirt to expose bruising on his body similar to those found on TIMMY . ),1
+29,15," [[Warrick]] geez , man , what happened to you ?",1
+29,16, [[Warrick]] turn around,0
+29,17, ( KEVIN turns around . ),0
+29,18, ( The bruises are on his back as well . ),1
+29,19, [[Warrick]] those are the same markings your brother had,1
+29,20, [[Warrick]] you want to tell us what went down here ?,1
+29,21, [[Kevin_McCallum]] i ca n't talk about it,1
+29,22, [[Kevin_McCallum]] i 'm sorry,1
+29,23," [[Nick]] hey , listen , if-if you 're the victim here , you can tell us",1
+29,24, [[Nick]] okay ?,0
+29,25," [[Warrick]] kevin , who did this to you , man ?",1
+29,26, ( KEVIN looks at him and does n't say anything . ),1
+30,0, ( CATHERINE and GRISSOM work on the water-logged piece of paper . ),0
+30,1," [[Catherine]] well , there 's an awful lot of water damage , but , um",0
+30,2, [[Catherine]] there 's some kind of an impression,0
+30,3," [[Grissom]] well , maybe this will bring it up",0
+30,4, ( GRISSOM puts the paper under the machine . ),0
+30,5, ( The computer beeps and whirs . ),0
+30,6, ( The schedule appears on the monitor . ),0
+30,7," ( GRISSOM focuses on the writing right above Alfred Hitchcock 's , 'Strangers On A Train ' . )",0
+30,8, [[Grissom]] it 's written above 'strangers on a train ',1
+30,9, [[Catherine]] 'strangers on a train ' is that the one with the perfect murder ?,0
+30,10," [[Grissom]] two strangers meet on a train , make a pact to get rid of each other 's problems they figure since neither has a motive for the killings , they wo n't be caught",0
+30,11, [[Catherine]] life imitating art ?,0
+30,12," [[Grissom]] in the movie , robert walker kills farley granger 's wife",0
+30,13," [[Grissom]] granger did n't think he was serious , so when he refuses to kill walker 's father , walker goes after him",0
+30,14, [[Catherine]] so if audrey is farley granger,1
+30,15, [[Grissom]] who 's playing robert walker 's part ?,0
+30,16, ( GRISSOM turns back to the monitor and works on clearing up the writing on the schedule . ),0
+30,17," [[Catherine]] 'sphere e4-117 ' well , that 's got to be the sphere hotel",1
+30,18," [[Grissom]] it 's not a hotel room , though",0
+30,19," [[Catherine]] locker , safety deposit box",0
+30,20," [[Grissom]] ... parking space , maybe",0
+30,21, [[Catherine]] yeah,0
+31,0," ( BRASS , CATHERINE and GRISSOM question the show 's manager . )",0
+31,1, ( BRASS holds out a photograph of the victim . ),0
+31,2, [[Anthony_Haines]] audrey who ?,1
+31,3, [[Brass]] hilden,1
+31,4, [[Anthony_Haines]] naw,0
+31,5, [[Anthony_Haines]] i never heard of her,1
+31,6, [[Anthony_Haines]] what 's this about ?,0
+31,7, [[Catherine]] e4-117,0
+31,8, [[Catherine]] your assigned parking space,0
+31,9, [[Catherine]] it was written on a movie schedule we found in ms hilden 's home,1
+31,10," [[Anthony_Haines]] well , look , i meet a lot of women",0
+31,11, [[Anthony_Haines]] she a dancer ?,1
+31,12, [[Anthony_Haines]] she work for me before ?,1
+31,13, ( A showgirl walks past the group and into the dressing room . ),0
+31,14," [[Anthony_Haines]] hey , michelle",0
+31,15, [[Anthony_Haines]] mmm !,0
+31,16, ( He whacks MICHELLE on her butt as she passes by . ),0
+31,17, ( This gets a reaction from CATHERINE . ),0
+31,18," [[Anthony_Haines]] i 'll tell you guys something : this show is very hot , all the chicks want to be in it , and actually , they , uh , got to go through me",0
+31,19, ( GRISSOM sees something interesting to him inside the dressing room and walks in without a word to anyone . ),0
+31,20, [[Brass]] ever been to the art house movie theater ?,0
+31,21, [[Anthony_Haines]] no,0
+31,22, [[Anthony_Haines]] where 's that ?,0
+31,23, [[Catherine]] have you ever seen any hitchcock movies ?,0
+31,24, [[Catherine]] 'strangers on a train ' ?,0
+31,25, ( GRISSOM sees the exact same WONDERLAND THEATRE schedule stuck on the mirror . ),1
+31,26, [[Brass]] alfred hitchcock ?,0
+31,27, [[Grissom]] mr haines ?,0
+31,28, [[Grissom]] whose station is this one ?,0
+31,29, ( He sticks his head in through the doorway . ),0
+31,30," [[Anthony_Haines]] oh , that 's kelly goodson 's",1
+31,31, [[Anthony_Haines]] royal pain in the ass,0
+31,32, ( He turns back to BRASS and CATHERINE . ),0
+31,33, ( GRISSOM moves along and starts looking around the dressing room . ),0
+31,34, ( In the background the show music starts . ),0
+31,35, ( GRISSOM looks inside the open locker and finds a business card for 'Langly and Langly ' / Attorneys at Law . ),0
+31,36, ( The dancers walk back into the dressing room . ),0
+31,37, ( GRISSOM looks up and notices some creams and tubes on the top shelf of the locker . ),0
+31,38, [[Kelly_Goodson]] can i help you ?,1
+31,39, [[Kelly_Goodson]] that 's my locker,1
+31,40, [[Grissom]] it was open,0
+31,41, [[Kelly_Goodson]] you always snoop through other people 's things ?,0
+31,42, ( KELLY GOODSON turns to her dressing station and takes off her red wig . ),1
+31,43, ( She puts it on the wig stand . ),1
+31,44, ( GRISSOM watches her . ),1
+31,45, [[Grissom]] i 'm with the crime lab,0
+31,46, [[Grissom]] i 'm a professional snoop,0
+31,47," [[Grissom]] do you , uh ... ever wear that wig en you go out ?",0
+31,48, ( KELLY GOODSON turns back to her locker and takes out the tube and small container of cream . ),1
+31,49, ( She sits back down in the chair in front of her station . ),1
+31,50, [[Kelly_Goodson]] i never get to go out,1
+31,51," [[Kelly_Goodson]] two shows a night , three on weekends",0
+31,52, [[Kelly_Goodson]] why ?,0
+31,53, [[Kelly_Goodson]] you have something in mind ?,0
+31,54, [[Grissom]] do you like the movies ?,0
+31,55," [[Grissom]] i , uh , noticed you have an art house theater schedule on your mirror",1
+31,56," [[Kelly_Goodson]] yeah , i 've been there a few times",1
+31,57, [[Grissom]] ever seen 'strangers on a train ' ?,0
+31,58," ( She pauses to think about it , then shakes her head . )",1
+31,59, ( She looks up at GRISSOM . ),1
+31,60, [[Kelly_Goodson]] no,0
+31,61, [[Kelly_Goodson]] is it any good ?,0
+31,62," [[Grissom]] yeah , it 's good",0
+31,63," [[Grissom]] you use a lot of creams , huh ?",0
+31,64, ( She raises her leg straight up to the ceiling and starts putting cream on her leg . ),1
+31,65," [[Kelly_Goodson]] sixteen shows a week in these shoes , your legs would be killing you , too",0
+31,66, [[Grissom]] is that your own recipe ?,1
+31,67, [[Kelly_Goodson]] what was it you said you do for a living ?,0
+31,68, [[Grissom]] i 'm a scientist,0
+31,69," [[Kelly_Goodson]] and , um , i 'm up in five minutes , so ... you mind ?",1
+31,70, [[Grissom]] no,0
+31,71, [[Grissom]] i do n't mind,0
+31,72, ( GRISSOM does n't move . ),0
+31,73, ( KELLY GOODSON reaches behind her and unsnaps her top . ),1
+31,74, ( Brassy music in background ends with a flourish . ),0
+32,0," ( SARA is behind the computer , typing . )",0
+32,1, ( WARRICK rushes into the lab and takes the seat next to her . ),0
+32,2, [[Warrick]] i 'm sorry i 'm late,0
+32,3, [[Warrick]] what bullet are you on ?,0
+32,4," [[Sara]] 109 , finally",0
+32,5," [[Sara]] height , distance , angle",0
+32,6, [[Sara]] this has been a very laborious shift,0
+32,7, [[Sara]] are you in the mood for a light show ?,0
+32,8," [[Warrick]] yeah , hook it up",0
+32,9," ( SARA runs the computer program and for the brief moment , it shows the trajectory of all the bullets at random intervals . )",0
+32,10, [[Warrick]] the trajectory is all pointing in one uniform area,1
+32,11, [[Warrick]] looks like some kind of a pole,1
+32,12, [[Sara]] or a bamboo stick,1
+32,13, ( WARRICK gives a weary laugh . ),0
+32,14, [[Warrick]] the whole case has been like this,0
+32,15," [[Warrick]] it 's like you ca n't wrap your head around it , you know ?",0
+32,16," [[Sara]] a bamboo cane with black swirls descending downward , no gsr , 109 rods , 109 bullets , all fired from the same gun",1
+32,17," [[Warrick]] camera glass , blood droplets everywhere , dna that says five people were there , one boy 's dead , one boy 's injured , and he ai n't sayin ' nothin '",1
+32,18, [[Warrick]] is this the end of the road ?,0
+32,19, [[Sara]] forensically ?,0
+32,20, ( She turns to look at WARRICK ),0
+32,21, [[Sara]] yes,0
+33,0, ( NICK runs into SARA in the hallway as she comes down the stairs . ),0
+33,1, [[Sara]] hey,0
+33,2," [[Nick]] hey , sara , i was just coming to get you",0
+33,3, [[Nick]] surveillance footage from jenko liquor,0
+33,4, [[Nick]] archie just put together some black-and-white stills,0
+33,5, [[Nick]] check it out,0
+33,6," [[Nick]] kevin , the older brother , buying beer",0
+33,7, ( NICK hands SARA a photograph of KEVIN in the liquor store purchasing the beer at the counter . ),0
+33,8," ( In the back aisle is a boy bending over , his back to the camera . )",0
+33,9, ( The date and time stamp on the bottom of the picture reads : 04/02/03 20:27 . ),0
+33,10, [[Sara]] looks like he was n't alone,0
+33,11," [[Nick]] no , you 're right",0
+33,12," [[Nick]] he had four other friends with him , including timmy",0
+33,13, ( NICK hands SARA a second photograph of TIMMY at the soda fountain filling up a cup . ),0
+33,14," ( He has his eye on the counter , a big smile on his face as he tries not to get caught . )",0
+33,15, ( Date and Time stamp on the bottom of the picture reads : 04/02/03 20:23 . ),0
+33,16, [[Nick]] and here you go,0
+33,17, ( NICK shows SARA the third photo of two boys in the back of the store causing a commotion while the third boy holds a pack of beer . ),0
+33,18, ( Both NICK and SARA chuckle at the photo . ),0
+33,19, [[Nick]] it 's a classic distraction technique,0
+33,20, [[Nick]] did it many times,0
+33,21, [[Nick]] you go in with a group of buddies and you cause a little ruckus,0
+33,22, [[Sara]] store owner gets flustered,0
+33,23, [[Sara]] he wants the kids out of his store,0
+33,24," [[Sara]] so , he sells them the beer , even though they 're underage , and of course they drink it",0
+33,25," [[Nick]] well , you know about the camera glass warrick found , right ?",0
+33,26, [[Nick]] that means someone has this all on tape,0
+33,27," [[Nick]] i say we track down the other kids , see which one of them thinks he 's tarantino",0
+33,28, ( SARA and NICK both walk away . ),0
+34,0, ( GRISSOM empties the paper package onto his desk . ),0
+34,1, ( Boxes of different creams drop out . ),0
+34,2, ( CATHERINE walks into the office and takes a seat on the other side of the desk . ),0
+34,3," [[Catherine]] so , get this -- anthony haines had a sexual harassment suit filed against him recently",1
+34,4, [[Grissom]] there 's a lot of that going around,0
+34,5," [[Catherine]] uh-huh , from one of the showgirls",0
+34,6, [[Grissom]] kelly goodson ?,1
+34,7, [[Catherine]] she claims that he threatened to fire her if she did n't perform certain sexual favors,1
+34,8," [[Grissom]] you know , she had a business card in her locker -- langly and langly , attorneys-at-law",1
+34,9, [[Grissom]] it 'd be interesting to find out,0
+34,10, [[Catherine]] ... if audrey hired the same firm ?,1
+34,11, [[Catherine]] she did,1
+34,12," [[Grissom]] so , they liked the same movies ... they had the same problem ... and they hired the same lawyer ?",1
+34,13, ( CATHERINE looks at the creams on GRISSOM 'S desk and asks . ),0
+34,14, [[Catherine]] knees bothering you ?,0
+34,15, ( GRISSOM picks up the evidence bag with the extension cord in it . ),0
+34,16, [[Grissom]] the extension cord used to strangle audrey hilden,1
+34,17, ( He puts it aside and picks up another evidence bag . ),0
+34,18, [[Grissom]] the dentist 's gold chain,1
+34,19, ( He puts that one aside and shows CATHERINE another evidence bag . ),0
+34,20, [[Grissom]] the murderer 's gloves,0
+34,21," [[Catherine]] well , any physical evidence on those gloves would 've been compromised by the ammonia",0
+34,22, [[Grissom]] only on the inside ; not necessarily the outside,0
+34,23, [[Grissom]] you use two hands to put on gloves,0
+34,24, [[Catherine]] you 're looking for transfer,0
+34,25, ( GRISSOM holds up a notebook and looks at CATHERINE with anticipation . ),0
+34,26, [[Grissom]] special recipe,0
+35,0, ( Two mannequins hands are set up on the counter . ),0
+35,1, ( The leather gloves are put on the hands . ),0
+35,2, ( GREG swabs the gloves and tests it . ),0
+35,3, ( He works efficiently and methodically . ),0
+35,4, ( GREG takes a swab from the extension cord . ),0
+36,0, ( O'RILEY questions J.J . ),1
+36,1," [[J.J.]] we go to the warehouse all the time ... just go there to party , talk about chicks",1
+36,2, [[J.J.]] sometimes we smoke out,1
+36,3," [[O'Riley]] you take off your shirt , please ?",1
+36,4, ( J.J. stands up and lifts up his shirt . ),1
+36,5, ( He turns around . ),1
+36,6, ( There are bruises on his torso . ),1
+37,0, ( EARL turns around to show the bruises on his back and front . ),1
+37,1, ( He puts his shirt down and sits down . ),1
+37,2, [[Earl]] i ride bmx bikes ... play soccer,1
+37,3," [[Earl]] man , i wake up with bruises",1
+38,0, ( O'RILEY interviews ZACHARY . ),1
+38,1, [[Zachary]] we were just messing around,1
+38,2, [[O'Riley]] i 'm not,0
+38,3, [[O'Riley]] a kid 's dead,1
+38,4, [[O'Riley]] back to the question,0
+38,5, [[O'Riley]] how 'd you get the shiner ?,1
+38,6, ( ZACHARY shakes his head and explains . ),1
+38,7, [[Zachary]] jj found a gun in north town,1
+38,8," [[Zachary]] we were messing with it , shooting the walls",1
+38,9," [[Zachary]] so , one night , i brought my hi-eight camera in , and one of the stray bullets shot my lens out",1
+38,10, ( Quick flashback to : ZACHARY holds the camera and films whatever he 's looking at . ),1
+38,11, ( A bullet breaks the lens and sends ZACHARY to the floor . ),1
+38,12, ( End of flashback . ),0
+38,13, ( Resume to present . ),0
+38,14, [[O'Riley]] who was the shooter ?,0
+38,15, ( ZACHARY chuckles wryly . ),1
+38,16," [[O'Riley]] you can tell us and save yourself , or you can let the tape tell us",1
+38,17, [[O'Riley]] it 's your call,1
+38,18, ( ZACHARY lifts up his head and looks at O'RILEY . ),1
+39,0, ( KEVIN McCALLUM is looking directly at the camera and yelling . ),0
+39,1, [[Kevin_McCallum]] what up ?,0
+39,2," [[Kevin_McCallum]] my name 's kevin these are my boys -- jj , earl , zach , and my little bro timmy , and this is called",0
+39,3, [[All]] speedway surfing !,0
+39,4, ( Cut to: ),0
+39,5," ( NICK , WARRICK and SARA sit behind the computer watching the video . )",0
+40,0, ( O'RILEY interviews KEVIN McCALLUM . ),0
+40,1, [[Kevin_McCallum]] timmy was a big fan of all those reality shows,0
+40,2," [[Kevin_McCallum]] you know , the 'do n't try this at home ' stuff",0
+40,3, [[Kevin_McCallum]] we-we all watched it on tv,0
+40,4," [[Kevin_McCallum]] so , one day , we 're bored",0
+40,5," [[Kevin_McCallum]] we started making up stunts on our own , trying to outdo each other",0
+40,6, [[Kevin_McCallum]] speedway surfing ... that was my idea,0
+41,0," ( Back in the lab , NICK , SARA and WARRICK watch the video . )",0
+41,1, ( A red car races on the monitor . ),0
+41,2, ( Kids are shouting and whooping it up . ),0
+41,3," ( On the car hood , J.J. stands as if he 's surfing . )",1
+41,4," [[kid]] come on , hit it !",0
+41,5, [[kid]] kid : yeah !,0
+41,6, [[kid]] whoo !,0
+41,7, ( The car engine speeds . ),0
+41,8, [[kid]] whoo !,0
+41,9, ( SARA looks at NICK . ),0
+41,10, ( WARRICK watches the monitor and shakes his head . ),0
+41,11, [[Kevin_McCallum]] we all did it,1
+41,12, [[Kevin_McCallum]] some ate it bad,0
+41,13, [[Kevin_McCallum]] jj bruised his tailbone,1
+41,14, ( KEVIN snorts at the memory . ),1
+41,15, [[Kevin_McCallum]] we were just messing around,1
+41,16, ( JJ stands on the hood of the car as it speeds . ),1
+41,17, [[JJ]] whoo !,0
+41,18, ( The other boys are in the car yelling with excitement . ),0
+41,19, ( JJ looses his balance and falls off of the speeding car hood and onto the road . ),1
+41,20," ( SARA , NICK and WARRICK continue to watch the video . )",0
+41,21, ( They ca n't believe what they 're seeing . ),0
+41,22, [[Kevin_McCallum]] then zach got the fever,1
+41,23," [[Kevin_McCallum]] next day , he came up with one",1
+41,24, ( The kids sit in front of the video . ),1
+41,25, [[Zach]] the human,0
+41,26, [[All]] ... 150-yard marker !,0
+41,27, ( They laugh as they get ready . ),0
+41,28, ( ZACH holds a golf club and the other kids put on football helmets . ),1
+41,29, ( SARA turns to look back at WARRICK . ),0
+41,30, ( ZACH puts the tee down and sets up the shot . ),1
+41,31, ( The other kids stand in front with their hands cupping their most private parts . ),1
+41,32, ( They wait for the ball to hit them . ),1
+41,33," [[Zach]] ready , boys ?",0
+41,34, [[Zach]] kid : okay boy,0
+41,35, [[Zach]] kid : fore !,0
+41,36, ( The first shot hits TIMMY McCALLUM in the chest . ),1
+41,37, ( He groans at the impact and goes down . ),1
+41,38, ( Everyone laughs . ),1
+41,39, ( NICK shakes his head . ),0
+41,40, [[Kevin_McCallum]] then it came time for timmy 's turn,1
+41,41," [[Kevin_McCallum]] he stayed up all night ... and by morning , he had it",1
+41,42," ( At the warehouse , TIMMY McCALLUM is in front of the camer with the other boys behind him as he explains his dare . )",1
+41,43, [[Timmy_McCallum]] hi,0
+41,44," [[Timmy_McCallum]] my name is timmy mccallum , and this is my debut stunt , so i 'm really psyched",1
+41,45, [[Timmy_McCallum]] it 's called ... bamboo russian roulette !,1
+41,46, ( Quick flashback to : The kids playing Bamboo Russian Roulette in the warehouse . ),1
+41,47, ( ZACH holds the camera as he films KEVIN is up on the warehouse rooftop and looks down through the hole in the ceiling . ),1
+41,48, [[Kevin_McCallum]] you ready ?,0
+41,49, [[Everyone]] whoo !,0
+41,50, ( End of flashback . ),0
+41,51, ( Resume to present . ),0
+41,52, [[Kevin_McCallum]] we did it a bunch of times,1
+41,53," [[Kevin_McCallum]] you know , we all took turns going up on the roof",1
+41,54," [[Kevin_McCallum]] we almost stopped when i got shot in the arm ... but we were drunk , and so ... ... we decided to try it one more time",1
+41,55," ( Quick flashback to : Inside the warehouse , the kids jump and circle around the bamboo pole as the gun fires and falls down the pole . )",1
+41,56, ( Camera is on TIMMY as he skips around the bamboo pole . ),1
+41,57, ( Gunfire is heard through the warehouse . ),1
+41,58, [[Everyone]] yeah !,0
+41,59, ( There 's more gun fire and kids whooping and laughing . ),0
+41,60, [[Everyone]] whoo !,0
+41,61, ( KEVIN lets the gun go from the roof top . ),1
+41,62, ( The gun fires . ),1
+41,63, ( Some kids hunker down to avoid the bullets . ),1
+41,64," ( One bullet hits ZACH , breaking his camera . )",1
+41,65, ( He falls down . ),1
+41,66, ( TIMMY is still standing and circling the pole . ),1
+41,67, ( One bullet hits him square in the chest . ),1
+41,68," ( From the roof , KEVIN sees TIMMY get shot . )",1
+41,69," ( In slow motion , TIMMY falls to the floor . )",1
+41,70," ( Judging by the camera angle , the camera is also on the floor and it 's still recording . )",0
+41,71," ( On the monitor , TIMMY is on the ground . )",1
+41,72, [[Kevin_McCallum]] he kept trying to breathe,1
+41,73, [[Kevin_McCallum]] i did n't know what to do,1
+41,74, [[Kevin_McCallum]] i came down from the roof,1
+41,75, [[Kevin_McCallum]] i went over to his side,1
+41,76," [[Kevin_McCallum]] i kept saying ... 'come on , breathe , bro",1
+41,77," [[Kevin_McCallum]] you ca n't die on me , man '",1
+41,78, [[O'Riley]] why did n't you call an ambulance ?,1
+41,79, [[Kevin_McCallum]] i did n't want to get in trouble,1
+41,80," [[O'Riley]] so , you just left him for dead ?",1
+41,81, [[Kevin_McCallum]] it was an accident,1
+41,82, [[Kevin_McCallum]] it 's not like we had a death wish,1
+41,83, [[O'Riley]] you sure about that ?,1
+41,84, ( KEVIN puts his head down . ),1
+42,0, ( CATHERINE and GRISSOM both sit on chairs and interview KELLY GOODSON . ),1
+42,1, [[Catherine]] langly and langly,0
+42,2, ( GRISSOM looks at CATHERINE and nods . ),0
+42,3, ( KELLY GOODSON watches the exchange and shakes her head in confusion . ),1
+42,4, [[Kelly_Goodson]] mm,0
+42,5, [[Kelly_Goodson]] i 'm sorry ?,1
+42,6," [[Catherine]] oh , it 's the law firm that both you and audrey hired to deal with your problems -- gus sugarman and anthony haines",1
+42,7, [[Kelly_Goodson]] tony haines is a pig ... but who 's gus ?,0
+42,8," [[Catherine]] well , we 're guessing that that 's where the two of you first met , at the lawyers '",1
+42,9, [[Grissom]] or they could 've met at the movie theater,1
+42,10, [[Catherine]] right,0
+42,11, [[Catherine]] right,0
+42,12," [[Catherine]] i mean , either way , you ladies had a lot in common",1
+42,13, ( Quick flashback to : KELLY GOODSON walks into the movie theatre and sits down a few rows behind AUDREY HILDEN . ),1
+42,14, ( AUDREY turns around slightly and notices KELLY sitting behind her . ),1
+42,15, ( End of flashback . ),0
+42,16, ( Resume to present . ),0
+42,17," [[Grissom]] boy , ca n't you see them watching 'strangers on a train ' together ?",0
+42,18," [[Catherine]] oh , yeah",0
+42,19," [[Grissom]] i 'm thinking that audrey told her everything about her dentist , and she told audrey everything about haines",1
+42,20, ( Quick flashback to : The two ladies sit at a table and AUDREY HILDEN talks to KELLY GOODSON . ),1
+42,21, [[Catherine]] you needed them both dead,1
+42,22, ( End of flashback . ),0
+42,23, ( Resume to present . ),0
+42,24," [[Catherine]] so , right out of 'strangers on a train ' , if you swapped murders , no one could tie you to the victims , and then you started talking specifics --",1
+42,25, [[Catherine]] where the best place would be to kill haines,0
+42,26," [[Catherine]] someplace dark , secluded -- the parking lot right here at the sphere",0
+42,27, ( Quick flashback to : KELLY GOODSON reaches over the table and writes the parking stall information on AUDREY HILDEN 'S movie schedule : Sphere E4-117 . ),1
+42,28, ( End of flashback . ),0
+42,29, ( Resume to present . ),0
+42,30," [[Grissom]] after you stabbed sugarman , you ripped the gold chain off of his neck as proof that you 'd kept up your end of the bargain",1
+42,31," ( Quick flashback to : KELLY GOODSON in a red wig standing behind GUS SUGARMAN , one hand over his mouth and the other hand with the screwdriver . )",1
+42,32," ( After she kills him , she rips off the chain from his neck . )",1
+42,33, ( End of flashback . ),0
+42,34, ( Resume to present . ),0
+42,35," [[Catherine]] and then you walked out into the lobby and called audrey on the pay phone , to say that the deed was done",1
+42,36, [[Grissom]] and then audrey called sugarman three times in a row to see if it was true,1
+42,37, [[Catherine]] she was the one who picked the movie ... and made the date,1
+42,38," [[Grissom]] but that 's all she did , is n't it ?",1
+42,39," [[Grissom]] 'cause just like in the movie , she had no intention of killing haines ... and that 's when you started harassing her",1
+42,40, ( Quick flashback to : The phone rings and AUDREY HILDEN does n't answer it . ),1
+42,41, ( Flash to : KELLY GOODSON standing on the sidewalk on the other side of the street watching as AUDREY HILDEN parks her car . ),1
+42,42, ( End of flashback . ),0
+42,43, ( Resume to present . ),0
+42,44, [[Catherine]] you 'd killed for her,1
+42,45, [[Catherine]] now she was n't holding up her end of the bargain,1
+42,46, [[Grissom]] you could n't let her betray you,1
+42,47," [[Grissom]] so , unfortunately , she had to die , too",1
+42,48, ( Quick flashback to : KELLY GOODSON with her hands around AUDREY HILDEN 'S neck . ),1
+42,49," ( They struggle , but KELLY 'S stronger and more determined than AUDREY . )",1
+42,50, ( KELLY drags AUDREY up the stairs . ),1
+42,51, ( She manages to get AUDREY over the banister . ),1
+42,52, ( She ties the cord around AUDREY 'S neck then tosses her over the side . ),1
+42,53, ( AUDREY 'S body jerks as she dangles there . ),1
+42,54, ( End of flashback . ),0
+42,55, ( Resume to present . ),0
+42,56," [[Grissom]] so , you made it look like she 'd committed suicide , and then you planted sugarman 's gold chain , in hopes that we would think that she killed him , too",1
+42,57, [[Catherine]] the only thing that she had on you was that movie schedule,1
+42,58, [[Catherine]] that had to go,0
+42,59, ( Quick flashback to : KELLY GOODSON rips the movie schedule off of the bulletin board and crumples it . ),1
+42,60, ( She tosses it into the toilet and flushes . ),0
+42,61, ( She leaves . ),0
+42,62, ( End of flashback . ),0
+42,63, ( Resume to present . ),0
+42,64, ( KELLY looks at them and smiles . ),1
+42,65, [[Kelly_Goodson]] wow ... that is a really good story,0
+42,66, [[Kelly_Goodson]] you guys must be movie fans yourselves,0
+42,67, [[Grissom]] you 're right,1
+42,68, [[Grissom]] it 's just a story,0
+42,69, ( KELLY GOODSON looks at CATHERINE . ),1
+42,70, ( CATHERINE does n't say anything . ),0
+42,71, ( GRISSOM continues . ),0
+42,72," [[Grissom]] ... but the chemicals that we found on your gloves and on the extension cord that was used to kill audrey , that 's our proof",1
+42,73, [[Grissom]] menthol ... trolamine salicylate ... capsaicin,1
+42,74, ( GRISSOM reaches into his pocket and pulls out the tubes of creams and shows it to KELLY GOODSON . ),1
+42,75, [[Grissom]] ... eucalyptabalm ... isorcreme ... capsaicin ointment -- a unique concoction -- your unique concoction ... ... and this stuff is all over the evidence,1
+42,76, [[Grissom]] yeah ... it 's a pretty good movie,0
+42,77," [[Grissom]] well , the character that you 've been playing , the character that robert walker played in the movie ... dies at the end",0
+42,78, ( Camera holds on KELLY GOODSON . ),1
+43,0," ( On screen , the man takes out a gun and fires , hitting the other man in the abdomen . )",0
+43,1, ( On screen a woman rushes out of the room . ),0
+43,2, [[Man]] i said he 'd be alone,0
+43,3," ( In the audience , GRISSOM sits and watches the movie . )",0
+43,4, ( CATHERINE returns with her popcorn and drink and takes her seat next to GRISSOM . ),0
+43,5, [[Catherine]] hi,0
+43,6, [[Catherine]] what 'd i miss ?,0
+43,7," [[Grissom]] murder , seduction , deceit -- the usual",0
+43,8, [[Catherine]] mm,0
+43,9, [[Catherine]] this one of your favorites ?,0
+43,10," [[Grissom]] actually , i 'm not a big fan of noir",0
+43,11, [[Catherine]] okay,0
+43,12," [[Catherine]] well , what do you like ?",0
+43,13, [[Grissom]] i like silent movies,0
+43,14, ( CATHERINE stops and turns to look at GRISSOM . ),0
+43,15," ( With a small smile on his face , GRISSOM glances at CATHERINE , then turns to look at the screen . )",0

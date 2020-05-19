@@ -1,0 +1,1053 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( Camera close up of a tumbler . ),0
+0,1, ( Someone drops three ice cubes and pours the rest of the vodka from the bottle into the glass . ),1
+0,2, ( He picks up the glass and walks around the room . ),1
+0,3, ( He sits on the bed and drinks from his glass . ),1
+0,4, ( He stands up and walks into the bathroom to stand in front of the foggy mirror . ),1
+0,5, ( He uses the back of his hand to wipe it clear . ),1
+0,6, ( He stares at himself and sighs . ),1
+0,7, ( He turns around . ),1
+1,0, ( GRISSOM turns the corner to the hotel hallway and makes his way to the officer who stands just outside the hotel room door . ),0
+1,1, ( The OFFICER signals GRISSOM inside the room . ),0
+1,2, ( GRISSOM walks into the room . ),1
+1,3, ( BRASS is inside with two other OFFICERS . ),0
+1,4, ( He looks at GRISSOM . ),0
+1,5, [[Brass]] oh ... you 're going to love this,0
+1,6, ( BRASS pulls out a cloth from his pocket to open the bathroom door . ),0
+1,7, ( They look inside . ),0
+1,8," ( At the far end of the bathroom , is a tub ... with the dead body inside . )",1
+1,9, [[Brass]] ring any bells ?,0
+1,10," [[Brass]] rub-a-dub-dub , dead man in a tub",0
+1,11, ( BRASS and GRISSOM step into the bathroom . ),0
+1,12, ( GRISSOM puts his kit down near the door . ),0
+1,13, [[Brass]] sleeping bag for easy cleanup,1
+1,14, [[Brass]] open window so the stench alerts the neighbors,1
+1,15, ( GRISSOM looks around . ),0
+1,16, [[Grissom]] it 's royce harmon all over again,0
+1,17, ( Quick flashes of : A shot of the chest bullet wound . ),0
+1,18, ( Flash to : The revolver in the man 's left hand . ),0
+1,19, [[Grissom]] what do you think ?,0
+1,20, [[Grissom]] 'suicide ' note in the same place ?,0
+1,21, ( GRISSOM steps forward . ),0
+1,22," [[Brass]] you tell me , karnak",0
+1,23," ( GRISSOM cautiously look , reaches out and finds the tape recorder clutched in the body 's right hand . )",0
+1,24, ( He takes it and looks at it . ),0
+1,25," [[Brass]] now , that 's weird",0
+1,26, [[Grissom]] not weird,0
+1,27, [[Grissom]] intentional,0
+1,28, ( GRISSOM presses play . ),0
+1,29, [[Recorded_Voice]] ... narl loop sair momoph reet reet seer pute narfenging,0
+1,30, ( GRISSOM shuts it off . ),0
+1,31, [[Brass]] what kind of language is that ?,0
+1,32, [[Brass]] swedish ?,0
+1,33, [[Grissom]] it 's backward,0
+1,34," ( GRISSOM thinks about it for a moment , then turns around to look at BRASS . )",0
+1,35, [[Grissom]] would you excuse me a minute ?,0
+1,36, [[Brass]] sure,0
+1,37, [[Brass]] okay,0
+1,38, ( BRASS steps out of the bathroom and closes the door behind him . ),0
+1,39, ( BRASS shuts the door . ),0
+1,40, [[Officer_Arvington]] he okay in there ?,0
+1,41, [[Brass]] quincy wants to be alone,0
+1,42, [[Brass]] we had a case like this three months ago -- a guy found dead in his bathtub,0
+1,43, [[Brass]] turned out the suicide was staged,0
+1,44, [[Brass]] found a mini-recorder as a suicide note,0
+1,45, ( BRASS turns to look at the closed bathroom doors . ),0
+1,46, [[Brass]] killer may have struck again,0
+1,47, [[Officer_Arvington]] why does he want to be alone ?,0
+1,48, ( BRASS looks at OFFICER ARVINGTON . ),0
+1,49, [[Brass]] he wants to get his mojo working,0
+2,0," ( GRISSOM turns the tape recorder on and plays it backward , then flips the switch to play it forward . )",0
+2,1, [[Recorded_Voice]] man on mini-recorder : my name is stuart rampler,0
+2,2," [[Recorded_Voice]] i reside at 818 noeing hill court , las vegas , nevada",0
+2,3," [[Recorded_Voice]] i am 43 years of age , and i 'm going to kill myself",0
+2,4, [[Recorded_Voice]] i just ca n't do it anymore,0
+2,5," [[Recorded_Voice]] i love you , mom",0
+2,6, ( He shuts the recorder off and stands there a moment . ),0
+2,7, ( He turns to look at his reflection in the mirror . ),0
+2,8, [[Grissom]] you 're back,0
+3,0, ( GRISSOM walks into the hallway reading the assignment sheets in one hand ; the bagged tape recorder in the other . ),0
+3,1, ( He looks up and sees SHIBLEY walking toward him . ),0
+3,2," [[Grissom]] shibley , take this recorder to the print lab",0
+3,3," ( GRISSOM hands the tape recorder to SHIBLEY , then continues down the hallway . )",0
+3,4, [[Grissom]] have manny dust it and run prints on it right away,0
+3,5, ( SHIBLEY gives GRISSOM a large envelope . ),0
+3,6, [[Shibley]] photos from tonight 's suicide,0
+3,7, [[Shibley]] put a 'rush ' on them for you,0
+3,8, [[Grissom]] photos,0
+3,9, [[Grissom]] thank you,0
+3,10, ( GRISSOM walks down the hallway and stops when he hears what sounds like a football game whistle coming from the break room . ),0
+3,11, ( He looks inside . ),0
+4,0, ( WARRICK and NICK play a video football game . ),0
+4,1, [[Nick]] oh !,0
+4,2," [[Warrick]] throw the flag , ref !",0
+4,3," [[NICK]] uncatchable , bro",0
+4,4, ( GRISSOM walks into the break room . ),0
+4,5, [[Grissom]] hey !,0
+4,6, [[Grissom]] you guys want an assignment slip or a pink slip ?,0
+4,7, ( WARRICK stands up ; NICK shuts the game off and also stands up . ),0
+4,8, [[Warrick]] just taking a little coffee break,0
+4,9, [[Nick]] is it true ?,0
+4,10, [[Warrick]] same guy ?,0
+4,11, [[Grissom]] i do n't know,0
+4,12, [[Grissom]] we 'll see,0
+4,13, [[Grissom]] here,0
+4,14, [[Grissom]] 410,0
+4,15, [[Grissom]] reckless driver out at hoover dam,0
+4,16, [[Grissom]] car went over a cliff,0
+4,17, [[Grissom]] anonymous caller,0
+4,18, [[Grissom]] could be foul play,0
+4,19, ( GRISSOM gives WARRICK the assignment sheet . ),0
+4,20," [[Warrick]] oh , me and him , working together ?",0
+4,21," [[Warrick]] oh , it 's on",0
+4,22," [[Nick]] you 're going down , bro",0
+4,23, ( WARRICK hands the sheet to NICK . ),0
+4,24, ( The two gearing up for the challenge ahead . ),0
+4,25, [[Grissom]] hey !,0
+4,26, [[Grissom]] work together tonight,0
+4,27, [[Grissom]] all right ?,0
+4,28, ( WARRICK nods demurely . ),0
+4,29, ( GRISSOM leaves the room . ),0
+4,30," ( Once his back is turned , NICK and WARRICK look at each other and smile ... gearing up for the challenge ahead . )",0
+5,0, ( GRISSOM walks into the office . ),0
+5,1," [[Grissom]] okay , we 're going off the board tonight",0
+5,2, [[Sara]] off the board ?,0
+5,3, [[Catherine]] 'the ones that got away ' fish,0
+5,4, [[Sara]] ah,0
+5,5, [[Sara]] i missed that one,0
+5,6, ( GRISSOM stands in front of the large fish-shaped corkboard and takes down some photographs . ),0
+5,7," [[Grissom]] first victim , royce harmon",0
+5,8," [[Grissom]] about three months ago , brass and i found this guy dead in his own bathtub , but his 'suicide ' was staged",0
+5,9, [[Grissom]] i think the killer has killed again,0
+5,10, ( He hands the photos to SARA . ),0
+5,11, [[Grissom]] photos of tonight 's victim : stuart rampler,1
+5,12, [[Grissom]] play the 'pick six things that are different ' game,0
+5,13, [[Grissom]] bet you lose,0
+5,14, ( CATHERINE looks at the photos . ),0
+5,15, [[Sara]] this guy 's good,0
+5,16, [[Catherine]] not good,0
+5,17, [[Catherine]] exceptional,0
+5,18, [[Catherine]] print examiner lifted a thumbprint off the mini-recorder near the tub of our first victim,0
+5,19, [[Catherine]] the print came back this,1
+5,20, ( CATHERINE looks around GRISSOM 'S office and finds the fake hand . ),1
+5,21, ( She shows it to SARA . ),0
+5,22, [[Grissom]] the killer purchased one of these rubber hands laced the fingertips with cooking spray and proceeded to place false prints all around the crime scene,0
+5,23, [[Sara]] this guy is good,0
+5,24, [[Sara]] whose prints are these ?,0
+5,25, [[Grissom]] some guy who works in a warehouse making halloween paraphernalia,1
+5,26," [[Grissom]] scary masks , air-brushed tombstones , rubber hands",0
+5,27, [[Grissom]] turns out he used his own hand for the mold,1
+5,28, [[Catherine]] so what do we do ?,0
+5,29, [[Grissom]] we split up,0
+5,30, [[Grissom]] you and i go to the coroner,0
+5,31," [[Grissom]] sara , you go to the hotel",0
+5,32, [[Grissom]] dust every inch of that bathroom,0
+5,33, [[Grissom]] here,0
+5,34, [[Grissom]] use this --,0
+5,35, ( GRISSOM reaches for a container on the shelf . ),0
+5,36, ( He gives it to SARA . ),0
+5,37, [[Grissom]] 'red creeper ' my own concoction,0
+5,38, [[Sara]] wow,0
+5,39," [[Grissom]] well , serious case , serious print powder",0
+5,40, [[Grissom]] be thorough,0
+5,41, [[Grissom]] do n't take anything for granted,0
+5,42," [[Sara]] yes , sir",0
+5,43, ( SARA leaves the office . ),0
+5,44, ( CATHERINE and GRISSOM also leave the office . ),0
+6,0, ( NICK and WARRICK enter the crash site . ),1
+6,1, ( Emergency crew work on the car . ),0
+6,2, [[Warrick]] everyone still breathing in that car ?,0
+6,3, [[Paramedic]] so far,0
+6,4, [[Nick]] call came in blind,0
+6,5, [[Nick]] you see who could have made it ?,0
+6,6, [[Paramedic]] no,0
+6,7, [[Paramedic]] we were first on the scene,0
+6,8, [[Paramedic]] fire department came in two minutes behind,0
+6,9, [[Paramedic]] place was dead quiet,0
+6,10, ( The fire department crew cut the top off of the car . ),0
+6,11, ( They start working on the unconscious man in the back seat of the car . ),1
+6,12, [[Warrick]] where 's the driver ?,0
+6,13, [[Warrick]] he get thrown ?,0
+6,14, [[Officer]] did n't find anybody,0
+6,15, ( NICK and WARRICK look up above where the car fell . ),0
+6,16, [[Nick]] i 'm thinking dui,0
+6,17, [[Warrick]] you calling it ?,0
+6,18, ( NICK looks around on the ground and finds something . ),0
+6,19, [[Nick]] i 'm calling that beer bottle,0
+6,20, ( NICK uses a pen and picks it up to look at it . ),0
+6,21, [[Warrick]] how you know it 's from the car ?,0
+6,22, [[Nick]] it 's still cold,0
+6,23, [[Nick]] foam in the bottle,0
+6,24, [[Nick]] take it up top ?,0
+6,25, [[Warrick]] after you,0
+7,0, ( DR. ROBBINS pulls the body out of storage . ),0
+7,1, ( He goes over the body with GRISSOM and CATHERINE . ),0
+7,2, [[Dr._Albert_Robbins]] i 've read klausbach 's report on royce harmon the first staged suicide,0
+7,3, [[Grissom]] similarities ?,0
+7,4," [[Dr._Albert_Robbins]] well , based on the entry wound , they were both murdered",1
+7,5, [[Dr._Albert_Robbins]] but here 's where it gets fun,0
+7,6, ( DR. ROBBINS shows them the wound on the back of STUART RAMPLER 'S left hand . ),1
+7,7, [[Catherine]] that looks like he was shot trying to protect himself,1
+7,8," [[Grissom]] what else , doc ?",0
+7,9, [[Grissom]] my mind is painting,0
+7,10, [[Dr._Albert_Robbins]] he was paid a little visit from mr muzzle stamp,1
+7,11, ( DR. ROBBINS shows them the bruise on the temple . ),0
+7,12, ( Quick flashback to : The gun is against STUART RAMPLER 'S temple . ),0
+7,13, ( End of flashback . ),0
+7,14, ( Resume to present . ),0
+7,15, [[Catherine]] forced into the tub at gunpoint ?,1
+7,16, [[Grissom]] okay,0
+7,17, [[Grissom]] let 's play it out,0
+7,18, ( GRISSOM turns around . ),0
+7,19, ( The clock behind GRISSOM reads 4:35pm . ),0
+7,20," [[Grissom]] the killer 's got him at gunpoint , right ?",1
+7,21, [[Grissom]] standing over him like this,1
+7,22, ( Quick flashback to : STUART RAMPLER puts his hand up to block the gunshot . ),1
+7,23, [[Stuart_Rampler]] no !,0
+7,24, [[Stuart_Rampler]] !,0
+7,25, ( Quick CGI that follows the bullet as it pierces through flesh . ),0
+7,26, ( End of CGI . ),0
+7,27, ( End of flashback . ),0
+7,28, ( Resume to present . ),0
+7,29," [[Grissom]] but this time , things got messy",0
+7,30, [[Grissom]] royce harmon did n't fight back,0
+7,31, [[Grissom]] that 's why there was no muzzle bruising to his temple,0
+7,32, [[Catherine]] stuart rampler was resistant,0
+7,33, [[Catherine]] he did n't want to get into that tub too easily,0
+7,34, [[Catherine]] he took a few jabs to the temple,0
+7,35, [[Grissom]] but the killer just lost round one,1
+7,36, [[Grissom]] we know how he gets his vics into the tub and we know that both deaths were homicides,0
+7,37, [[Catherine]] not a bad start,0
+8,0, ( WARRICK stands at the top of the overlook near the broken railing . ),0
+8,1, ( NICK measures the tire marks on the road . ),0
+8,2, [[Nick]] the skid start way up the road,0
+8,3, [[Nick]] i got him doing at least 70,0
+8,4, [[Warrick]] more like 80,0
+8,5, [[Nick]] these grooves are from the car 's frame,0
+8,6, [[Nick]] it balanced before it fell,0
+8,7, ( NICK looks a the shoe prints in the dirt . ),0
+8,8, [[Nick]] this is where he bailed,0
+8,9," [[Nick]] wide spacing , slipping of the heel",0
+8,10, [[Nick]] he ran,0
+8,11, ( WARRICK takes a photo . ),0
+8,12, [[Warrick]] who ?,0
+8,13, [[Nick]] the phantom driver,0
+8,14, ( Quick flashback to : [_NICK_'S_VERSION_] Inside the moving car . ),0
+8,15," [[Walter_Banglor]] hey , hand me another beer",0
+8,16," [[Phantom_Driver]] no , you 've had enough",0
+8,17, ( The car heads straight for the truck . ),0
+8,18, ( Its horn blares . ),0
+8,19, ( The car swerves . ),0
+8,20," [[Phantom_Driver]] hey , hey ... !",0
+8,21, ( Tires squeal . ),0
+8,22," ( The car crashes through the railing and teeters on the edge of the embankment , its engine still running . )",0
+8,23, ( The PHANTOM DRIVER bails . ),0
+8,24," ( The Drunk Backseat Passenger , WALTER BANGLOR , stays in the car as it topples over and off the cliff . )",0
+8,25, ( The PHANTOM DRIVER runs away . ),0
+8,26, ( WALTER BANGLOR screams as the car falls down the ravine . ),0
+8,27, ( End of flashback . ),0
+8,28, ( Resume to present . ),0
+8,29, [[Warrick]] so your drunk driver just got out and ran away ?,0
+8,30, ( NICK looks at WARRICK and nods . ),0
+8,31, [[Warrick]] where to ?,0
+8,32, [[Nick]] i do n't know,0
+8,33, [[Nick]] that 's why we 're up here,0
+8,34, [[Nick]] but he left his buddy hanging out to dry,0
+8,35, [[Nick]] i can tell you that,0
+8,36, ( WARRICK points to the tire marks on the roadway behind NICK . ),0
+8,37, [[Warrick]] then how do you explain car number two ?,0
+8,38," [[Nick]] driver ran to this point , car picks him up",0
+8,39, [[Nick]] here are your tracks ... probably took him to the hospital,0
+8,40, [[Warrick]] not if we have these,0
+8,41, ( WARRICK looks down at the tracks in the dirt . ),0
+8,42, [[Warrick]] they 're kind of out of place,0
+8,43, [[Warrick]] a walking stride up to the edge,0
+8,44, ( WARRICK takes a couple of photos . ),0
+8,45, [[Warrick]] no,0
+8,46," [[Warrick]] this is a crime , not an accident",0
+8,47, [[Nick]] you care to back that statement up ?,0
+8,48, [[Nick]] my phantom driver against your criminal ?,0
+8,49, [[Warrick]] how much ?,0
+8,50, [[Nick]] fifty,0
+8,51, [[Warrick]] i do n't get out of bed for less than a bill,0
+8,52, ( NICK laughs and they shake on it . ),0
+9,0, ( SARA walks into the hotel room bathroom carrying her kit . ),0
+9,1, ( She meets up with DET B. EVANS . ),0
+9,2," [[Sara]] hey , evans",0
+9,3, [[Det._Evans]] hi,0
+9,4, ( SARA puts her kit and things down . ),0
+9,5, [[Det._Evans]] victim 's name is stuart rampler,0
+9,6, [[Det._Evans]] lives in town reserved a room for one night because his house was being fumigated,0
+9,7, [[Sara]] hmm,0
+9,8, [[Sara]] find anything unusual ?,0
+9,9, [[Det._Evans]] i bagged a couple of utility bills,0
+9,10, ( He moves to the side and picks up a bag of bills and shows it to SARA . ),0
+9,11, [[Det._Evans]] ready for mail,0
+9,12, [[Det._Evans]] it 's almost as if he wanted to take care of some unfinished business before he checked out,0
+9,13, ( SARA takes the mail out of the bag and goes through the bills . ),0
+9,14," [[Sara]] well , it 's not likely",0
+9,15, [[Sara]] his suicide was staged,0
+9,16, ( She notices something . ),0
+9,17, [[Det._Evans]] it 's an upside-down stamp,0
+9,18, [[Det._Evans]] what does that mean ?,0
+9,19, [[Sara]] i do n't know,0
+10,0, ( SARA uses the Red Creeper on the bathroom pipes . ),0
+10,1, [[Sara]] wow,0
+10,2, [[Sara]] this stuff rocks,0
+10,3," [[Sara]] i love bathrooms last time i printed a hotel bathroom , i had over 1,000 prints",0
+10,4, ( SARA continues to dust the tub . ),0
+10,5, ( She finishes . ),0
+10,6," [[Sara]] okay ... close the doors and hit the lights , daddy-o",0
+10,7, ( EVANS closes the bathroom doors and turns the lights off . ),0
+10,8, ( SARA uses her ALS and ca n't believe her findings . ),0
+10,9, [[Sara]] not a single print,0
+10,10, [[Det._Evans]] he wiped it clean,0
+10,11, [[Sara]] yeah,0
+10,12, [[Sara]] this guy 's a real pro,0
+10,13, [[Sara]] not only did he wipe it clean -- it 's sterile,0
+11,0, ( GRISSOM and CATHERINE interview PAIGE HARMON . ),0
+11,1, [[Paige_Harmon]] i thought you were going to tell me that you caught him,0
+11,2," [[Grissom]] mrs harmon , we believe that the person who did this to your son may have done it to someone else and we need your help",0
+11,3," [[Paige_Harmon]] well , what can i do ?",0
+11,4, [[Catherine]] we talked to the second victim 's girlfriend -- played his suicide recording for her,0
+11,5, [[Catherine]] she confirmed that it was his voice,0
+11,6, [[Paige_Harmon]] but i already told you that the voice on that tape was not my son 's,0
+11,7, [[Catherine]] i know,0
+11,8, [[Catherine]] we just need to be absolutely certain do you have a recording of your son 's voice so that we could tie the killings together ?,0
+11,9," [[Grissom]] anything , mrs harmon -- a home movie ?",0
+11,10, [[Grissom]] a recorded message off your answering machine ?,0
+11,11, [[Paige_Harmon]] all i have are pictures,0
+11,12, ( She remembers something . ),0
+11,13, [[Paige_Harmon]] i may have something,0
+11,14, ( She stands up and picks up a picture frame . ),0
+11,15, [[Paige_Harmon]] royce gave this to me for mother 's day last year,0
+11,16, [[Paige_Harmon]] it 's a talking frame,0
+11,17, [[Paige_Harmon]] it 's all i have left,0
+11,18," [[Royce_Harmon]] hey , mom , it 's royce",0
+11,19, [[Royce_Harmon]] i know you 're always complaining you do n't hear my voice in the house anymore,0
+11,20," [[Royce_Harmon]] well , now you can listen to it anytime you want",0
+11,21," [[Royce_Harmon]] i love you , mom",0
+11,22," [[Paige_Harmon]] : i love you , too",0
+12,0, ( WARRICK and NICK walk with DR. LEEVER down the hospital hallway . ),0
+12,1, [[Nick]] mr backseat going to make it ?,0
+12,2, [[Dr._Leever]] name 's walter banglor,1
+12,3, [[Dr._Leever]] he 'll live,0
+12,4, [[Nick]] he well enough to talk ?,0
+12,5," [[Dr._Leever]] subdural hematoma , compound rib fractures",0
+12,6," [[Nick]] all right , all right , i get the picture",0
+12,7, [[Nick]] how long until we can see him ?,0
+12,8, [[Dr._Leever]] i did n't say you could n't see him,0
+12,9, ( DR. LEEVER turns and leads NICK and WARRICK into the hospital room . ),0
+12,10, ( He pushes the curtain aside . ),0
+12,11, [[Dr._Leever]] he 's sedated,0
+12,12, [[Dr._Leever]] if you want to talk to him you 're going to have to wait until he comes off his meds in about 12 to 24 hours,0
+12,13, ( NICK sighs . ),0
+12,14, ( WARRICK looks at WALTER BANGLOR . ),0
+12,15," [[Warrick]] tan lines , no watch and no ring",1
+12,16, [[Nick]] check his personal effects,0
+12,17, ( WARRICK picks up the envelope and checks its contents . ),0
+12,18, ( He spills it out onto the table . ),0
+12,19, ( A wallet falls out . ),0
+12,20, [[Nick]] that 's it ?,0
+12,21, [[Warrick]] must have been one hell of a fall to knock his watch and his ring off,0
+12,22, ( WARRICK shows NICK the empty wallet . ),0
+12,23, [[Warrick]] ... and take his money,0
+12,24, ( NICK thinks about it . ),0
+12,25, [[Warrick]] so what do you say ?,0
+12,26, [[Warrick]] do you want to up the stakes another hundred ?,0
+12,27, ( DR. LEEVER looks over at NICK . ),0
+12,28," [[Nick]] to what , a deuce ?",0
+12,29, [[Warrick]] say my foul play against your phantom driver ?,0
+12,30, [[Nick]] you bet,0
+12,31, ( They seal the deal with a hand 'shake ' . ),0
+12,32," ( DR. LEEVER watches and shakes his head , a half-smile on his face . )",0
+13,0, ( SARA tests the 'upside-down ' stamp . ),0
+13,1, [[Greg_Sanders]] okay,0
+13,2, [[Greg_Sanders]] i 've got stuart rampler 's dna profile ready,0
+13,3, [[Greg_Sanders]] all i need is something to compare it to,0
+13,4, [[Sara]] coming right up,0
+13,5, [[Sara]] let 's see if we can find out who this licker is,0
+13,6, ( SARA hands the sample vial to GREG . ),0
+13,7, ( He puts it in the machine and switches it on . ),0
+13,8, ( Short time cut later : The results print out . ),0
+13,9, ( GREG looks at it . ),0
+13,10, [[Sara]] what do you got ?,0
+13,11," [[Greg_Sanders]] well , according to the dna stuart rampler licked the right-side-up stamps",0
+13,12, [[Sara]] what about the envelope with the upside-down stamp ?,0
+13,13," [[Greg_Sanders]] well , it came back unknown",0
+13,14, [[Sara]] he 's toying with us,0
+13,15, [[Greg_Sanders]] who ?,0
+13,16, [[Sara]] anonymous,0
+14,0, ( WARRICK walks into the garage to find NICK fuming the entire car . ),0
+14,1, [[Warrick]] supergluing the entire car ?,0
+14,2," [[Warrick]] it 's a little excessive , do n't you think ?",0
+14,3," [[Nick]] hey , man , this is war",0
+14,4," [[Warrick]] you know , i checked with six different medical centers , and no phantom driver at any of them",0
+14,5, [[Nick]] minor setback,0
+14,6, [[Nick]] how about the 911 call ?,0
+14,7, [[Warrick]] las vegas cell phone,0
+14,8, [[Warrick]] pd 's putting a name to it,0
+14,9, [[Nick]] good,0
+14,10, [[Warrick]] what 's all this ?,0
+14,11, [[Nick]] car was rented from the airport three days ago,0
+14,12, [[Warrick]] to ... ?,0
+14,13, [[Nick]] walter banglor,0
+14,14, [[Nick]] i figure vegas vacation ; side trip to hoover dam,0
+14,15, [[Warrick]] makes sense,0
+14,16, [[Nick]] mm-hmm,0
+14,17, [[Warrick]] you find his watch and ring ?,0
+14,18, [[Nick]] no,0
+14,19, [[Warrick]] my pockets are getting fat !,0
+14,20," [[Nick]] no , he travels light",0
+14,21, [[Nick]] there was only a change of clothes in the damn suitcase,0
+14,22," [[Warrick]] god , you see all that money in there ?",0
+14,23," [[Nick]] all right , the fumes have settled",0
+14,24, [[Nick]] give me a hand,0
+14,25, [[Warrick]] yeah,0
+14,26, ( They lift the plastic sheet off of the car . ),0
+14,27, ( NICK sees the prints on the wheel . ),0
+14,28, [[Nick]] you can run ... but you ca n't hide,0
+14,29, ( Camera cuts to the prints on the dashboard . ),0
+15,0, ( CATHERINE and GRISSOM walk through the hallway . ),0
+15,1, [[Catherine]] 'disco placid ' -- what 's that ?,0
+15,2, [[Grissom]] he 's a jazz producer,0
+15,3, [[Grissom]] specializes in audio,0
+15,4, [[Grissom]] does voice comparisons for me from time to time,0
+15,5, [[Grissom]] he hears in perfect pitch,0
+15,6, [[Catherine]] really ?,0
+15,7, [[Grissom]] he 's gifted,0
+16,0, ( DISCO PLACID sits behind his equipment listing to the music on the ear phones and timing it with the watch in his hand . ),0
+16,1," ( Song overhead is 'Ai n't No Sunshine When She 's Gone ' , by Bill Whithers . )",0
+16,2, ( GRISSOM and CATHERINE walk up to the doorway behind him . ),0
+16,3," [[Disco_Placid]] yeah , better leave young thing alone / but ai n't no sunshine when she 's gone",0
+16,4, ( He sees them and smiles . ),0
+16,5, ( He takes off his earphones . ),0
+16,6, [[Grissom]] i 'm sorry to hear that,0
+16,7," [[Disco_Placid]] oh , that 's bill withers , man",0
+16,8, [[Disco_Placid]] the man cuts me up inside,0
+16,9," [[Grissom]] catherine willows , disco placid",0
+16,10, [[Catherine]] a pleasure,0
+16,11, [[Grissom]] how are we coming with our voice comparisons ?,0
+16,12, [[Disco_Placid]] got it right here,0
+16,13," [[Disco_Placid]] all i got to do is , uh , heat this thing up",0
+16,14, [[Disco_Placid]] it 's a mini-cassette recording of the first victim,0
+16,15, [[Royce_Harmon]] i 'm going to kill myself,0
+16,16, [[Disco_Placid]] comparing the 'i love you 's,0
+16,17, [[Disco_Placid]] ',0
+16,18, [[Royce_Harmon]] i just ca n't do it anymore,0
+16,19," [[Royce_Harmon]] i love you , mom",0
+16,20, [[Disco_Placid]] now the talking frame,0
+16,21, [[Royce_Harmon]] now you can listen to it anytime you want,0
+16,22, [[Disco_Placid]] minnesota twins,1
+16,23, [[Catherine]] the mother was wrong,1
+16,24, [[Catherine]] that is her son 's voice,1
+16,25," [[Disco_Placid]] i laid in both suicide notes in the computer , stripped the tracks one by one",0
+16,26, [[Disco_Placid]] picked this up in the b-ground,0
+16,27, ( He plays the tape for them . ),0
+16,28, [[Royce_Harmon]] my name is royce harmon,0
+16,29," [[Royce_Harmon]] i reside at 7642 carpenter street , las vegas , nevada",0
+16,30, [[Royce_Harmon]] i am 41 years of age,0
+16,31, [[Grissom]] what is that ?,0
+16,32," [[Disco_Placid]] i do n't know , man",0
+16,33, [[Disco_Placid]] it sound like a flag or a tarp or something,0
+16,34, [[Disco_Placid]] give me a sec,0
+16,35, [[Disco_Placid]] i 'll give it to you in a chinese to-go box,0
+16,36, [[Catherine]] play the second victim 's tape,0
+16,37, [[Disco_Placid]] okay,0
+16,38, [[Stuart_Rampler]] my name is stuart rampler,0
+16,39," [[Stuart_Rampler]] i reside at 818 boeing hill court , las vegas",0
+16,40, ( He turns the tape off . ),0
+16,41," ( Behind them , GRISSOM pulls out a sheet of paper and waves it making the same sound as the one on the tape recordings . )",0
+16,42, [[Catherine]] no,0
+16,43, [[Catherine]] play it through,0
+16,44, [[Stuart_Rampler]] ... nevada,0
+16,45," [[Stuart_Rampler]] i am 43 years of age , and i 'm going to kill myself",0
+16,46, [[Grissom]] play them side by side,0
+16,47, [[Both_Recordings]] my name is royce harmon / stuart rampler / i reside at 818 boeing hill / 7642 carpenter street,0
+16,48," [[Both_Recordings]] las vegas , nevada",0
+16,49, [[Both_Recordings]] i am 41/43 years of age,0
+16,50, [[Grissom]] it 's 'fill in the blanks ',0
+16,51, [[Catherine]] he 's just reading from a suicide script,1
+16,52," ( Again , GRISSOM waves the sheet of paper around . )",0
+16,53, [[Catherine]] what do you think ?,0
+16,54, [[Disco_Placid]] disco,0
+17,0, ( NICK and WARRICK walk into the print lab . ),0
+17,1, ( MANDY does n't look up from the scope . ),0
+17,2, [[Mandy]] so i 've got some good news and mysterious news,0
+17,3, [[Nick]] give me the good news,0
+17,4," [[Mandy]] well , your results are back from the prints on the car",0
+17,5," [[Mandy]] and your vic , walter banglor , is top of the list",0
+17,6, [[Nick]] it 's a big list,0
+17,7, [[Mandy]] you fumed the entire car,0
+17,8, [[Mandy]] what did you expect ?,0
+17,9, [[Warrick]] what 's the mysterious news ?,0
+17,10, [[Mandy]] i found some speckles of blue dust in the ridges of banglor 's print,0
+17,11, [[Mandy]] here,0
+17,12, [[Mandy]] look it,0
+17,13, ( She steps aside from the scope . ),0
+17,14, ( WARRICK looks at it . ),0
+17,15, [[Nick]] let me see,0
+17,16, ( WARRICK moves aside and NICK looks at the scope . ),0
+17,17, [[Warrick]] what do you think ?,0
+17,18, [[Nick]] i have no idea,0
+18,0, ( SARA fills GRISSOM and CATHERINE in on what she 's found . ),0
+18,1, [[Sara]] i did some comparative digging on both victims -- royce harmon and stuart rampler,0
+18,2," [[Sara]] both are white males in their 40s , single and ... both have the same birthday",0
+18,3," [[Grissom]] royce harmon , born august 17 , 1958",0
+18,4," [[Grissom]] stuart rampler , born august 17 , 1957",0
+18,5, [[Grissom]] one year apart,1
+18,6," [[Catherine]] okay , so maybe it 's some reverse or backwards pattern",0
+18,7," [[Catherine]] august 17 , 1958 ... 1957",0
+18,8, [[Catherine]] the suicide message was recorded backwards ; the postage stamp was upside-down,0
+18,9, [[Sara]] yeah,0
+18,10," [[Grissom]] maybe he 's telling us , in order to go forward , go back",0
+18,11," [[Grissom]] sara , go back one more year -- august 17 , 1956",0
+18,12, [[Grissom]] see if anything pops up with the same m.o,0
+18,13, [[Sara]] i 'm gone,0
+18,14, ( SARA leaves the office . ),0
+18,15, ( MANDY appears in the doorway . ),0
+18,16," [[Mandy]] mr grissom , the prints are back from stuart rampler 's mini-recorder",0
+19,0, ( CATHERINE and GRISSOM walk into the lab where MANDY sits in front of the computer . ),0
+19,1, [[Grissom]] can we see the print ?,0
+19,2, [[Mandy]] not print -- prints,0
+19,3, [[Catherine]] what do you mean ?,0
+19,4, [[Catherine]] it 's more than one person ?,0
+19,5, [[Mandy]] it 's two thumbprints overlapped,0
+19,6, [[Grissom]] can you separate them ?,0
+19,7, [[Mandy]] yeah,0
+19,8, [[Mandy]] running both prints through afis,0
+19,9, ( The first print comes back 'UNKNOWN ' . ),0
+19,10, ( The second print comes back 'COMPLIANCE ' . ),0
+19,11, [[Mandy]] how can that be ?,0
+19,12, ( MANDY works on the keyboard and stands up to look at the printout . ),0
+19,13, [[Catherine]] 'compliance ' ?,0
+19,14, [[Grissom]] someone within the department ?,0
+19,15," ( MANDY looks at the results , then glances at CATHERINE . )",0
+19,16, ( She looks at GRISSOM . ),0
+19,17, [[Grissom]] what ?,0
+19,18," [[Mandy]] uh , catherine , can you excuse us for a moment ?",0
+19,19, [[Mandy]] i need to speak with mr grissom in private,0
+19,20, ( CATHERINE glances at GRISSOM . ),0
+19,21, [[Grissom]] anything you have to say to me you can say to her,0
+19,22," [[Mandy]] well , the top print came back paul millander",1
+19,23, [[Grissom]] i expected that,0
+19,24, [[Grissom]] he 's the guy who makes the rubber hands,0
+19,25, [[Grissom]] i 've already cleared him,0
+19,26, [[Grissom]] what about the compliance -- the bottom print ?,0
+19,27, [[Mandy]] it came back you,1
+19,28, [[Catherine]] it 's grissom 's print ?,1
+19,29, ( MANDY nods . ),0
+19,30, [[Catherine]] wait a minute,0
+19,31, [[Catherine]] somebody got ahold of your prints,0
+19,32, [[Grissom]] how ?,0
+19,33, [[Grissom]] i wear gloves at every crime scene,0
+19,34, [[Grissom]] i was printed for the job,0
+19,35, [[Grissom]] we all were,0
+19,36," [[Catherine]] well , somebody 's obviously making this personal",0
+19,37, [[Catherine]] they could 've got your print from a glass that you touched at a restaurant,0
+19,38, [[Catherine]] from a latex glove that you discarded and they turned inside out,0
+19,39, ( CATHERINE sighs . ),0
+19,40," [[Catherine]] oh , god",0
+19,41, ( GRISSOM thinks about it and something occurs to him . ),0
+19,42," ( He looks at the monitor , the one print over the other . )",0
+19,43, [[Grissom]] i get it,0
+19,44, [[Grissom]] whoever it is is telling me that he 's got me under his thumb,0
+20,0, ( NICK is in the break room reading something . ),0
+20,1, ( WARRICK walks in ),0
+20,2, [[Warrick]] so ... who 's your phantom driver ?,0
+20,3, [[Nick]] possibly a cop from philly,0
+20,4, [[Nick]] or a ... a nurse from omaha,0
+20,5, [[Nick]] do n't forget the mail carrier from nashville,0
+20,6," [[Warrick]] man , it 's a rental",0
+20,7, [[Warrick]] those prints are probably older than you are,0
+20,8," [[Nick]] well , this is going nowhere",0
+20,9, [[Warrick]] you giving up ?,0
+20,10," [[Nick]] no , no , no , no",0
+20,11, [[Nick]] we 're still on,0
+20,12," [[Nick]] i may be stalled , but i 'm not out",0
+20,13, [[Warrick]] you want to take it to three ?,0
+20,14, [[Nick]] you still think he was robbed ?,0
+20,15, [[Warrick]] tan lines where his ring and watch used to be,0
+20,16," [[Warrick]] on vacation in vegas , but no money in his wallet",0
+20,17, [[Warrick]] his face all bruised up before he took that cliffside tumble,0
+20,18," [[Warrick]] damn right , i think he was robbed",0
+20,19, ( Quick flashback to : [_WARRICK_'S_VERSION_] A man runs out into the street to flag down the moving car . ),0
+20,20, [[Motorist]] hey !,0
+20,21," ( Inside the car , WALTER BANGLOR puts the bottle down to brake . )",0
+20,22, [[Motorist]] hey !,0
+20,23, ( The car swerves and crashes through the railing and stops halfway over the edge of the hill . ),0
+20,24, ( WALTER BANGLOR leans back in his seat . ),0
+20,25, ( The front door opens and the MOTORIST ),0
+20,26," [[Motorist]] you all right , man ?",0
+20,27, [[Walter_Banglor]] yeah,0
+20,28," [[Walter_Banglor]] yeah , i guess so",0
+20,29, ( The MOTORIST pulls a gun on WALTER BANGLOR . ),0
+20,30," [[Motorist]] i want the ring , the watch and all your cash",0
+20,31," [[Walter_Banglor]] okay , all right",0
+20,32, [[Motorist]] come on,0
+20,33," [[Walter_Banglor]] all right , all right",0
+20,34," ( He hands over money , watch and ring . )",0
+20,35, [[Motorist]] now get your ass in the back,0
+20,36, [[Walter_Banglor]] what ?,0
+20,37, [[Motorist]] i said get your ass in the back !,0
+20,38, ( WALTER BANGLOR crawls into the back seat . ),0
+20,39, [[Motorist]] strap in,0
+20,40, [[Walter_Banglor]] okay,0
+20,41, ( He straps himself in The MOTORIST runs around to the back of the car and pushes it over . ),0
+20,42, [[Walter_Banglor]] what are you doing ?,0
+20,43, ( End of flashback . ),0
+20,44, ( Resume to present . ),0
+20,45," [[Nick]] he lays in wait , he robs him , he tries to kill him , but he lets him buckle in ?",0
+20,46, [[Warrick]] i do n't think the robber expected banglor to get drunk and go crash his car,0
+20,47, [[Warrick]] he probably freaked and put him in the back seat trying to fool me into thinking someone else was driving,0
+20,48, [[Warrick]] but he only fooled you,0
+20,49," [[Nick]] what about the blue dust , warrick ?",0
+20,50, [[Warrick]] what about it ?,0
+20,51, [[Nick]] do n't you think it matters ?,0
+20,52, [[Warrick]] maybe,0
+20,53, [[Warrick]] there 's other questions to answer first,0
+20,54," [[Nick]] okay , like ?",0
+20,55, [[Warrick]] footprints and tire tracks,0
+20,56, [[Nick]] i hate you,0
+20,57, [[Warrick]] you love me,0
+20,58, [[Warrick]] who you kidding ?,0
+21,0," ( GRISSOM walks into the warehouse , looking for PAUL MILLANDER . )",1
+21,1," ( In the back of the warehouse , PAUL MILLANDER is working on a sculture . )",1
+21,2, [[Grissom]] mr millander ?,1
+21,3," [[Paul_Millander]] hey , it 's the forensics guy",0
+21,4, [[Paul_Millander]] i forgot your name,0
+21,5, [[Paul_Millander]] i-i 'm sorry,0
+21,6, [[Grissom]] gil grissom,0
+21,7, ( They shake hands . ),0
+21,8," [[Paul_Millander]] hi , mr grissom",0
+21,9, [[Paul_Millander]] it 's been a couple of months,0
+21,10," [[Paul_Millander]] how are you , sir ?",0
+21,11, [[Grissom]] i 'm okay,0
+21,12, [[Grissom]] what are you making ?,1
+21,13, ( He turns the head around to show GRISSOM . ),0
+21,14, [[Paul_Millander]] i-i-i call it ... 'good versus evil ' you like it ?,0
+21,15," [[Grissom]] yeah , it reminds me of our supervisor on days",0
+21,16," [[Paul_Millander]] so , what brings you down to my humble abode ?",0
+21,17, [[Grissom]] i have a couple of questions regarding that staged suicide,0
+21,18, [[Grissom]] remember ?,0
+21,19, [[Paul_Millander]] yeah,0
+21,20, [[Paul_Millander]] how 's that going ?,0
+21,21, [[Grissom]] not too well,0
+21,22," [[Paul_Millander]] say , w-would you like a cup of coffee ?",0
+21,23, [[Paul_Millander]] i got instant,0
+21,24, [[Grissom]] sure,0
+22,0, ( PAUL MILLANDER walks in the back to get the coffee . ),0
+22,1, ( GRISSOM follows him and looks around . ),0
+22,2," [[Grissom]] i envy you , mr millander",0
+22,3, [[Grissom]] i do,0
+22,4, [[Grissom]] you can work by yourself ... no one around to bother you,0
+22,5, [[Grissom]] you just ... do what you do,0
+22,6, [[Grissom]] i 'd love to have that kind of autonomy,0
+22,7, [[Paul_Millander]] it 's really all i know,0
+22,8, [[Paul_Millander]] i ... started out doing ice carvings but the artwork never lasted,0
+22,9, ( GRISSOM chuckles . ),0
+22,10, [[Grissom]] i know what you mean,0
+22,11, ( PAUL hands GRISSOM his drink . ),0
+22,12, [[Grissom]] thank you,0
+22,13, [[Paul_Millander]] let 's sit,0
+22,14, ( They both sit down . ),0
+22,15, [[Paul_Millander]] how can i help you ?,0
+22,16," [[Grissom]] do you remember the , uh , rubber hand mold that you made from your own hand ?",0
+22,17, [[Paul_Millander]] how could i forget ?,0
+22,18," [[Grissom]] well , whoever the perpetrator is has killed again and again , your print came up",0
+22,19, [[Grissom]] so i was hoping you could help me,0
+22,20, [[Paul_Millander]] sure,0
+22,21," [[Grissom]] the last time we talked , you told me that you had sold several thousand units last halloween ?",0
+22,22, [[Paul_Millander]] bestseller,0
+22,23," [[Paul_Millander]] yes , sir",0
+22,24, [[Grissom]] could you provide me with a list of your distributors ?,0
+22,25, [[Paul_Millander]] i really do n't have a list,0
+22,26, [[Paul_Millander]] uh ... why ?,0
+22,27, [[Grissom]] i was hoping to do a credit card search ... go back ten days before the first murder occurred ... try and run some names ... see if any priors pop up,0
+22,28," [[Paul_Millander]] i would really love to help you , mr grissom , but",0
+22,29, [[Paul_Millander]] i just do n't keep track of ... of individual purchasers,0
+22,30, [[Paul_Millander]] i-i-i 'm just a wholesaler,0
+22,31, [[Paul_Millander]] i do n't,0
+22,32, [[Paul_Millander]] i do n't crunch numbers,0
+22,33, [[Paul_Millander]] i-i just ... spook the children,0
+22,34, [[Grissom]] of course you do,0
+22,35, [[Grissom]] i 'm sure you do it well,0
+22,36, ( GRISSOM leans back in his chair and takes a sip from his cup . ),0
+23,0, ( WARRICK looks through a binder full of shoe prints . ),0
+23,1, ( He flips the page and finds the match . ),0
+23,2, [[Warrick]] finally,0
+23,3, ( NICK walks into the room . ),0
+23,4, ( He 's eating an apple . ),0
+23,5," [[Nick]] hey , partner , you get a match yet ?",0
+23,6, [[Nick]] ooh !,0
+23,7, [[Nick]] converse all-star,0
+23,8, [[Warrick]] size 11,0
+23,9, [[Nick]] and you needed all the books for that ?,0
+23,10, ( NICK takes a seat . ),0
+23,11, [[Nick]] those soles have been around 20 years,0
+23,12, [[Warrick]] i needed to be sure,0
+23,13," [[Nick]] you look tired , buddy",0
+23,14," [[Nick]] you want me to make you a bottle , go nigh-nigh ?",0
+23,15," [[Warrick]] you want me to clack that jaw , make you go nigh-nigh ?",0
+23,16, [[Nick]] you should have worked the tire tracks,0
+23,17, [[Nick]] jimmy in trace put together a digital catalog of treads,0
+23,18, [[Nick]] has thousands on file,0
+23,19, [[Nick]] took me three minutes,0
+23,20, ( NICK tosses the file folder onto the desk in front of WARRICK . ),0
+23,21, ( WARRICK looks at the results . ),0
+23,22, [[Warrick]] pirelli low profile p-zeros,0
+23,23, [[Warrick]] high performance,0
+23,24," [[Nick]] and standard on your alleged getaway vehicle ... the '99 bentley arnage , red label",0
+23,25," [[Nick]] it 's a sweet ride , man -- handcrafted",0
+23,26," [[Nick]] so , how many people in vegas you think drive that kind of price tag ?",0
+24,0, [[Brass]] three,0
+24,1, [[Brass]] did a dmv search,0
+24,2, [[Warrick]] any reported stolen ?,0
+24,3," [[Brass]] yeah , one",0
+24,4, [[Brass]] last week,0
+24,5, [[Brass]] it came in a couple of hours ago,0
+24,6, ( BRASS holds up the photos . ),0
+24,7, [[Brass]] take a look,0
+24,8, ( He gives them the photos . ),0
+24,9, [[Nick]] oh-ho !,0
+24,10, [[Nick]] so sweet !,0
+24,11, ( WARRICK grabs a photo and compares it to the tire marks in the folder . ),0
+24,12, [[Warrick]] check this,0
+24,13, [[Warrick]] one-to-one says that 's the car,0
+24,14," [[Brass]] yeah , well , do n't bet the sub shop , warrick",0
+24,15, [[Brass]] that 's about all the evidence you 're going to get out of the bentley,0
+24,16, [[Brass]] we found it at a car wash off of warm springs,0
+24,17, [[Brass]] it 's been vacuumed detailed -- the whole works,0
+24,18, [[Brass]] it 's cleaner than brand-new,0
+24,19, ( NICK smiles . ),0
+24,20," [[Nick]] well , i wish banglor 's rental car company were as considerate as your thief",0
+24,21, ( He slaps WARRICK on the back and chuckles as he leaves . ),0
+25,0, ( BRASS walks into GRISSOM 'S office . ),0
+25,1, [[Brass]] dr livingston,0
+25,2, [[Brass]] your dead man is making cash withdrawals,0
+25,3, [[Grissom]] which one ?,0
+25,4, [[Grissom]] the first victim or the second ?,0
+25,5, [[Brass]] the second,0
+25,6, [[Brass]] stuart rampler,0
+25,7, [[Brass]] the bank called,0
+25,8, [[Brass]] his atm card showed a couple of withdrawals after his time of death,0
+25,9, [[Grissom]] atm machines take photographs every three seconds,0
+25,10, [[Grissom]] maybe we can get a kodak moment of this guy,0
+25,11, [[Grissom]] i want the machine here,0
+25,12, [[Grissom]] i want prints,0
+25,13, [[Grissom]] i want film,0
+25,14, [[Grissom]] i want everything,0
+25,15, [[Brass]] the whole machine ?,0
+25,16," [[Grissom]] yeah , the whole machine",0
+25,17, [[Brass]] okay,0
+25,18, ( BRASS turns and leaves the office . ),0
+26,0, ( NICK goes over WALTER BANGLOR 'S clothing . ),0
+26,1, ( NICK finds a blue stain near the jean 's button fly . ),0
+26,2, ( He takes a sample of it just as WARRICK walks into the room . ),0
+26,3, [[Warrick]] you got his clothes ?,0
+26,4, [[Nick]] that 's right,0
+26,5, [[Warrick]] what are you doing ?,0
+26,6, [[Warrick]] his laundry ?,0
+26,7, ( NICK holds up the swab . ),0
+26,8, [[Nick]] something to compare our mystery blue dust to,0
+26,9, [[Warrick]] ah,0
+27,0, ( GREG starts testing the blue substance . ),0
+27,1, [[Greg_Sanders]] so ... what 's the pot up to ?,0
+27,2, [[Nick]] we do n't bet on cases,0
+27,3, [[Greg_Sanders]] ah,0
+27,4, [[Greg_Sanders]] of course you do n't,0
+27,5, [[Greg_Sanders]] so who 's winning ?,0
+27,6, [[Warrick/Nick_(both)]] i am,0
+27,7, [[Greg_Sanders]] fiends,0
+27,8, ( GREG puts the sample vial in the machine and runs it . ),0
+27,9, ( Short time cut to : The printer prints the results . ),0
+27,10, [[Greg_Sanders]] your mystery dust is ... silicon blue dye,1
+27,11, [[Warrick]] what 's that ?,0
+27,12, [[Greg_Sanders]] pool cue chalk,1
+28,0," ( Inside the break room , NICK and WARRICK revamp their scenarios . )",0
+28,1," ( WARRICK sits and listens as NICK stands , pacing the floor and playing with a football in his hand . )",0
+28,2," [[Nick]] banglor 's shooting stick with the phantom driver ... tosses a few back ... piles into the rental ... ... i-93 , hoover dam",0
+28,3, [[Nick]] but do n't drink and drive,0
+28,4, [[Nick]] you might spill your drink ... car skids ... bangs into the railing,0
+28,5, ( Quick flash to : [_NICK_'S_THEORY_] The car going through the railing . ),0
+28,6, ( End of flashback . ),0
+28,7, ( Resume to present . ),0
+28,8, [[Nick]] ... see-saws,0
+28,9, ( Quick flash to : The car teetering over the edge . ),0
+28,10, ( End of flashback . ),0
+28,11, ( Resume to present . ),0
+28,12, [[Nick]] ... on the edge ... what does the driver do ?,0
+28,13," [[Nick]] man , he bails",0
+28,14, [[Nick]] he leaves banglor in the back seat to take the fall,0
+28,15, ( Quick flashback to : The PHANTOM DRIVER leaps over the railing and runs down the road . ),0
+28,16, ( End of flashback Resume to present . ),0
+28,17, [[Nick]] literally,0
+28,18," ( Quick flashback to : The car falls down the ravine , WALTER BANGLOR inside , screaming . )",0
+28,19, ( End of flashback Resume to present . ),0
+28,20," [[Nick]] fingerprints , grooves , footprints : all the bases are covered",0
+28,21," [[Nick]] victim , suspect , crime scene",0
+28,22, [[Nick]] like a laxative,0
+28,23," ( Done , he tosses the foot ball to WARRICK , who catches it . )",0
+28,24, [[Nick]] it works,0
+28,25, ( NICK sits down and exhales . ),0
+28,26, ( WARRICK thinks about it and starts his own theory . ),0
+28,27, [[Warrick]] banglor shooting stick -- i 'll give you that,0
+28,28," [[Warrick]] burping bourbons -- i 'll give you that , too",0
+28,29, [[Warrick]] but he left solo,0
+28,30," [[Warrick]] a few miles down the road,",0
+28,31," ( WARRICK stands up and starts pacing the room as he goes over his scenario , evidence by evidence . )",0
+28,32, [[Warrick]] ... bentley thief flags him down,0
+28,33, ( Quick flashback to : [_WARRICK_'S_THEORY_] The MOTORIST flags the car down . ),0
+28,34, ( End of flashback Resume to present . ),0
+28,35," [[Warrick]] ... spooks him into a skid ... boom , crash !",0
+28,36, ( Quick flashback to : The car headlights . ),0
+28,37, ( End of flashback Resume to present . ),0
+28,38, [[Warrick]] he 's robbed ... forced into the back ... pushed over the edge,0
+28,39, ( Quick flashback to : The MOTORIST pushes the car over the edge of the hill . ),0
+28,40, ( End of flashback Resume to present . ),0
+28,41," [[Warrick]] with banglor out of the way , the thief gets in his stolen bentley ... hightails it out of there",0
+28,42," [[Warrick]] no watch ... no rings , no cash ... stolen bentley tire treads , converse all-star size 11 ... all bases covered",0
+28,43," [[Warrick]] victim , suspect , crime scene",0
+28,44, [[Warrick]] like a canary ... it sings,0
+28,45," ( Done , WARRICK tosses the ball to NICK . )",0
+28,46, ( He catches it . ),0
+28,47, ( WARRICK takes a seat . ),0
+28,48," [[Nick]] you know , i hate to admit it ... but i like your theory",0
+28,49, [[Nick]] it does work,0
+28,50, [[Warrick]] i was sitting here thinking the same thing about your phantom driver,0
+28,51," [[Nick]] so , what do you think ?",0
+28,52," [[Nick]] can two solid theories , each backed by evidence both be correct ?",0
+28,53, ( WARRICK shrugs . ),0
+28,54, ( NICK tosses the football to WARRICK . ),0
+29,0, ( Everyone watches the bank ATM machine security camera footage . ),0
+29,1," ( On the monitor , a bum stands directly in front of the camera . )",0
+29,2, ( A second person stands off to the side directing the bum . ),0
+29,3, ( He hands the bum the card . ),0
+29,4, [[Grissom]] there,0
+29,5, [[Grissom]] there 's our guy ... handing it off,0
+29,6," ( On screen , the man on the side hands the bum a stack of cue cards . )",0
+29,7, ( The bum turns the cards one after the other in front of the camera . ),0
+29,8, [[Grissom]] life ... like holding a dove,0
+29,9, [[Grissom]] hold it too hard,0
+29,10, [[Catherine]] ... you kill it,0
+29,11, [[Grissom]] hold it too soft,0
+29,12, [[Sara]] ... and it 'll fly away,0
+29,13, ( The bum continues to flip the cards . ),0
+29,14," ( Thinking that he 's done , the bum turns to the side to walk away , but the man pushes him back in front of the camera to continue flipping the cards . )",0
+29,15, [[Catherine]] : have we located this bum ?,0
+29,16, [[Grissom]] brass 's guys are looking for him,0
+29,17, [[Grissom]] okay ... significance of the flipping ?,0
+29,18, [[Catherine]] he 's obviously making a point,0
+29,19, [[Sara]] what does the dove symbolize ?,0
+29,20, [[Sara]] peace,0
+29,21, [[Catherine]] but i do n't think it 's peace in terms of ... human civility or unrest,0
+29,22, [[Catherine]] i think maybe it 's 'peace of mind ',0
+29,23, [[Catherine]] what do you have to attain to have peace of mind ?,0
+29,24, [[Catherine]] justice,0
+29,25, [[Grissom]] 'i 'm going to keep doing this over and over again until i get justice ',1
+30,0, ( GRISSOM opens the interview room . ),0
+30,1, ( Inside is the bum . ),0
+30,2, [[Brass]] how you doing ?,0
+30,3, [[Grissom]] hmm,0
+30,4, [[Grissom]] how 'd you find him ?,0
+30,5, [[Brass]] we canvassed a square-mile radius of the atm machine,0
+30,6, [[Brass]] started throwing bums hamburgers out the car window in a nice tight spiral,0
+30,7, [[Brass]] they ratted him out in 20 minutes,0
+30,8, [[Brass]] you want to tell him how you were approached ?,0
+30,9," [[Bum]] you know , i think better when i eat",0
+30,10, [[Brass]] no kidding ?,0
+30,11," [[Grissom]] jim , call the steak house at circus",0
+30,12, [[Grissom]] get this fella a porterhouse,0
+30,13, ( BRASS picks up the phone . ),0
+30,14, [[Brass]] how do you like it -- medium rare ?,0
+30,15," [[Brass]] no , you look like a well-done kind of guy",0
+30,16, [[Bum]] rare,0
+31,0, ( NICK and WARRICK sit side-by-side in the hallway . ),0
+31,1, ( NICK glances at his watch . ),0
+31,2, ( DR. LEEVER steps out . ),0
+31,3," [[Dr._Leever]] two minutes , understand ?",0
+31,4, [[Nick]] that 's all we 'll need,0
+31,5, ( They head into WALTER BANGLOR 'S room . ),0
+32,0, ( The door opens . ),0
+32,1, ( NICK and WARRICK walk into the room . ),0
+32,2," [[Nick]] hey , hey",0
+32,3," [[Nick]] how are you feeling , mr banglor ?",0
+32,4," [[Walter_Banglor]] uh , better , i guess",0
+32,5," [[Walter_Banglor]] i understand last night was exciting , though",0
+32,6, [[Warrick]] yeah,0
+32,7, [[Nick]] i 'm going to come right out and say it,0
+32,8, [[Nick]] what happened to you is not right,0
+32,9, [[Nick]] the person responsible needs to be brought to justice,0
+32,10, [[Nick]] you tell me who that person is,0
+32,11, [[Nick]] who was driving that car ?,0
+32,12, [[Walter_Banglor]] who the hell are you guys ?,0
+32,13, ( WARRICK and NICK both talk at the same time . ),0
+32,14, [[Warrick]] i 'm warrick ... nick : i 'm nick,0
+32,15, ( They stop and look at each other . ),0
+32,16, [[Nick]] i 'm nick stokes,0
+32,17, [[Nick]] this is warrick brown,0
+32,18, [[Nick]] we 're with criminalistics,0
+32,19, [[Nick]] we 've been working your accident,0
+32,20," [[Warrick]] actually , sir , i-i do n't think it was an accident",0
+32,21, [[Warrick]] i think you were robbed and any information that you remember about your attacker would be very helpful,0
+32,22, [[Walter_Banglor]] i was n't attacked,1
+32,23," ( At this , WARRICK 'S face falls . )",0
+32,24, [[Walter_Banglor]] i was drunk .. really drunk,1
+32,25," ( At this , NICK 'S face falls . )",1
+32,26, [[Walter_Banglor]] no way i should 've been driving that car,1
+32,27, ( Quick flashback to : [_POOL_BAR_] WALTER BANGLOR looses another game and puts his pool stick down on the table . ),1
+32,28, ( He sighs . ),1
+32,29, [[Walter_Banglor]] yeah !,1
+32,30, [[Walter_Banglor]] i guess that 's enough for me,1
+32,31, [[Pool_Player]] then it 's time to pay up,1
+32,32," ( Cut to : WALTER BANGLOR looks into his wallet , then glances at the POOL PLAYER in front of him . )",1
+32,33, [[Walter_Banglor]] looks like i 'm a little short,1
+32,34, ( He chuckles . ),1
+32,35, ( The POOL PLAYER turns to the THUG behind him and motions to WALTER . ),1
+32,36, [[Pool_Player]] hit him,1
+32,37, [[Pool_Player]] take everything he 's got,1
+32,38, ( The THUG hits WALTER in the stomach and in the face . ),1
+32,39, ( Cut to : WALTER BANGLOR is driving home . ),1
+32,40, ( He 's drinking as he 's driving . ),1
+32,41, ( He 's not paying attention to the road and is startled awake when the truck headed toward him honks his horn . ),1
+32,42, [[Walter_Banglor]] jeez !,1
+32,43, ( WALTER gets control over his car and swerves . ),1
+32,44, ( He crashes through the railing and teeters on the edge of the cliff . ),1
+32,45," ( To balance the car , WALTER crawls into the back seat . )",1
+32,46, ( He fastens himself in just as the car tilts over the edge . ),1
+32,47," ( And like a wild park ride , the car rolls down the hillside . )",1
+32,48, ( End of flashback . ),1
+32,49, ( Resume to present . ),1
+32,50, [[Warrick]] you mean you got hustled ?,1
+32,51, [[Walter_Banglor]] i won the first game,1
+32,52, [[Nick]] you climbed in the back seat yourself ?,1
+32,53, [[Walter_Banglor]] yeah,1
+32,54, [[Warrick]] so buckling up ... really did save your life,1
+32,55, [[Warrick]] you know that ?,0
+32,56," [[Walter_Banglor]] yeah , i guess it did",0
+32,57," [[Warrick]] you get well , okay ?",0
+32,58, [[Nick]] glad we could help,0
+32,59, ( They both walk out of the room . ),0
+33,0, ( NICK and WARRICK walk out of the room and into the hallway . ),0
+33,1," [[Nick]] well , the only thing we did n't factor in was his will to live",0
+33,2," [[Warrick]] and the bentley thief , size 11 -- he could 've been at that crime scene anytime last week",0
+33,3, [[Warrick]] so we push on the bet ?,0
+33,4, [[Warrick]] no winner ?,0
+33,5, [[Nick]] no loser,0
+33,6, ( NICK 'S pager goes off . ),0
+33,7, ( The wall clock reads 4:02 . ),0
+33,8, ( NICK checks his pager . ),0
+33,9, [[Nick]] 406,0
+33,10, [[Nick]] burglary,0
+33,11, [[Nick]] double or nothing ?,0
+33,12, [[Warrick]] you 're talking to the wrong guy,0
+33,13, ( They both walk out . ),0
+34,0, ( The BUM finishes his meal . ),0
+34,1," [[Brass]] can we start again , please ?",0
+34,2," [[Grissom]] now , how did this man approach you ?",0
+34,3, [[Bum]] he walked up to me,0
+34,4, [[Bum]] told me he 'd give me a hundred bucks if i flip some cards,0
+34,5, [[Brass]] he pay you cash ?,0
+34,6, [[Bum]] mm-hmm,0
+34,7, [[Bum]] a hundred-dollar bill,0
+34,8, [[Grissom]] you still have it ?,0
+34,9, ( The BUM does n't answer . ),0
+34,10, [[Grissom]] how tall was this man ?,0
+34,11, [[Grissom]] was he ... shorter or taller than mr brass here ?,0
+34,12, ( BRASS stands up . ),0
+34,13, [[Bum]] a hair taller,0
+34,14," [[Grissom]] by a hair , do you mean the hair of a rabbit or the hair of grizzly bear ?",0
+34,15, [[Bum]] somewhere in the middle,0
+34,16, [[Grissom]] okay,0
+34,17, [[Grissom]] let 's say he was five-ten,0
+34,18, [[Grissom]] what else do you remember about this man ?,0
+34,19, ( BRASS takes a seat . ),0
+34,20," [[Bum]] he had a narrow chin uh ... his eyes were blue -- deep-sea blue , you know ?",0
+34,21," [[Bum]] uh , jet-black hair uh , spock-like ears pointed nose , bushy eyebrows",0
+34,22," [[Bum]] sunken cheeks with a bad complexion , almost pock-faced",0
+34,23," ( As he talks , GRISSOM puts it together . )",0
+34,24," [[Bum]] uh ... thin as a soda cracker and his clothes were wrinkled , like , uh , he slept in them",0
+34,25," [[Bum]] oh ... and when he spoke , he spoke with a",0
+34,26, [[Grissom]] ... stutter,1
+34,27, [[Bum]] yeah,0
+34,28, [[Grissom]] paul millander,1
+34,29, [[Grissom]] he set me up,0
+34,30, [[Grissom]] son of a bitch !,0
+34,31, [[Grissom]] i had him and i let him go !,0
+34,32, ( Quick flashback to : [_HOLLOWEIRD_] GRISSOM talks with PAUL MILLANDER . ),0
+34,33, [[Grissom]] you ever make any rubber hands ?,0
+34,34, ( Cut to : GRISSOM shows PAUL MILLANDER the rubber hand . ),0
+34,35, [[Paul_Millander]] i sold ten thousand of those units last halloween,0
+34,36, [[Paul_Millander]] even used my own hand for the mold,0
+34,37, ( End of flashback . ),0
+34,38, ( Resume to present . ),0
+34,39, ( GRISSOM is angry ... with himself . ),0
+34,40, ( BRASS watches GRISSOM . ),0
+35,0," ( GRISSOM fills CATHERINE , SARA and BRASS in on his findings . )",0
+35,1," [[Grissom]] so when i picked up the hand he must have lifted my print , catherine",0
+35,2," [[Catherine]] latex rubber surface , freshly dried paint a snip of scotch tape -",0
+35,3, [[Sara]] it would n't be that hard to lift and replant,0
+35,4," [[Grissom]] sara , we 'll be on headsets",0
+35,5, [[Grissom]] run everything you can on paul millander,0
+35,6," [[Grissom]] use forenz-l use nexus , search anything and everything",0
+35,7, [[Brass]] i 'll call the brigade,0
+36,0," ( SARA is on the computer , running the searches . )",0
+36,1, [[Sara]] typing in search word : paul millander,0
+36,2, [[Sara]] here it is,0
+36,3, [[Sara]] paul millander:,0
+37,0," [[Sara]] age 42 , five-eleven , male caucasian",0
+37,1, [[Sara]] address not on file,0
+37,2, [[Sara]] no criminal record,0
+37,3, [[Grissom]] keep looking,0
+37,4," [[Grissom]] listen , check the business database",0
+37,5, [[Grissom]] search word : 'halloweird ',0
+37,6, ( SARA does a search . ),0
+37,7," [[Sara]] there 's no listing , grissom",0
+37,8, [[Grissom]] how can that be ?,0
+37,9, [[Grissom]] i was just there,0
+37,10, [[Catherine]] change databases,0
+37,11," [[Catherine]] newspaper index , periodicals index -- just keep trying",0
+37,12, [[Sara]] i got something out of the newspaper index,0
+37,13, [[Grissom]] what is it ?,0
+37,14, [[Sara]] 'two hotel security guards exonerated in alleged 'staged ' suicide,0
+37,15, [[Sara]] boy 's testimony shaky,0
+37,16," [[Sara]] paul millander , age ten , testified that he watched in the closet while his father , john , was escorted by two hotel security guards into his own bathtub at gunpoint where he was found shot to death",1
+37,17, [[Sara]] official cause of death was ruled,1
+37,18, [[Sara]] ',0
+37,19, [[Grissom]] ... suicide,1
+37,20, [[Grissom]] check the date,0
+37,21, ( SARA runs the search . ),0
+37,22," [[Sara]] catherine , you were right",0
+37,23," [[Sara]] august 17 , 1959 , it 's a pattern",1
+37,24, [[Catherine]] so he was killing men who were born on the same day that his father died,1
+38,0, ( The police vehicle stops . ),0
+38,1, ( OFFICERS suited up exit the back of the van . ),0
+38,2, ( Additional OFFICER vehicles arrive at the scene . ),0
+38,3," ( BRASS exits his car , gun drawn . )",0
+38,4, ( GRISSOM and CATHERINE stick their heads out of the van after all the OFFICERS exit . ),0
+38,5, ( The OFFICERS break down the warehouse door . ),0
+39,0, ( The OFFICERS search the warehouse . ),0
+39,1, ( It 's completely empty . ),0
+39,2, ( Everything 's gone . ),0
+39,3, [[Officer]] all clear,0
+39,4," ( GRISSOM , CATHERINE and BRASS walk into the empty warehouse . )",0
+39,5, ( In the center is a single stool with an envelope on it . ),0
+39,6, ( GRISSOM takes out his gloves and looks at the envelope . ),0
+39,7, ( He opens it and takes out the single piece of paper inside . ),0
+39,8, [[Catherine]] blank,0
+39,9, [[Catherine]] what 's that mean ?,0
+39,10, [[Grissom]] we have nothing,0
+40,0, ( The RECEPTIONIST looks up from her desk at PAUL MILLANDER . ),0
+40,1, [[Paul_Millander]] mr grissom in ?,0
+40,2, [[Receptionist]] no,0
+40,3, [[Receptionist]] he 's out on assignment,0
+40,4, ( PAUL looks around and sees the security camera in the corner nearby . ),0
+40,5, [[Receptionist]] do you want to leave him a message ?,0
+40,6, [[Paul_Millander]] no,0
+40,7, [[Paul_Millander]] just tell him a friend stopped by,0
+40,8, [[Receptionist]] a friend ?,0
+40,9, [[Paul_Millander]] a friend,0
+40,10, [[Paul_Millander]] he 'll know,0
+40,11, ( PAUL steps away to leave . ),0
+40,12, ( He walks in front of the security camera and waves . ),0
+40,13, ( He walks out . ),0

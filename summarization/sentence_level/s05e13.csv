@@ -1,0 +1,961 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( Camera pans past a large sign: ),0
+0,1, ( A large construction machine moves along the cleared land . ),0
+0,2," ( From the command office , the foreman walks out of the trailer with a cordless phone in his hand . )",0
+0,3, ( He 's not pleased . ),0
+0,4, ( He heads over to the man driving the bulldozer . ),0
+0,5, [[Foreman]] joe !,0
+0,6, [[Foreman]] joe !,0
+0,7," ( He waves his arms high in the air trying to attract Joe 's attention , but the machines are just too loud . )",0
+0,8, ( He continues to head toward Joe . ),0
+0,9, [[Foreman]] joe !,0
+0,10," [[Foreman]] hey , joe !",0
+0,11, ( The machines continue to drown out his voice . ),0
+0,12, ( The foreman walks closer to the work area . ),0
+0,13, [[Foreman]] joe !,0
+0,14, [[Foreman]] phone !,0
+0,15, [[Foreman]] phone !,0
+0,16, [[Foreman]] i 'm not your damn secretary and your wife 's not my boss !,0
+0,17," [[Foreman]] you hear that , cheryl ?",0
+0,18, [[Foreman]] this is a company phone,0
+0,19, ( Joe continues to work . ),0
+0,20, [[Cheryl]] i do n't care !,0
+0,21, [[Cheryl]] i want to talk to joe !,0
+0,22," ( At the sound of her voice , the foreman pulls the phone away from his ear and looks away . )",0
+0,23," ( Suddenly , his face turns grim as he sees something in the ground in front of him . )",0
+0,24," ( Cut to : A pair of a woman 's legs half buried in the ground , her high-heeled shoes still on her feet . )",1
+0,25, ( Nick looks around the area where the body is . ),0
+0,26, ( He 's wearing a bandana over his nose and mouth to keep from breathing in the dry dirt . ),0
+0,27, ( The dirt around the body is marked by little yellow flags . ),0
+0,28," ( In the back , Catherine walks with the foreman toward the site . )",0
+0,29," [[Foreman]] if this is an indian burial ground , i 'm totally screwed",0
+0,30, [[Foreman]] i 'll be in litigation for months,0
+0,31," [[Catherine]] i ca n't make any promises , sir , but i do n't think the paiute wore heels",0
+0,32, ( They reach the site . ),0
+0,33, ( The officer stops the foreman . ),0
+0,34," ( Catherine passes Nick , who is busy filling up the marker with paint , and heads over to Warrick , who is examining the body . )",0
+0,35," [[Officer]] sorry , sir",0
+0,36, [[Officer]] you ca n't go in there,0
+0,37, [[Catherine]] hey !,0
+0,38, [[Catherine]] what 's it look like ?,0
+0,39, ( Warrick looks at the partially buried legs . ),0
+0,40, [[Warrick]] well ... the body 's been cased in something,1
+0,41, [[Warrick]] it 's black,1
+0,42, [[Warrick]] it 's flexible ... but it 's pretty stubborn,1
+0,43, ( He pokes at the black stuff with his finger . ),0
+0,44, [[Warrick]] i think it 's roofing tar,1
+0,45, [[Warrick]] it keeps the smell and the animals away,0
+0,46, [[Catherine]] it makes our job a lot harder,0
+0,47, [[Nick]] we 've got disturbed soil in a three-by-five perimeter,1
+0,48, [[Catherine]] okay,0
+0,49, [[Catherine]] gentlemen !,0
+0,50, [[Catherine]] start your shovels !,0
+0,51, ( The drivers of the machines start their engines and dig around the body . ),0
+0,52, ( The machines dig a hole around the body encased in tar . ),0
+0,53, ( Nick works on excavating the body . ),0
+0,54," ( As he works , Catherine and Warrick discuss the body off screen . )",0
+0,55, [[Catherine]] do you think our jane doe was buried alive ?,0
+0,56, [[Warrick]] i do n't ' know,0
+0,57," [[Warrick]] she was n't just covered , she was completely encased",0
+0,58, [[Warrick]] whoever buried her sure had access to a lot of tar,0
+0,59, [[Warrick]] i 'm thinking a construction worker,0
+0,60," [[Catherine]] nick , did you get that last soil sample ?",0
+0,61, ( Nick brushes away the dirt from under the body and finds a skeletal foot . ),1
+0,62," [[Nick]] yeah , but i think i got something else too",0
+0,63, ( Nick pulls his bandana away from his mouth . ),0
+0,64," [[Nick]] hey , guys",0
+0,65, [[Nick]] check this out,0
+0,66, ( Catherine and Warrick walk toward Nick . ),0
+0,67, [[Nick]] a third foot,1
+0,68, [[Nick]] looks like we have another body at the bottom,1
+0,69, ( Camera zooms in through the skeletal foot through all that decay and ends up inside where the skull is focusing on the yellow teeth . ),1
+0,70, ( End of camera zoom . ),0
+0,71, ( Resume to present . ),0
+0,72," [[Catherine]] i do n't know if she was buried alive , but ... she was n't buried alone",0
+0,73," ( Catherine raises the camera , looks through the lens and snaps a photo . )",0
+1,0, ( The large block of tar and rock containing the two bodies now rests on an examining table in the middle of the autopsy bay . ),0
+1,1, ( David Phillips and the other coroners wheel in the large x-ray equipment . ),0
+1,2, ( Quick flash to an x-ray image of a skeletal chest is burned onto film . ),0
+1,3," ( David Phillips adjusts the x-ray equipment , pulling it up to the middle of the block . )",0
+1,4, ( Quick flash of an x-ray image of a skull as it 's burned onto film . ),0
+1,5," ( David Phillips adjusts the x-ray equipment , pushing it down the block . )",0
+2,0, ( The x-ray images of the two bodies in the tar block are out on the table . ),0
+2,1, ( Doc Robbins goes over the images with Catherine . ),0
+2,2, [[Robbins]] two sets of hands,0
+2,3, [[Robbins]] two sets of feet,0
+2,4," [[Robbins]] two skulls , two bodies",0
+2,5, [[Robbins]] both appear to be female,0
+2,6, [[Robbins]] jane doe bottom 's curled up,0
+2,7, [[Robbins]] jane doe top 's laid out flat,0
+2,8, ( Catherine points to the wire across the skull 's teeth . ),0
+2,9, [[Catherine]] this looks like ... barbed wire,0
+2,10, [[Robbins]] it 's in her mouth,0
+2,11, [[Robbins]] could be a dental appliance,0
+2,12, [[Catherine]] or maybe some kind of torture device,0
+2,13, [[Robbins]] you 're thinking ritualistic ?,0
+2,14," [[Catherine]] oh , i do n't know what i 'm thinking",0
+2,15," ( Suddenly , Grissom appears in the doorway , his face alight with eagerness . )",0
+2,16, [[Grissom]] hey !,0
+2,17, [[Grissom]] they told me you dug up two bodies covered in tar ?,0
+3,0, ( The block of tar . ),0
+3,1, ( The camera slowly pulls away from the block of tar . ),0
+3,2, ( We find Catherine and Grissom standing over it trying to figure out how to get to the evidence inside . ),0
+3,3, [[Grissom]] so,0
+3,4, [[Grissom]] how you going to separate them ?,0
+3,5, [[Catherine]] i 'm not sure yet,0
+3,6," [[Catherine]] obviously i ca n't saw through without potentially destroying evidence , so ... if the tar were harder , i could chisel it",0
+3,7," [[Catherine]] if it were softer , we could peel it off",0
+3,8, ( Grissom smiles knowingly . ),0
+3,9, [[Grissom]] i have an idea,0
+3,10," [[Catherine]] of course you do , but last i checked , the backlog on grave was about ... mmm ... a hundred cases ?",0
+3,11, [[Grissom]] you 've been spending too much time with ecklie,0
+3,12, [[Grissom]] i 'm off the clock,0
+3,13, [[Grissom]] i came in early for this,0
+3,14, ( Camera refocuses on the pair of shoes sticking out of the tar block . ),0
+3,15, ( Cut to : Catherine uses a drill and bores a hole into the tar block . ),0
+3,16, ( Grissom places a funnel into the holes that Catherine drilled . ),0
+3,17, ( They line up down the middle of the tar block . ),0
+3,18, [[Catherine]] you ever done this before ?,0
+3,19, [[Grissom]] nope ... but i do know that tar becomes as brittle as glass at about minus two hundred degrees,0
+3,20, ( Cut to : They fill a canister up with liquid nitrogen . ),0
+3,21, ( Grissom pours the liquid into the funnels . ),0
+3,22, ( He fills up three funnels . ),0
+3,23, ( On the fourth funnel ... ),0
+3,24, ( Quick CGI POV : Camera zooms down into the funnel following the liquid into the tar block . ),0
+3,25, ( The liquid nitrogen freezes the tar . ),0
+3,26, ( End of CGI POV . ),0
+3,27, ( Resume to present . ),0
+3,28, ( Grissom uses a hammer and hand axe and taps the block down the middle following the line of funnels . ),0
+3,29," [[Catherine]] okay , mr wizard",0
+3,30, ( Grissom hits the hammer hard and the block breaks neatly into two pieces . ),0
+3,31, ( Catherine 's impressed . ),0
+3,32," ( Cut to : Both Catherine and Grissom work on one of the blocks , using hand canisters to spray liquid nitrogen , and chip away at the pieces of tar to get to the body inside . )",0
+3,33," ( Cut to : They continue working on the block , exposing more and more of the body inside . )",0
+3,34, [[Catherine]] not much left of her but the clothes,0
+3,35," [[Grissom]] well , let 's see what our other one looks like , shall we ?",0
+3,36, ( They move over to the second tar block and start working on that . ),0
+3,37, ( They spray and chip at the block . ),0
+3,38, ( Grissom gets a piece of tar loose and lifts it up . ),0
+3,39, ( He peels the tar piece off . ),0
+3,40, ( The skull inside collapses and crumbles . ),0
+3,41, ( Grissom stares at the broken skull . ),0
+3,42, ( He turns and looks at Catherine . ),0
+3,43, [[Grissom]] huh,0
+3,44, ( Catherine clears her throat . ),0
+3,45, ( Grissom glances down at his watch . ),0
+3,46," [[Grissom]] oh , boy",0
+3,47, [[Grissom]] i got ta get my shift started,0
+3,48, [[Grissom]] good luck with the case,0
+3,49," [[Catherine]] no , no , no",0
+3,50, [[Catherine]] you 're not going to just destroy this skull and split,0
+3,51, [[Grissom]] you can make a nice mold from the impression,0
+3,52, [[Catherine]] i 'm short-handed as it is,0
+3,53, ( Grissom takes his glasses off . ),0
+3,54, [[Grissom]] i think sara just wrapped a case,0
+3,55," [[Grissom]] if you need her , she 's yours",0
+3,56," ( He turns and makes his escape , leaving Catherine exasperated . )",0
+4,0, ( Greg is standing in front of his mirror in a suit and tie . ),0
+4,1, ( He 's straightening his hair trying to get it to stay down . ),0
+4,2, ( Sara walks into the locker room . ),0
+4,3, ( She sees Greg and stops . ),0
+4,4, [[Sara]] wow,0
+4,5," [[Sara]] look at you , mr straightedge",0
+4,6, [[Sara]] i did not know that your hair could do that,0
+4,7, [[Greg]] i look like a dork,0
+4,8," [[Sara]] no , no",0
+4,9," [[Sara]] no , you look like a pro , which is what you are",0
+4,10, [[Sara]] let me guess - a prelim for sherlock ?,0
+4,11, [[Greg]] yep,0
+4,12, ( Sara puts her bag in the locker . ),0
+4,13, ( She takes her jacket off . ),0
+4,14, [[Sara]] uh-huh,0
+4,15, [[Sara]] who 's your judge ?,0
+4,16, [[Greg]] uh ... dudley ... anderson ?,0
+4,17, ( Sara grimaces . ),0
+4,18, [[Sara]] yeah,0
+4,19," [[Sara]] well , not the sharpest tool in the shed",0
+4,20, ( She hangs up her jacket and turns to give Greg some advice . ),0
+4,21, [[Sara]] speak slowly,0
+4,22, [[Sara]] use simple terms you 're gon na nail it,0
+4,23, ( Catherine pokes her head in the doorway . ),0
+4,24, [[Catherine]] sara,0
+4,25, [[Catherine]] you 're mine tonight,0
+4,26, ( Catherine leaves as Sara turns around . ),0
+5,0, ( David Phillips examines the remains . ),0
+5,1, ( He touches the skull and lifts up the arm . ),0
+5,2, ( He takes a swab of some of the bloodstains on the victim 's clothing . ),0
+5,3, ( He tests it . ),0
+5,4, ( It turns pink . ),0
+5,5, ( Sara sprays the inside of the piece of tar covering the victim 's face as she prepares to reconstruct the victim 's face . ),0
+5,6, ( She mixes the molding and pours it into the tar piece . ),0
+5,7, ( Nick examines the victim 's clothing and checks the clothing label . ),0
+5,8," ( Meanwhile , David Phillips takes out the bone pieces that he 's been boiling . )",0
+5,9, ( He adds more bone pieces to put back into the pot . ),0
+5,10, ( He removes the wire mouthpiece from the batch and sets it aside . ),0
+5,11, ( Sara removes the mold from the tar piece . ),0
+5,12, ( She flips it over and looks at the mold of the woman 's face . ),0
+5,13," ( Later back at the forensics lab , Doc Robbins is fitting the pieces of the broken skull back into place . )",0
+5,14, ( The cleaned skull is set on a stand . ),0
+5,15, ( He turns the skull around to examine the back . ),0
+5,16, ( Sara has the victim 's mask on a stand as she paints the face in a flesh-colored tone . ),0
+5,17, ( She continues to work . ),0
+5,18, ( Various dissolves as she finishes . ),0
+6,0," ( Sara finishes the face and places it on the table , face away from her . )",0
+6,1," [[Sara]] ladies and gentlemen , miss jane doe top",0
+6,2," ( Catherine , Warrick and Nick are standing in the doorway . )",0
+6,3, [[Catherine]] my god,0
+6,4, [[Warrick]] nice job,0
+6,5, [[Sara]] thanks,0
+6,6, ( They walk in and take a seat at the table . ),0
+6,7, ( Catherine sits next to Sara ),0
+6,8," [[Catherine]] thank you , sara",0
+6,9, ( Catherine turns the mold of the victim 's face toward her . ),0
+6,10," [[Catherine]] well , doc robbins told me that she had severe trauma to the skull , probably what killed her",1
+6,11," [[Warrick]] well , that would explain the blood david found on her shirt",0
+6,12," [[Warrick]] mia 's running dna right now to find out if it matches the victim , or any suspects , for that matter",0
+6,13," [[Nick]] remember , now , she had a broken jaw",1
+6,14, [[Nick]] that was 26-gauge stainless steel,0
+6,15, [[Nick]] it 's used to surgically wire jawbones shut,0
+6,16, ( Sara looks at the photos of the victim 's hands . ),0
+6,17, [[Sara]] what 's with the fingers ?,0
+6,18, [[Catherine]] distal phalanges were cut off,1
+6,19," [[Catherine]] both vics , both hands",1
+6,20," [[Catherine]] i cast tool marks , looks like some kind of opposed blade tool",1
+6,21," [[Catherine]] jagged on one side , smooth on the other",1
+6,22," [[Nick]] well , if it was pre-mortem , that would support torture",0
+6,23," [[Warrick]] yeah , but if it was post , they probably did it to conceal identity",0
+6,24, ( David Hodges enters the room . ),0
+6,25," [[Hodges]] hey , you guys still working on that mass-grave theory ?",0
+6,26, [[Catherine]] yeah,0
+6,27, [[Hodges]] you know what i like about flesh decomposing in soil ?,0
+6,28, [[Hodges]] it 's predictable,0
+6,29, ( Quick CGI POV to : The body in the tar block decomposes . ),0
+6,30," ( In fast motion , the rotting flesh off the skull slides off , revealing the muscle under it . )",0
+6,31," ( The muscle rots , slides off the skull and dries up . )",0
+6,32, [[Hodges]] the constituent elements diffuse into the ground over time,0
+6,33," ( Camera swings over to the soil underneath , showing the liquid flesh dripping off the bones and seeping into the soil under the corpse . )",0
+6,34, ( End of CGI POV . ),0
+6,35, ( Resume to present . ),0
+6,36," [[Hodges]] the longer they 're there , the lower the concentrations",0
+6,37, [[Hodges]] i tested the soil samples nick took from around each body,0
+6,38," [[Hodges]] curly sue was on the bottom for at least five years , and flat sally was on top for only two",1
+6,39, ( Hodges turns and leaves the lab . ),0
+6,40," [[Catherine]] so we 've got a killer who digs a grave , dumps a body , covers it with tar , comes back three years later , digs again and dumps another one on top of it ?",1
+6,41, ( Sara looks at the photos . ),0
+6,42," [[Sara]] ten to one , it 's domestic abuse",0
+6,43," [[Sara]] beat up , then shut up",0
+7,0, [[Nurse]] you hitting every e.r,0
+7,1, [[Nurse]] in town ?,0
+7,2, [[Sara]] seems like it,0
+7,3, ( The nurse carries in a file box . ),0
+7,4, ( She walks over to Sara who is sitting behind a desk . ),0
+7,5, [[Nurse]] these are all the jaw fractures that came in from two to three years ago,0
+7,6, [[Sara]] thank you,0
+7,7, ( The nurse opens the file box . ),0
+7,8, [[Nurse]] we do n't get as many of these as we used to,0
+7,9, [[Sara]] domestic violence laws have forced men to get smarter about their hitting,0
+7,10, ( The nurse leaves . ),0
+7,11, ( Sara opens the first file folder and looks at the photo inside of a blonde-haired woman with bruises on her face . ),0
+7,12, ( She opens a second file folder and compares the battered woman 's photo to the photo of the mold of the victim 's face . ),0
+7,13, ( No match . ),0
+7,14, ( She sets the file folder aside and continues . ),0
+7,15," ( In the voice over background noises , we hear the muffled sounds of a man and a woman yelling . )",0
+7,16, ( Flash to : Sara rubs the back of her neck as she goes through the file folder . ),0
+7,17, ( Another flash and we get a close up of Sara nervously twitching her thumb . ),0
+7,18, ( She closes the file folder and sets it aside . ),0
+7,19," ( Various flashes of : Sara continues to go through the file folders , viewing photos of battered women and comparing it to the photo of her Jane Doe Top . )",0
+7,20," ( Finally , she finds a photo that matches her mold . )",0
+7,21, ( She looks at the Admission Record: ),0
+8,0, ( Catherine opens the door . ),0
+8,1," ( Andrew Melton arrives with his very young wife , June . )",1
+8,2," [[Andrew_Melton]] why do n't you , uh , you wait for me here , okay ?",1
+8,3, ( June turns around and obediently sits down in the hallway chair . ),0
+8,4, ( Andrew Melton enters the interview room . ),1
+8,5," [[Catherine]] mr melton , take a seat",1
+8,6, ( Catherine closes the door behind him . ),1
+8,7, ( Andrew Melton sits at the table . ),1
+8,8, ( Sara glares at him . ),1
+8,9," [[Andrew_Melton]] i married , uh , june about a year after svetlana left",1
+8,10, [[Catherine]] and when was the last time that you saw svetlana ?,1
+8,11, [[Andrew_Melton]] it was about two years ago,0
+8,12, [[Andrew_Melton]] she did n't come home one night,1
+8,13," [[Andrew_Melton]] next thing i know , the cops are knocking down my door",1
+8,14," [[Andrew_Melton]] i thought something happened to her , but they were there to arrest me",1
+8,15, [[Andrew_Melton]] for hitting her,1
+8,16, [[Sara]] are you saying that you did n't ?,1
+8,17, [[Andrew_Melton]] we were married for three years,1
+8,18, [[Andrew_Melton]] i never hit her,1
+8,19, [[Sara]] why would she lie ?,1
+8,20, [[Andrew_Melton]] i do n't know,1
+8,21, ( Catherine watches Sara . ),0
+8,22, ( She turns back to Andrew Melton . ),1
+8,23, [[Catherine]] and then what happened ?,0
+8,24," [[Andrew_Melton]] after that , i",1
+8,25, [[Andrew_Melton]] i was done,1
+8,26," [[Andrew_Melton]] i went looking for her to sign the divorce papers , but",1
+8,27, [[Andrew_Melton]] it was like she fell off the face of the earth,1
+8,28, [[Sara]] or got buried a few feet under it,0
+8,29," ( Catherine turns to Sara , surprised by what she 's saying . )",0
+8,30," [[Andrew_Melton]] look , i took out ads in the newspaper every day for a month",1
+8,31, [[Andrew_Melton]] she never responded,1
+8,32, [[Catherine]] yet you did n't file a missing persons report,1
+8,33, [[Andrew_Melton]] i 'd been accused of abuse,1
+8,34, [[Andrew_Melton]] how would that have looked ?,0
+8,35," [[Sara]] you seem to care a lot about the way things look , mr melton well , we 're gon na need a list of svetlana 's friends and family",1
+8,36, [[Andrew_Melton]] she did n't have any,1
+8,37, [[Sara]] she spawned from nothingness ?,1
+8,38, [[Andrew_Melton]] her parents died in some kind of industrial accident in odessa,1
+8,39, [[Catherine]] russia ?,0
+8,40, [[Andrew_Melton]] yeah,0
+8,41, [[Catherine]] how did the two of you meet ?,1
+8,42, [[Andrew_Melton]] through an agency,0
+8,43, [[Sara]] svetlana was a mail-order bride ?,1
+8,44, [[Andrew_Melton]] we were introduced through an agency,1
+8,45," [[Sara]] so what happened , the russian agency denied your application for another wife , or , uh , you lost your taste for white meat ?",1
+8,46, [[Sara]] too tough ?,0
+8,47, ( Catherine 's eyes widen and jaw drops . ),0
+8,48, ( Andrew Melton gets angry . ),1
+8,49, ( Catherine puts a hand to her forehead as the entire interview falls apart . ),0
+8,50," [[Andrew_Melton]] you know what , lady ?",0
+8,51, [[Andrew_Melton]] i am not gon na feel bad about my decision,1
+8,52," [[Andrew_Melton]] i dated american women , like you",1
+8,53," [[Andrew_Melton]] they do n't want to be anyone 's wife , or mother -",0
+8,54," [[Andrew_Melton]] -- you mention the word 'domestic , ' they 're done with you",0
+8,55, [[Andrew_Melton]] it 's nice to be needed,0
+8,56, [[Andrew_Melton]] ... not resented,0
+8,57," [[Sara]] yeah , i find isolation and dependency really sexy , too",0
+8,58," [[Andrew_Melton]] you know , what , you can think whatever you want",0
+8,59, ( Andrew Melton gets up and heads for the door . ),1
+8,60, ( He leaves . ),1
+8,61, ( June stands up as he steps out into the hallway . ),1
+8,62," ( With a last glance at the interview room , he leaves . )",1
+8,63, ( Catherine and Sara walk down the hallway . ),0
+8,64," [[Sara]] look , all i am asking is to have a black-and-white do regular welfare checks",0
+8,65, [[Catherine]] did the wife ask for help ?,0
+8,66," [[Sara]] well , that 's kind of hard to do when you do n't speak english and you 're a s*x slave",0
+8,67, [[Sara]] i 'm sure she does n't know her rights,0
+8,68, [[Catherine]] you ca n't arrest someone for marrying the wrong person,0
+8,69, [[Sara]] you would know,0
+8,70, ( Catherine lets that one slide . ),0
+8,71," [[Catherine]] if the guy 's an abuser , if he killed his first wife , we will build a case and we will nail him",1
+8,72," [[Sara]] and in the meantime , he can just keep using her as a punching bag",1
+8,73," [[Catherine]] sara , i was there -- there was n't a mark on her",0
+8,74," [[Sara]] not that we could see , catherine",0
+8,75, ( They stop walking . ),0
+8,76," ( In the back of the hallway , Conrad Ecklie steps out of the lab and sees Catherine and Sara . )",0
+8,77," [[Catherine]] you know ... every time we get a case with a hint of domestic violence or abuse , you go off the deep end",0
+8,78, [[Catherine]] what is your problem ?,0
+8,79," [[Sara]] yeah , i probably do , and you let your sexuality cloud your judgment about men , and i 'm gon na go over your head",0
+8,80, [[Conrad_Ecklie]] sidle,0
+8,81, ( Sara turns and looks at Ecklie . ),0
+8,82, [[Conrad_Ecklie]] get in my office,0
+8,83, [[Conrad_Ecklie]] now,0
+9,0, ( The office door opens . ),0
+9,1, ( Ecklie and Sara step inside . ),0
+9,2, [[Conrad_Ecklie]] you are a law enforcement officer and a representative of this city,0
+9,3," [[Conrad_Ecklie]] that means i expect you to conduct yourself in an appropriate manner , in and away from this lab",0
+9,4, ( Ecklie walks around the desk and sits down . ),0
+9,5," [[Sara]] you know what , if this is gon na be one of your 'for the good of the lab ' speeches , do n't bother",0
+9,6, [[Sara]] i 've heard them,0
+9,7, [[Conrad_Ecklie]] just take a seat,0
+9,8, ( Sara remains standing . ),0
+9,9, ( Ecklie opens his desk drawer and takes out a file folder . ),0
+9,10, [[Conrad_Ecklie]] willows is a supervisor -- that means you treat her with respect,0
+9,11, [[Conrad_Ecklie]] insulting her in front of coworkers,0
+9,12, [[Sara]] she 's not my supervisor,0
+9,13, [[Conrad_Ecklie]] all right -- your superior,0
+9,14," [[Conrad_Ecklie]] sara , you berate witnesses , you disrespect the people you work with , you luck your way out of a dui",0
+9,15, [[Conrad_Ecklie]] take a look -- you got a half a dozen complaints in your jacket,0
+9,16," [[Conrad_Ecklie]] and if grissom really documented your performance , there 'd probably be a dozen more -- that 's not the kind of person i want in my lab",0
+9,17, [[Sara]] the only reason this is your lab is because grissom does n't kiss ass,0
+9,18," [[Sara]] you could n't hack it in the field , so you fail your way up , you break up our team , and now you just hang out in the hallways waiting for one of us to screw up",0
+9,19," [[Conrad_Ecklie]] sidle , you 're on one-week suspension without pay ,",0
+9,20, [[Sara]] great,0
+9,21," [[Conrad_Ecklie]] ... and when you get back , you 're apologizing to catherine",0
+9,22," [[Sara]] no , i 'm not",0
+9,23, ( Sara turns and leaves the office . ),0
+10,0, ( Catherine walks into the lab where Warrick is working . ),0
+10,1, ( He looks up as she sighs . ),0
+10,2, [[Warrick]] what 's going on around here ?,0
+10,3, [[Catherine]] i do n't want to talk about it,0
+10,4," [[Catherine]] okay , so , this is the jacket that svetlana was wearing the night that she went into the hospital ?",0
+10,5, [[Warrick]] yeah,0
+10,6, [[Warrick]] i pulled it out of the vault from the original abuse charge two years ago,0
+10,7," [[Warrick]] most of the blood is svetlana 's , although there is a small portion that comes from an unknown male",0
+10,8, [[Catherine]] so i 'll see if the husband 's willing to give us a comparison,0
+10,9," [[Warrick]] do n't bother , he already voluntarily gave a sample the night that this happened , and it 's not a match",0
+10,10, [[Catherine]] so he was telling the truth ?,0
+10,11, [[Warrick]] eh,0
+10,12, ( Warrick picks up a 'Lacey 's Pocket Dictionary ' . ),0
+10,13, [[Warrick]] i did find this ... in her pocket,0
+10,14, ( Hidden inside the pages of the dictionary is a set of camera booth photos of Svetlana and a young dark-haired man . ),0
+10,15, [[Warrick]] is that the husband ?,0
+10,16, [[Catherine]] nyet,0
+10,17," [[Warrick]] well , they 're looking pretty friendly here",0
+10,18, [[Warrick]] and you could write some teen poetry from the words that are highlighted in this dictionary,0
+10,19," [[Catherine]] well , maybe andrew found out that svetlana was n't as lonely as he thought she was",0
+11,0, ( Catherine is walking through the hallway when Greg catches up with her . ),0
+11,1," [[Greg]] catherine , i heard ecklie suspended sara",0
+11,2, [[Greg]] what can we do ?,0
+11,3, [[Catherine]] nothing,0
+11,4, [[Greg]] no ?,0
+11,5, [[Catherine]] mm-mm,0
+11,6, [[Greg]] sara 's always been there for anyone who needs her,0
+11,7, [[Greg]] she 's always had my back,0
+11,8, [[Greg]] so what if she flew off the handle a little ?,0
+11,9," [[Catherine]] greg , she crossed the line with a suspect ; she was inappropriate with me and with ecklie ; she needs the time off",0
+11,10," ( Catherine walks away from Greg , leaving him stunned in the hallway . )",0
+12,0, ( A set of clothes are set out on the table . ),0
+12,1, ( Warrick and Nick stand near the table . ),0
+12,2, [[Warrick]] a lot of blood on that blouse,0
+12,3," [[Nick]] yeah , well , her wounds do n't just trickle , man , they-they gush",0
+12,4, [[Warrick]] were you able to get anything off these jeans ?,0
+12,5, ( Nick picks up a slip of paper from the table . ),0
+12,6," [[Nick]] uh , found this paper",0
+12,7, [[Nick]] it was found in the pocket,0
+12,8," [[Nick]] decomp trashed it , though",0
+12,9," [[Warrick]] that reminds me of the time i as at the ghost bar , and i ran into this hottie",0
+12,10," [[Warrick]] i mean , the girl was an absolute dime",0
+12,11," [[Warrick]] and i did n't have my phone on me , so i wrote her number down on paper , and put it in my pants",0
+12,12, [[Warrick]] the jeans ended up in the wash,0
+12,13, [[Nick]] ouch,0
+12,14, [[Warrick]] yeah,0
+12,15, [[Warrick]] but,0
+12,16, ( Warrick checks the inside lining of the pants pocket . ),0
+12,17, [[Warrick]] yeah,0
+12,18, ( He chuckles as he finds the ink smudge inside the lining . ),0
+12,19," [[Nick]] fatty acids dissolve the ink , and it leeches onto the pocket lining",0
+12,20, [[Warrick]] yeah,0
+12,21, [[Nick]] huh,0
+12,22," [[Nick]] that must 've been a pretty hot number you had there , boss",0
+12,23," [[Warrick]] yeah , it was",0
+13,0, ( Ronnie Litre processes the writing on the pocket lining for Nick . ),0
+13,1," [[Ronnie_Litre]] all right , first we mirror it , and then we remove the background texture of the cotton weave",0
+13,2," [[Nick]] sharpen the contrast , will you ?",0
+13,3, ( Nick reads the writing . ),0
+13,4, [[Nick]] 'madame ... matryoshka 's,0
+13,5, [[Nick]] tuesday,0
+13,6, [[Nick]] eight ?,0
+13,7, [[Nick]] g a.m ' ?,0
+13,8, [[Nick]] some kind of appointment,0
+13,9, [[Nick]] 'g a.m ' ?,0
+13,10, [[Ronnie_Litre]] do you know what 'matryoshka ' are ?,0
+13,11, [[Nick]] sure,0
+13,12, [[Ronnie_Litre]] russian nesting dolls,0
+13,13," [[Nick]] oh , yeah , yeah , the dolls that look alike , that fit inside of each other , right ?",0
+13,14, [[Ronnie_Litre]] my grandma had a set,0
+13,15," [[Ronnie_Litre]] anyway , people who 've gone from writing cyrillic to english often write their nines as lowercase g 's",0
+13,16, ( Nick nods . ),0
+14,0, ( Brass and Nick walk into the beauty shop . ),0
+14,1, ( They walk up to the reception counter . ),0
+14,2, ( Brass clears his throat . ),0
+14,3, [[Vlad]] you have appointment for haircut ?,0
+14,4," [[Brass]] nah , i 'm trying to get a rastafarian thing going",0
+14,5, [[Brass]] is there an actual madame matryoshka ?,0
+14,6, [[Brass]] we 're polizia,0
+14,7, [[Brass]] yeah,0
+14,8, ( Brass and Nick walk around the counter . ),0
+14,9, ( A tall woman walks up to them . ),0
+14,10, [[Chloe_Daniels]] chloe daniels,1
+14,11, [[Chloe_Daniels]] what can i do for you ?,1
+14,12," [[Brass]] i 'm detective jim brass , las vegas police",0
+14,13, [[Brass]] this is nick stokes from the crime lab,0
+14,14, [[Brass]] we 're here about svetlana melton,1
+14,15," [[Chloe_Daniels]] yeah , she used to work here",1
+14,16, [[Brass]] in what capacity ?,0
+14,17, [[Chloe_Daniels]] hairdresser,0
+14,18, [[Nick]] you mean wife-to-be,0
+14,19, [[Chloe_Daniels]] yeah,0
+14,20, [[Nick]] for money ?,0
+14,21, [[Nick]] sounds a lot like prostitution to me,0
+14,22," [[Chloe_Daniels]] yeah , well , it 's not",0
+14,23, ( Nick walks past her and starts looking around the back . ),1
+14,24, ( Chloe turns her attention back to Brass . ),1
+14,25," [[Chloe_Daniels]] look , i did n't invent this",1
+14,26, [[Chloe_Daniels]] go on line -- there are dozens of sites with thousands of women,0
+14,27, [[Chloe_Daniels]] they advertise these exciting trips to kiev,0
+14,28, [[Chloe_Daniels]] i just bring kiev to you,1
+14,29," [[Chloe_Daniels]] i sponsor 90-day work visas , teach the girls a trade",1
+14,30, [[Chloe_Daniels]] they cut hair for men,0
+14,31, [[Brass]] so men shop for a wife,0
+14,32, [[Brass]] you screen the guys ?,1
+14,33," [[Chloe_Daniels]] you pick up a woman at a bar , does the bartender screen you ?",0
+14,34," [[Chloe_Daniels]] you take her home , take her to your bed",0
+14,35, [[Chloe_Daniels]] how well did you screen her ?,0
+14,36, [[Brass]] you should be sainted,1
+14,37," [[Nick]] mm , i do n't know about that",0
+14,38, [[Nick]] svetlana ended up dead,1
+14,39, ( Chloe Daniels sits behind her desk . ),1
+14,40, ( Brass and Nick sit across her . ),1
+14,41, ( Brass shows her the camera booth photos found in Svetlana 's pocket dictionary . ),1
+14,42, [[Brass]] you recognize this guy ?,1
+14,43, [[Chloe_Daniels]] yeah,0
+14,44, [[Chloe_Daniels]] ken wellstone,0
+14,45, [[Chloe_Daniels]] lives down the street,0
+14,46, [[Chloe_Daniels]] actually comes in for haircuts,0
+14,47, [[Chloe_Daniels]] is n't interested in my service,0
+14,48," [[Chloe_Daniels]] not the marrying kind , i guess",1
+14,49," [[Nick]] yeah , i-i 'm sorry , there seems to be a really fine line here between , uh ... peddling marriage and peddling flesh",0
+14,50, [[Chloe_Daniels]] when is marriage anything else ?,0
+14,51," [[Brass]] nick is , uh ... he 's an old-fashioned guy",0
+14,52, [[Chloe_Daniels]] really ?,0
+14,53," [[Chloe_Daniels]] well , what do you think engagement rings are ?",0
+14,54, [[Chloe_Daniels]] just proof that a man can pay for his bride,0
+14,55," [[Chloe_Daniels]] look , caveman would go steal a woman from a neighboring clan",0
+14,56, [[Chloe_Daniels]] he 'd tie her hands and her feet till she would n't run away,0
+14,57," [[Chloe_Daniels]] once she 'd stay put , he would only tie her finger , just to remind her",0
+14,58, [[Brass]] so you 're a romantic,1
+14,59, [[Chloe_Daniels]] marriage is not romance,0
+14,60, [[Chloe_Daniels]] it 's a contract with the state,0
+14,61, [[Chloe_Daniels]] it 's an investment in your future,0
+14,62, ( Nick looks around the office at the framed photos of happy couples . ),0
+14,63," [[Chloe_Daniels]] i 'm not making it about money , it just is",1
+15,0, ( Brass and Nick interview Ken Wellstone . ),0
+15,1," [[Ken_Wellstone]] uh , she cut my hair",0
+15,2, [[Brass]] she licked your cone,0
+15,3, ( Brass holds out the camera booth photos . ),0
+15,4, ( Ken Wellstone looks at them . ),0
+15,5," [[Ken_Wellstone]] well , i-i took svetlana out once for",0
+15,6, [[Ken_Wellstone]] for ice cream,0
+15,7, [[Ken_Wellstone]] it was ... it was a hot day,0
+15,8, [[Nick]] that 's it ?,0
+15,9," [[Ken_Wellstone]] yeah , that 's it",0
+15,10," [[Ken_Wellstone]] she , uh , gave me some sob story about how she was married to some abusive guy , you know , and how , uh ... she begged me to help , and ... blah , blah , blah , blah",0
+15,11, [[Ken_Wellstone]] i do n't,0
+15,12, [[Ken_Wellstone]] i do n't need that kind of drama,0
+15,13, [[Ken_Wellstone]] i do n't,0
+15,14," [[Brass]] mr wellstone , what do you do for a living ?",0
+15,15, [[Ken_Wellstone]] i 'm a real estate agent,0
+15,16, [[Brass]] you 're not in construction or anything ?,0
+15,17, [[Ken_Wellstone]] no,0
+15,18, [[Ken_Wellstone]] why ?,0
+15,19, [[Ken_Wellstone]] something happen to svetlana ?,0
+15,20," [[Nick]] yeah , she was murdered",0
+15,21, ( Ken is stunned momentarily silent . ),0
+15,22, [[Ken_Wellstone]] oh,0
+15,23," [[Nick]] we 're gon na need to get a dna sample from you , and i 'm gon na take a look around your place",0
+15,24, [[Nick]] is that cool ?,0
+15,25, [[Ken_Wellstone]] sure,0
+15,26," [[Ken_Wellstone]] yeah , go ahead",0
+16,0, ( Nick walks into the darkened room carrying an ALS . ),0
+16,1, ( He swings the light around as she walks into the room . ),0
+16,2, ( Nick pulls away the bed cover and looks at the bed sheet under the ALS . ),0
+16,3, ( Nick looks under the dining room table . ),0
+16,4, ( He turns the ALS off . ),0
+16,5, ( He shines his flashlight on the carpet and sees some discoloration . ),0
+16,6, ( He cuts a swatch of the carpet off . ),0
+17,0," ( Sara is sitting at her desk , a beer bottle in her hand , when someone knocks on the door . )",0
+17,1," ( Using the remote , she turns the stereo off . )",0
+17,2, ( The background music stops . ),0
+17,3, ( She stands up and answers the door . ),0
+17,4, ( She opens the door and finds Grissom standing outside her front door . ),0
+17,5, ( She sighs . ),0
+17,6," [[Sara]] well , if you 're here , it ca n't be good",0
+17,7, [[Grissom]] can i come in ?,0
+17,8, ( She steps back to let Grissom in She lifts her beer bottle at him . ),0
+17,9, [[Sara]] want to ask me if i 'm drunk ?,0
+17,10, [[Grissom]] we both know that 's not your problem,0
+17,11, ( He steps into the room . ),0
+17,12, ( Sara closes the door . ),0
+17,13, ( Grissom turns around . ),0
+17,14, [[Grissom]] i spoke to catherine,0
+17,15, [[Sara]] ecklie ?,0
+17,16, [[Grissom]] he wants me to fire you,0
+17,17, [[Sara]] i figured,0
+17,18, ( She sighs . ),0
+17,19, [[Sara]] can i get you anything ?,0
+17,20, [[Grissom]] sure,0
+17,21, [[Grissom]] an explanation,0
+17,22, [[Sara]] i ... lost my temper,0
+17,23, ( Sara walks around the room and stops in front of the chair near her desk . ),0
+17,24, [[Grissom]] that seems to be happening quite a bit,0
+17,25, [[Grissom]] do you know why ?,0
+17,26, [[Sara]] what difference does it make ?,0
+17,27, [[Sara]] i 'm still fired,0
+17,28, [[Grissom]] it makes a difference to me,0
+17,29," ( Standing a room apart , Sara takes her best shot at giving him an explanation . )",0
+17,30, [[Sara]] i have a problem with authority,0
+17,31, [[Sara]] i choose men who are emotionally unavailable,0
+17,32, [[Sara]] i 'm self-destructive,0
+17,33, [[Sara]] all of the above,0
+17,34, [[Grissom]] 'have you ever gone a week without a rationalization ?,0
+17,35," ( Sara takes a breath , but before she can say anything , Grissom explains . )",0
+17,36, [[Grissom]] it 's from the 'big chill ',0
+17,37, [[Grissom]] one of the characters explaining a basic fact of life -- that rationalizations are more important to us than s*x even,0
+17,38, ( Sara sits down . ),0
+17,39, [[Sara]] i am not rationalizing anything,0
+17,40," [[Sara]] i crossed the line with catherine , and i was insubordinate to ecklie",0
+17,41, [[Grissom]] why ?,0
+17,42, [[Sara]] leave it alone,0
+17,43," [[Grissom]] no , sara",0
+17,44, [[Sara]] what do you want from me ?,0
+17,45, [[Grissom]] i want to know why you 're so angry,0
+17,46, ( Sara stares at Grissom . ),0
+18,0, ( Sara and Grissom sit facing each other . ),0
+18,1, ( The light from the setting sun filters through the darkening room . ),0
+18,2," [[Sara]] it 's funny ... the things that you remember and the things that you do n't , you know",0
+18,3, [[Sara]] there was a smell of iron in the air,0
+18,4, [[Sara]] cast-off on the bedroom wall,0
+18,5, [[Sara]] there was this young cop puking his guts,0
+18,6, [[Sara]] i remember the woman who took me to foster care,0
+18,7, [[Sara]] i ca n't remember her name,0
+18,8," [[Sara]] which is strange , you know , 'cause i could n't let go of her hand",0
+18,9, [[Grissom]] well ... the mind has its filters,0
+18,10, [[Sara]] i do remember the looks,0
+18,11, [[Sara]] i became the girl whose father was stabbed to death,0
+18,12, [[Sara]] do you think there 's a murder gene ?,0
+18,13, [[Grissom]] i do n't believe that genes are a predictor of violent behavior,0
+18,14, [[Sara]] you would n't know that in my house,0
+18,15," [[Sara]] the fights , the yelling , the trips to the hospital",0
+18,16, [[Sara]] i thought it was the way that everybody lived,0
+18,17," [[Sara]] when my mother killed my father , i found out that it was n't",0
+18,18, ( Sara starts to cry . ),0
+18,19, ( Grissom reaches out and holds her hand . ),0
+19,0, ( Hodges works on processing the black spot found on Ken Wellstone 's carpet . ),0
+19,1, ( He also takes a bit of the tar from the tar block . ),0
+20,0, ( Brass interviews Ken Wellstone . ),0
+20,1, ( Brass shows Ken Wellstone two photos . ),0
+20,2, [[Brass]] so the tar from your carpet matches the tar that svetlana melton was buried in,0
+20,3, [[Ken_Wellstone]] tar,0
+20,4, [[Ken_Wellstone]] i ... where ?,0
+20,5," [[Ken_Wellstone]] i mean , i have no idea what you 're talking about",0
+20,6, [[Brass]] we also found your blood on her parka that she wore to the hospital two years ago,0
+20,7, [[Ken_Wellstone]] i can explain that,0
+20,8, [[Ken_Wellstone]] that was from,0
+20,9," [[Brass]] so can we -- you beat her , you killed her , you buried her",0
+20,10," [[Ken_Wellstone]] no , i did n't",0
+20,11," [[Ken_Wellstone]] no , stop , please",0
+20,12, [[Ken_Wellstone]] listen,0
+20,13, [[Ken_Wellstone]] she ... she ran away,0
+20,14, ( Brass looks blankly at Ken . ),0
+20,15," ( He reaches into his jacket pocket , takes out his wallet , opens the wallet and takes out a folded slip of paper . )",0
+20,16, ( He opens the paper and reads the note . ),0
+20,17, ( Brass holds out the file folder . ),0
+20,18, [[Brass]] put that in here,0
+20,19," ( Ken drops the open note on the file folder , words-side up . )",0
+20,20," [[Brass]] 'ken , do not look for me",0
+20,21, [[Brass]] i need to go away,0
+20,22, [[Brass]] svetlana ',0
+20,23," [[Ken_Wellstone]] you know , after everything that we 'd been through and everything , this just seemed really , uh ... it was cold",0
+20,24, [[Ken_Wellstone]] did n't sound like her,0
+20,25, [[Ken_Wellstone]] she usually called me ... kenski,0
+20,26," [[Brass]] so what was your relationship , kenski ?",0
+20,27, [[Ken_Wellstone]] what was my relationship ?,0
+20,28," [[Ken_Wellstone]] my relationship was , uh ... we were , uh ... we were in love",0
+20,29, [[Brass]] how did her husband feel about that ?,0
+20,30," [[Ken_Wellstone]] her husband bought her , so he thought he owned her",0
+20,31, [[Ken_Wellstone]] and svetlana was way out of his league,0
+20,32, [[Ken_Wellstone]] and what she wanted to do was fast track her divorce,0
+20,33," [[Ken_Wellstone]] so she thought maybe if she made it look like andrew had beat her , that that would do it , but that did n't do it because he 'd actually never hit her",0
+20,34, [[Ken_Wellstone]] so,0
+20,35, [[Brass]] how 'd she break her jaw ?,0
+20,36, ( Ken suddenly becomes very quiet . ),0
+20,37, [[Brass]] huh ?,0
+20,38, [[Ken_Wellstone]] she begged me,0
+20,39, ( Quick flashback to : Svetlana pleads with Ken . ),0
+20,40," [[Svetlana_Melton]] please , kenski",0
+20,41, [[Svetlana_Melton]] please,0
+20,42, [[Svetlana_Melton]] hit me hard on face,0
+20,43, [[Svetlana_Melton]] it is only way for me to leave this horrible man,0
+20,44," [[Svetlana_Melton]] please , kenski",0
+20,45, [[Svetlana_Melton]] hit me if you love me,0
+20,46, ( He leans forward and kisses her . ),0
+20,47, ( He straightens and punches her in the face . ),0
+20,48, ( End of flashback . ),0
+20,49, ( Resume to present . ),0
+20,50, [[Ken_Wellstone]] i just loved her,0
+21,0, ( Warrick is spraying the clothes with luminol . ),0
+21,1," ( As she blood spatter lights up , he places little arrow stickers on the material to show where the blood is located . )",0
+22,0, ( Warrick reports his findings to Catherine . ),0
+22,1, [[Warrick]] all of the blood on svetlana 's sweatshirt was hers,0
+22,2, [[Catherine]] nothing from ken wellstone ?,0
+22,3," [[Warrick]] no , but some of the drops look a lot like dried blood , but they came back 'aubergine sheen number 315 , ' professional grade hair dye",1
+22,4," [[Catherine]] well , she worked in a hair salon",0
+22,5, [[Warrick]] yeah,0
+22,6, [[Warrick]] some of the patterns look a lot like cast-off,0
+22,7, ( Quick flash of : [_BEAUTY_SHOP_] Svetlana fights with her attacker . ),1
+22,8, [[Catherine]] hair dye was present when she was being attacked,1
+22,9, ( End of flashback . ),0
+22,10, ( Resume to present . ),0
+22,11, [[Warrick]] ken still could have done it,0
+22,12," [[Catherine]] true , but his story is so absurd i almost buy it",0
+22,13," [[Warrick]] yeah , well , admit the punch and you go to jail for a night",0
+22,14, [[Warrick]] admit the killing and you go to jail for life,0
+22,15, ( They both turn and walk into the A/V lab where Nick is . ),0
+22,16, ( Nick is going through the various photos of the mail-order brides on the internet at ivanawife [_dot_] com . ),0
+22,17," [[Warrick]] find anything you like , buddy ?",0
+22,18, ( Nick chuckles . ),0
+22,19," [[Catherine]] so , you ca n't sell your kids , but you can buy their mother",0
+22,20, ( He stops at one and reads what the woman wrote . ),0
+22,21," [[Nick]] 'i looking for kindest , noble man ' well , i got news for you , sugar pants",0
+22,22, [[Nick]] buying women ai n't that noble,0
+22,23," [[Warrick]] well , life is short",0
+22,24, [[Warrick]] dating 's complicated,0
+22,25," [[Warrick]] this makes it much simpler , does n't it ?",0
+22,26, [[Catherine]] it 's not supposed to be simple,0
+22,27, [[Catherine]] complicated is the whole point,0
+22,28, [[Warrick]] it is ?,0
+22,29, [[Catherine]] yeah,0
+22,30," [[Nick]] hey , wait a minute",0
+22,31, [[Nick]] you 're not telling me you 're into this stuff ?,0
+22,32, [[Warrick]] me ?,0
+22,33, [[Warrick]] no,0
+22,34," [[Warrick]] but you know , for a guy who 's over 40 , lonely , tired of the bar scene , got a little cash , wants to buy himself a sweet honey , be his companion",0
+22,35," [[Nick]] he needs a translator , 'cause you 're not even speaking the same language",0
+22,36, [[Warrick]] that 's the best part,0
+22,37, [[Catherine]] ugh ... !,0
+22,38, ( Catherine turns and leaves . ),0
+22,39, ( Warrick chuckles . ),0
+22,40, [[Nick]] best part of what ?,0
+23,0," ( Brass , Chloe Daniels , Vlad and some police officers stand outside the beauty shop . )",0
+23,1, [[Chloe_Daniels]] what 's all this about ?,0
+23,2, [[Brass]] we have reason to believe svetlana melton was murdered in your salon,0
+23,3, [[Brass]] we have a search warrant,0
+23,4, ( Brass hands the warrant over to Chloe . ),0
+23,5, [[Chloe_Daniels]] let them in,0
+24,0, ( Catherine looks around the main area . ),0
+24,1, ( She stops at the table with an open shears holder . ),0
+24,2, ( Catherine takes a pair of scissors out of the holder and looks at it . ),0
+24,3," [[Catherine]] jagged on one side , smooth on the other",0
+24,4, ( Quick CGI POV of : A fingertip is cut off with the pair of scissors . ),0
+24,5, ( End of CGI POV . ),0
+24,6, ( Resume to present . ),0
+24,7, ( Nick looks around the area . ),0
+24,8, ( He picks up the appointment book and looks at it . ),0
+24,9, ( He puts the book down and snaps a photo of it . ),0
+24,10, ( Catherine walks up to a station and uses the ALS on the wall . ),0
+24,11, [[Catherine]] i got blood spatter next to the hair dye,0
+24,12, ( Nick walks over . ),0
+24,13, [[Nick]] svetlana was a tall girl,0
+24,14, [[Nick]] spatter looks a little low,0
+24,15, [[Nick]] maybe she was sitting,0
+24,16, ( Catherine notices the different chairs . ),0
+24,17, [[Catherine]] these chairs do n't match,0
+24,18, ( She reaches out and removes the vinyl from the chair . ),0
+24,19, [[Catherine]] i think somebody 's hiding something,0
+24,20," ( Under it , the back of the chair is smudged . )",0
+25,0, ( Warrick shows Catherine what he 's found . ),0
+25,1, [[Warrick]] the stain on the chair was aubergine sheen hair dye,0
+25,2," [[Warrick]] dna from the bloodstains on the walls was too degraded , and mia could not get a match",0
+25,3," [[Catherine]] so , we know who the blood belongs to",0
+25,4, [[Catherine]] we just ca n't prove it,0
+25,5," [[Warrick]] i think we can , though",0
+25,6," [[Warrick]] you know some guy was selling a grilled cheese sandwich on ebay for something like $ 28,000 because he claimed the burn pattern contained the face of the virgin mary ?",0
+25,7," ( As he talks , Warrick takes the smudge pattern from the chair and digitally matches it to one of the camera booth photos of Svetlana . )",1
+25,8, ( He flips the smudge over and matches it perfectly to the photo . ),1
+25,9, [[Warrick]] how much you think i can get for the face of svetlana in hair dye ?,0
+25,10, ( Quick flash of : [_BEAUTY_SHOP_] Someone throws the hair dye at Svetlana . ),1
+25,11, ( The metal pan hits the floor . ),0
+25,12, ( The person throws Svetlana against the chair . ),1
+25,13, ( She hits the chair with her face leaving the smudge behind . ),1
+25,14, ( End of flash . ),0
+25,15, ( Resume to present . ),0
+25,16, [[Catherine]] hang on,0
+25,17, [[Catherine]] there 's something else,0
+25,18, ( Catherine enhances the locket in the photo . ),0
+25,19, ( She recognizes the locket . ),0
+25,20, ( Quick flash to : [_JUNE_] June is wearing a similar locket around her neck . ),1
+25,21, ( End of flash . ),0
+25,22, ( Resume to present . ),0
+25,23, [[Catherine]] a recycled love token,0
+25,24," [[Catherine]] now , that 's tacky",0
+25,25," [[Warrick]] yeah , that is pretty tacky",0
+25,26, [[Catherine]] but it 's cause for a warrant,0
+26,0, ( Andrew Melton reads through the warrant . ),0
+26,1, ( June Melton stands next to him . ),0
+26,2, ( Brass and the officers wait . ),0
+26,3, [[Brass]] everything in order ?,0
+26,4, [[Andrew_Melton]] i 'm not giving you a damn thing until i read every last word,0
+26,5, [[Brass]] take as long as you want,0
+26,6, [[Brass]] we 're going to be here a while,0
+26,7," ( In the kitchen , Catherine looks at the chain and padlock around the refrigerator door . )",0
+26,8, [[Catherine]] do you believe this ?,0
+26,9, ( Warrick notes that all the kitchen cupboards are also padlocked . ),0
+26,10," [[Warrick]] what , that the guy locks up his food ?",0
+26,11, [[Catherine]] locks his wife out,0
+26,12, [[Warrick]] you think he 's trying to protect his investment ?,0
+26,13, [[Warrick]] weight goes up,0
+26,14, [[Warrick]] value goes down,0
+26,15," [[Catherine]] control her food , control her destiny , i do n't know",0
+26,16, [[Warrick]] look at this,0
+26,17, ( Warrick holds up the phone with the cord removed . ),0
+26,18, [[Warrick]] she ca n't even call out for pizza,0
+26,19, [[Catherine]] or help,0
+26,20, ( Andrew Melton finishes reading the warrant . ),0
+26,21," ( Seeing that he 's done , Brass mentions what they 're there to collect . )",0
+26,22, [[Brass]] the necklace,0
+26,23, ( Andrew Melton steps toward June to remove the necklace himself . ),0
+26,24, ( Brass stops him . ),0
+26,25," [[Brass]] no , no , no",0
+26,26," [[Brass]] no , no",0
+26,27, [[Brass]] i got it,0
+26,28, [[Brass]] i got it,0
+26,29, ( Brass reaches out and undoes the necklace clasp as Andrew Melton glares jealously at Brass . ),0
+26,30, ( He swallows hard . ),0
+27,0," ( Catherine scans the necklace into the computer , magnifying it and examining it at the same time . )",0
+27,1, ( She finds some blood on the clasp . ),0
+27,2, ( She takes a sample and tests it . ),0
+27,3, ( The paper turns pink . ),0
+28,0, ( Catherine meets with Warrick and Nick . ),0
+28,1, [[Catherine]] svetlana 's blood was on the necklace worn by andrew melton 's current child bride,1
+28,2, [[Warrick]] could you imagine a control freak like him having to spend the night in jail on a phony abuse charge ?,1
+28,3, [[Warrick]] you know he went looking for her when he got out,1
+28,4," ( Quick flash to : Andrew Melton kneels down over Svetlana 's dead , bloodied body and removes the necklace . )",1
+28,5," [[Warrick]] he beat her , killed her and took back the only thing he valued",1
+28,6, ( He puts the necklace in his pocket . ),1
+28,7, ( End of flashback . ),0
+28,8, ( Resume to present . ),0
+28,9," [[Nick]] it 'll never stand up , rick",0
+28,10," [[Nick]] you know how it is , they 'll say the blood could 've come from anywhere",0
+28,11, [[Nick]] she could 've left the necklace behind,1
+28,12, [[Warrick]] we need a murder weapon,0
+28,13," [[Catherine]] yeah , well , good luck on that one",0
+28,14, [[Catherine]] crime 's over two years old,0
+28,15, [[Catherine]] all righty,0
+28,16, [[Catherine]] we know that this guy did it,1
+28,17, [[Catherine]] how do we prove it ?,0
+28,18, [[Warrick]] can we prove he buried her ?,1
+28,19, [[Nick]] i 'm not convinced he did,1
+28,20, [[Nick]] svetlana was buried in a pre-existing grave,1
+28,21, [[Nick]] right on top of another girl 's body,0
+28,22, [[Catherine]] and both girls ' fingertips were removed by blending shears,1
+28,23, [[Warrick]] which we also found at the salon,0
+28,24, [[Catherine]] and the only people with full access to the salon are chloe and vlad,1
+28,25," [[Nick]] yeah , and chloe does n't really seem like the type that gets her hands dirty",1
+29,0," ( Ronnie puts two enlarged writing samples - one of 'Ken ' from the note , and the other of 'Kie ' from the appointment book - one on top of the other to compare the two . )",0
+29,1, ( Nick watches . ),0
+29,2," [[Ronnie_Litre]] all right , the relative size of the letters and the spacing between them appear to be consistent with both vlad 's appointment book and the good-bye note left by svetlana",0
+29,3, [[Ronnie_Litre]] my opinion is it 's the same writer,0
+29,4," [[Nick]] well , it looks like the vladski tricked the kenski",0
+30,0, ( Warrick interviews Vlad . ),1
+30,1, ( He shows Vlad his credit card statements . ),1
+30,2," [[Warrick]] according to your credit card statements , you purchased several buckets of tar two and five years ago ... at a local hardware store",1
+30,3," [[Warrick]] tell me , what 's a receptionist at a hair salon doing with that much tar ?",0
+30,4," [[Vlad]] in russia , i work for certain family",1
+30,5," [[Vlad]] when they want body taken care of , i go to oil field , dump body in tar",1
+30,6, [[Vlad]] none ever found,0
+30,7, [[Warrick]] sounds like fun,0
+30,8, [[Warrick]] tell me about svetlana,1
+30,9, [[Vlad]] girl already dead,1
+30,10, [[Vlad]] nothing i can do,1
+30,11, [[Warrick]] so you 're saying you did not kill her ?,1
+30,12, [[Vlad]] no,0
+30,13, [[Warrick]] then why 'd you cover it up ?,1
+30,14, ( Quick flash to : [_BEAUTY_SHOP_] Vlad walks into the beauty shop . ),1
+30,15, ( Svetlana is dead ; Andrew Melton kneels over the body retrieving the necklace . ),1
+30,16," [[Vlad]] svetlana , time to lock up",1
+30,17, ( Vlad stops when he sees Andrew and Svetlana . ),1
+30,18, ( Andrew stares at them . ),1
+30,19, [[Warrick]] you did n't call 911 ?,1
+30,20, ( Cut to : Vlad mops up the blood on the floor . ),1
+30,21," [[Warrick]] you cleaned up the scene , buried her ,",1
+30,22, ( Cut to : [_WELLSTONE_RESIDENCE_] Vlad walks into the house and leaves the note behind . ),1
+30,23, [[Warrick]] ... and then you left a note for ken,1
+30,24," ( As Vlad leaves , he leaves behind a tar stain from under his shoe and onto the carpet . )",1
+30,25, ( End of flash . ),0
+30,26, ( Resume to present . ),0
+30,27, [[Vlad]] america is land of opportunity,1
+30,28, [[Vlad]] her death should be a total loss ?,1
+30,29, [[Vlad]] andrew melton is very good tipper,1
+30,30, [[Warrick]] was andrew melton a very good tipper five years ago ?,1
+30,31, [[Vlad]] no,0
+30,32, [[Warrick]] svetlana was n't buried alone,1
+30,33, [[Warrick]] there was another body in that grave,0
+30,34, [[Vlad]] many girls want american husband,0
+30,35, [[Vlad]] sometimes chloe ca n't get them a visa,0
+30,36, [[Vlad]] they come anyway,0
+30,37, ( Quick flash to : [_AIRPORT_BAGGAGE_] The people unload the luggage . ),0
+30,38, ( They put the suitcase on the side . ),0
+30,39," ( Cut to : Inside the suitcase , a woman gasps . )",0
+30,40, ( The workers pile on another heavy suitcase on top of the suitcase with the woman inside . ),0
+30,41," ( Inside the suitcase , she 's being squashed . )",0
+30,42, ( End of flashback . ),0
+30,43, ( Resume to present . ),0
+30,44," [[Warrick]] she came here in a suitcase , but she was dead on arrival , so you take her out to the desert and bury her in a hole ?",1
+30,45, ( Quick flash to : [_DESERT_] Vlad unzips the suitcase with the dead woman inside . ),1
+30,46, ( Cut to : The dead woman is curled up in the hole . ),1
+30,47, ( Vlad pours tar on the body . ),1
+30,48, ( End of flash . ),0
+30,49, ( Resume to present . ),0
+30,50," [[Vlad]] again , girl already dead",1
+30,51, [[Vlad]] nothing i can do,1
+31,0, ( Andrew Melton sits in the interview room . ),1
+31,1, ( Brass sits across from Andrew Melton . ),1
+31,2," [[Brass]] boy , women can really drive you crazy , huh ?",0
+31,3," [[Brass]] i mean , this perfect creature who needs you , who loves you",1
+31,4," [[Brass]] i mean , you think you 've got it all worked out",1
+31,5," [[Brass]] your christmas card 's gon na look like the sears catalogue , right ?",1
+31,6, [[Brass]] and then what ?,0
+31,7," [[Brass]] i mean , you give her stuff",1
+31,8," [[Brass]] you give her clothes , money and shelter , and , uh , and then she goes and makes up some bogus story about how you attacked her",1
+31,9, [[Andrew_Melton]] which i never did,1
+31,10, [[Brass]] man ... a love like that,0
+31,11, [[Brass]] so pure,0
+31,12," [[Brass]] i mean , men have robbed banks for less , put their life on the line ... would kill to protect it",0
+31,13," [[Andrew_Melton]] everywhere we went , men were making love to her with their eyes , defiling her with their thoughts",1
+31,14, [[Andrew_Melton]] it got so bad it was n't safe to let her leave the house,1
+31,15, [[Andrew_Melton]] but then she got lonely,1
+31,16, [[Andrew_Melton]] like a person i did n't recognize,1
+31,17, [[Brass]] you made her an american,1
+31,18, [[Andrew_Melton]] in all the good ways,1
+31,19, [[Andrew_Melton]] ... and the bad,1
+31,20, ( Quick flash to : [_BEAUTY_SHOP_] Svetlana is in the shop when Andrew Melton walks in ),1
+31,21, [[Andrew_Melton]] svetlana !,1
+31,22," ( Svetlana looks at him , scared . )",1
+31,23, [[Andrew_Melton]] you told them i hit you ?,1
+31,24, [[Andrew_Melton]] why would you do that ?,1
+31,25, [[Andrew_Melton]] huh ?,0
+31,26," ( He rushes toward her , throwing the metal dish of Aubergine Sheen hair dye in her face . )",1
+31,27, ( He pushes her away from him toward the chair . ),1
+31,28," ( Svetlana hits the chair with her face , leaving behind the face-shaped smudge . )",1
+31,29, ( He rushes toward her and starts punching her in the face . ),1
+31,30, [[Andrew_Melton]] is that what you want ?,1
+31,31, [[Andrew_Melton]] huh ?,0
+31,32, [[Andrew_Melton]] you want me to hit you ? !,1
+31,33, [[Andrew_Melton]] that you want ?,1
+31,34, ( He does n't stop . ),1
+31,35, ( End of flashback . ),0
+31,36, ( Resume to present . ),0
+31,37, [[Andrew_Melton]] she never appreciated me,1
+32,0, ( Officers escort a handcuffed Andrew Melton through the hallway . ),0
+32,1, ( Chloe Daniels and June are in the waiting room . ),0
+32,2, ( June sees them walk past . ),0
+32,3, ( She rushes toward them . ),0
+32,4," [[June_Melton]] andrew , what happens ?",0
+32,5, [[June_Melton]] june melton : andrew ?,0
+32,6, ( Chloe appears behind June . ),0
+32,7," [[Chloe]] it 'll be okay , honey",0
+32,8, [[Chloe]] it 'll all work out,0
+32,9, [[Chloe]] you 'll see,0
+32,10," ( She hugs June , who sniffs . )",0
+32,11," ( In the back of the hallway , Brass watches them . )",0
+33,0, ( Grissom heads for Ecklie 's office . ),0
+33,1," ( Inside the office , Catherine and Ecklie are going over some files . )",0
+33,2," [[Catherine]] okay , here 's what i wanted to show you",0
+33,3, [[Catherine]] the facts just do n't match up,0
+33,4, ( Grissom walks up to the table where the two are seated . ),0
+33,5, [[Grissom]] you wanted to talk to me about sara ?,0
+33,6, [[Conrad_Ecklie]] i have n't received her disciplinary action,0
+33,7, [[Conrad_Ecklie]] what 's the holdup ?,0
+33,8," [[Grissom]] well , i 'm not firing her",0
+33,9, [[Catherine]] what action are you taking ?,0
+33,10, [[Grissom]] i 've taken it,0
+33,11, [[Conrad_Ecklie]] i thought i was clear,0
+33,12, [[Grissom]] you were,0
+33,13, [[Grissom]] now let me be clear,0
+33,14, [[Grissom]] sara 's behavior is a direct result of my management,0
+33,15, [[Conrad_Ecklie]] so i should fire you,0
+33,16, [[Grissom]] but you wo n't,0
+33,17," [[Conrad_Ecklie]] look , gil",0
+33,18, [[Conrad_Ecklie]] i 've been there,0
+33,19, [[Conrad_Ecklie]] we 're human,0
+33,20," [[Conrad_Ecklie]] we get attached to people , we try to fix their problems it does n't work",0
+33,21," [[Grissom]] she 's a great criminalist , conrad",0
+33,22, [[Grissom]] and i need her,0
+33,23, [[Conrad_Ecklie]] i 'm sure you do,0
+33,24, [[Conrad_Ecklie]] you know what ?,0
+33,25, [[Conrad_Ecklie]] she 's a loose cannon with a gun,0
+33,26, [[Conrad_Ecklie]] and she 's all yours,0
+33,27, ( Grissom watches Ecklie . ),0
+33,28," ( He shifts his gaze from Ecklie to Catherine , who looks at Grissom . )",0
+33,29, ( Camera holds on Grissom . ),0

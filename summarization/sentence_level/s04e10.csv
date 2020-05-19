@@ -1,0 +1,980 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( Camera close up of a hammer pounding a nail into the board . ),0
+0,1, ( Close up of : A circular saw being used to cut a board into two . ),0
+0,2," ( Close up of : A tape measure extended to measure the width , then snapping shut . )",0
+0,3, ( Close up of : A power drill . ),0
+0,4, ( Close up of : A power stapler drilling nails into wood . ),0
+0,5, ( The CONSTRUCTION WORKER carries a box into the building frame . ),0
+0,6, ( He puts a roll of tape on the box and uses his free arm to push away the plastic sheeting as he walks into the section of the house . ),0
+0,7," ( He looks up , sees something horrible , then drops the box to the ground . )",0
+0,8," ( Camera pulls away to show the dead body , face down on the floor in the center of the room . )",1
+0,9, ( The CONSTRUCTION WORKER backs out of the room . ),0
+0,10, [[Construction_Worker]] boss !,0
+0,11, [[Construction_Worker]] boss !,0
+0,12," ( In the background , GREGORY CURTWELL steps down from the ladder as he looks at the CONSTRUCTION WORKER . )",0
+0,13, [[Construction_Worker]] we-we got a problem,0
+1,0, ( The building frame is taped off with crime scene tape . ),0
+1,1, ( GRISSOM ducks under the tape and enters the building . ),0
+1,2," ( In the background , sirens and indistinct radio chatter sound . )",0
+1,3, ( GRISSOM makes his way to the room . ),0
+1,4, ( He enters the room . ),0
+1,5," ( BRASS is already there , crouched low on the side and looking at the body . )",0
+1,6," ( GRISSOM takes his glasses off and looks at the teenager face down , his head in a splatter of blood . )",0
+1,7, ( He looks around at the walls . ),0
+1,8," [[Grissom]] well , clean surfaces make for good analysis",0
+1,9, ( BRASS gets to his feet . ),0
+1,10," ( In the background we see what they see , the far walls are covered with blood . )",0
+1,11, [[Brass]] yeah,0
+1,12," [[Brass]] well , that may be the only good thing",0
+1,13," [[Brass]] i checked for a wallet , no id",0
+1,14, [[Brass]] nothing on him,0
+1,15, ( GRISSOM puts his kit down on the ground . ),0
+1,16, [[Brass]] the kid looks like a minor,0
+1,17, [[Brass]] coroner 's investigator says he 's been dead for over twelve hours,0
+1,18, [[Brass]] happened sometime this weekend,0
+1,19," ( By the camera angle , we see that the kid is in his underwear , his pants down around his knees . )",0
+1,20, ( GRISSOM kneels down next to the body and sees something in the kid 's grip . ),0
+1,21, [[Brass]] you going to pry that piece of cloth from his hand ?,0
+1,22, [[Grissom]] not just yet,0
+1,23, [[Brass]] help me out here,0
+1,24, [[Brass]] got any ideas on this one ?,0
+1,25, ( GRISSOM looks around . ),0
+1,26," [[Grissom]] well , based on his pants around the knees , i would say a crime of passion",0
+1,27, ( GRISSOM gets to his feet . ),0
+1,28, ( Camera shows a top view of the room to give us a better image of the entire scene at play . ),0
+1,29," ( The body lies in the center of the empty room , the kid 's head in a large spatter of blood . )",0
+1,30, [[Grissom]] given the brutality of it ... seems to me an act of rage,0
+2,0, ( BRASS talks with the CONSTRUCTION SITE FOREMAN . ),0
+2,1," ( In the background , a black car drives up and parks . )",0
+2,2," [[Foreman]] you know , i lose an hour a day cleaning up their beer bottles and their cigarette butts",0
+2,3," [[Brass]] kids use it as a hangout , huh ?",0
+2,4," [[Foreman]] oh , sure",0
+2,5," [[Foreman]] they think the house does n't have a lock , it belongs to them",0
+2,6," [[Brass]] well , it 's a crime scene , so it belongs to us now",0
+2,7, [[Foreman]] yeah,0
+2,8, [[Foreman]] how long ?,0
+2,9, [[Brass]] as long as it takes,0
+2,10, ( WARRICK and SARA get out of the car . ),0
+2,11," [[Foreman]] you know , i got two teenagers at home , and they know how to respect other people 's property",0
+2,12," [[Foreman]] now , who 's going to feed them when i do n't get paid for today , huh ?",0
+2,13, [[Brass]] huh ?,0
+2,14, [[Brass]] i ca n't tell you that,0
+3,0, ( GRISSOM is in the room taking photos when WARRICK and SARA walk in ),0
+3,1," [[Grissom]] take a look at his head , tell me what you see",0
+3,2, ( SARA steps forward to look down at the body . ),0
+3,3, ( WARRICK is kneeling in front of the body . ),0
+3,4," ( He takes off his glasses , then reaches out and pushes the shirt collar aside to show the back of the kid 's head . )",0
+3,5, ( Camera zooms in on the impact marking . ),0
+3,6, [[Warrick]] definitely blunt force,1
+3,7, ( SARA recognizes the markings . ),0
+3,8, [[Sara]] that 's a hammerhead,0
+3,9, ( GRISSOM looks at SARA . ),0
+3,10, [[Grissom]] i thought you might say that,0
+3,11, ( SARA steps back and heads toward the door . ),0
+3,12, ( She looks back at GRISSOM . ),0
+3,13," [[Grissom]] well , we know that people often commit crimes in places they 're familiar with",0
+3,14, ( SARA gets it . ),0
+3,15, ( She turns and heads out the door . ),0
+3,16," ( She glances out the hallway , then sees that every single construction worker has their own hammer hooked to their utility belt . )",0
+3,17, ( That 's a lot of hammers . ),0
+3,18, ( SARA looks back at GRISSOM . ),0
+3,19, [[Sara]] you got to be kidding me,0
+3,20, ( GRISSOM looks at SARA and does n't say anything . ),0
+3,21, ( He turns his attention to the walls . ),0
+3,22," ( SARA glares at GRISSOM , then heads out to get those hammers . )",0
+3,23, ( GRISSOM takes a picture of the blood spatter on the walls . ),0
+3,24, [[Warrick]] i 'll swab the blood and see if it 's all his,0
+3,25, ( WARRICK takes a swab of the blood on the floor under the victim 's head . ),0
+3,26, ( He then pushes the victim 's jacket aside to reveal a bloody shoe print underneath . ),0
+3,27, [[Warrick]] grissom ?,0
+3,28, ( GRISSOM turns and looks at the shoe print . ),0
+3,29, ( He looks at WARRICK . ),0
+3,30," [[Grissom]] well , that should help",0
+3,31, ( SARA sets up a table to bag and tag the hammers . ),0
+3,32, [[Construction_Worker]] i 'll trade you a hammer for a screw,0
+3,33, ( He laughs and turns to glance back at the long line of workers behind him . ),0
+3,34, ( They also chuckle along with him . ),0
+3,35," [[Sara]] name , please",0
+3,36," [[Construction_Worker]] i 'll tell you mine , you tell me yours",0
+3,37, ( SARA does n't smile . ),0
+3,38," [[Construction_Worker]] oh , come on , baby",0
+3,39, [[Construction_Worker]] i 'm stuck with these ugly fools all day,0
+3,40, [[Construction_Worker]] a pretty girl comes by,0
+3,41, [[Construction_Worker]] just having a little fun,0
+3,42," [[Sara]] yeah , murder always makes me feel a little randy , too",0
+3,43, [[Construction_Worker]] ooh,0
+3,44, ( The CONSTRUCTION WORKER puts his hammer into SARA 'S bag . ),0
+4,0, ( DAVID PHILLIPS and DET SAM VEGA stand around the body of a WOMAN face-up on the grass . ),1
+4,1, ( NICK approaches the scene . ),0
+4,2, [[Nick]] fellows,0
+4,3," [[David_Phillips]] hey , uh , mrs marlene mitchell , 32",1
+4,4, [[David_Phillips]] apparent gunshot wound to the chest,1
+4,5," [[David_Phillips]] entry , no exit",0
+4,6, [[David_Phillips]] no other apparent injuries,0
+4,7, ( NICK looks at VEGA . ),0
+4,8, [[Nick]] do we know who shot her ?,1
+4,9, [[Vega]] i patted down all her friends,0
+4,10, [[Vega]] nobody 's carrying,0
+4,11," [[Vega]] got a couple officers scanning the neighborhood in case the , uh , weapon got tossed",0
+4,12, [[Vega]] she was breaking up a fight when she went down,1
+4,13, [[Nick]] nobody saw anything ?,0
+4,14, [[Nick]] nobody heard anything ?,0
+4,15, [[Vega]] no,0
+4,16, [[Nick]] somebody 's lying,0
+4,17, ( NICK turns back to see a MAN talking with an OFFICER . ),0
+4,18, [[Nick]] that the husband ?,0
+4,19, [[Vega]] the current one,0
+4,20, [[Vega]] the other one -- he 's the ex,0
+4,21, ( NICK turns to see another man talking with another OFFICER . ),0
+4,22, [[Nick]] interesting family reunion,0
+4,23, [[Nick]] whose brilliant idea was that ?,0
+4,24, [[Vega]] the mitchell 's were moving in the ex stopped by to say hi,0
+4,25, [[Nick]] do n't you hate it when hello leads to gunfire ?,0
+4,26, ( VEGA nods . ),0
+4,27, [[Nick]] i 'll need to gsr both,0
+4,28, ( NICK walks over to the husband . ),0
+4,29, [[Nick]] sir ?,0
+4,30, [[Nick]] i 'm going to need to test your hands for gsr,0
+4,31, [[Mr._Mitchell]] what 's that ?,0
+4,32, [[Nick]] gunshot residue,0
+4,33, [[Mr._Mitchell]] why ?,0
+4,34, [[Nick]] to rule you out,0
+4,35, [[Mr._Mitchell]] you think i shot my wife the day after our honeymoon,1
+4,36, ( NICK does n't say anything . ),0
+4,37, ( He continues to test for GSR . ),0
+4,38, [[Mr._Mitchell]] we were just moving our stuff,0
+4,39," [[Mr._Mitchell]] her ex , todd , shows up",0
+4,40, [[Mr._Mitchell]] he knows he 's not supposed to come within 100 yards of her,0
+4,41, [[Mr._Mitchell]] but he did,0
+4,42, ( Quick flashback to : MR MITCHELL and TODD are locked in a fight when MARLENE walks up to them to break it up . ),1
+4,43, [[Marlene_Mitchell]] stop it !,0
+4,44, [[Marlene_Mitchell]] please ?,0
+4,45," ( Suddenly , she slumps back and hits the table out on the lawn . )",1
+4,46, ( MR MITCHELL turns from TODD to rush over to MARLENE . ),1
+4,47, [[Mr._Mitchell]] marlene ?,1
+4,48, ( She does n't respond . ),1
+4,49, ( MR MITCHELL turns to TODD . ),1
+4,50, [[Mr._Mitchell]] call 911,0
+4,51, ( End of flashback . ),0
+4,52, ( Resume to present . ),0
+4,53, [[Mr._Mitchell]] i thought it was a heart attack,0
+4,54, [[Mr._Mitchell]] then i saw the blood,0
+4,55," ( NICK finishes the test , then turns to see VEGA talking with TODD , MARLENE 'S ex-husband . )",1
+4,56, ( We hear part of what he 's saying . ),0
+4,57," [[Vega]] yes , but there was a restraining order against you",0
+4,58, [[Vega]] why were you here ?,0
+4,59, ( NICK turns back to MR MITCHELL . ),0
+4,60, [[Nick]] thank you,0
+4,61, ( NICK steps away . ),0
+5,0, ( GRISSOM takes the piece of cloth out of the kid 's grip . ),0
+5,1, ( Cut to : GRISSOM holds the piece of cloth to the dog 's nose . ),0
+5,2, [[K-9_Officer]] distinguish !,0
+5,3, ( The K-9 OFFICER stands next to SARA as they watch GRISSOM prep the dog . ),0
+5,4, [[K-9_Officer]] you ready to run ?,0
+5,5, ( GRISSOM points to SARA . ),0
+5,6, [[Grissom]] she does all my running,0
+5,7, [[Sara]] thanks,0
+5,8, ( The K-9 OFFICERS and SARA head out . ),0
+5,9, [[K-9_Officer]] trail !,0
+6,0," ( The OFFICERS and SARA follow PENNY , the dog , through the mall , down the stopped escalator . )",0
+6,1, [[Sara]] it 's a hell of a place to get lost,0
+6,2, [[K-9_Officer]] yeah,0
+6,3, [[K-9_Officer]] we have five million olfactory sensory receptors,0
+6,4, [[K-9_Officer]] penny 's got 220 million,0
+6,5, [[K-9_Officer]] she sees the world differently,0
+6,6, ( Low Camera shot in black and white with a reddish trail through the mall . ),0
+6,7," ( She pauses at various other colored 'smells ' indicated by blues and green hues , but it 's the reddish trail she 's following . )",0
+6,8, ( PENNY stops . ),0
+6,9, [[K-9_Officer]] the suspect stopped here,0
+6,10, ( PENNY howls and whimpers . ),0
+6,11, ( She continues . ),0
+6,12, ( Low camera shot in black and white with the reddish smell trailing through the mall . ),0
+6,13, ( cc ) Trail is still strong here . ),0
+6,14, ( The group continues to follow PENNY . ),0
+6,15, ( The door opens and the small group exits the mall . ),0
+6,16, ( PENNY howls and leads them to the dumpster . ),0
+6,17, [[K-9_Officer]] she 's got a hit on the dumpster,0
+6,18, ( SARA opens the dumpster lid and takes out an empty drink and tray . ),0
+6,19, ( She holds it out for PENNY to sniff . ),0
+6,20," [[K-9_Officer]] she 's getting nothing , but penny will pick up on anything they touched",0
+6,21, ( SARA tosses it aside and reaches into the dumpster for the next item . ),0
+6,22, ( She pulls out two plastic garbage bags . ),0
+6,23, ( PENNY howls as she sniffs the abandoned shopping bag . ),0
+6,24, [[K-9_Officer]] there we go,0
+6,25, ( SARA opens the bag . ),0
+6,26, [[K-9_Officer]] there 's something in the silver bag,0
+6,27, ( PENNY smells inside . ),0
+6,28, ( We see by the reddish hue that the smell is inside the bag . ),0
+6,29, [[Sara]] what do you think ?,0
+6,30," [[Sara]] bought new clothes , ditched the old ones ?",0
+6,31, ( SARA takes out a sweater from the bag . ),0
+6,32, [[K-9_Officer]] what 's missing from that sweater 's what that dead kid had in his hand,1
+6,33, ( SARA stands up . ),0
+6,34," [[Sara]] so , we 're looking for a girl who bought a new outfit",1
+6,35, ( She looks at the receipts from the bag . ),0
+6,36, ( Receipt 2 reads: ),0
+6,37, [[Sara]] some earrings and a latte,0
+6,38," [[Sara]] oh , an iced cappuccino , actually",0
+7,0, ( ROBBINS has the chest cavity open . ),0
+7,1, ( NICK stands next to the table watching ROBBINS work on the body . ),0
+7,2, [[Robbins]] congealed blood in the pericardium,0
+7,3, [[Robbins]] heart 's what took the bullet,1
+7,4, [[Nick]] explains why she just dropped,0
+7,5," [[Robbins]] yeah , she was dead in seconds",1
+7,6, [[Robbins]] hmm,0
+7,7, [[Robbins]] bullet 's still in the heart,0
+7,8, ( He cuts the heart open . ),0
+7,9, [[Robbins]] here we go,0
+7,10, ( He removes the bullet . ),0
+7,11, [[Robbins]] there,0
+7,12, ( He holds the bullet out for NICK . ),0
+7,13, ( NICK takes the bullet and looks at it . ),0
+7,14," [[Nick]] well , it looks like a nine millimeter",0
+7,15, [[Nick]] i 'll let vega know,0
+7,16, [[Robbins]] fairly intact,0
+7,17, [[Robbins]] want to do the honors ?,0
+7,18, [[Nick]] sure,0
+7,19, ( NICK takes a rod and sticks it into the heart to find the depth of the bullet . ),0
+7,20, [[Robbins]] that 's it,0
+7,21, ( He removes the rod and measures it . ),0
+7,22, [[Nick]] four inches ?,1
+7,23, [[Nick]] that 's shallow,1
+7,24, [[Nick]] standard handgun bullet penetration 's twelve,0
+7,25, [[Robbins]] right,0
+7,26," [[Nick]] give me a hand , will you ?",0
+7,27, [[Robbins]] sure,0
+7,28, ( He hands the ruler to ROBBINS who holds it up as NICK measures the angle . ),0
+7,29, [[Nick]] eighty-five degree downward angle ?,0
+7,30," [[Robbins]] well , that 's , uh , fairly standard",0
+7,31," [[Robbins]] most gunshot wounds are ninety degrees , give or take",0
+7,32, ( NICK puts the bloody bullet in the bindle . ),0
+7,33, [[Nick]] oh,0
+7,34," [[Nick]] thanks , doc",0
+7,35, [[Robbins]] right,0
+7,36, ( NICK turns to leave the room . ),0
+8,0, ( WARRICK swabs the hammer heads and tests them for blood . ),0
+8,1," ( One by one , they turn up negative . )",0
+8,2, ( He tosses the used swabs to the side and keeps opening up fresh swabs . ),0
+8,3," ( Finally , he finds the hammer that turns the swab pink . )",0
+8,4, ( He looks at the label on the evidence bag . ),0
+9,0, ( ARCHIE reviews the dressing room security tapes . ),0
+9,1, ( The time stamp at the bottom of the screen reads : 07:52:15 : ... ),0
+9,2," [[Archie_Johnson]] they say in america , you 're on camera an average of seven times a day",0
+9,3," [[Archie_Johnson]] go to a mall , and you can at least triple that",0
+9,4, ( SARA stands next to ARCHIE watching the video . ),0
+9,5, [[Sara]] i guess that 's good for us,0
+9,6, [[Sara]] i 'm going to think twice the next time i try on a shirt,0
+9,7," [[Archie]] well , legally , they ca n't put cameras in dressing rooms , but there 's legal , and then there 's what people do",0
+9,8, [[Sara]] our girl bought her clothes at 8:31,1
+9,9, [[Sara]] let 's scan the dressing room footage from 8:00 on,0
+9,10, ( ARCHIE sets the video up and starts the tape . ),0
+9,11, [[Sara]] hold it,0
+9,12," ( At 08:01:09 , SARA sees the GIRL on the table . )",0
+9,13, [[Sara]] that 's our sweater,0
+9,14, [[Sara]] and that 's our girl,1
+9,15, ( ARCHIE speeds the tape up and sees the girl walk out of the store wearing the new clothes . ),0
+9,16, [[Archie]] she did a walk out,1
+9,17, [[Sara]] a 'walk out ?,0
+9,18," [[Archie]] yeah , my girlfriend does it all the time",0
+9,19," [[Archie]] she finds something she likes , rips the tags off in the dressing room , hands them to the clerk , and walks out wearing the new stuff",0
+9,20, [[Sara]] you go shopping with your girlfriend ?,0
+9,21, [[Sara]] that 's nice,0
+9,22, ( ARCHIE smiles . ),0
+9,23, ( He freeze-frames the video to 08:16:08 . ),0
+9,24," [[Archie]] well , you can get her prints from the receipts",1
+9,25, [[Archie]] dna from the sweater,0
+9,26, [[Archie]] and you 've got a face,0
+9,27, [[Archie]] you 're close,0
+9,28," [[Sara]] well , look at her",0
+9,29, [[Sara]] she 's a minor,1
+9,30, [[Sara]] she paid in cash,1
+9,31, [[Sara]] she 's not going to be in any database,1
+9,32," [[Sara]] without a name , we do n't have much",0
+9,33, ( WARRICK enters the lab . ),0
+9,34," [[Warrick]] okay , one of our hammers had blood on it",1
+9,35, [[Warrick]] it matches the victim 's,1
+9,36, [[Sara]] did greg analyze the clothes from the dumpster yet ?,0
+9,37, [[Warrick]] yeah,0
+9,38," [[Warrick]] blood 's a match , too",0
+9,39, [[Sara]] okay,0
+9,40," [[Sara]] so , the question is , what is the connection between this girl and a construction worker ?",1
+10,0," ( BRASS and WARRICK interview GREGORY CURTWELL , the owner of the hammer . )",0
+10,1," [[Brass]] mr curtwell , where were you this weekend ?",0
+10,2, [[Gregory_Curtwell]] i was fishing in tahoe,0
+10,3, [[Brass]] catch anything ?,0
+10,4, [[Gregory_Curtwell]] no,0
+10,5, [[Gregory_Curtwell]] nothing was biting,0
+10,6, [[Brass]] anyone go with you ?,0
+10,7, [[Brass]] how long were you gone ?,0
+10,8, [[Gregory_Curtwell]] friday to sunday,0
+10,9," [[Gregory_Curtwell]] look , i thought i was just here to pick up my hammer",0
+10,10, [[Warrick]] do you ever leave your tools at the job site ?,0
+10,11, [[Gregory_Curtwell]] no way,0
+10,12, [[Gregory_Curtwell]] that hammer -- it 's perfectly balanced,0
+10,13, [[Brass]] then how do you explain the blood on it ?,0
+10,14, [[Brass]] and your injuries,0
+10,15, ( He looks down at the bruises on his hand . ),0
+10,16, [[Gregory_Curtwell]] well a construction site,0
+10,17, [[Gregory_Curtwell]] people get hurt,0
+10,18, [[Warrick]] the blood that we found on your hammer ... matches this kid right here,0
+10,19, ( WARRICK stands up and takes a photo of the kid out of the file folder in his hand . ),0
+10,20, ( He puts it on the table in front of GREGORY CURTWELL . ),0
+10,21, ( He looks at it and sighs . ),0
+10,22, [[Gregory_Curtwell]] is that the dead kid from the house ?,0
+10,23, [[Warrick]] yeah,0
+10,24, [[Gregory_Curtwell]] i never got a look at him,0
+10,25, [[Gregory_Curtwell]] i-i i did n't go inside,0
+10,26, ( He looks down at the photo and then back at WARRICK and BRASS . ),0
+10,27, [[Warrick]] what about her ?,0
+10,28," [[Gregory_Curtwell]] that 's my kid sister , ashley",0
+10,29, [[Gregory_Curtwell]] why ?,0
+10,30, [[Gregory_Curtwell]] what 's she got to do with it ?,0
+10,31, [[Brass]] you tell us,0
+10,32, ( GREGORY looks at BRASS . ),0
+11,0, ( SARA interviews ASHLEY CURTWELL . ),0
+11,1, [[Ashley_Curtwell]] my parents died in a car accident four years ago,0
+11,2, [[Sara]] i 'm very sorry,0
+11,3," [[Sara]] your brother gregory is your guardian , right ?",0
+11,4, [[Ashley_Curtwell]] yeah,0
+11,5, [[Sara]] and he left you alone all weekend ?,0
+11,6, [[Ashley_Curtwell]] he goes away a lot,0
+11,7, [[Sara]] okay,0
+11,8, [[Sara]] why do n't you tell me what happened last night ?,0
+11,9, ( WARRICK and BRASS watch the interview . ),0
+11,10, [[Ashley_Curtwell]] i was on my way to the mall to get something to eat,0
+11,11, [[Ashley_Curtwell]] i always cut through the construction site,0
+11,12," [[Ashley_Curtwell]] my brother tells me not to , but it saves me , like , ten minutes",0
+11,13, [[Sara]] that makes sense,0
+11,14, [[Sara]] what happened after that ?,0
+11,15," [[Ashley_Curtwell]] well , this guy from school , brian , comes out of nowhere",0
+11,16, [[Sara]] do you know brian 's last name ?,0
+11,17, [[Ashley_Curtwell]] yeah,0
+11,18," [[Ashley_Curtwell]] it 's , um ... haddick",0
+11,19, [[Ashley_Curtwell]] we were in homeroom together freshman year,0
+11,20, ( SARA sees that ASHLEY 'S hands are fidgeting nervously with her sweater sleeves . ),0
+11,21," [[Ashley_Curtwell]] so , anyway , he says his cat ran away ... and will i help him find it",0
+11,22, [[Sara]] and you did ?,0
+11,23, ( ASHLEY looks down and cries softly . ),0
+11,24, [[Ashley_Curtwell]] a cat,0
+11,25, [[Ashley_Curtwell]] i 'm so stupid,0
+11,26," [[Sara]] you 're not stupid , ashley",0
+11,27, [[Sara]] i know this is hard,0
+11,28, ( Tears fall down ASHLEY 'S cheeks . ),0
+11,29, [[Sara]] if we could just go over it from start to finish just one time,0
+11,30," [[Ashley_Curtwell]] so , we walked into the house",0
+11,31, ( She starts to cry . ),0
+11,32, ( Quick flashback to : [_CONSTRUCTION_SITE_-_HOUSE_-_NIGHT_] BRIAN HADDICK leads ASHLEY into the house . ),0
+11,33, [[Brian_Haddick]] come on,0
+11,34, [[Brian_Haddick]] hurry up,0
+11,35, ( They both walk through the house . ),0
+11,36, [[Brian_Haddick]] i think i saw him come in here,0
+11,37, ( He leads her into the empty room . ),0
+11,38, [[Ashley_Curtwell]] what color is he ?,0
+11,39, [[Brian_Haddick]] gray,0
+11,40," [[Ashley_Curtwell]] here , kitty , kitty",0
+11,41," ( With her back to him , he grabs her and pushes her up against the wall . )",0
+11,42," [[Brian_Haddick]] you 're going to like it , you dirty bitch",0
+11,43, [[Brian_Haddick]] you 're going to like it,0
+11,44, ( End of flashback . ),0
+11,45, ( Resume to present . ),0
+11,46, ( SARA glances and sees the bruises around ASHLEY 'S right wrist . ),0
+11,47," [[Ashley_Curtwell]] it was like the more i shouted , the more he liked it",0
+11,48, ( Quick flash to : BRIAN holds ASHLEY up against the wall as she struggles . ),0
+11,49, ( End of flashback . ),0
+11,50, ( Resume to present . ),0
+11,51, [[Sara]] rape is not about s*x,0
+11,52, [[Sara]] it 's about violence,0
+11,53, ( ASHLEY tugs her sweater sleeves down over her bruised wrists . ),0
+11,54, [[Sara]] you were against the wall,0
+11,55, ( Quick flashback to : BRIAN HADDICK has ASHLEY pressed up against the wall . ),0
+11,56, [[Ashley_Curtwell]] no !,0
+11,57," ( As she struggles and cries , someone comes up behind BRIAN HADDICK and hits him over the head . )",0
+11,58, ( BRIAN falls to the ground and ASHLEY runs out of the place . ),0
+11,59, ( End of flashback . ),0
+11,60, ( Resume to present . ),0
+11,61, [[Sara]] did you see who hit brian ?,0
+11,62," ( From the Observation Room , WARRICK watches . )",0
+11,63," [[Sara]] ashley , after all that had happened , you went shopping ?",0
+11,64, [[Ashley_Curtwell]] he was all over me,0
+11,65, [[Ashley_Curtwell]] i just had to get him off me,0
+11,66, [[Sara]] and you got some coffee and some earrings,0
+11,67, [[Ashley_Curtwell]] what ?,0
+11,68, [[Ashley_Curtwell]] i bought that stuff ?,0
+11,69, [[Ashley_Curtwell]] all i remember is getting new clothes and going home,0
+11,70, [[Ashley_Curtwell]] why does all this bad stuff keep happening to my family ?,0
+11,71, ( BRASS watches . ),0
+11,72, [[Brass]] she 's covering for her brother,0
+11,73, ( BRASS turns to look at WARRICK . ),0
+11,74, [[Warrick]] he 's got a non-confirmable alibi,0
+11,75, [[Warrick]] i 'm sure she does n't want to lose the only guardian she 's got,0
+12,0, ( ROBBINS goes over the preliminary findings with GRISSOM . ),0
+12,1, [[Robbins]] it 's pretty obvious the initial blows were to the head,0
+12,2," [[Grissom]] well , according to sara , that 's consistent with the girl 's story",0
+12,3, [[Robbins]] whoever attacked him just kept going,0
+12,4, [[Robbins]] used some real force,0
+12,5," [[Robbins]] severed his spinal cord at c-l , c-2",0
+12,6, ( ROBBINS points to the viewbox with the x-rays up . ),0
+12,7, ( GRISSOM glances back at them . ),0
+12,8, ( He turns to look at ROBBINS . ),0
+12,9," [[Grissom]] well , that would have rendered him immobile",0
+12,10," [[Robbins]] right , so why keep hitting ?",0
+12,11, ( ROBBINS pulls the sheet back to show GRISSOM the marks on the upper arms ),0
+12,12," [[Robbins]] the epidermis was disturbed , leaving areas of exposed derma , which we 'd normally see as red or purple abrasions",0
+12,13," [[Robbins]] but in this case , no blood rushed to the area",0
+12,14, [[Grissom]] he was beaten postmortem,0
+12,15, [[Robbins]] right,0
+12,16," [[Grissom]] so , gregory curtwell sees brian attacking his sister",0
+12,17," [[Grissom]] his adrenaline starts going , and he ca n't stop",0
+12,18, ( ROBBINS shows GRISSOM the bruises on the victim 's knuckles . ),0
+12,19," [[Robbins]] well , brian may have gotten off a punch of his own",0
+12,20," [[Robbins]] i ca n't identify the pattern , but i sent blood and skin transfer to greg",0
+12,21, ( ROBBINS hands the file with the autopsy photos inside to GRISSOM . ),0
+12,22, [[Robbins]] and you 're going to need these,0
+12,23, [[Grissom]] thanks,0
+13,0, ( GRISSOM shows the photos to BRIAN HADDICK 'S parents . ),0
+13,1, [[Mr._Haddick]] that 's our son,0
+13,2, [[Mrs._Haddick]] who could have done this to my baby ?,0
+13,3, [[Grissom]] do you recognize this girl ?,0
+13,4, ( GRISSOM shows them the security video photo of ASHLEY CURTWELL . ),1
+13,5, ( They look at the photo and shake their heads . ),0
+13,6, [[Grissom]] did brian ever mention the name ashley curtwell ?,1
+13,7, [[Mrs._Haddick]] he got a little out of hand for a while,1
+13,8, [[Mrs._Haddick]] we could n't keep track of his friends,1
+13,9, [[Grissom]] 'out of hand ' ?,0
+13,10, [[Mrs._Haddick]] i found some marijuana in his room,1
+13,11, [[Mrs._Haddick]] broke curfew,0
+13,12, [[Mrs._Haddick]] the nipple piercing was the last straw,0
+13,13, [[Mr._Haddick]] i told him he could do anything he wanted to the body god gave him once he moved out,1
+13,14, [[Mr._Haddick]] until then,0
+13,15, [[Mrs._Haddick]] he was grounded,1
+13,16, [[Mrs._Haddick]] but he was doing so much better,1
+13,17, [[Mrs._Haddick]] his grades were up,1
+13,18, [[Mrs._Haddick]] he got a job,1
+13,19, [[Grissom]] where did he work ?,1
+13,20, [[Mr._Haddick]] my brother owns a restaurant,0
+13,21, [[Mr._Haddick]] got him a job bussing and waiting tables,1
+13,22, [[Mr._Haddick]] five hundred bucks every two weeks,1
+13,23, ( GRISSOM nods slowly . ),0
+13,24, [[Mr._Haddick]] cash under the table,0
+13,25, [[Mr._Haddick]] pretty good for a kid who ca n't drive,1
+13,26, ( MRS HADDICK cries . ),0
+14,0, ( BOBBY DAWSON goes over the bullet findings with NICK . ),0
+14,1, [[Bobby_Dawson]] no gsr on either the husband 's or ex-husband 's hands,0
+14,2, [[Nick]] that 's not definitive,0
+14,3, [[Nick]] one of them still could have fired the gun and washed his hands,0
+14,4, [[Bobby_Dawson]] yeah,0
+14,5," [[Bobby_Dawson]] well , you know , you asked me to check marlene mitchell 's bullet for trace ?",0
+14,6, [[Nick]] hmm,0
+14,7," [[Bobby_Dawson]] well , there is n't any",0
+14,8, [[Bobby_Dawson]] it 's in pristine condition,0
+14,9, [[Nick]] the only reason for shallow penetration is loss of momentum,0
+14,10," [[Bobby_Dawson]] yeah , and it was a standard full metal jacket , not a pre-fragmented so , assuming that the bullet did n't come in contact with any intervening object , what slowed it down ?",0
+15,0, ( GREG is in the lab when WARRICK walks in ),0
+15,1," [[Warrick]] hey , sanders , you got anything on that knuckle sludge ?",0
+15,2, [[Warrick]] grissom 's asking,0
+15,3, ( GREG picks up the test results from the side . ),0
+15,4," [[Greg]] yeah , a skin sample taken from brian haddick 's defensive wounds , hair samples from ashley curtwell , and buccal swab collected from gregory curtwell",0
+15,5, [[Greg]] no match to the brother or sister,0
+15,6, [[Greg]] construction worker did n't do it,0
+15,7, ( GREG hands the test results to WARRICK . ),0
+15,8, [[Warrick]] or he did n't do it alone,0
+16,0," ( GRISSOM , SARA and WARRICK are back at the crime scene . )",0
+16,1, [[Sara]] seventy-two-degree impact angle puts brian here for the initial blows,1
+16,2, ( Quick flashback to : The beating . ),0
+16,3, ( End of flashback . ),0
+16,4, ( Resume to present . ),0
+16,5, ( SARA kneels down to measure the size of the blood spatter on the wall . ),0
+16,6, [[Sara]] width is three millimeters,0
+16,7, [[Sara]] length is six,0
+16,8, ( WARRICK punches in the figures in a hand-held calculating device . ),0
+16,9, [[Warrick]] arcsine gives us 30 degrees,0
+16,10," [[Sara]] so , brian was crawling",1
+16,11," ( Quick flashback to : The attacker hits BRIAN behind his neck , BRIAN falls to his knees . )",0
+16,12, ( End of flashback . ),0
+16,13, ( Resume to present . ),0
+16,14, [[Warrick]] that must be when his neck was exposed,1
+16,15, ( Quick flashback to : BRIAN is hit behind his neck . ),0
+16,16, ( Quick CGI POV to a close up of the spinal cord being severed . ),0
+16,17, ( Resume Flashback . ),0
+16,18, ( BRIAN is flat on the floor as the attacker continues to beat him on his neck . ),0
+16,19, ( End of flashback . ),0
+16,20, ( Resume to present . ),0
+16,21, [[Grissom]] he ended up here on the floor with his spinal cord severed,1
+16,22," [[Warrick]] well , if he was laying down , this looks too high to be a spatter",0
+16,23, ( WARRICK walks over to the blood spatter on the walls . ),0
+16,24, [[Warrick]] must be cast-off,0
+16,25, ( SARA looks at the blood spatter on the walls . ),0
+16,26, [[Sara]] on three walls,0
+16,27," [[Sara]] assailants tend to move only in reaction to a target , brian was stationary",1
+16,28, ( GRISSOM slowly gets to his feet as he gets an idea . ),0
+16,29, [[Sara]] why would the attacker keep moving ?,1
+16,30, [[Sara]] it does n't make sense,0
+16,31, [[Grissom]] it does if there were three hammers and three attackers,1
+16,32, ( SARA turns to look at GRISSOM . ),0
+17,0, ( CATHERINE is going through the filing cabinet drawers as NICK walks past the room . ),0
+17,1, ( He turns and sees her . ),0
+17,2, ( He walks into the room . ),0
+17,3," [[Nick]] hey , catherine , feel like doin ' some real work ?",0
+17,4, [[Catherine]] and leave all this ?,0
+17,5, [[Nick]] i got a woman who dfo 'd in front of her house trying to break up a fight,0
+17,6, [[Nick]] it 's a single gunshot wound to the chest,0
+17,7, [[Nick]] the penetration is ... shallow,0
+17,8, [[Nick]] i want to know why,0
+17,9, [[Catherine]] and you want me to cook ?,0
+18,0, ( CATHERINE makes gel molds . ),0
+18,1," ( Cut to : In another lab , NICK makes several bullets at varying weights . )",0
+19,0, ( NICK and BOBBY DAWSON prepare the guns as CATHERINE rolls in the gel molds on a cart . ),0
+19,1," [[Catherine]] okay , boys",0
+19,2, [[Catherine]] there 's always room for jell-o,0
+19,3," [[Nick]] oh , yeah",0
+19,4," [[Bobby_Dawson]] uh , catherine , technically , that 's just gel",0
+19,5, [[Catherine]] i was n't planning on eating it,0
+19,6, ( CATHERINE puts the mold on the table . ),0
+19,7," [[Bobby_Dawson]] okay , let 's shoot it",0
+19,8, ( She walks back where BOBBY offers her ear phones . ),0
+19,9, [[Bobby_Dawson]] betty crocker,0
+19,10, ( BOBBY puts on his protective eyewear . ),0
+19,11, ( Everyone puts on their eye wear and ear phones . ),0
+19,12, ( BOBBY loads the first bullet . ),0
+19,13, [[Bobby_Dawson]] firing one at 100 % !,0
+19,14, ( He fires . ),0
+19,15, ( The bullet pierces into the gel mold . ),0
+19,16," [[Nick]] standard velocity is 1,100 feet per second",0
+19,17, ( CATHERINE measures the distance the bullet traveled into the mold . ),0
+19,18," [[Catherine]] all right , that is a ... twelve-inch penetration",0
+19,19, ( NICK and BOBBY share a look and a smile . ),0
+19,20," [[Catherine]] so ... a , um ... hundred percent load gives us twelve inches",0
+19,21, ( Cut to : BOBBY fires the second bullet . ),0
+19,22, [[Bobby_Dawson]] firing one at 70 % !,0
+19,23, ( CATHERINE measures the bullet in the mold . ),0
+19,24, [[Catherine]] seven and three-quarter inches,0
+19,25, ( Cut to : BOBBY fires the third bullet . ),0
+19,26, [[Bobby_Dawson]] firing one at 40 % !,0
+19,27, ( NICK checks the read-out . ),0
+19,28, [[Nick]] 500 and ... 50 feet per second,0
+19,29, ( CATHERINE measures the penetration . ),0
+19,30, [[Catherine]] four inches,1
+19,31, [[Bobby_Dawson]] same as ms mitchell,1
+19,32, [[Catherine]] so mrs mitchell was shot by a bullet traveling 550 feet per second,1
+19,33," [[Nick]] now that we know the speed , we can calculate the distance",1
+19,34," [[Nick]] thanks , catherine",0
+20,0, ( BOBBY and NICK figure it out . ),0
+20,1," [[Bobby_Dawson]] so standard velocity for a nine millimeter bullet is 1,100 feet per second",0
+20,2, [[Nick]] how far does a nine millimeter bullet have to travel before it slows down to 550 feet per second ?,0
+20,3, [[Bobby_Dawson]] let 's see,0
+20,4, ( They put it in the computer and get a calculation . ),0
+20,5, [[Bobby_Dawson]] eighteen hundred feet,0
+20,6, [[Bobby_Dawson]] whoa,0
+20,7, [[Bobby_Dawson]] we 're talking six football fields,0
+20,8," [[Nick]] yeah , that would pretty much eliminate anyone that was in the mitchell 's front yard",0
+20,9, [[Nick]] can a nine millimeter bullet even travel that far ?,0
+20,10, [[Bobby_Dawson]] hang on,0
+20,11, ( BOBBY clears the screen and picks up a pen . ),0
+20,12, [[Bobby_Dawson]] all right,0
+20,13," [[Bobby_Dawson]] if a nine millimeter were fired straight ... it 'd go about 600 feet before gravity brought it down ,",0
+20,14, [[Bobby_Dawson]] but if a bullet were fired at an angle ... could go a heck of a lot further,0
+20,15," [[Nick]] that would account for the distance , but ms mitchell was shot at an eighty-five-degree angle",1
+20,16, [[Nick]] that 's basically perpendicular,0
+20,17, [[Bobby_Dawson]] um ... bullets are predictable,0
+20,18, [[Nick]] people ... are n't,0
+20,19, ( NICK looks at the photos in the file again He thinks about it . ),0
+20,20, ( Quick flashback to : MR MITCHELL and TODD are fighting . ),0
+20,21, ( MARLENE MITCHELL steps between them to stop the fight . ),0
+20,22," [[Marlene_Mitchell]] no , stop it !",0
+20,23, ( She 's pushed back and falls back on the mattress with a bullet hole in her chest . ),1
+20,24, ( End of flashback . ),0
+20,25, ( Resume to present . ),0
+20,26, [[Nick]] i assumed she was standing,0
+20,27, ( NICK reaches for the laptop and pen . ),0
+20,28," [[Nick]] okay , this is the mitchell 's house,",0
+20,29, ( NICK puts the map of the community on the monitor . ),0
+20,30," [[Nick]] ... and by all eyewitness accounts , she was standing in front the house , facing away north , when she was shot , so this line represents the 1,800 feet our bullet traveled",1
+20,31, ( NICK calculates the 1800 feet away from the house . ),0
+20,32, [[Nick]] it had to have come from somewhere ... on that arc,0
+20,33, ( A red line in an arc appears on the monitor . ),0
+20,34, [[Bobby_Dawson]] good luck knocking on doors,0
+20,35, ( They both smile . ),0
+21,0, ( BRASS finds GRISSOM in the hallway . ),0
+21,1," [[Brass]] here i 'm looking for three guys , but you only found one hammer with blood on it , so who do you want me to follow ?",0
+21,2, [[Grissom]] me,0
+21,3, ( GRISSOM turns and enters the lab . ),0
+21,4, ( BRASS follows him . ),0
+21,5, ( WARRICK is in the lab sitting at the table at a laptop . ),0
+21,6, [[Grissom]] what 's up ?,0
+21,7, [[Warrick]] the shoe tread i found at the scene -- it 's a world industries diablo,0
+21,8, [[Warrick]] it 's a skate shoe,1
+21,9, [[Warrick]] size 11,1
+21,10, [[Brass]] on a construction worker ?,0
+21,11," [[Warrick]] screams 'teenager ' , i know",0
+21,12, [[Grissom]] why is gregory curtwell hanging out with teenage boys ?,0
+21,13," [[Warrick]] well , he has a teenage sister",0
+21,14, [[Brass]] and the sister and brian haddick were both students at mckinley high,0
+21,15, [[Grissom]] i bet the shoe also goes to school there,0
+22,0, ( The kids wearing sneakers are in the gym sitting on the bleachers . ),0
+22,1, ( WARRICK walks down the bleachers looking at their sneakers . ),0
+22,2, [[Warrick]] nice kicks,0
+22,3, [[Warrick]] i like those,0
+22,4, [[Teenaged_Boy]] thank you,0
+22,5, [[Warrick]] you guys play ball ?,0
+22,6, [[Teenaged_Boy]] yeah,0
+22,7, [[Warrick]] yeah ?,0
+22,8, [[Teenaged_Boy]] uh-huh,0
+22,9, [[Warrick]] nice backpack,0
+22,10, [[Teenaged_Boy]] thanks,0
+22,11, ( Cut to : BRASS walks with the PRINCIPAL along floors . ),0
+22,12, ( The PRINCIPAL appears nervous at what 's going on . ),0
+22,13, [[Principal]] we 're treading a razor-thin line of illegal search and seizure here,0
+22,14," [[Brass]] now , i 'm not a with you , but shoes are a plain-view item",0
+22,15, ( BRASS leads the PRINCIPAL to GRISSOM . ),0
+22,16," [[Brass]] anyway , here 's the guy who 's going to be investigating",0
+22,17, ( They 're interrupted by a Father who walks along the floors . ),0
+22,18, ( He motions to his son . ),0
+22,19," [[Tyler's_Dad]] tyler , come on , we 're going",0
+22,20, ( TYLER stands up and follows his dad who walks straight to the group . ),0
+22,21, [[Tyler's_Dad]] are you crazy ?,0
+22,22, [[Tyler's_Dad]] do you know what my law firm does ?,0
+22,23, [[Tyler's_Dad]] you ca n't question these kids without a parent present,0
+22,24," [[Brass]] we 're not questioning them , which is why you 're here -- so we can",0
+22,25, [[Tyler's_Dad]] oh,0
+22,26, [[Tyler's_Dad]] and i 'm holding you responsible,0
+22,27, [[Principal]] clark county law enforcement and i have taken every precaution to make sure that these students ' rights were not violated,0
+22,28, [[Tyler's_Dad]] you are sequestering these kids without probable cause,0
+22,29," [[Tyler's_Dad]] i hate that i 've been called out of work to come down here , and i 'm going to be so far up your ass , you 're not going to be able to sit down straight",0
+22,30, [[Grissom]] you know what i hate ?,0
+22,31, [[Grissom]] people who hurt kids,0
+22,32, [[Grissom]] and you know who those people sometimes are ?,0
+22,33, [[Tyler's_Dad]] cops ?,0
+22,34, [[Grissom]] other kids,0
+22,35," [[Grissom]] if it had been your son whose skull was smashed in with a hammer , you 'd be asking me where i was when i should 've been protecting him",0
+22,36," [[Grissom]] kids bring guns to school to shoot other kids , so who are you protecting ?",0
+22,37, [[Tyler's_Dad]] let 's discuss it in court,0
+22,38, ( TYLER 'S DAD turns and leaves . ),0
+22,39, [[Principal]] excuse me,0
+22,40, ( The PRINCIPAL follows him . ),0
+22,41," [[Brass]] well , way to clear a room",0
+22,42," [[Principal]] those of you with parents here are dismissed , and the rest of you please wait here",0
+22,43, ( Many of the kids stand up and head down the bleachers to the floor . ),0
+22,44, ( One kid who does n't move continues to sit there as if he knows that his parents are n't in that group mentioned . ),0
+22,45, ( WARRICK looks at the kid and notices his sneakers . ),0
+22,46, [[Warrick]] brass,0
+22,47, ( BRASS walks over to WARRICK . ),0
+22,48, ( They both see the blood on his sneakers . ),0
+22,49, [[Warrick]] check this out,0
+22,50," [[Brass]] hey , bud",0
+22,51, [[Brass]] what 's your name ?,0
+22,52, [[Benny_Lizzio]] benny,1
+22,53," [[Brass]] benny , where 's your father ?",0
+22,54, [[Brass]] is he around ?,0
+22,55," [[Benny_Lizzio]] uh , he 's at home",0
+22,56, [[Benny_Lizzio]] probably called in drunk,0
+22,57," [[Brass]] well , lucky for you , we make house calls",0
+22,58, ( BRASS smiles . ),0
+23,0," ( MR LIZZIO walks into the house to find his son , BENNY , with WARRICK and BRASS . )",1
+23,1, [[Mr._Lizzio]] you good for nothing little b*st*rd,1
+23,2, [[Mr._Lizzio]] i knew you stole that game thing,1
+23,3," [[Mr._Lizzio]] a hundred and twenty-five bucks , my ass",0
+23,4, [[Benny_Lizzio]] i told you,0
+23,5, [[Benny_Lizzio]] i bought that with my own money,0
+23,6, [[Mr._Lizzio]] you talkin ' back to me ?,0
+23,7, [[Mr._Lizzio]] huh ?,0
+23,8, ( MR LIZZIO reaches out and whacks BENNY on the side of his head . ),1
+23,9, ( BRASS breaks it up . ),0
+23,10, [[Brass]] hey ... let 's sit down,0
+23,11, [[Brass]] let 's all sit down,0
+23,12, [[Brass]] come on,0
+23,13, ( MR LIZZIO and BENNY both move over to the couch . ),1
+23,14," ( BENNY sits down , but MR LIZZIO remains standing . )",1
+23,15, ( BRASS sighs and moves over to WARRICK . ),0
+23,16," [[Brass]] look , i 'll take this",0
+23,17, [[Brass]] let 'em argue diminished capacity after the fact,0
+23,18, [[Warrick]] you think they know how a dna test works ?,0
+23,19, [[Brass]] i do n't know,0
+23,20, [[Brass]] let 's find out,0
+23,21, ( BRASS turns to MR LIZZIO . ),0
+23,22," [[Brass]] mr lizzio , do you mind if we test benny 's sneaker for dna ?",1
+23,23," [[Mr._Lizzio]] you do what you got to do , officers",0
+23,24," [[Warrick]] lift your right shoe , please",0
+23,25, ( WARRICK takes the sample and tests to see if it 's human . ),0
+23,26, [[Warrick]] we got a problem,0
+23,27, [[Warrick]] the blood on your shoe is a match to brian haddick 's,1
+23,28, ( WARRICK flips the test to show them . ),0
+23,29, [[Warrick]] dna does n't lie,0
+23,30," [[Brass]] so , do you want to tell us how a dead kid 's blood ended up on the bottom of your sneaker , benny ?",1
+23,31," [[Mr._Lizzio]] yeah , benny",1
+23,32, [[Mr._Lizzio]] why do n't you tell us that ?,0
+23,33, [[Benny_Lizzio]] sometimes i go to the construction site just to hang out,0
+23,34, ( Quick flashback to : BENNY walks through the construction site . ),1
+23,35, ( He 's distracted with trying to get a cigarette out of the carton when he realizes that he 's nearly upon the body . ),0
+23,36," ( He backs away , but not before leaving behind the shoeprint . )",0
+23,37, ( End of flashback . ),0
+23,38, ( Resume to present . ),0
+23,39," [[Brass]] so , you just , uh ... happened upon it ?",0
+23,40, [[Brass]] did n't report it to anybody ?,0
+23,41, [[Benny_Lizzio]] i was trespassing,0
+23,42, [[Benny_Lizzio]] i did n't want to get in trouble,0
+23,43," [[Warrick]] mr lizzio , would you mind if i took a look around ?",0
+23,44, [[Mr._Lizzio]] be my guest,0
+23,45, ( WARRICK looks around as BRASS keeps MR LIZZIO occupied . ),0
+23,46," [[Brass]] mr lizzio , why do n't you sit down ?",0
+23,47," [[Brass]] we 're going to be a while , okay ?",0
+23,48," [[Brass]] you been drinking today , mr lizzio ?",0
+23,49, [[Mr._Lizzio]] couple of beers,0
+23,50, ( WARRICK leaves the room and looks around . ),0
+23,51, ( He walks into the garage and finds a tube of lip gloss on the chair . ),0
+23,52, ( He looks at the CDs . ),0
+23,53, ( He then sees the smashed watermelons on the floor on the plastic . ),1
+23,54, ( He sees the hammer on the shelf . ),1
+23,55, ( Quick flashback to : Watermelons are being smashed with the hammer . ),0
+23,56, ( End of flashback . ),0
+23,57, ( Resume to present . ),0
+23,58, [[Warrick]] practice makes perfect,0
+24,0, ( BRASS puts a tape recorder down on the table as he starts his interview with BENNY LIZZIO . ),0
+24,1," [[Brass]] so , benny , for the record , you 've waived your right to have your parent or an advocate present",0
+24,2, [[Benny_Lizzio]] yep,0
+24,3," [[Brass]] so , how do you know brian ?",0
+24,4, [[Benny_Lizzio]] we hung out a few times when we were freshmen,0
+24,5, [[Brass]] you know gregory curtwell ?,0
+24,6, [[Benny_Lizzio]] ashley 's brother ?,0
+24,7, [[Benny_Lizzio]] yeah,0
+24,8, [[Benny_Lizzio]] he bought me beer a couple times,0
+24,9," [[Brass]] oh , so you know ashley , too ?",0
+24,10, [[Benny_Lizzio]] yeah,0
+24,11, [[Benny_Lizzio]] i 'm a friendly guy,0
+24,12," [[Brass]] well , that 's good , benny , because",0
+24,13, ( BRASS clears his throat and sits down . ),0
+24,14, [[Brass]] ... you 're looking at murder,0
+24,15," [[Brass]] and if you 're friendly and you cooperate , and you tell me what happened to brian haddick , maybe i can cut you a deal",0
+24,16, [[Benny_Lizzio]] ai n't gon na happen,0
+24,17, [[Benny_Lizzio]] i 'm no snitch,0
+24,18, [[Brass]] you want to tell me about those melons at your house ?,0
+24,19, [[Brass]] you looking to be another gallagher ?,0
+24,20, [[Brass]] you know who that is ?,0
+24,21, [[Benny_Lizzio]] since when is whacking fruit a crime ?,0
+24,22, [[Brass]] when it 's practice for whacking people,0
+24,23, ( BENNY nervously looks away for a moment . ),0
+24,24, [[Brass]] your hammer had brian 's blood all over it,0
+24,25," [[Brass]] understand something , benny , i 'm talking about months versus years of juvenile detention",0
+24,26, [[Brass]] it 's your call,0
+24,27, [[Benny_Lizzio]] they got cable ?,0
+24,28, [[Benny_Lizzio]] food ?,0
+24,29, [[Benny_Lizzio]] my dad locked on the outside ?,0
+24,30, [[Benny_Lizzio]] sounds good to me,0
+24,31," [[Benny_Lizzio]] besides , i 'm a minor",0
+24,32," [[Benny_Lizzio]] by the time i 'm 21 , it 's like it never happened",0
+25,0," ( As he puts on his gloves , GRISSOM walks into the lab . )",0
+25,1, ( GREG follows . ),0
+25,2, ( WARRICK and SARA are already there . ),0
+25,3, ( WARRICK looks up . ),0
+25,4, [[Warrick]] did he roll ?,1
+25,5, [[Grissom]] brass says the kid is looking forward to going to jail,1
+25,6, [[Warrick]] hmm,0
+25,7," [[Grissom]] so , what do we got here ?",0
+25,8, [[Warrick]] it 's hard to tell what 's relevant and what 's trash,0
+25,9, [[Warrick]] this is everything we brought back from benny 's party room,1
+25,10, ( GRISSOM picks up the small evidence bag of rubber bands . ),0
+25,11, ( He looks at it unable to make heads or tails of what it is . ),0
+25,12, [[Grissom]] are these ... ?,0
+25,13, ( He looks at SARA . ),0
+25,14, [[Grissom]] spaghetti-oh 's ?,0
+25,15, [[Sara]] i do n't think so,0
+25,16, [[Greg]] nah,0
+25,17," [[Greg]] nah , those would be orthodontic rubber bands",0
+25,18," [[Greg]] hook 'em to your braces , uh , upper to lower",0
+25,19, [[Greg]] helps pull the jaw in the right direction,0
+25,20, [[Greg]] also great for flinging,0
+25,21," [[Greg]] yeah , i had it all -- palate expander , braces , retainer , head gear",0
+25,22," [[Greg]] ah , five years of misery , but worth every penny , do n't you think ?",0
+25,23," ( GREG looks at SARA and grins , showing her his perfect teeth . )",0
+25,24, ( GRISSOM opens the bag of lip gloss . ),0
+25,25, ( He opens the lip gloss and smells it . ),0
+25,26," [[Greg]] um , there might be some saliva residue on them",0
+25,27," [[Greg]] i can see what i can pull off , if you want",0
+25,28, [[Sara]] yeah,0
+25,29, [[Sara]] would you ?,0
+25,30," [[Greg]] well , you 're going to need something",0
+25,31, [[Greg]] strike three on the knuckles,0
+25,32, ( GREG hands SARA the test results . ),0
+25,33, [[Warrick]] benny 's dna does n't match,0
+25,34, [[Warrick]] gregory 's does n't match,0
+25,35, [[Warrick]] ashley 's does n't match,0
+25,36, [[Warrick]] who did this guy hit ?,0
+25,37," [[Grissom]] greg , test both of these",0
+25,38, ( GRISSOM hands GREG the two evidence bags . ),0
+25,39," [[Grissom]] if a third guy has braces , it may explain the strange pattern on brian 's hand",0
+25,40," [[Sara]] it 's probably another student , but benny 's not talking",0
+25,41," [[Warrick]] benny has a party room , right ?",0
+25,42, [[Warrick]] you ca n't have a party without the music,0
+25,43, [[Warrick]] i found some new cd 's in his room,0
+25,44, ( GRISSOM looks at the CD 's in the evidence bag . ),0
+25,45, [[Grissom]] what 's 'c and d ' ?,0
+25,46," [[Warrick]] it 's like a music club , twelve cds for the price of one",0
+25,47, ( GRISSOM looks at the address label: ),0
+25,48, [[Grissom]] and aaron gilbert was ... ?,1
+25,49, ( SARA picks up a piece of watermelon and looks at it . ),0
+25,50, [[Warrick]] the deejay maybe ?,0
+25,51," [[Sara]] you know , at this time of year , watermelon is n't cheap , particularly organic",0
+25,52, [[Sara]] maybe the music is n't the only thing that aaron gilbert brought to the party,1
+25,53, ( SARA shows them the watermelon skin GRISSOM looks at the sticker on the watermelon skin : GILBERT ORGANIC FARMS ),0
+26,0, ( NICK and DET SAM VEGA interview a YOUNG MOTHER in the community . ),0
+26,1," [[Young_Mother]] yeah , i heard gunfire a couple of days ago",0
+26,2," [[Young_Mother]] johnnie , the idiot behind us , was playing like g.i",1
+26,3, [[Young_Mother]] joe in his backyard,0
+26,4, [[Young_Mother]] i screamed out my window,0
+26,5," [[Young_Mother]] i got kids , you know ?",0
+26,6, [[Young_Mother]] why do you want to know ?,0
+26,7, [[Nick]] just curious,0
+27,0, ( NICK and DET SAM VEGA interview JOHNNIE . ),0
+27,1," [[Johnnie]] she called you guys , right ?",0
+27,2, [[Johnnie]] it 's like having a wife,0
+27,3, [[Johnnie]] gun 's brand-new,0
+27,4, [[Johnnie]] shot it one time,0
+27,5," [[Johnnie]] she told me to stop , i stopped",0
+27,6," [[Det._Sam_Vega]] sir , you 're going to have to tell us where that gun is",0
+27,7, ( JOHNNIE turns and heads back into the house to get the gun . ),0
+28,0, ( NICK has the gun in his hand . ),0
+28,1, [[Nick]] and this is the gun that you fired ?,0
+28,2, [[Johnnie]] yeah,0
+28,3, ( NICK checks the cartridge . ),0
+28,4, [[Nick]] empty ten-round magazine,0
+28,5, [[Det._Sam_Vega]] it was full when you started ?,1
+28,6, [[Johnnie]] yeah,0
+28,7, ( NICK walks over to the target board JOHNNIE set up at the end of the yard . ),1
+28,8, ( He checks out the holes . ),0
+28,9," [[Nick]] i , uh , only count nine holes in your target",1
+28,10, [[Johnnie]] i must have missed one,0
+28,11," [[Nick]] oh , you did n't miss",0
+28,12, ( Quick flashback to : [_EXT_._),0
+28,13, ( BACKYARD - DAY ] JOHNNIE is out in his back yard firing his gun at the board . ),1
+28,14, ( The YOUNG MOTHER next door leans out and shouts . ),1
+28,15, [[Young_Mother]] hey !,1
+28,16, [[Young_Mother]] you want to kill someone ?,1
+28,17," ( Distracted , JOHNNIE turns as he fires . )",1
+28,18, ( The bullet goes high into the air . ),1
+28,19, ( cc ) YOUNG MOTHER : Put that thing away ! ),1
+28,20, ( I have kids ! ),1
+28,21, ( The bullet comes down and hits MARLENE MITCHELL in the chest . ),1
+28,22, ( End of flashback . ),0
+28,23, ( Resume to present . ),0
+28,24, ( SAM VEGA puts the handcuffs on JOHNNIE . ),1
+28,25, [[Det._Sam_Vega]] just nice and easy,0
+28,26," [[Nick]] you see , your neighbor did n't lose her kid , but six blocks away , a guy lost his wife",1
+28,27, [[Johnnie]] it was just a little target practice,1
+28,28," [[Nick]] and that 's why it 's illegal to discharge firearms within the city limits , genius",0
+28,29, ( NICK turns and leads VEGA and JOHNNIE out the backyard . ),1
+29,0," ( BRASS , WARRICK and SARA walk up to AARON GILBERT . )",1
+29,1, [[Brass]] aaron gilbert ?,1
+29,2, ( AARON removes the ear phones . ),1
+29,3, [[Aaron_Gilbert]] yeah,0
+29,4," [[Brass]] i 'm detective brass , las vegas police",0
+29,5, [[Brass]] we need to talk,0
+29,6," [[Aaron_Gilbert]] oh , dude , i got to get home",0
+29,7, [[Aaron_Gilbert]] my mom 's waiting for me and my brother,0
+29,8," [[Warrick]] oh , we talked to your mom",0
+29,9," [[Sara]] yeah , she gave us your hammer and this",0
+29,10, ( SARA shows AARON a twenty dollar bill with a bloody print on it . ),1
+29,11," [[Jared]] yo , dawg , we going or what ?",0
+29,12, ( SARA turns and sees another boy walk up to AARON . ),1
+29,13, ( JARED has a cut on his upper lip . ),1
+29,14, [[Warrick]] or what ... dawg,0
+30,0, ( BRASS interviews AARON GILBERT in the presence of a Child Advocate . ),1
+30,1, [[Brass]] that 's a nice walkman you had,0
+30,2, [[Brass]] what 'd that cost ?,0
+30,3, [[Brass]] 125 bucks ?,1
+30,4, [[Brass]] same as benny 's gameboy,1
+30,5, [[Brass]] same as your brother 's secret stash,1
+30,6, ( AARON does n't say anything . ),1
+30,7," [[Brass]] speaking of benny , he 's not too smart , is he ?",1
+30,8, [[Brass]] he would n't give up you and your brother for a lesser sentence,1
+30,9, [[Brass]] you know what ?,0
+30,10," [[Brass]] there 's an opportunity here , and i think you got more on the ball than benny",0
+30,11, [[Brass]] tell me what happened,0
+30,12, ( Camera pans over from one interview room into the next one . ),0
+30,13, ( WARRICK interview JARED GILBERT in the presence of a Child Advocate . ),1
+30,14, [[Warrick]] jared ... ai n't braces a bitch ?,1
+30,15, [[Warrick]] i see that cut on your lip,0
+30,16, [[Warrick]] is that where brian hit you ?,0
+30,17, [[Warrick]] they do make for a good impression though,0
+30,18, ( WARRICK pushes the photo of the bruises from BRIAN 'S knuckles on the table toward JARED . ),1
+30,19, [[Warrick]] see all these grooves here ?,0
+30,20, [[Warrick]] it 's perfect for storing dna,0
+30,21, [[Warrick]] that would be your dna,1
+30,22," [[Warrick]] look , jared , i 'm not a cop , but if you tell me what happened , i will put in a good word for you",1
+31,0, ( The team meets and discusses the case . ),0
+31,1, [[Sara]] we have a problem,0
+31,2, [[Sara]] we have three hammers and four suspects,0
+31,3," [[Warrick]] well , the gilbert brothers both seem ready to go down for it",1
+31,4, [[Brass]] and benny ca n't wait to go to jail,1
+31,5," [[Sara]] if they were defending ashley against an attacker , why not say so ?",0
+31,6, [[Grissom]] they were n't,0
+31,7, [[Grissom]] the smashed watermelon suggests the whole thing was premeditated,1
+31,8, [[Sara]] making the motive robbery ?,1
+31,9," [[Warrick]] well , benny , aaron and jared each had about $ 125 worth of cash and assorted prizes",1
+31,10, [[Grissom]] $ 375,0
+31,11, [[Grissom]] brian 's parents said that he was being paid $ 500 every two weeks,0
+31,12, [[Grissom]] cash under the table,0
+31,13," [[Sara]] it was payday , so who got the other $ 125 ?",0
+31,14," [[Warrick]] well , gregory curtwell makes good money",0
+31,15, [[Warrick]] hundred twenty-five bucks is a spit in the ocean for a construction worker,0
+31,16," [[Warrick]] if he was n't defending his sister , then he has no motive",0
+31,17," [[Brass]] well , if he did n't do it , how did his hammer end up with brian 's blood on it ?",0
+31,18, ( SARA looks at ASHLEY 'S receipts . ),1
+31,19, [[Sara]] clothing -- $ 85 ; earrings - $ 30 ; coffee -- four dollars,0
+31,20, [[Sara]] getting away with murder,0
+31,21, [[Grissom]] ... priceless,0
+32,0, ( SARA re-interviews ASHLEY CURTWELL . ),1
+32,1, [[Sara]] that hand that holds the wallet is the hand that rules the world,0
+32,2," [[Sara]] huh , ashley ?",1
+32,3, ( SARA puts the photos on the table to show ASHLEY . ),1
+32,4, [[Sara]] your fingerprint in brian 's blood on jared 's money,1
+32,5, [[Sara]] this is what we call 'completing the triangle ',0
+32,6, [[Ashley]] okay,0
+32,7," [[Ashley]] so he attacked me , and i did see who defended me",0
+32,8," [[Ashley]] but i did n't want to get my friends in trouble , and the money was for , like ... like , pain and suffering",0
+32,9," [[Sara]] you were n't attacked , ashley",1
+32,10, [[Sara]] brian was,1
+32,11," [[Sara]] we figured none of the boys wore cotton candy , so we had it tested",0
+32,12, ( SARA puts the evidence bag with the lip gloss on the table in front of ASHLEY . ),1
+32,13," [[Sara]] turns out you were at benny 's house , too",0
+32,14, ( Quick flashback to : [_BENNY_'S_HOUSE_] ASHLEY puts on her lip gloss . ),1
+32,15, ( She jumps up on the couch as the boys circle the watermelons with their hammers . ),0
+32,16, [[Ashley_Curtwell]] let 's do it !,0
+32,17, ( Hard rock music plays in the background as ASHLEY urges the boys on . ),1
+32,18," [[Ashley]] come on , guys !",0
+32,19, [[Ashley]] whoo !,0
+32,20, ( The boys use the hammers and pulverize the watermelons . ),1
+32,21, ( End of flashback . ),0
+32,22, ( Resume to present . ),0
+32,23," [[Sara]] at the mall , you were n't in shock , you were celebrating",1
+32,24, ( Quick flashback to : ASHLEY shopping at the mall . ),1
+32,25, ( End of flashback . ),0
+32,26, ( Resume to present . ),0
+32,27," [[Sara]] your brother was up in tahoe this past weekend , was n't he ?",0
+32,28, [[Ashley_Curtwell]] he goes away almost every weekend,0
+32,29," [[Sara]] you know , i 'm done with the ashley pity party",1
+32,30," [[Sara]] my guess is aaron and jared only had one hammer , but you had access to your brother 's tools",1
+32,31, [[Sara]] why brian ?,0
+32,32," [[Ashley_Curtwell]] before he went straight , we were buds , but then he got too good for us , but he was n't too good to want to get with this",1
+32,33, ( Quick flashback to : [_CONSTRUCTION_SITE_-_NIGHT_] BRIAN and ASHLEY are at the site . ),0
+32,34, [[Brian_Haddick]] where do you want to do it at ?,1
+32,35, [[Brian_Haddick]] ashley curtwell : right here,1
+32,36, [[Brian_Haddick]] brian haddick : in here ?,1
+32,37, [[Brian_Haddick]] ashley curtwell : yeah,1
+32,38, ( BRIAN unbuckles his belt and lowers his pants . ),1
+32,39, ( ASHLEY laughs and pulls away . ),1
+32,40, [[Ashley_Curtwell]] stop,1
+32,41, ( The other boys walk into the room . ),1
+32,42, [[Brian_Haddick]] you set me up ?,1
+32,43, [[Ashley_Curtwell]] get him !,1
+32,44," ( The boys begin to attack BRIAN , beating him with their hammers as they did the watermelons . )",1
+32,45, [[Ashley_Curtwell]] get him !,1
+32,46, ( Blood spurts everywhere . ),1
+32,47, ( End of flashback . ),0
+32,48, ( Resume to present . ),0
+32,49," [[Sara]] you 're not a victim , you were a lure",1
+32,50, [[Sara]] do you know how many people do n't report a rape because they 're afraid that no one will believe them ?,0
+32,51, [[Ashley_Curtwell]] of course,0
+32,52, [[Ashley_Curtwell]] it 's what i was counting on,0
+32,53, [[Sara]] i 'm going to do everything in my power to make sure that you 're tried as an adult,0
+32,54, [[Ashley_Curtwell]] good luck,0
+32,55," [[Ashley_Curtwell]] i dress up real nice -- couple barrettes , little lace collar , two dead parents",0
+32,56, [[Ashley_Curtwell]] i 'll be the saddest little girl in the world,0

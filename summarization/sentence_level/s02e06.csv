@@ -1,0 +1,1029 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( A PARK RANGER driving along the road route and notices a car parked on the side of the road . ),0
+0,1, ( He stops the car to check it out . ),0
+0,2, ( Garbled radio transmissions can be heard in the background . ),0
+0,3, ( He gets out of the car and puts on his park ranger hat . ),0
+0,4," ( The officer walks to the edge of the road , slips and rolls down the hill . )",0
+0,5," ( When he comes to a stop , he lands next to a dead body . )",0
+0,6," ( In the shadow of the bright light , there 's a man holding a shovel , digging a hole - caught in the act trying to bury the body . )",0
+0,7," ( Frozen for a moment , the man springs into action . )",0
+0,8," ( He throws the shovel aside and tries to run , the officer stops him . )",0
+0,9, [[Benjamin_Jennings]] no !,0
+0,10, [[Benjamin_Jennings]] no !,0
+1,0, ( GRISSOM and NICK make their way down the ledge to the crime scene . ),1
+1,1, ( There are five police vehicles there and a swarm of officers near the crime scene looking for further evidence on the grounds . ),1
+1,2, ( Kneeling next to the body is a Technician with a clipboard . ),0
+1,3, ( SGT O'RILEY meets up with GRISSOM and NICK . ),0
+1,4, [[Grissom]] call said one dead body,0
+1,5, [[Sgt._O'Riley]] caught him red-handed,1
+1,6, [[Sgt._O'Riley]] ben jennings,1
+1,7," ( Off to the side , BENJAMIN JENNINGS stands hands cuffed behind his back with three officers standing watch over him . )",1
+1,8, ( NICK and GRISSOM approach the men . ),0
+1,9," [[Nick]] nick stokes , gil grissom , las vegas crime lab",0
+1,10, [[Nick]] you want to tell us what 's going on ?,1
+1,11, [[Nick]] what happened here ?,0
+1,12, ( BENJAMIN JENNINGS does n't respond . ),1
+1,13, [[Grissom]] you have anything to say ?,1
+1,14, ( He still does n't respond . ),1
+1,15, [[Grissom]] you do n't have to talk to us,1
+1,16, ( GRISSOM shines the light of his flashlight on the dead body . ),0
+1,17, [[Grissom]] he 'll talk to us,1
+2,0, ( Camera opens on the body . ),0
+2,1, ( GRISSOM and NICK are crouched low examining the body . ),0
+2,2, ( Garbled radio transmissions can be heard in the background . ),0
+2,3, [[Nick]] see that lividity ?,0
+2,4, [[Nick]] blood settled at the time of death,0
+2,5, [[Grissom]] body 's been moved from the murder scene,0
+2,6, [[Grissom]] impound his car,0
+2,7, ( SARA shows up . ),0
+2,8," [[Sara]] sorry , guys",0
+2,9, [[Sara]] i lost you at the fork,0
+2,10," [[Nick]] my bad , sara",0
+2,11, ( GRISSOM looks up at BENJAMIN JENNINGS . ),0
+2,12, [[Grissom]] let 's process this guy shall we ?,0
+2,13," [[Grissom]] officer , would you uncuff him , please ?",0
+2,14, ( The officer uncuffs BENJAMIN JENNINGS . ),0
+2,15, ( GRISSOM takes out a black light and begins examining him from the back . ),0
+2,16, ( NICK puts his CSI kit down . ),0
+2,17," [[Nick]] okay , make like a scarecrow for me , partner",0
+2,18, ( BENJAMIN JENNINGS does n't move . ),0
+2,19, ( NICK spreads his arms out to show him what he means . ),0
+2,20, ( BENJAMIN JENNINGS copies him . ),0
+2,21," [[Nick]] arms out , away from your body",0
+2,22, [[Nick]] that 's it,0
+2,23, [[Nick]] stay just like that,0
+2,24, ( SARA crouches low on the ground to collect his shoe prints . ),0
+2,25, [[Sara]] give me your right foot,0
+2,26, [[Sara]] other right,0
+2,27, [[Sara]] put it down,0
+2,28, [[Sara]] lift it up,0
+2,29, ( NICK checks out the front and begins collecting . ),0
+2,30, ( GRISSOM finds something on his back . ),0
+2,31, [[Grissom]] hold still,0
+2,32, ( He finds a single strand of hair and holds it up . ),0
+2,33, [[Grissom]] possible secondary transfer,0
+2,34, [[Nick]] got some red fibers,0
+2,35, [[Sara]] other foot,0
+2,36, [[Sara]] lift it up,0
+2,37, [[Sara]] put it down,0
+2,38, ( GRISSOM examines BENJAMIN JENNINGS ' arms ),0
+2,39, [[Grissom]] no defensive wounds,0
+2,40, [[Grissom]] no hematomas,0
+2,41, [[Nick]] victim did n't fight back,0
+2,42, [[Nick]] probably did n't see it coming,0
+2,43," [[Grissom]] matthew ... tag that body for special processing , vip room",0
+2,44," [[Grissom]] do n't wash it till i get there , and do n't touch his fingernails",0
+3,0, ( WARRICK 'S SUV stops outside the hotel . ),0
+3,1, ( CATHERINE is holding a piece of paper and reading as she and WARRICK enter the hotel . ),0
+3,2, [[Catherine]] 'd.b,0
+3,3, [[Catherine]] ... mediterranean casino ... women 's spa ',0
+4,0, ( BRASS is already there when WARRICK and CATHERINE enter the locker room area . ),0
+4,1, ( BRASS meets them and they all start walking to the body . ),0
+4,2, [[Brass]] body is shelley danvers,1
+4,3, [[Brass]] dob : 10/10/81,0
+4,4, [[Brass]] employee walked in to get towels,0
+5,0, [[Brass]] ... found her here,0
+5,1," [[Catherine]] a young woman , healthy , just reading a magazine and all of a sudden she dfo 's ?",0
+5,2, [[Brass]] done fell out,0
+5,3, [[Brass]] that 's what the night manager says,0
+5,4, ( WARRICK turns his head and sees the Night Manager talking with an officer . ),0
+5,5, [[Warrick]] miss ?,0
+5,6, ( WARRICK approaches the Night Manager . ),0
+5,7, [[Kim_Marita]] excuse me,0
+5,8, [[Warrick]] we 're from the crime lab,0
+5,9, [[Warrick]] you found the deceased ?,0
+5,10," [[Kim_Marita]] yes , i was , um ... just getting some towels and i walked in and she was there",0
+5,11, ( CATHERINE looks at the body and notices the knot on the robe on the deceased . ),0
+5,12," [[Catherine]] hey , brass ... you touch this body ?",0
+5,13," [[Brass]] yeah , i was born yesterday",0
+5,14," [[Catherine]] well , it looks as if the sash may have been tied by somebody else",0
+5,15, [[Catherine]] miss ... you know anything about redressing the body ?,0
+5,16," [[Kim_Marita]] well , she was naked",0
+5,17, [[Kim_Marita]] i-i-i thought she should be covered,0
+5,18," [[Catherine]] did you move the body here , too ?",0
+5,19, [[Kim_Marita]] guests were looking in,0
+5,20, [[Kim_Marita]] i put a robe on her,0
+5,21, [[Kim_Marita]] it 's not like it 's a crime or anything,0
+5,22," [[Catherine]] actually , it is",0
+5,23, [[Warrick]] makes us doubt the circumstances surrounding the victim 's death,0
+5,24, ( Camera holds on KIM MARITA 'S concerned look . ),0
+6,0, ( SARA scrapes off something from the dead body 's forehead . ),0
+6,1," [[Sara]] flour , maybe ?",0
+6,2, [[Grissom]] but what kind ?,0
+6,3, [[Grissom]] all-purpose ?,0
+6,4, [[Grissom]] self-rising ?,0
+6,5, [[Grissom]] pastry ?,0
+6,6, [[Sara]] trace will probably have a better idea,0
+6,7, [[Sara]] i 'll get dna to see if there 's bits of ben under the fingernails,0
+6,8, [[Grissom]] what about the neck ?,0
+6,9, [[Grissom]] any fibers in the wound ?,0
+6,10, [[Sara]] you told me to wait for you,0
+6,11," [[Grissom]] well , that has n't stopped you yet",0
+6,12, [[Sara]] i did observe some fibers in the wound,0
+6,13," [[Sara]] i did n't collect them , though",0
+6,14, [[Grissom]] be my guest,0
+6,15, ( SARA picks up the fibers from the dead body 's neck . ),0
+6,16, ( Camera close up on the fibers . ),0
+6,17, [[Sara]] yellow,0
+6,18," [[Sara]] not cotton ; satin , maybe",0
+6,19, ( GRISSOM straightens and looks down at the body . ),0
+6,20, ( He notices something . ),0
+6,21, [[Grissom]] dress shirt ... but no tie,0
+6,22, [[Sara]] strangled with his own tie ?,0
+6,23, [[Grissom]] find me on the flour,0
+6,24, ( GRISSOM leaves . ),0
+7,0, ( A red-bordered bar scrolls down the spa 's appointment list of names on the computer for that night . ),0
+7,1, [[Warrick]] 'shelley danvers ' -- appointment 8:00,0
+7,2," [[Catherine]] ms marita , did the deceased use the jacuzzi facilities this evening ?",0
+7,3," [[Kim_Marita]] not that i remember , no",0
+7,4, [[Kim_Marita]] what ?,0
+7,5, [[Kim_Marita]] you do n't believe me ?,0
+7,6," [[Warrick]] well , you lied to us before",0
+7,7," [[Catherine]] it 's , uh , not uncommon to drown in a jacuzzi",0
+7,8, [[Catherine]] hair gets caught in the whirl a person gets dragged under,0
+7,9, [[Catherine]] the hotel would n't be considered unsafe,0
+7,10," [[Kim_Marita]] well , that did n't happen here",0
+7,11, [[Kim_Marita]] she did not drown on these premises,0
+7,12," [[Warrick]] well , if she did , the coroner would find water in her lungs but it 'd be worse hearing it from him than from you",0
+8,0, [[Robbins]] oliver dunne,1
+8,1, [[Robbins]] corporate lawyer,0
+8,2, [[Robbins]] father of two,0
+8,3, [[Grissom]] you get all that from his ... uh ... dentals ?,1
+8,4, [[Robbins]] his wife -- widow,1
+8,5, [[Robbins]] she came down to i.d,0
+8,6, [[Robbins]] his property,1
+8,7, [[Grissom]] .380s ?,0
+8,8, [[Robbins]] last one i recovered entered through his abdominals,0
+8,9, ( CGI POV flash to white as the bullet penetrates an x-ray black and white replication of the body . ),0
+8,10, ( Resume to present . ),0
+8,11, ( Camera on GRISSOM . ),0
+8,12," [[Robbins]] ... pierced the liver , lodged in the oblique",0
+8,13," [[Grissom]] that 's not what killed him , is it ?",1
+8,14, [[Grissom]] we pulled a yellow fiber out of the neck wound,1
+8,15, [[Grissom]] i think it 's from his tie,1
+8,16, [[Robbins]] you might be right,0
+8,17, [[Robbins]] he died of asphyxiation,1
+8,18, [[Robbins]] tie probably closed the windpipe,1
+8,19, ( White flash to CGI POV as an x-ray bluish-white replication of a hand grasping a neck . ),1
+8,20, ( Sounds of a person choking . ),0
+8,21," ( Camera moves up the body through the mouth , down the throat , through the windpipe , into the lungs to a magnification of red and black colored air sacs . )",0
+8,22, ( End of CGI POV . ),0
+8,23, ( Resume on ROBBINS . ),0
+8,24," [[Robbins]] without oxygen , the alveoli capillaries wither and dry up",0
+8,25, [[Robbins]] whole pulmonary system shut down,0
+8,26, [[Robbins]] what you may have here is the smallest sliver of the murder weapon,1
+8,27, [[Grissom]] why would a guy shoot a man three times and then strangle him with his own tie ?,0
+8,28, ( SARA enters holding the file folder with the results of the flour test . ),0
+8,29," [[Sara]] i can not tell you why , but i might be able to tell you where",0
+8,30, [[Sara]] a pizza shop,1
+8,31," [[Sara]] the flour on oliver dunne has a low gluten content -- seven percent protein -- it 's typical of flour used to make cakes , pizzas , that kind of thing",1
+8,32," [[Grissom]] so , why did you rule out bakeries ?",0
+8,33," [[Sara]] well , the subtype of flour is another subtype -- double zero",0
+8,34, [[Sara]] it 's a very fine flour used only in pizza-baking ovens,1
+8,35," [[Sara]] oh , and trace picked up some oregano in the sample",1
+8,36, [[Sara]] when are you set to interview ben ?,1
+8,37, ( Camera holds on GRISSOM . ),0
+9,0, [[Brass]] you 're the registered owner of a lorcin .380,0
+9,1, [[Brass]] takes the same caliber bullet as the slugs we took out of the victim,0
+9,2," [[Brass]] so , i 'm going to ask you one more time",0
+9,3, [[Brass]] where 's your gun ?,0
+9,4, [[Benjamin_Jennings]] i lost it,0
+9,5, [[Brass]] do you think we believe that ?,0
+9,6, [[Brass]] do you think,0
+9,7," [[Grissom]] are you employed , ben ?",0
+9,8," [[Benjamin_Jennings]] yeah ... yeah , um ... it 's a place called dante 's pizzeria",0
+9,9, [[Benjamin_Jennings]] it 's behind the strato ',0
+9,10, [[Grissom]] you make pizzas ?,0
+9,11," [[Benjamin_Jennings]] well , i deliver the pizzas",0
+9,12, [[Benjamin_Jennings]] it 's too hot back there with all the ovens and stuff,0
+9,13," [[Grissom]] do you , uh ... ever come into contact with the baking flour at dante 's ?",0
+9,14, [[Benjamine_Jennings]] mostly pizza boxes,0
+9,15, [[Benjamine_Jennings]] why ?,0
+9,16," [[Grissom]] well , 'cause we found flour on the victim and it 's the kind that 's used to make pizza",0
+9,17, [[Grissom]] can you explain that ?,0
+9,18, [[Benjamin_Jennings]] no,0
+9,19," [[Grissom]] ben , why do n't you earn yourself some points by telling me what the science is going to tell me anyway ?",0
+9,20," [[Benjamin_Jennings]] well , i do n't have to talk",0
+9,21, [[Grissom]] no ... but we 're going to figure it out,0
+9,22," [[Benjamin_Jennings]] look , if you know so much about these murders what do you need me for ?",0
+9,23, [[Grissom]] murders ?,0
+9,24, [[Grissom]] there are more bodies ?,0
+9,25, ( Camera holds on BENJAMIN JENNINGS . ),0
+10,0," ( GRISSOM , NICK , SARA and a group of other officers start sweeping the area where OLIVER DUNNE 'S body was found . )",1
+10,1, ( NICK is pushing a GeoRadar Inc. machine . ),0
+10,2, ( SARA walks next to him holding a laptop that shows the various items being scanned by the machine . ),0
+10,3," ( As it approaches various items , the laptop beeps . )",0
+10,4, [[Nick]] i feel like i 'm mowing a lawn,0
+10,5, [[Sara]] what is that ?,0
+10,6, [[Sara]] a beer can ?,0
+10,7, [[Sara]] soda can ?,0
+10,8, [[Nick]] zilch,0
+10,9," [[Nick]] do n't tell me , more zilch ?",0
+10,10," ( On SARA 'S laptop , the figure of a hand appears . )",1
+10,11, [[Sara]] whoa ... whoa,0
+10,12, [[Sara]] point of disturbance,0
+10,13, [[Grissom]] hold up,0
+10,14, ( More arm and body appears on the radar 's screen . ),1
+10,15, [[Grissom]] isolate it,0
+10,16," ( Finally , we definitely see the shape of a person 's head . )",1
+10,17, ( They 've definitely found a body . ),1
+10,18, [[Sara]] grissom,0
+10,19, ( GRISSOM turns around to look at BENJAMIN JENNINGS standing off in the distance with SGT O'RILEY and three officers . ),1
+10,20, ( His face is grim . ),0
+10,21, ( He makes his way back to BENJAMIN JENNINGS and stops behind him . ),1
+10,22, [[Grissom]] any more bodies you want to tell me about ?,1
+10,23, [[Benjamin_Jennings]] no,0
+10,24, [[Grissom]] we 're going to radar this whole hillside,0
+10,25, ( BENJAMIN JENNINGS nods his head . ),1
+10,26," [[Grissom]] sometimes ... when i leave a crime scene where i 've been particularly involved with a dead body , i sit in my car and it hits me -- how close i was ... how heavy the body is ... the texture of the body ... how it feels ... you know ?",0
+10,27, ( GRISSOM leaves to go back to the site and stops when BENJAMIN JENNINGS speaks . ),1
+10,28, [[Benjamin_Jennings]] mr grissom,0
+10,29, [[Benjamin_Jennings]] i 'm not a bad person,1
+10,30, ( GRISSOM turns around . ),0
+10,31, [[Grissom]] you 're not a bad person ?,1
+10,32, ( BENJAMIN JENNINGS shakes his head . ),1
+10,33," [[Grissom]] then , what are you ?",1
+10,34, ( GRISSOM turns and walks away . ),0
+11,0, ( CATHERINE enters and sees DAVID PHILLIPS pushing a gurney toward her down the hallway . ),0
+11,1," [[Catherine]] oh , i hope that 's shelley danvers the woman from the hotel spa",1
+11,2," [[David_Phillips]] yep , she 's next",1
+11,3," [[Catherine]] well , it 's about time",0
+11,4," [[Catherine]] you guys finished with day-shift runover , huh ?",0
+11,5, ( DAVID pushes the gurney into the Forensic Autopsy Room . ),0
+11,6, ( CATHERINE follows him into the room . ),0
+11,7, [[David_Phillips]] i hate it when you csi guys get territorial,0
+11,8," [[Catherine]] yeah , well , the victims ' families hate it when we do n't",0
+11,9," [[Robbins]] i 'll take it from here , david",0
+11,10, [[Catherine]] good morning,0
+11,11, [[Robbins]] catherine,0
+11,12, ( ROBBINS lifts up the sheet covering SHELLEY DANVERS . ),0
+11,13, [[Robbins]] no serosanguineous fluid expunged from the mouth or nose,1
+11,14, [[Catherine]] she did n't drown ?,0
+11,15, [[Robbins]] rules out your jacuzzi theory,0
+11,16, [[Catherine]] anything probative ?,0
+11,17, [[Robbins]] bright red lividity extending down the body,1
+11,18, [[Catherine]] from ?,0
+11,19," [[Robbins]] well , heatstroke possibly",1
+11,20, [[Robbins]] stroke could cause multiple organ failure and if i 'm right,1
+11,21, [[Catherine]] ... cover-up,1
+11,22, ( CATHERINE walks out of the room . ),0
+11,23," [[Robbins]] hey , i still have to do the post",0
+11,24, [[Robbins]] catherine ?,0
+12,0, ( CATHERINE pulls out her cell phone and dials . ),0
+12,1," [[Catherine]] brass , i need you to get records from that hotel spa -- a warrant , if we need it",0
+12,2," [[Catherine]] yep , that 's right",0
+12,3, [[Catherine]] bye,0
+12,4, ( She hangs up just as WARRICK walks to meet her . ),0
+12,5, ( He turns around when he catches up with CATHERINE . ),0
+12,6," [[Warrick]] oh , it 's on",0
+12,7, [[Catherine]] yeah,0
+12,8, [[Catherine]] was our girl staying with anyone at that hotel ?,1
+12,9," [[Warrick]] uh , yeah",0
+12,10, [[Warrick]] tina ... tina kolas,1
+12,11," [[Warrick]] best friends from terre haute , indiana",0
+12,12, [[Warrick]] flew here in a package,0
+12,13, [[Warrick]] why ?,0
+12,14, [[Catherine]] we need someone to give us the truth about last night,0
+13,0, ( The body is being excavated from the site . ),1
+13,1, ( NICK is inside the hole with the body and is using a shovel to remove the dirt . ),0
+13,2, ( GRISSOM stands up above with SARA and other Foresnic personnel . ),0
+13,3, ( SARA is sifting the dirt around the site looking for evidence . ),0
+13,4," ( Behind them , FATHER POWELL approaches . )",0
+13,5, [[Father_Powell]] gil grissom ?,0
+13,6, [[Grissom]] father ?,0
+13,7, [[Father_Powell]] benjamin 's a member of my parish,1
+13,8, [[Father_Powell]] the officer wo n't let me talk to him,1
+13,9, [[Father_Powell]] he said you were in charge,0
+13,10, [[Grissom]] of this crime scene,0
+13,11, [[Father_Powell]] he needs spiritual guidance,1
+13,12, ( GRISSOM glances over at BENJAMIN JENNINGS in handcuffs standing by the police cars with two officers . ),1
+13,13, ( He glances back down at the dead body and looks back up at FATHER POWELL . ),0
+13,14," [[Grissom]] yeah , i imagine he does",1
+13,15, [[Father_Powell]] ah ... then you 'd have no problem with my talking to him,1
+13,16, [[Grissom]] it 's the 11th hour,0
+13,17, [[Grissom]] i would n't expect anything less,0
+13,18, [[Father_Powell]] eleventh hour ?,0
+13,19," [[Grissom]] when the reality of their actions set in , they usually turn to religion",0
+13,20, [[Father_Powell]] can you think of a better time ?,0
+13,21, ( GRISSOM watches as FATHER POWELL walks away to talk with BENJAMIN JENNINGS . ),1
+13,22, ( GRISSOM turns around and looks at NICK 'S progress . ),0
+13,23," [[Grissom]] okay , hold it",0
+13,24, [[Grissom]] that 's enough,0
+13,25, [[Grissom]] let 's dust him,0
+13,26, ( NICK puts the shovel aside . ),0
+13,27, ( SARA puts her stuff aside and grabs the camera . ),0
+13,28, ( She begins to photograph the body . ),0
+13,29, [[Nick]] no ligature marks,1
+13,30, [[Sara]] different from the first guy,0
+13,31, [[Grissom]] see if this laceration on this guy 's forehead is consistent with the kid 's shovel,1
+13,32, [[Nick]] hey,0
+13,33, [[Nick]] i feel a wallet here,0
+13,34," ( NICK pulls out the wallet from the dead body 's front pocket and under some folded cash , removes a NEVADA DRIVER LICENSE with the following information: )",0
+13,35, [[Nick]] ramirez kenny,1
+13,36, [[Nick]] a 25-year-old latino and a 42-year-old white guy ?,0
+13,37, [[Sara]] strangers,0
+13,38, [[Sara]] does n't make sense,0
+13,39, [[Sara]] there 's no connection,0
+13,40," [[Grissom]] well , it obviously was n't a robbery",0
+13,41, ( SGT O'RILEY approaches . ),0
+13,42, [[Sgt._O'Riley]] hey,0
+13,43," [[Nick]] hey , o'riley",0
+13,44," [[Nick]] what 's the matter , man ?",0
+13,45, [[Nick]] a/c not working ?,0
+13,46, [[Sgt._O'Riley]] i was on with dispatch,0
+13,47, [[Sgt._O'Riley]] oliver dunne 's car was just found by the highway patrol abandoned at an avcon station off 215,1
+13,48," [[Grissom]] they did n't happen to find another car there , did they ?",0
+13,49, [[Sgt._O'Riley]] yeah,1
+13,50, [[Sgt._O'Riley]] registered to a 'ramirez ',1
+13,51, [[Nick]] yeah ... gas station,0
+13,52," ( SARA helps NICK out of the ditch , then puts her camera down . )",0
+13,53, ( They 're off to the gas station . ),0
+13,54, ( GRISSOM bends in low to look at the body . ),1
+14,0," [[Catherine]] and you can verify that when shelley went to the hotel spa last night , she was going to use the dry sauna ?",0
+14,1," [[Tina_Kolas]] we 'd been drinking apple martinis for , like , three days straight",0
+14,2," [[Tina_Kolas]] shelley said the sauna would detox her you know , clean her out",0
+14,3, [[Warrick]] cath,0
+14,4, [[Warrick]] whose shirt is this ?,0
+14,5, ( WARRICK holds up a pink-colored blouse ripped in the middle . ),0
+14,6, [[Tina_Kolas]] mine,0
+14,7, [[Tina_Kolas]] shelley and i got in a fight over it,0
+14,8, [[Warrick]] when ?,0
+14,9, [[Tina_Kolas]] yesterday,0
+14,10," [[Tina_Kolas]] i caught her trying it on and i said 'give it back , ' and then we started fighting over it , you know , tug of war and the whole thing ripped right in two",0
+14,11, [[Tina_Kolas]] we fell back laughing,0
+14,12, ( Quick flashback to the two girls tugging on the shirt . ),0
+14,13," ( The shirt ripping , and the two girls laughing . )",0
+14,14, ( End of flashback . ),0
+14,15, ( Resume on TINA KOLAS . ),0
+14,16, [[Tina_Kolas]] i 'd give anything to have her back,0
+14,17," [[Warrick]] we 're going to take this shirt , if you do n't mind",0
+14,18," [[Tina_Kolas]] no , go ahead , if it 'll help",0
+14,19, [[Catherine]] you said you have proof that shelley used the dry sauna,0
+14,20, [[Tina_Kolas]] she called down from this phone,0
+14,21, [[Tina_Kolas]] do they tape phone calls here ?,0
+14,22, [[Catherine]] hotel surveillance would love that,0
+14,23, [[Catherine]] you 're sure she used that phone to make the appointment ?,0
+14,24, [[Tina_Kolas]] yeah,0
+14,25, ( CATHERINE picks up the note pad on the desk next to the phone . ),0
+14,26, ( She hands it to WARRICK . ),0
+14,27," ( It 's a blank typical complimentary hotel note pad with light blue logo , name and address of the hotel on it . )",0
+14,28, [[Warrick]] we 're going to take this as well,0
+14,29, [[Tina_Kolas]] okay ... but it does n't have anything on it,0
+14,30," [[Warrick]] well , that 's okay",0
+14,31, [[Warrick]] we do magic,0
+15,0, [[Sara]] two men were shot and killed and you did n't see anything ?,0
+15,1, [[Kirk_(Avcon_Attendant)]] sorry,0
+15,2, [[Nick]] you do n't just miss something like that,0
+15,3, [[Nick]] what was going on ?,0
+15,4, [[Kirk]] a friend of mine came with his new car,0
+15,5, [[Kirk]] we took it for a drive,0
+15,6, [[Kirk]] i 'm afraid my boss will find out,0
+15,7, [[Kirk]] i was only gone five minutes,0
+15,8," [[Nick]] okay , all right",0
+15,9, [[Nick]] just-just walk us through it,0
+15,10, [[Nick]] when did you know there 'd been a crime committed ?,0
+15,11," [[Kirk]] well , my buddy dropped me back here and i noticed these two cars",0
+15,12, [[Kirk]] i went to check them out,0
+15,13, ( Quick flashback to KIRK walking toward the two cars near the gas pump island . ),0
+15,14, ( Both driver side doors are open . ),0
+15,15, ( He reaches the first car and shuts the driver 's door close . ),0
+15,16, ( He looks around and does n't see anyone . ),0
+15,17," ( He does , however , notice a puddle of blood on the ground . )",0
+15,18," [[Kirk]] oh , my god",0
+15,19, ( End of flashback . ),0
+15,20, ( Resume present . ),0
+15,21, [[Nick]] i do n't see any blood,0
+15,22," [[Kirk]] yeah , i hosed it down",0
+15,23, [[Sara]] you what ?,0
+15,24, [[Kirk]] it was freakin ' me out,0
+16,0," ( Through the plastic sheeting , we see FATHER POWELL enter the CSI Garage . )",0
+16,1, ( GRISSOM is under the sheeting examining BENJAMIN JENNINGS ' car . ),0
+16,2, ( FATHER POWELL approaches the car and puts his hands on the plastic sheeting to see who 's inside the car . ),0
+16,3, [[Father_Powell]] h-hello ?,0
+16,4, [[Father_Powell]] mr grissom ?,0
+16,5, ( FATHER POWELL lifts up the plastic sheeting and walks underneath it . ),0
+16,6, [[Father_Powell]] uh ... they told me out front i 'd find you here,0
+16,7," [[Grissom]] i do n't see your , uh ... visitor 's badge",0
+16,8, [[Father_Powell]] priest 's collar,0
+16,9, [[Father_Powell]] people trust it,0
+16,10, [[Father_Powell]] most people,0
+16,11, [[Father_Powell]] even ... lapsed catholics,0
+16,12," [[Grissom]] what makes you think , uh",0
+16,13, [[Grissom]] i was ever a catholic ?,0
+16,14," [[Father_Powell]] first time we met , you called me 'father '",0
+16,15, [[Father_Powell]] only romans do that,0
+16,16," [[Father_Powell]] everybody else , it 's 'reverend ' or 'minister '",0
+16,17, [[Father_Powell]] i wanted to know how your investigation against ben is going,0
+16,18, [[Grissom]] this is his car,0
+16,19," [[Grissom]] you know , you really should n't be here",0
+16,20, [[Father_Powell]] i did n't come here to tamper with your evidence,0
+16,21, ( GRISSOM puts his goggles back on and starts spraying luminol in the car 's front passenger seat . ),0
+16,22," ( As he sprays , the blood evidence begins to glow in the light . )",0
+16,23, ( GRISSOM collects it . ),0
+16,24," [[Father_Powell]] he was a good kid , all through school still comes to mass every sunday",0
+16,25, [[Father_Powell]] if he has a problem ... it 's trying to please people,0
+16,26, [[Grissom]] is that a problem ?,0
+16,27, [[Father_Powell]] it can be,0
+16,28, ( GRISSOM opens the back door of the Bronco and begins spraying . ),0
+16,29," ( As he sprays , he recites . )",0
+16,30, ( FATHER POWELL peers in to see the results . ),0
+16,31, [[Grissom]] this luminol reveals dried blood,0
+16,32, ( The blood evidence begins to glow . ),0
+16,33, ( There 's blood all over the back seat . ),0
+16,34, ( FATHER POWELL looks shocked at the evidence he sees . ),0
+16,35, [[Father_Powell]] he would n't do this,0
+16,36, [[Grissom]] i believe the car,0
+16,37," [[Father_Powell]] 'to whom much is given , much will be expected '",0
+16,38, [[Father_Powell]] i leave you to your work,0
+16,39, ( FATHER POWELL leaves . ),0
+17,0, [[Kim_Marita]] i told you we have no record shelley danvers specifically used the dry sauna,0
+17,1, ( CATHERINE opens a Las Vegas Metropolitan Police Department Evidence folder with the following information: ),0
+17,2," ( Date ) 10-25-01 , ( Time ) 08:05 and ( Number ) 48913-5B . )",0
+17,3, ( She pulls out the note pad taken from SHELLEY DANVERS ' room . ),0
+17,4," [[Catherine]] that 's okay , 'cause we do",0
+17,5, [[Catherine]] esda can read this blank paper ... see what 's written on it,0
+17,6, [[Catherine]] up to 14 layers,0
+17,7, [[Warrick]] sometimes a simple flashlight will do the trick,0
+17,8, ( WARRICK pulls out a flashlight and uses it on the pad . ),0
+17,9, ( We see the following : SAUNA - 8:00 PM . ),0
+17,10, [[Catherine]] that 's miss danvers ' handwriting,0
+17,11, [[Catherine]] we confirm that,0
+17,12, [[Kim_Marita]] so she took a dry sauna,0
+17,13, [[Kim_Marita]] what does that prove ?,0
+17,14, [[Warrick]] she died of a heat stroke,0
+17,15, [[Warrick]] the coroner just called in with the results of his final post,0
+17,16, [[Warrick]] your sauna 's kept in the optimal condition for heat stroke -- 182 degrees,0
+17,17, ( Quick CGI POV flash to a hand on a thermostat temperature dial twisting it to the right . ),0
+17,18, ( End of CGI POV . ),0
+17,19, ( Resume on KIM MARITA . ),0
+17,20, ( BRASS walks in ),0
+17,21, [[Warrick]] that could kill a person if you left them longer than two straight hours,0
+17,22, ( Brass walks in ),0
+17,23, [[Brass]] especially if no one checks up on them,0
+17,24, [[Brass]] a hotel employee is supposed to check on the various saunas every 15 minutes,0
+17,25," [[Brass]] hotel regulations , right ?",0
+17,26," [[Brass]] we , uh , we got a copy of the check-up sheet",0
+17,27, ( Camera holds on KIM MARITA 'S look . ),0
+18,0, ( BRASS walks into the sauna . ),0
+18,1," ( WARRICK , CATHERINE and KIM MARITA follow . )",0
+18,2, [[Brass]] no hotel employee checked in on the sauna after 7:30 p.m,0
+18,3," [[Catherine]] so , shelley was in here from 8:00 until ... what time did you call 9-1-1 ?",0
+18,4, ( KIM MARITA sighs . ),0
+18,5," [[Kim_Marita]] i , um",0
+18,6, [[Kim_Marita]] i came in at closing,0
+18,7, [[Kim_Marita]] 10:00,0
+18,8, ( Quick flashback to SHELLEY DANVERS in the sauna sitting on the bench propped up against the wall . ),0
+18,9, ( KIM MARITA reaches out to nudge the woman when she falls over . ),0
+18,10, [[Kim_Marita]] miss ?,0
+18,11, [[Kim_Marita]] miss ?,0
+18,12," [[Kim_Marita]] oh , my god",0
+18,13, ( Flash to white . ),0
+18,14, ( End of flashback . ),0
+18,15, ( Resume on CATHERINE and WARRICK . ),0
+18,16, [[Catherine]] you moved her into the locker room ?,0
+18,17, [[Catherine]] put the robe on her ?,0
+18,18, [[Kim_Marita]] i was just trying to protect the hotel,0
+18,19, [[Catherine]] from negligent homicide,0
+18,20, [[Kim_Marita]] they drill into us that the reputation of this hotel is everything,0
+18,21, ( Camera holds on CATHERINE . ),0
+19,0, ( NICK and SARA report back to GRISSOM . ),0
+19,1, [[Nick]] murder scene was compromised,0
+19,2, [[Sara]] pump jockey was n't very helpful but bullets pulled from victim one and victim two,0
+19,3, ( SARA puts the two plastic baggies in front of GRISSOM . ),0
+19,4, [[Sara_(cont.)]] identical striations,0
+19,5, [[Sara_(cont.)]] bullets in both victims were fired by the exact same weapon,0
+19,6, [[Nick]] a lorcin .380,0
+19,7, [[Nick]] the same pistol registered to a benjamin jennings,0
+19,8, ( NICK hands a copy of the pistol registration to GRISSOM . ),0
+19,9, [[Sara]] p.d,0
+19,10, [[Sara]] can prove through credit cards that ben frequents the avcon gas stations where both vics were killed,0
+19,11, ( GRISSOM sits down . ),0
+19,12, [[Nick]] and we can prove he transported those bodies in his vehicle based on the blood you found,0
+19,13, [[Sara]] and fibers,0
+19,14, ( Quick flashback to SARA collecting fibers off the body . ),0
+19,15, ( SARA pulling off the sock from the victim 's left foot . ),0
+19,16, ( SARA lifting the fibers off of that sock . ),0
+19,17, ( White flash to End of flashback . ),0
+19,18, [[Sara]] i recovered a burgundy fiber from the sock of victim one,0
+19,19, [[Sara]] found the same fiber on the sock of victim two,0
+19,20, [[Nick]] we i.d 'd the fibers using the ftir,0
+19,21, [[Nick]] it 's a polymer commonly used in vehicle carpeting,0
+19,22, [[Sara]] so we went back to ben 's car,0
+19,23, ( Quick flashback to NICK cutting out a sample from BENJAMIN JENNINGS ' car . ),0
+19,24, ( SARA looking at the sample . ),0
+19,25, ( End of flashback . ),0
+19,26, ( Resume to present . ),0
+19,27, [[Nick]] they 're identical,0
+19,28, [[Sara]] we got the master standards from the car manufacturer,0
+19,29, [[Sara]] the assigned name for the material is '12-ounce merlot-poly ',0
+19,30, [[Nick]] bottom line ... he killed them,0
+19,31," [[Grissom]] good work , you guys",0
+19,32, [[Grissom]] very good,0
+19,33, [[Grissom]] but you have n't proved murder,0
+19,34, [[Grissom]] you 've proved burial,0
+19,35, [[Nick]] excuse me ?,0
+19,36, [[Sara]] victim blood on his clothes,0
+19,37, [[Sara]] under his nails,0
+19,38, [[Grissom]] from burying them,0
+19,39, [[Nick]] victim blood in his car ?,0
+19,40, [[Grissom]] he transported them,0
+19,41, [[Grissom]] show me the gun with ben 's prints on it,0
+19,42," [[Grissom]] gun shot residue , the ligature , the",0
+19,43," [[Sara]] the holes in christ 's hands , doubting thomas ?",0
+19,44, [[Grissom]] yes,0
+19,45, [[Grissom]] empirical evidence,0
+19,46, [[Grissom]] st. thomas was ahead of us all,0
+19,47, [[Sara]] does this have anything to do with the priest that 's been coming around here ?,0
+19,48, [[Grissom]] no,0
+19,49, [[Grissom]] it has to do with the evidence,0
+19,50, [[Nick]] it 's our job to present the d.a,0
+19,51, [[Nick]] with the best evidence possible,0
+19,52, [[Nick]] let a jury decide,0
+19,53," [[Nick]] anything else , we 're playing judge",0
+19,54, [[Nick]] the evidence does n't get any better than this,0
+19,55, ( GRISSOM looks at NICK and SARA . ),0
+19,56," ( Though he has his hesitations , GRISSOM relents . )",0
+19,57, [[Grissom]] okay,0
+19,58, [[Grissom]] ship it,0
+19,59, [[Grissom]] show it to the d.a,0
+19,60, [[Nick]] right,0
+19,61, ( NICK starts collecting the evidence on the table . ),0
+19,62, ( Camera holds on GRISSOM 'S concerned look . ),0
+20,0, ( WARRICK and CATHERINE are headed home . ),0
+20,1, ( They walk down the hallway toward BRASS who waits by the counter . ),0
+20,2, ( He 's just gotten off the phone . ),0
+20,3, [[Brass]] anyone up for breakfast ?,0
+20,4, ( CATHERINE passes BRASS . ),0
+20,5, [[Catherine]] i 'm up for a shower and tucking my daughter in,0
+20,6," ( WARRICK slaps BRASS on the shoulder as he , too , heads out the hallway . )",0
+20,7, [[Warrick]] football -- wide-screen,0
+20,8, ( BRASS sighs . ),0
+20,9," [[Brass]] well , i guess i 'll go see tina alone",1
+20,10, [[Brass]] hotel tells me she 's down playing quarter slots,1
+20,11," ( Both intrigued at BRASS ' remark , CATHERINE and WARRICK turn around . )",0
+20,12, [[Catherine]] i thought we solved this case,0
+20,13, [[Catherine]] what 'd you get ?,0
+20,14," [[Brass]] well , my guy in the hotel lounge tells me that tina and shelley were having a catfight over some dude named jeremy the day she died",1
+20,15, [[Brass]] that 's probably how the shirt really got ripped,0
+20,16, [[Catherine]] do n't ring her bell till we re-examine our case,0
+20,17, ( CATHERINE and WARRICK head back to work . ),0
+21,0, ( GRISSOM is at the laptop doing background checks on the suspect . ),0
+21,1, ( NICK is standing in front of the screen on the wall . ),0
+21,2, [[Nick]] misunderstood the priest ?,0
+21,3, [[Nick]] how ?,0
+21,4, [[Grissom]] i looked deeper into the evidence,0
+21,5, [[Grissom]] i should have looked deeper into ben 's character,1
+21,6, ( COMPUTER SCREEN READS the following: ),0
+21,7, [[Nick]] 'benjamin corey jennings ',1
+21,8, [[Nick]] nonviolent crimes,1
+21,9, ( GRISSOM pulls up a second computer screen with the following information: ),0
+21,10, [[Nick]] 'roger jennings ... armed robbery,1
+21,11," [[Nick]] past convictions , breaking and entering",1
+21,12, [[Nick]] assault with great bodily harm,1
+21,13, [[Nick]] paroled 9/27/2000 ',0
+21,14, ( GRISSOM stands and leaves . ),0
+21,15, [[Nick]] this guy is hard-core,1
+21,16, [[Nick]] he 's looking at his third strike here,1
+21,17, ( NICK notices that GRISSOM left . ),0
+21,18, ( He turns back to look at the screen in front of him . ),0
+21,19, ( SARA enters the room . ),0
+21,20, ( NICK looks concerned . ),0
+21,21, [[Sara]] what 's going on ?,0
+21,22, ( NICK turns around and sighs . ),0
+21,23, ( He looks at the door where GRISSOM just left . ),0
+21,24, [[Nick]] you know how we pushed him to file on ben ?,1
+21,25, [[Sara]] yeah,0
+21,26, [[Nick]] we might have been wrong,0
+22,0, ( GRISSOM is sitting on the chair outside the jail holding cell . ),0
+22,1, ( SGT O'RILEY is standing on the side . ),0
+22,2, ( BENJAMIN JENNINGS sits in the cell . ),0
+22,3, [[Grissom]] tell me about your brother,0
+22,4, [[Grissom]] we know that you only buried the bodies,0
+22,5," [[Grissom]] so , what happened ?",0
+22,6, [[Grissom]] did he threaten you ?,0
+22,7, ( BENJAMIN JENNINGS shakes his head and says nothing . ),0
+22,8, [[Grissom]] ben ?,0
+22,9, ( Tears run down BEN 'S face . ),0
+22,10," ( Still , he says nothing . )",0
+23,0, ( GRISSOM and SGT O'RILEY approach ROGER JENNINGS in the kitchen . ),1
+23,1, ( ROGER JENNINGS is rolling pizza dough . ),1
+23,2," [[Grissom]] did you learn to throw pizzas in prison , roger ?",1
+23,3, [[Roger_Jennings]] who the hell are you guys ?,0
+23,4, [[Roger_Jennings]] get out of my kitchen,1
+23,5," [[Sgt._O'Riley]] 'roger jennings -- armed robbery , breaking and entering ' you sound like the kind of guy it would n't be a big jump to murder",1
+23,6," [[Roger_Jennings]] hey , what is this ?",0
+23,7, ( SGT O'RILEY throws two photos on the table . ),0
+23,8, ( The top photo is of Oliver Dunne and the injuries on his abdomen . ),1
+23,9, [[Sgt._O'Riley]] your first stop the avcon gas station,1
+23,10, [[Sgt._O'Riley]] see these two guys ?,0
+23,11, ( ROGER JENNINGS pushes the photos away from him . ),1
+23,12," ( With barely a glance , he continues to knead the pizza dough . )",1
+23,13, [[Roger_Jennings]] nope,0
+23,14, [[Roger_Jennings]] do n't know what you 're talking about,0
+23,15, [[Roger_Jennings]] my little brother got me this job,1
+23,16, [[Roger_Jennings]] i 'm staying clean,1
+23,17, [[Sgt._O'Riley]] suppose i told you your brother said you did these guys,1
+23,18, ( ROGER JENNINGS stops kneading the dough and looks at GRISSOM . ),1
+23,19, ( GRISSOM meets his gaze . ),0
+23,20, [[Roger_Jennings]] ben would n't do that,1
+23,21, ( ROGER slowly continues to knead the dough . ),1
+23,22, [[Grissom]] you did it directly after work using a .380 pistol and then you strangled one of the victims with his own tie,1
+23,23, ( ROGER JENNINGS takes a breath . ),1
+23,24, ( He looks at GRISSOM . ),1
+23,25, [[Roger_Jennings]] ben did it,1
+23,26, [[Grissom]] did you witness this ?,1
+23,27, [[Roger_Jennings]] he told me about it,1
+23,28, ( Quick flashback of BENJAMIN JENNINGS in a panic . ),1
+23,29, ( Cut to two dead bleeding bodies in the back of BEN 'S bronco . ),1
+23,30, [[Benjamin_Jennings]] look what i did -- i just lost my head,1
+23,31, [[Benjamin_Jennings]] what am i supposed to do now ?,1
+23,32," [[Roger]] i 'm on a short line , all right ?",1
+23,33," [[Roger]] you 're on your own , ben",1
+23,34," [[Benjamin_Jennings]] roger , you 've got to help me",1
+23,35, [[Roger]] you know i ca n't,1
+23,36, [[Roger]] what am i going to do ?,1
+23,37, [[Roger]] huh ?,1
+23,38, [[Roger]] it 's your mess,1
+23,39, [[Roger]] you got to deal with it,1
+23,40, ( Flash to white . ),0
+23,41, ( End of flashback . ),0
+23,42, ( Resume on ROGER JENNINGS . ),1
+23,43, [[Sgt._O'Riley]] what started the beef with the victims ?,0
+23,44, [[Roger]] i do n't know,1
+23,45," [[Roger]] tempers , i guess",1
+23,46, ( Quick flashback to KENNY RAMIREZ pumping gas . ),1
+23,47," ( From across the way , BENJAMIN JENNINGS gets out of his car and approaches KENNY RAMIREZ , yelling . )",1
+23,48, [[Benjamin_Jennings]] hey !,0
+23,49," [[Benjamin_Jennings]] hey , man !",0
+23,50, [[Benjamin_Jennings]] i was here first,1
+23,51, [[Benjamin_Jennings]] you want to wait your turn ?,1
+23,52," [[Kenny_Ramirez]] what are you going to do , huh ?",1
+23,53, ( KENNY RAMIREZ pushes BENJAMIN JENNINGS who falls back against his car . ),1
+23,54, ( He reaches into the waistband of his jeans and pulls out a pistol and fires three shots at KENNY RAMIREZ . ),1
+23,55, ( Flash to white . ),0
+23,56, ( Resume to present . ),0
+23,57, ( Camera on ROGER JENNINGS . ),1
+23,58, [[Roger]] bystander gets a little too nosy,0
+23,59, ( Quick flashback to OLIVER DUNNE getting out of his car and witnessing the murder with a shocked look on his face . ),1
+23,60, ( BENJAMIN JENNINGS turns to look at OLIVER DUNNE . ),1
+23,61," ( He then shoots him , too . )",1
+23,62, ( End of flashback . ),0
+23,63, ( Resume to present . ),0
+23,64, ( Camera on ROGER JENNINGS . ),1
+23,65," [[Roger]] ... and he gets it , too",1
+23,66, ( GRISSOM nods at the story . ),0
+23,67, [[Grissom]] the perpetrator 's hands left flour on the victim 's face,1
+23,68, [[Grissom]] this is not from a gunshot,0
+23,69, [[Grissom]] this was something a little more intimate,0
+23,70," ( Quick flashback to ROGER JENNINGS approaching the wounded OLIVER DUNNE , ripping the man 's tie from off his shirt , twisting it around his hands , and wrapping it around OLIVER DUNNE 'S neck . )",1
+23,71, ( OLIVER DUNNE expels his final breath . ),1
+23,72, ( End of Flashback . ),0
+23,73, ( Resume to GRISSOM . ),0
+23,74, [[Grissom]] when a person changes his mode of murder from pistol to ligature it 's for one of two reasons - entertainment ... or necessity,1
+23,75, [[Grissom]] which was it for you ?,1
+23,76, [[Roger]] neither,0
+23,77," [[Roger]] i told you , ben strangled that guy",1
+23,78, [[Grissom]] the flour said you did,1
+23,79, [[Roger]] i do n't know what you 're talking about,1
+23,80, ( ROGER JENNINGS turns back to his pizza dough . ),1
+23,81, ( Camera holds on ROGER JENNINGS look . ),1
+24,0, ( SARA and NICK walk across the way toward ROGER JENNINGS ' trailer . ),0
+24,1, [[Sara]] anything on the list besides the tie ?,0
+24,2, [[Nick]] nope,0
+24,3, ( They approach the two officers standing outside . ),0
+24,4," [[Sara]] hey , guys",0
+24,5, [[Nick]] you can go ahead and take off,0
+24,6, [[Nick]] i think we got it,0
+24,7, [[Officers]] thanks,0
+25,0, ( SARA opens the trailer door and enters . ),0
+25,1, ( NICK is right behind her . ),0
+25,2, [[Sara]] whoa,0
+25,3, ( SARA looks around and finds some dry cleaning . ),0
+25,4, [[Sara]] hey,0
+25,5, [[Sara]] dry cleaning,0
+25,6, [[Sara]] the trailer 's low-rent,0
+25,7, [[Sara]] dry cleaning 's expensive,0
+25,8, ( SARA checks out the clothes . ),0
+25,9, ( They find a spot of blood . ),0
+25,10, [[Nick]] sara ?,0
+25,11, [[Sara]] this man 's not as smart as he thinks,0
+25,12, [[Sara]] dry cleaning bakes in blood stains,0
+25,13, [[Nick]] could be red sauce,0
+25,14," [[Sara]] oh , now you 're cautious",0
+25,15, [[Nick]] i 'm just trying to put our mistake to good use,0
+25,16, [[Sara]] okay,0
+25,17, [[Sara]] you check the perimeter and i 'll see if we have blood stains or red sauce,0
+26,0, ( NICK walks out of the trailer and looks around . ),0
+26,1," ( Doing a visual sweep of the place , he finds a canister of burned rubbish . )",0
+26,2, ( NICK walks to the can to check it out . ),0
+26,3, ( He grabs the thick wooden stick in the can and begins poking through the ash and burnt materials . ),0
+27,0, ( SARA opens her kit . ),0
+27,1, ( She uses a scissors and cuts out a small triangular-shaped sample of the questionable area . ),0
+27,2, ( She takes that sample and puts it in a test tube . ),0
+28,0," ( Meanwhile , NICK uses the stick to swish through the ash and rubbish . )",0
+28,1, ( He finds something . ),0
+29,0, ( SARA conducts her test . ),0
+29,1, [[Sara]] hemoglobin,0
+29,2, [[Sara]] take a look at this,0
+29,3, ( SARA does n't get a response from NICK . ),0
+29,4, ( She puts the cap on the test tube and puts it aside to go find NICK . ),0
+29,5, ( She grabs her flashlight and stands . ),0
+29,6, [[Sara]] nick ?,0
+30,0, ( SARA exits the trailer just as NICK lifts out his find from the trash . ),0
+30,1," [[Sara]] hey , nick",0
+30,2, ( SARA approaches NICK and sees what he sees . ),0
+30,3, ( It 's the missing murder weapon . ),0
+31,0, ( The jail doors open . ),0
+31,1, ( An officer leads ROGER JENNINGS into the area . ),0
+31,2, ( He 's followed by SGT O'RILEY and GRISSOM . ),0
+31,3, ( BENJAMIN JENNINGS watches as his brother walks by . ),0
+31,4, ( ROGER JENNINGS looks up at BEN . ),0
+31,5, ( Their eyes meet as they two brothers pass each other . ),0
+31,6, ( Camera holds on BEN . ),0
+32,0, ( A gunshot is heard . ),0
+32,1, ( A bullet breaks the surface of the water . ),0
+32,2, ( A second gunshot is fired . ),0
+32,3, ( The third shot is stuck . ),0
+32,4, ( GRISSOM is conducting the ballistics test on the gun . ),0
+32,5, ( He manages to get a sample before the gun jams ),0
+32,6," ( through the wire cage , NICK watches . )",0
+32,7," [[Nick]] looks like it jammed , huh ?",0
+32,8, [[Nick]] get anything instructive ?,0
+32,9, [[Grissom]] possibly,0
+33,0, [[Greg]] blood from jennings 's denim shirt,0
+33,1, ( GREG pulls the results sheet off the printer and hands it to SARA . ),0
+33,2, [[Sara]] is the printer out of ink ?,0
+33,3," [[Sara]] 'nd , nd , nd '",0
+33,4, [[Greg]] it means 'none detected ',0
+33,5, [[Greg]] the dry cleaning baked in the blood and it also degraded it to a degree that i just ca n't get a result,0
+33,6, [[Sara]] try again,0
+33,7, [[Sara]] this could be victim blood,0
+33,8, [[Sara]] try again,0
+33,9, [[Greg]] i have tried,0
+33,10," [[Greg]] it 's chemically impossible , sara",0
+33,11, [[Greg]] nothing from nothing is nothing,0
+33,12, ( GREG hands SARA the test results . ),0
+33,13, ( SARA leaves . ),0
+34,0," ( Under a microscope , two different bullets are being compared side-by-side . )",0
+34,1, ( It 's obvious that they do n't match . ),0
+34,2, [[Bobby_Dawson]] the striaions are different,0
+34,3, [[Bobby_Dawson]] see ?,0
+34,4," ( BOBBY DAWSON stands and moves away from the scope , allowing GRISSOM to compare the bullets himself . )",0
+34,5," ( NICK is also in the room , standing on the side , listening to the results of the comparison . )",0
+34,6, [[Bobby_Dawson]] there 's no way i can say that the bullets taken from the victims were fired by jennings 's gun,0
+34,7," [[Grissom]] so , he altered the barrel somehow",0
+34,8, ( SARA walks into the room just in time to hear the final conclusion . ),0
+34,9, [[Bobby_Dawson]] yeah,0
+34,10," [[Bobby_Dawson]] changed how the bullet relates to the barrel so when the bullet emerges , its fine stria are altered",0
+34,11, ( CGI POV of the bullet emerging from the barrel of the gun and rubbing the sides of the barrel on its way out . ),0
+34,12, ( End of CGI POV . ),0
+34,13, ( Resume to present . ),0
+34,14, [[Nick]] any idea what he used ?,0
+34,15, ( Flash to white . ),0
+34,16, ( CGI POV of ROGER JENNINGS using a tool and rubbing the tool in the gun barrel . ),0
+34,17, ( Cut to close up of the tool from the inside of the gun . ),0
+34,18, ( End CGI POV . ),0
+34,19, ( Resume on BOBBY DAWSON . ),0
+34,20, [[Bobby_Dawson]] whatever it was ... did the job,0
+34,21, [[Sara]] my evidence is no better,0
+34,22, [[Sara]] total loss,0
+34,23, [[Nick]] we present this to the d.a,0
+34,24," [[Grissom]] unfortunately , we 've had this discussion before",0
+34,25, [[Nick]] the guilty brother 's going to walk,0
+34,26, ( GRISSOM leaves the room . ),0
+35,0, ( The bars slide open and ROGER JENNINGS is allowed out of the holding cell . ),0
+35,1, ( He is accompanied by an officer . ),0
+35,2, ( A property bag is given to ROGER JENNINGS . ),0
+35,3, ( He takes out his chain and puts it around his neck . ),0
+35,4," ( BENJAMIN JENNINGS watches in the background , bewildered at the turn of events . )",0
+35,5," ( ROGER JENNINGS glances over at BENJAMIN , he grabs his things and leaves . )",0
+35,6," ( On his way out the door , he passes GRISSOM . )",0
+35,7, [[Roger_Jennings]] he 's never been in any real trouble before,0
+35,8, [[Roger_Jennings]] they 'll go easy on him,0
+35,9, ( ROGER JENNINGS walks out the door . ),0
+36,0, ( GRISSOM follows ROGER JENNINGS out the doorway and into the hallway . ),0
+36,1, ( He leans against the doorway . ),0
+36,2," [[Grissom]] the bullet jammed in the feed , did n't it ?",0
+36,3, ( Quick Flashback to ROGER JENNINGS pointing and firing the gun at the victim . ),0
+36,4, ( Cut to a close up of the pistol jamming . ),0
+36,5, ( Cut to ROGER JENNINGS using the tie to suffocate OLIVER DUNNE . ),0
+36,6, ( Flash to white . ),0
+36,7, ( Resume on GRISSOM . ),0
+36,8," [[Grissom]] so , it was necessity",0
+36,9, ( ROGER JENNINGS does n't say anything . ),0
+36,10, ( He smiles and then he walks away . ),0
+36,11, ( Camera holds on GRISSOM 'S grim look . ),0
+37,0," [[Tina_Kolas]] wait , are you saying shelley did n't die in the sauna ?",1
+37,1, [[Warrick]] she died of heat stroke,1
+37,2, [[Catherine]] but the stroke covered up an underlying medical catastrophe,1
+37,3, [[Tina_Kolas]] like what ?,0
+37,4, [[Tina_Kolas]] shell was always healthy,1
+37,5, [[Catherine]] she went into anaphylactic shock,1
+37,6," [[Catherine]] coroner says some of the indicators are the same as a stroke : renal failure , cerebral edema",0
+37,7, [[Warrick]] we missed it until captain brass brought your room service records to our attention,1
+37,8, [[Tina_Kolas]] i do n't understand,1
+37,9," [[Brass]] well , maybe this will help -",0
+37,10, ( BRASS opens a file he 's holding . ),0
+37,11, ( The paper inside contains the following information: ),0
+37,12, [[Brass]] the travel agency contract you and shelley signed,1
+37,13, [[Brass]] under 'allergic reactions to foods ' for shelley danvers -- shellfish,0
+37,14," [[Warrick]] as her best friend , you would know that",0
+37,15," [[Brass]] and then we have this from the hotel computer for your room 7:01 p.m. , on the day : 'a taste from the sea a lovely tureen of mild bisque with pureed bits of maine lobster",1
+37,16," [[Brass]] pureed , two bowls",0
+37,17," [[Brass]] she did n't know what she was eating when it arrived , did she ?",1
+37,18, [[Catherine]] because she did n't order it ; you did,1
+37,19, [[Catherine]] we 've got a machine known as the esda machine which can read pen imprints,0
+37,20, ( CGI POV to the ESDA machine gliding over the paper . ),0
+37,21, ( Flash to white . ),0
+37,22, ( Brush dusting the paper . ),0
+37,23, ( Close up of the paper reveals the following information: ),0
+37,24, ( Resume to present . ),0
+37,25, ( Catherine holds the notepad paper out and shows the following to TINA KOLAS . ),1
+37,26," [[Catherine]] well , the machine isolated this",0
+37,27," [[Catherine]] 'jeremy , drinks , 10:00 '",0
+37,28, [[Catherine]] shelley made that date,1
+37,29, [[Catherine]] that 's her handwriting,1
+37,30, [[Catherine]] were you in the room when jeremy call ?,1
+37,31, [[Tina_Kolas]] i answered the phone,1
+37,32, [[Tina_Kolas]] he asked for her,1
+37,33, [[Warrick]] you killed her over a guy you two met at a bar ?,1
+37,34, [[Tina_Kolas]] i did n't mean to kill her,1
+37,35," [[Tina_Kolas]] i thought that she would just have an allergic reaction and she would n't be able to make her date that night , you know ... like , get hives or something",1
+37,36," [[Catherine]] well , her allergy kicked in in the sauna under the worst possible conditions --",1
+37,37, ( White flashback to SHELLEY DANVERS in the sauna gasping for breath . ),1
+37,38, ( End of flashback . ),0
+37,39, ( Resume on WARRICK . ),0
+37,40, [[Catherine]] ... trachea ... larynx ... tongue swelled,1
+37,41, [[Warrick]] her pressure got so low her blood quit running through her organs,1
+37,42, [[Warrick]] they shut down,1
+37,43," ( TINA KOLAS slowly sits on the bed , overcome with grief at what she has done . )",1
+37,44, [[Tina_Kolas]] i did n't even like the guy,1
+37,45, [[Tina_Kolas]] i just,1
+37,46, [[Tina_Kolas]] i did n't want to be left out,1
+37,47," [[Brass]] miss kolas , you 're under arrest",1
+38,0, [[Sara]] hey,0
+38,1, [[Sara]] d.a,0
+38,2, [[Sara]] s looking for you,0
+38,3, [[Grissom]] about ?,0
+38,4, ( SARA hands GRISSOM a note . ),0
+38,5," [[Sara]] what , you think i read your messages ?",0
+38,6," [[Paula_Francis]] wall street analysts , though , say stocks ... good investments for the long term",0
+38,7, [[Sara]] 'top secret ' and 'urgent ' ?,0
+38,8," [[Sara]] it 's a gift , reading upside down",0
+38,9, ( Both are distracted by the television news . ),0
+38,10, [[Paula_Francis_(TV_Anchorwoman)]] the las vegas district attorney is reportedly preparing to file homicide charges against benjamin corey jennings in the so-called burial murders case,0
+38,11, [[Paula_Francis_(TV_Anchorwoman)]] jennings has been in police custody for the last,0
+38,12, [[Sara]] guess we know what she was calling about,0
+38,13," [[Paula_Francis]] ... since he was caught burying the first victim , oliver dunne in the national forest",0
+38,14, ( GRISSOM puts down his food and leaves the room . ),0
+39,0, [[Robin_Childs_(district_attorney)]] do n't you have enough cases over at csi now you 're going to start telling me which ones i should take to court ?,0
+39,1, [[Grissom]] there is n't one piece of evidence that says that kid was even present at the murders,0
+39,2, [[Robin_Childs]] as a matter of fact that is why i was hunting you,0
+39,3, [[Robin_Childs]] jennings brought it in about an hour ago,0
+39,4, [[Robin_Childs]] chain of custody ; i ca n't touch it,0
+39,5," [[Robin_Childs]] the first victim was ligatured , right ?",0
+39,6, ( ROBIN CHILDS pushes an envelope on her desk toward GRISSOM . ),0
+39,7, ( GRISSOM opens the envelope and pulls out the missing tie used to strangle OLIVER DUNNE . ),0
+39,8, [[Robin_Childs]] jennings says his little brother asked him to hide the tie,0
+39,9," [[Grissom]] well , how convenient",0
+39,10, [[Grissom]] the older brother brings it in explaining why his epithelials are all over the murder weapon,0
+39,11," [[Robin_Childs]] a jury does n't understand epi-whatevers , okay ?",0
+39,12, [[Robin_Childs]] they understand a twisty tie and blood all over ben 's car seat,0
+39,13, [[Grissom]] he set up his brother,0
+39,14," [[Robin_Childs]] oh , come on , grissom , they 're both part of it and if i can get one of them , i will",0
+39,15," [[Grissom]] he 's a good kid , robin",0
+39,16," [[Grissom]] he hero-worships his brother , but he 's a good kid",0
+39,17, [[Robin_Childs]] yeah ?,0
+39,18, [[Robin_Childs]] then his epithelials should n't be on that tie,0
+39,19, [[Robin_Childs]] you 'd better check with your lab,0
+40,0, ( A photograph of the injuries on OLIVER DUNNE 'S neck hits the table . ),1
+40,1, [[Grissom]] explain how bits of your skin got on the ligature used to strangle that victim,1
+40,2, [[Benjamin_Jennings]] i do n't know,1
+40,3, ( A second photograph of the tie hits the table . ),0
+40,4, ( BENJAMIN JENNINGS picks it up . ),1
+40,5, [[Grissom]] your brother brought this in to the district attorney,1
+40,6, [[Benjamin_Jennings]] what ?,0
+40,7, [[Sgt._O'Riley]] he 's framing you,1
+40,8, [[Grissom]] unless you can tell us how your epithelials got on that tie,1
+40,9, [[Benjamin_Jennings]] i do n't know,1
+40,10, [[Benjamin_Jennings]] i swear i do n't know,1
+40,11, [[Benjamin_Jennings]] i ... he,1
+40,12, [[Benjamin_Jennings]] i just picked up the bodies at his place,1
+40,13, ( Quick flashback to BENJAMIN and ROGER standing by the car . ),1
+40,14, ( ROGER slams the back door closed after putting the bodies in ),1
+40,15," [[Roger_Jennings]] grab that guy 's tie , little bro",1
+40,16, [[Roger_Jennings]] i like that thing,1
+40,17," [[Roger_Jennings]] bury them deep , all right ?",1
+40,18," [[Roger_Jennings]] you get into any trouble you do n't have to say anything , all right ?",1
+40,19," [[Roger_Jennings]] i 'm counting on you , man",1
+40,20," [[Benjamin_Jennings]] yeah , yeah , man , i 'm there all the way",1
+40,21," [[Roger_Jennings]] go , get out of here",1
+40,22, [[Roger_Jennings]] go on,1
+40,23, ( End of flashback . ),0
+40,24, ( Resume on SGT O'RILEY . ),0
+40,25, [[Sgt._O'Riley]] i got to ask you ... how does somebody bury two bodies as a favor ?,1
+40,26, [[Benjamin_Jennings]] 'cause he 's my brother,1
+40,27, [[Benjamin_Jennings]] he told,1
+40,28," [[Benjamin_Jennings]] he told me that if i did n't talk to you guys and if he did n't talk , then this would all just blow over ; it 'd all just go away",1
+40,29," [[Sgt._O'Riley]] you 're looking at two counts of murder , special circumstances",1
+40,30, [[Sgt._O'Riley]] the best you can hope for is life without parole,1
+40,31, ( BENJAMIN JENNINGS starts to cry . ),1
+40,32, [[Benjamin_Jennings]] i do n't,1
+40,33, [[Benjamin_Jennings]] i do n't think i can do that kind of time,1
+40,34, [[Grissom]] do you have any physical evidence linking your brother to the murders ?,1
+40,35, [[Grissom]] anything ?,0
+40,36, ( BENJAMIN shakes his head ... no . ),1
+40,37, ( Camera holds on GRISSOM . ),0
+41,0, ( Quick pulses of a series of legal forms with court proceeding sounds in the background . ),0
+41,1, ( Sounds of a judge speaking ... a gavel pounding ... and words such as 'guity ' and 'life ' are heard as the forms flash one by one in front of us . ),0
+41,2, ( The form being signed . ),0
+41,3," ( As the file is being closed , the following can be seen: )",0
+41,4, ( The file is stamped with a circular file mark on document . ),0
+41,5," ( SUPERIOR COURT * CLARK COUNTY , NEVADA * FILED . )",0
+42,0, ( GRISSOM walks into the church . ),0
+42,1, ( FATHER POWELL is near the front of the church speaking with someone . ),0
+42,2, ( GRISSOM 'S entrance is brought to FATHER POWELL 'S attention and approaches him . ),0
+42,3, ( GRISSOM sits down on the pew . ),0
+42,4, [[Grissom]] i know that we 've arrested the wrong brother,0
+42,5, ( FATHER POWELL sits on the pew in front of GRISSOM . ),0
+42,6, [[Grissom]] he came to see you as soon as ben was in custody,0
+42,7, [[Father_Powell]] i tried to help ... without breaking my vows,0
+42,8, [[Grissom]] we both have jobs that begin after the crime,0
+42,9, [[Father_Powell]] after the 'sin ',0
+42,10, [[Grissom]] some people would call that a career in futility,0
+42,11, [[Father_Powell]] some call it a 'vocation ',0
+42,12, [[Grissom]] a hundred years ago we did n't have the technology for fingerprints,0
+42,13," [[Grissom]] fifteen years ago , we did n't have dna",0
+42,14," [[Grissom]] hopefully one day , we 'll have foolproof means by which to put the right man in jail in this case",0
+42,15," [[Father_Powell]] someday , we wo n't need jails",0
+42,16, ( GRISSOM looks at FATHER POWELL . ),0
+42,17," [[Father_Powell]] i celebrate mass every thursday night , 7:00",0
+42,18, [[Grissom]] thank you ... but,0
+42,19, [[Grissom]] ... no,0
+42,20, [[Father_Powell]] you do n't believe ?,0
+42,21, [[Grissom]] in religion ?,0
+42,22," [[Grissom]] i believe in god , in science ... in sunday supper",0
+42,23, [[Grissom]] i do n't believe in rules that tell me how i should live,0
+42,24, [[Father_Powell]] even if they 're handed down by god ?,0
+42,25, [[Grissom]] how many crusades were fought in the name of god ?,0
+42,26, [[Grissom]] how many people died because of someone 's religion ?,0
+42,27, [[Father_Powell]] fanaticism,0
+42,28, [[Father_Powell]] not religion,0
+42,29, [[Grissom]] semantics,0
+42,30, [[Grissom]] they 're still dead,0
+42,31," [[Grissom]] i 'm sorry about ben , father",0
+42,32, ( GRISSOM stands up . ),0
+42,33, [[Father_Powell]] you still suffer like a catholic,0
+42,34, ( FATHER POWELL also stands up . ),0
+42,35," [[Father_Powell]] light bulb goes out other people fix it , get a new one",0
+42,36," [[Father_Powell]] light bulb goes out for the catholic he stands in the dark says , 'what did i do wrong ?",0
+42,37, [[Father_Powell]] ',0
+42,38, [[Grissom]] that guilt 's not in me anymore,0
+42,39, ( GRISSOM leaves . ),0
+43,0, [[Grissom]] hey,0
+43,1, [[Catherine]] oh,0
+43,2, [[Catherine]] you 're going to be getting a call from the local papers about spa safety,0
+43,3, [[Grissom]] spa safety ?,0
+43,4, [[Catherine]] we had a victim die of an allergic reaction at the mediterranean,0
+43,5, [[Catherine]] some foul play ... some negligence,0
+43,6, [[Grissom]] so what am i supposed to say ?,0
+43,7, [[Catherine]] that it was an isolated incident ... that in no way should it be a mark against the strip 's other fine hotel-casinos,0
+43,8, [[Grissom]] csi supports las vegas,0
+43,9, [[Catherine]] bottom line,0
+43,10, ( CATHERINE leaves GRISSOM at the hallway counter . ),0
+43,11," ( In the background , OFFICER rush to the jail holding cell area . )",0
+43,12, [[Officers]] need some help in here !,0
+43,13, [[Officers]] get his arm !,0
+43,14, [[Officers]] hold his head !,0
+43,15, ( GRISSOM looks up and notices the commotion . ),0
+43,16, ( GRISSOM runs to the cell . ),0
+43,17, [[Officers]] hold his head !,0
+43,18, [[Officers]] i ca n't stop the bleeding,0
+43,19, ( GRISSOM rushes to the cell . ),0
+43,20," ( On the cell floor , BENJAMIN JENNINGS lies in a pool of blood . )",0
+43,21, ( His breathing labored as he looks at GRISSOM . ),0
+43,22," [[Grissom]] oh , no , no , no",0
+43,23, [[Grissom]] how did this happen ?,0
+43,24, [[Officer]] incisor,0
+43,25, [[Officer]] he used his teeth,0
+43,26," ( GRISSOM tries to help , but gets pushed aside as the MEDICS arrive . )",0
+43,27, ( The commotion builds to a frenzy as they all work to save BENJAMIN JENNINGS . ),0
+43,28, [[Medic]] clamp down,0
+43,29, [[Medic]] medic : keep him with us,0
+43,30, [[Medic]] get out of the way !,0
+43,31, [[Medic]] out of the way !,0
+43,32, [[Medic]] medic:,0
+43,33," [[Medic]] sir , step back",0
+43,34, [[Medic]] sir,0
+43,35, [[Medic]] he 's bleeding out,0
+43,36, [[Medic]] medic : he 's bleeding out here,0
+43,37, [[Medic]] we need to stop this,0
+43,38, [[Medic]] compression,0
+43,39, [[Medic]] medic : keep him with us,0
+43,40, [[Medic]] get the head up,0
+43,41," [[Medic]] medic : we 're losing him , we 're losing him",0
+43,42," ( With his final breath , BENJAMIN JENNINGS dies . )",0
+43,43, ( All sound stops abruptly . ),0
+43,44, [[Medic]] i 'm going to pronounce,0
+43,45, [[Medic]] 22:04,0
+43,46, ( GRISSOM 'S left standing there with blood on his hands . ),0

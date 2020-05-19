@@ -1,0 +1,1209 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( It 's raining . ),0
+0,1," ( Thunder rumbles , lightning flashes . )",0
+0,2, ( Camera slowly pans downward and we note the prison-like barbed-wire fence surrounding the hospital . ),0
+0,3, ( The echoes of thunder rumble through the night . ),0
+0,4, ( Nurse Nanette Faber holds her umbrella as she hurries up the front walk toward the hospital . ),0
+0,5, ( We see the shadow of a person standing near the second floor middle window just above the front door . ),0
+0,6, ( Through the closed front door glass we see Nurse Nanette Faber closer her umbrella as she walks up the front steps . ),0
+0,7, ( Thunder rumbles in the background . ),0
+0,8, ( The front doors open and she walks inside . ),0
+0,9," ( She stops at the security desk and smiles at the Len , the security guard . )",0
+0,10," [[Nanette_Faber]] hey , len",0
+0,11, ( He puts her ID badge and a LC-110 A-H safety alert alarm on the counter . ),0
+0,12, ( She takes them and smiles at Len . ),0
+0,13, [[Nanette_Faber]] thanks,0
+0,14, ( She rounds the corner and stops at the metal checkpoint where two more security guards wait behind a table . ),0
+0,15, ( She puts her bag and things in the plastic tray . ),0
+0,16, [[Security_Guard]] hi,0
+0,17," ( She signs in on the clipboard , then walks through the metal detector . )",0
+0,18, ( The machine beeps . ),0
+0,19," ( On the other side , she gets her ID and alarm from the security guard . )",0
+0,20, [[Nanette_Faber]] thanks,0
+0,21," ( Nanette Faber swipes her card into the wall security lock and punches in her access code , 5-2 . )",0
+0,22, ( The light switches from red to green and the door buzzes . ),0
+0,23, ( She opens the door and walks inside . ),0
+0,24," ( She walks up to the panel and presses the button on top , releasing her keys . )",0
+0,25, ( She removes the keys and walks over to the grated metal door nearby . ),0
+0,26," ( She uses the key , unlocks the door and slips inside . )",0
+0,27, ( The door shuts behind her . ),0
+0,28, ( Nanette Faber reaches the nurse 's station . ),0
+0,29," ( She uses the key , unlocks the door and slips inside . )",0
+0,30, ( She takes off her jacket . ),0
+0,31, ( The door closes behind her . ),0
+0,32, ( Thunder rumbles in the distance . ),0
+0,33, ( Nurse Joanne McKay is already there . ),0
+0,34, ( She does n't look up as she writes in her clipboard . ),0
+0,35," [[Joanne_McKay]] some night , huh ?",0
+0,36, ( Nanette Faber reaches for the clipboard . ),0
+0,37, [[Nanette_Faber]] it 's ugly out there,0
+0,38, ( She heads out to do her nightly shift bed checks . ),0
+0,39, ( Nanette Faber walks over to the door to Unit 2C . ),0
+0,40, ( She opens the door and enters the unit . ),0
+0,41, ( She walks up to the first door and uses the flashlight to peer into the door window to check that Earl Simmonds is in the room . ),0
+0,42, ( He is there sitting on a chair near the door . ),0
+0,43," ( In the darkness , Earl Simmonds stares back at her . )",0
+0,44, ( She turns the flashlight off and he looks away . ),0
+0,45, ( Thunder rumbles in the background . ),0
+0,46, ( She jots down notes on the clipboard as she heads to the next room . ),0
+0,47," ( Again , she uses the flashlight and peers into the room . )",0
+0,48, ( Charles Pellew is sleeping on the bed . ),0
+0,49, ( She heads to the next room . ),0
+0,50, ( She looks inside and sees Adam Trent sleeping . ),0
+0,51," ( She turns , writes on her clipboard as she heads for the next room . )",0
+0,52, ( She peers in through the door window and finds the bed empty . ),0
+0,53," ( She looks on the floor and sees Robbie Garson on the floor , his head bloody . )",1
+0,54, ( Nanette Faber opens the door and rushes inside to check . ),0
+0,55, ( She sees the blood spatter on the floor near Robbie Garson 's head . ),1
+0,56," ( She hears a sound behind her , turns and finds another inmate , Kenny Valdez , crouching on the floor near the wall , his hands and mouth bloody . )",0
+0,57, ( She takes a step back and pulls the security alarm . ),0
+0,58," ( Immediately , it starts beeping . )",0
+0,59, ( The lights in the unit flash as Nanette Faber keeps her flashlight on the inmate in front of her . ),0
+0,60," ( The hospital administrator leads Brass , Grissom and Sara out toward the grated door to the unit . )",0
+0,61," [[Hospital_Administrator]] we have two types of patients here : the criminally insane and sexually violent predators , all with multiple convictions",0
+0,62, ( He inserts the key into the door . ),0
+0,63, [[Hospital_Administrator]] we get all the inmates the prisons ca n't handle,0
+0,64," ( He turns around and looks at Brass , Grissom and Sara . )",0
+0,65, [[Hospital_Administrator]] keep your kits closed and locked when not in use,0
+0,66," [[Hospital_Administrator]] um , ms sidle , best if you remove the vest",0
+0,67, [[Hospital_Administrator]] new uniforms upset them,0
+0,68, ( He opens the grated door as Sara puts her kit down on the ground to remove her vest . ),0
+1,0, ( He opens the door to the unit and they walk in The guard outside closes the door . ),0
+1,1, ( They head toward the nurse 's station . ),0
+1,2, [[Hospital_Administrator]] we 're mostly concerned with maintaining psychiatric remission,0
+1,3, [[Hospital_Administrator]] we want to stabilize symptoms and reduce an individual 's risk of violence to himself and to others,0
+1,4, ( He stops . ),0
+1,5, ( In front of him is a line of inmates being led through the hallway . ),0
+1,6, ( They 're headed in their direction . ),0
+1,7, ( The hospital administrator immediately instructs his visitors . ),0
+1,8," [[Hospital_Administrator]] oh , uh , could you actually stop here and put your backs against the wall , please",0
+1,9," [[Hospital_Administrator]] it 's , uh , standard safety procedure",0
+1,10," ( Brass , Grissom and Sara have their backs to the wall as the inmates walk by . )",0
+1,11," ( One of the inmates , Jake , looks directly at Sara , smiles wildly at her , opens his mouth and sticks his tongue out , wiggling it obscenely at her . )",0
+1,12," [[Leon_Madera]] put your tongue in your mouth , jake",0
+1,13," ( As he follows the others , Jake turns and keeps his eyes on Sara , a wild grin on his face . )",0
+1,14, ( He disappears into the room . ),0
+1,15, [[Hospital_Administrator]] we 're moving them all to the day room,0
+1,16," ( Off screen , we hear a door buzz and unlatch open . )",0
+1,17," ( The hospital administrator leads Brass , Grissom and Sara down the hallway . )",0
+1,18," ( Through the closed door window , we see the hospital administrator leading the others to the hallway outside the crime scene . )",0
+1,19, [[Nanette_Faber]] this is not good,0
+1,20, [[Nanette_Faber]] the hospital does n't need this,0
+1,21, ( The door opens and they walk inside . ),0
+1,22," ( Nurse Nanette Faber , Nurse Joanne McKay and Lieutenant Reed Owens wait out in the hallway for them . )",0
+1,23, [[Hospital_Administrator]] this is captain brass,0
+1,24, [[Hospital_Administrator]] dr grissom and ms sidle are from the crime lab,0
+1,25," [[Reed_Owens]] lt. reed owens , desert state hospital police",0
+1,26, [[Hospital_Administrator]] we have our own internal police team and lieutenant owens was the first officer on the scene after the call came in,0
+1,27, [[Reed_Owens]] the victim was found by nurse faber at approximately 12:10 a.m,0
+1,28," [[Nanette_Faber]] joanne was coming off shift , i was coming on",0
+1,29," [[Nanette_Faber]] doing bed checks , i found robbie on the floor",0
+1,30, [[Nanette_Faber]] kenny was in the corner covered in blood,0
+1,31, ( Grissom breaks away from the group and heads for the room . ),0
+1,32, [[Brass]] are the patients locked in their rooms at night ?,0
+1,33, [[Hospital_Administrator]] no,0
+1,34, [[Hospital_Administrator]] the doors are left unlocked,0
+1,35, ( Grissom shines his flashlight into the room . ),0
+1,36, [[Brass]] so they 're free to roam around ?,0
+1,37, [[Hospital_Administrator]] locked rooms usually lead to patients trying to harm themselves,0
+1,38, ( He notes the blood on the walls . ),0
+1,39, [[Brass]] where 's kenny now ?,0
+1,40, [[Nanette_Faber]] he 's been taken to seclusion,0
+2,0, ( Kenny Valdez is strapped to the bed as he screams Leon tightens the strap around his chest . ),0
+2,1, ( The door opens and Nurse Faber enters the room . ),0
+2,2, ( She checks his chart . ),0
+2,3," ( Behind her , Grissom , Sara and Brass also step into the room . )",0
+2,4, [[Leon_Madera]] shh-shh-shh,0
+2,5," [[Nanette_Faber]] leon , let 's get a couple more milligrams of lorazepam into him",0
+2,6, ( Sara notes the gashes in Kenny 's left arm . ),0
+2,7, [[Sara]] how did he get those wounds ?,0
+2,8," [[Leon_Madera]] oh , kenny 's a self-mutilator",0
+2,9, [[Leon_Madera]] he suffers from renfield 's syndrome ; gets off on blood,0
+2,10, ( Nurse Faber holds Kenny 's head still . ),0
+2,11, [[Nanette_Faber]] shh,0
+2,12, [[Leon_Madera]] couple of weeks ago i caught him gouging himself with a carpet staple,0
+2,13," ( As he talks , Leon injects Kenny . )",0
+2,14, [[Grissom]] he was wearing these clothes when you found him ?,0
+2,15, [[Nanette_Faber]] yes,0
+2,16," ( As if knowing what he 's thinking , Sara turns to look at Grissom . )",0
+2,17, ( He motions with his head for them to step outside . ),0
+2,18, ( He and Sara leave the room . ),0
+2,19, ( Grissom and Sara talk out in the hallway . ),0
+2,20, [[Grissom]] there was blood spatter all over the victim 's room,0
+2,21, [[Sara]] blood but no spatter on kenny 's clothes,0
+2,22, [[Grissom]] i 'm not sure this is our guy,0
+2,23, [[Sara]] locked unit,0
+2,24, [[Sara]] finite number of suspects,0
+2,25, [[Grissom]] crazy or not ... here we come,0
+3,0, ( One of the inmates stands at the window watching the rain outside . ),0
+3,1, ( Thunder rumbles in the distance . ),0
+3,2," ( Inside at the table , Jake and an inmate play cards with Charles Pellew . )",0
+3,3, ( It appears that they 're using cigarettes as chips . ),0
+3,4, ( Jake drops a cigarette into the pot . ),0
+3,5," ( The inmate has all red cards -- a King of Diamonds , Queen of Hearts and Jack of Diamonds . )",0
+3,6, ( Jake glances over at Earl as they play . ),0
+3,7, ( Across the table from them is Charles Pellew . ),0
+3,8, ( The television set behind him shows a polar bear and her cub . ),0
+4,0, ( Earl Simmonds threads an imaginary string through an imaginary needle . ),0
+4,1, ( He licks the imaginary string and tries to get it through the imaginary needle . ),0
+4,2," ( Outside in door , Brass and Grissom watch . )",0
+4,3, [[Brass]] who 's this guy knitting an imaginary sweater ?,0
+4,4, [[Brass]] how 's he know when it 's finished ?,0
+4,5, [[Grissom]] his brain tells him that what he 's doing is real,0
+4,6, [[Grissom]] he has no reason to doubt it,0
+4,7, [[Brass]] or any desire to,0
+4,8," ( Other inmates in the room include Robert Salter , who sits on the couch staring out in front of him , and Adam Trent , sitting on another couch reading a book while biting his nails . )",0
+4,9, [[Grissom]] they asked john nash how he could believe that extraterrestrials were sending him messages,0
+4,10, [[Grissom]] he said that the messages came to him in the same way that his mathematical ideas did,0
+4,11, [[Grissom]] so he had to take them seriously,0
+4,12," ( Behind them , Valerie Dino walks up to them . )",0
+4,13, [[Valerie_Dino]] hey,0
+4,14, [[Valerie_Dino]] valerie dino,0
+4,15, [[Valerie_Dino]] i 'm the on-call doctor,0
+4,16, [[Grissom]] did you pronounce ?,0
+4,17, [[Valerie_Dino]] yeah,0
+4,18," [[Valerie_Dino]] the administration asked me to set up some rooms for your interviews , but , uh , personally , i do n't see what you hope to accomplish",0
+4,19, [[Valerie_Dino]] these patients are criminals with severe mental disorders,0
+4,20, [[Valerie_Dino]] they 're not going to give you a straight answer,0
+4,21, [[Brass]] no one ever does,0
+5,0, ( The door opens and the gurney with Robbie Garson 's body on it is wheeled out of the hallway . ),0
+5,1, ( Sara lingers out in the doorway looking into Robbie Garson 's room . ),0
+5,2, ( She 's holding a camera in her hand and looking at the room assignments . ),0
+5,3, ( She raises her camera and takes a photo of the sign . ),0
+5,4, ( Sara steps into the room . ),0
+5,5," ( Thunder rumbles outside , lightning flashes . )",0
+5,6, ( She looks down at the blood on the floor with the finger marks in the middle of it . ),0
+5,7, ( She snaps a photo of the blood on the edge of the bed sheets and photos of the blood on the floor . ),0
+5,8, ( She crouches down and snaps more photos of the blood near the dresser . ),0
+5,9, ( She stands up and opens the dresser drawer . ),0
+5,10, ( She snaps a couple of photos of its contents . ),0
+5,11, ( Thunder rumbles outside . ),0
+5,12," ( Sara looks up and around the room , something on the walls near the bed catches her eyes . )",0
+5,13, ( On the wall are a couple of photos . ),0
+5,14, ( The topmost is of two men sitting in chairs and is held up by blue tape . ),0
+5,15, ( The bottom one is of a faded man . ),0
+5,16," ( Next to the top photo is a space , but there 's remnants of some blue tape still on the wall . )",0
+5,17, ( Sara walks over to the wall and snaps a couple of photos of it . ),0
+5,18," ( At first , she tries to scrape off the blue substance on the wall , but realizes that it 's tape and peels it off with her fingertip . )",0
+5,19, ( She places it in a bindle . ),0
+6,0, ( Grissom interviews Ronald Salter . ),0
+6,1, ( Ronald picks at the hair near his right ear . ),0
+6,2, ( He does n't look at Grissom . ),0
+6,3, [[Ronald_Salter]] i definitely heard something,0
+6,4," [[Ronald_Salter]] he said , 'i 'll get in !",0
+6,5," [[Ronald_Salter]] ' no , no , it was , 'i 'm coming in ' i heard him say it",0
+6,6, [[Ronald_Salter]] and it 's not like he is n't serious,0
+6,7, ( FIRST ) RONALD ),0
+6,8, ( Grissom looks at Ronald Salter . ),0
+6,9, [[Grissom]] who is n't serious ?,0
+6,10, ( He looks at Grissom . ),0
+6,11," [[Ronald_Salter]] the , uh , perpetrator",0
+6,12, ( Grissom looks at Ronald Salter . ),0
+6,13, [[Grissom]] can you tell me anything else about him ?,0
+6,14," [[Ronald_Salter]] oh , no , i could n't",0
+6,15, [[Grissom]] why not ?,0
+6,16, [[Ronald_Salter]] he 's here,0
+6,17, ( Grissom 's eyes shift around the room . ),0
+6,18," ( Finding nothing , he looks at Ronald . )",0
+6,19, [[Grissom]] in this room ?,0
+6,20, ( Ronald taps the side of his right temple . ),0
+6,21, [[Grissom]] is his name ronald ?,0
+6,22, [[Ronald_Salter]] no,0
+6,23, [[Ronald_Salter]] my name is ronald,0
+6,24, [[Grissom]] what 's his name ?,0
+6,25, [[Ronald_Salter]] he does n't have a name,0
+6,26, [[Ronald_Salter]] he 's a cricket,0
+6,27," ( Again , Ronald taps the side of his right temple . )",0
+6,28, [[Ronald_Salter]] here,0
+6,29, [[Grissom]] a cricket ?,0
+6,30, [[Ronald_Salter]] yes,0
+6,31, [[Ronald_Salter]] trying to burrow a hole in my head,0
+6,32, ( Brass has his pen poised on the paper in front of him as he interviews Earl Simmonds . ),0
+6,33, [[Earl_Simmonds]] i do n't sleep,0
+6,34, ( Brass looks at him . ),0
+6,35, [[Brass]] never ?,0
+6,36, ( Earl shakes his head . ),0
+6,37, ( Earl 's hands move as if he were knitting . ),0
+6,38, [[Brass]] so what do you do at night ?,0
+6,39," [[Earl_Simmonds]] day , night , it do n't make no difference",0
+6,40, [[Earl_Simmonds]] i think,0
+6,41, [[Brass]] about what ?,0
+6,42, [[Earl_Simmonds]] bitches,0
+7,0, ( Sara is using the ALS on the bed sheets looking for any kind of body fluid . ),0
+7,1, ( She moves the sheets aside and finds something . ),0
+7,2, ( She checks the pillows and the rest of the bed . ),0
+7,3, ( She lifts up the mattress and finds some magazine photos on the wire frame . ),0
+7,4, ( She sits down and removes her goggles . ),0
+7,5, ( The magazine pages are from a clothes catalog - photos of teenaged boys . ),0
+8,0, ( Grissom interviews Adam Trent who smirks at Grissom . ),0
+8,1, [[Grissom]] what 's so amusing ?,0
+8,2," [[Adam_Trent]] so let 's say you find out who did it , and maybe it 's me",0
+8,3, [[Adam_Trent]] what are you going to do ?,0
+8,4, [[Adam_Trent]] are you going to convict me of murder and put me in a bad place ?,0
+8,5, ( Adam smirks and starts biting his nails . ),0
+8,6, [[Grissom]] is it you ?,0
+8,7," [[Adam_Trent]] check the files , sir",0
+8,8," [[Adam_Trent]] i 'm a rapist , not a murderer",0
+8,9, ( Brass looks across the table at an elderly inmate . ),0
+8,10, [[Brass]] robert garson ?,0
+8,11, ( The inmate stares back at him without saying anything . ),0
+8,12, [[Brass]] hmm ?,0
+8,13, ( Brass looks at the inmate trying to find a response . ),0
+8,14, ( There is none . ),0
+8,15, ( Grissom interviews Charles Pellew . ),0
+8,16, [[Grissom]] do you know what happened to robert garson ?,0
+8,17, ( Charles Pellew nods . ),0
+8,18, ( He sits in the chair holding both his arms tucked in close to his body . ),0
+8,19," [[Charles_Pellew]] female pig relation , hanged , it sped even , well , too",0
+8,20, [[Grissom]] what ?,0
+8,21, ( Charles Pellew shakes his head . ),0
+8,22, [[Charles_Pellew]] no,0
+8,23, [[Charles_Pellew]] i ground it ... blindly,0
+8,24, [[Charles_Pellew]] wet and dirty,0
+8,25, [[Charles_Pellew]] cut the blood oven,0
+8,26," [[Charles_Pellew]] it spoke justly , repeatedly , calmly",0
+8,27, [[Charles_Pellew]] some thin rod dared your wash,0
+8,28," [[Charles_Pellew]] they foretold this into some ready child , which fell crossly",0
+8,29, [[Charles_Pellew]] they hag-rode me ... again,0
+8,30, ( Grissom stares at him . ),0
+9,0," ( Brass interviews Jake , whose hands are strapped to the chair 's armrests . )",0
+9,1, [[Jake]] why are you looking at me ?,0
+9,2," [[Jake]] you got leon , he 's a spic",0
+9,3," [[Jake]] earl , the brother",0
+9,4, [[Jake]] and the crazy frickin ' jew boy with the bug in his head,0
+9,5, ( Brass stares at Jake . ),0
+9,6," [[Jake]] you know , most of the doctors here are jewish",0
+9,7, [[Jake]] they 're the ones with the access,0
+10,0, ( Sara makes her way through the hallway and stops in front of Valerie Dino 's office door . ),0
+10,1, ( The sign next to the door reads: ),0
+10,2, ( Sara knocks . ),0
+10,3," ( Inside the office , Dr Valerie Dino is working at her desk . )",0
+10,4, [[Valerie_Dino]] yeah ?,0
+10,5, ( The door opens . ),0
+10,6, ( Sara walks in ),0
+10,7, [[Sara]] dr dino,0
+10,8, ( Valerie Dino looks up . ),0
+10,9, [[Valerie_Dino]] hi,0
+10,10, [[Sara]] paperwork,0
+10,11, [[Valerie_Dino]] this is a state-run facility,0
+10,12, [[Valerie_Dino]] what can i help you with ?,0
+10,13, [[Sara]] question about the victim,0
+10,14," [[Sara]] i have heard that in some cases of deviant sexual predisposition , you slow the s*x drive",0
+10,15," [[Valerie_Dino]] if you 're talking about chemical castration , the answer is , yes , robbie was",1
+10,16, [[Sara]] so he did n't m*st*rb*t*,0
+10,17," [[Valerie_Dino]] m*st*rb*t* , yes",0
+10,18," [[Valerie_Dino]] ejaculate , no",0
+10,19, [[Sara]] so the semen that i found on his bed is someone else 's ?,1
+10,20, [[Valerie_Dino]] likely,0
+10,21, [[Sara]] thanks,0
+10,22, [[Valerie_Dino]] sure,0
+11,0, ( Sara joins Grissom and Brass in the hallway . ),0
+11,1," [[Sara]] hey , guys , i found semen in the victim 's room and it 's probably not his",0
+11,2, [[Sara]] he was chemically castrated,0
+11,3, [[Brass]] so you 're thinking the donor could be the killer ?,0
+11,4, [[Grissom]] s*x is the foreplay,0
+11,5, [[Grissom]] violence is the climax,0
+11,6, [[Brass]] well,0
+11,7, [[Brass]] happy swabbing,0
+11,8, ( Grissom and Sara step into the room . ),0
+11,9, ( Lieutenant Reed Owens motions them inside the room . ),0
+11,10, [[Reed_Owens]] they 've been prepped,0
+11,11, [[Reed_Owens]] you 're all set,0
+11,12, ( Sara and Grissom put their kits down and put their gloves on . ),0
+11,13," [[Grissom]] thank you , lieutenant",0
+11,14," ( Nearby , Leon hands a medication cup to Ronald Salter . )",0
+11,15," [[Leon_Madera]] here you go , padre",0
+11,16, [[Leon_Madera]] wash your worries away,0
+11,17, ( Ronald swallows the pills and gives Leon the empty cup back . ),0
+11,18, [[Leon_Madera]] thank you,0
+11,19," ( Leon moves on to the next inmate , Charles Pellew . )",0
+11,20, ( Grissom looks around at the inmates in the room . ),0
+11,21," [[Grissom]] well , you take that side",0
+11,22, [[Grissom]] i 'll take jimminy cricket,0
+11,23, [[Sara]] excellent,0
+11,24," ( Each carrying a handful of swabs , Grissom goes to the left while Sara makes her way to the inmates on the right . )",0
+11,25, ( Grissom kneels in front of Ronald Salter . ),0
+11,26, [[Grissom]] say ah,0
+11,27, ( Ronald opens his mouth and Grissom takes a swab sample . ),0
+11,28, [[Ronald_Salter]] ah,0
+11,29, ( Sara stands in front of Earl Simmonds . ),0
+11,30," [[Sara]] open for me , please",0
+11,31, ( Earl opens his mouth and Sara takes a swab sample . ),0
+11,32, [[Sara]] thank you,0
+11,33, ( Cut to : Sara writes on the box . ),0
+11,34," ( She moves over to the next inmate , Adam Trent . )",0
+11,35, ( Adam Trent watches Sara with bright eyes . ),0
+11,36, ( He opens his mouth and Sara takes a swab sample . ),0
+11,37, [[Grissom]] say ah,0
+11,38, ( Charles Pellew opens his mouth and Grissom quickly takes a swab sample . ),0
+11,39, [[Charles_Pellew]] aah-ah-ah,0
+11,40, ( Grissom puts the swab in the box as Leon returns with his tray of medication . ),0
+11,41," [[Grissom]] you , too , leon",0
+11,42, [[Leon_Madera]] i work here,0
+11,43, [[Grissom]] exactly,0
+11,44, ( Grissom takes out a swab and takes a sample from Leon . ),0
+11,45, ( Sara holds the swab out in front of the elderly inmate . ),0
+11,46," [[Sara]] open your mouth , please",0
+11,47, ( There 's no response . ),0
+11,48, ( The inmate does n't move . ),0
+11,49," [[Sara]] would you open your mouth , sir ?",0
+11,50," ( Suddenly , he moves , opening his mouth trying to take a bite out of Sara . )",0
+11,51, ( Sara quickly pulls back . ),0
+11,52," ( The officer standing nearby puts his hands on the elderly inmate 's shoulders , holding him back . )",0
+11,53, [[Officer]] settle down,0
+11,54, [[Sara]] grissom,0
+11,55," ( Across the room , Grissom looks at Sara . )",0
+11,56, ( Sara turns and looks at Grissom . ),0
+11,57, [[Sara]] you take this one,0
+11,58, ( Sara turns and walks away . ),0
+12,0, ( It continues to rain heavily . ),0
+12,1, ( Sirens blare in the distance . ),0
+12,2, ( Robbins goes over the body with Grissom . ),0
+12,3, [[Robbins]] let 's start with the stomach contents,0
+12,4, [[Robbins]] they 're fascinating,0
+12,5, [[Robbins]] it reminded me of that scene in 'jaws ' where dreyfuss cuts open the shark 's belly and all kinds of weird things come out,0
+12,6, [[Grissom]] you find a license plate ?,0
+12,7," [[Robbins]] well , not quite",0
+12,8, ( Robbins turns and shows the metal bowl filled with the various non-digestible contents swimming in stomach liquid . ),0
+12,9," [[Robbins]] highlights include band-aids , wood chips , hair and half a snapshot",0
+12,10, [[Grissom]] pica ?,0
+12,11, [[Robbins]] boo ?,0
+12,12," [[Grissom]] pica is a compulsion to eat non-nutritive food items it 's from the latin word for magpie , a bird with a large and indiscriminate appetite",0
+12,13, [[Robbins]] trichotillomania would explain the pulling out and eating of hair,0
+12,14, [[Grissom]] another ocd disorder,0
+12,15," [[Robbins]] uh , i sent hair and blood samples to tox",0
+12,16, ( Robbins points to the head wound . ),0
+12,17, [[Robbins]] stellate lacerations,0
+12,18, [[Robbins]] linear skull fracture extending into the calvarium,0
+12,19, [[Robbins]] and contre-coup contusions to the frontal and temporal lobes,0
+12,20, [[Grissom]] so c.o.d,0
+12,21, [[Grissom]] was blunt force trauma ?,0
+12,22, [[Robbins]] no,0
+12,23, [[Robbins]] asphyxiation,1
+12,24, [[Grissom]] during the struggle ?,0
+12,25," [[Robbins]] coagulation of the blood tells me that the head trauma was post-mortem , at least two hours after he was suffocated",0
+12,26, [[Grissom]] so evidently dead was n't dead enough,0
+12,27, [[Robbins]] i also found ligature marks on the wrists and ankles,0
+12,28, ( Robbins lifts up the victim ' wrists to show Grissom the bruising . ),0
+12,29, ( He points to the marks on the victim 's ankles . ),0
+12,30," [[Robbins]] they showed up during the y , peri-mortem",0
+12,31," [[Robbins]] so , what , tortured ?",0
+12,32, [[Robbins]] tied up ?,0
+12,33, [[Grissom]] restrained,0
+12,34," ( Quick flashback to : [_SECLUSION_] Robbie Garson is on the bed screaming as two people restrain him down , securing the leather straps around his wrists and ankles . )",0
+12,35, ( End of flashback . ),0
+12,36, ( Resume to present . ),0
+12,37, [[Grissom]] nobody mentioned restraints,0
+13,0, ( Sara adjusts the scope as she looks through it . ),0
+13,1, [[Hodges]] would you ever bleach your hair ?,0
+13,2, ( Sara glances up at Hodges nearby . ),0
+13,3, [[Hodges]] i would n't,0
+13,4, [[Hodges]] it 's so greg sanders,0
+13,5, ( Sara goes back to the scope . ),0
+13,6, ( Dark colored hair with yellow tips . ),0
+13,7," [[Hodges]] most of the hair is the vic 's , but i also found that bleached sample as well",0
+13,8," [[Hodges]] in my continuing quest to further my standing , i took it upon myself to get you the tox report",0
+13,9, [[Sara]] thanks,0
+13,10, [[Hodges]] you 're welcome,0
+13,11, [[Hodges]] blood came back with pretty hefty levels of olanzapine,0
+13,12, [[Sara]] that 's a potent anti-psychotic,0
+13,13, [[Hodges]] good for drooling,0
+13,14," [[Hodges]] and also there 's the , uh , not so potent smattering of ibuprofen",0
+13,15, [[Sara]] that 's it ?,0
+13,16, [[Hodges]] that 's it,0
+13,17, ( Sara looks at the report . ),0
+13,18, ( It reads: ),0
+13,19, ( Hodges pontificates . ),0
+13,20," [[Hodges]] if i were institutionalized , i think i would hope for something better",0
+13,21," [[Hodges]] clonazepam , maybe",0
+13,22, ( Sara gives Hodges a look . ),0
+13,23," [[Hodges]] what , you , uh , think i 'm crazy ?",0
+13,24, [[Sara]] crazy is as crazy does,0
+13,25, ( Hodges does n't know what to make of that one . ),0
+13,26, [[Sara]] his chart indicated at least four other anti-psychotics,0
+13,27, [[Sara]] why was n't he getting those meds ?,0
+13,28, [[Hodges]] do i look clairvoyant ?,0
+14,0, ( Brass shares his findings with Grissom . ),0
+14,1, [[Brass]] news flash from the loony bin two reported deaths in the last three years from 'complications due to restraint procedures ',0
+14,2, [[Grissom]] and how many have gone unreported ?,0
+14,3, [[Brass]] the hospital just got off probation,0
+14,4, [[Brass]] one more death by restraint brings the feds in,0
+14,5, [[Grissom]] good incentive to keep it quiet,0
+14,6, [[Brass]] or make it look like someone else did it,0
+14,7, [[Grissom]] yeah,0
+14,8, [[Grissom]] somebody who 's crazy,0
+15,0, ( It continues to rain ),0
+15,1, [[Hospital_Administrator]] we 're legally required to tape all our sessions,0
+15,2, ( The monitor shows Nurse Joanne McKay and Leon struggling to put Robbie Garson into the bed . ),0
+15,3, [[Hospital_Administrator]] this is robbie in the seclusion room the day he died,0
+15,4," ( Brass , Grissom and Sara review the security tape . )",0
+15,5," ( Back on the monitor , they watch as the two orderlies struggle to hold Robbie Garson down on the bed while Nurse Joanna McKay stands in the corner near the cart preparing a needle . )",0
+15,6, ( Dunbar reaches out and fast-forwards the tape a little . ),0
+15,7," ( Back on the monitor , we 're shown the on-call doctor and Nurse Joanne McKay checking on Robbie Garson . )",0
+15,8," [[Hospital_Administrator]] as you can see , the on-call doctor and nurse mckay checked in on him",0
+15,9, ( He reaches out and fast-forwards the tape a little more . ),0
+15,10," ( On the monitor , the two orderlies escort Robbie Garson out of Seclusion . )",0
+15,11," [[Hospital_Administrator]] two hours later , he was escorted out , so i resent the accusation",0
+15,12, [[Hospital_Administrator]] we 've made a lot of changes,0
+15,13," [[Hospital_Administrator]] policy , staff , surveillance have all been overhauled",0
+15,14," [[Hospital_Administrator]] look , robbie left the seclusion room alive",0
+15,15," [[Sara]] okay , fine",0
+15,16, [[Sara]] who administers medication ?,0
+15,17," [[Hospital_Administrator]] uh , the nurses , psych techs",0
+15,18, [[Hospital_Administrator]] why is this important ?,0
+15,19," [[Sara]] well , according to his tox results , robbie 's system was short four anti-psychotics",0
+15,20, [[Hospital_Administrator]] maybe he was cheeking them,0
+15,21, ( Quick flashback to : Robbie takes the medicine cup . ),0
+15,22," [[Leon_Madera]] here you go , robbie",0
+15,23, [[Leon_Madera]] here 's your feel-good,0
+15,24," ( He swallows them , tilting his head to the side . )",0
+15,25, ( He takes a sip of water . ),0
+15,26, ( Camera zooms in for a CGI close-up of the inside of a mouth . ),0
+15,27," ( The water washes down the throat , but we see the pills tucked into the space between the teeth and gums )",0
+15,28, ( End of CGI close-up . ),0
+15,29, ( Robbie smiles and turns to leave . ),0
+15,30, ( End of flash . ),0
+15,31, ( Resume to present . ),0
+15,32, [[Brass]] why would he do that ?,0
+15,33, [[Hospital_Administrator]] they think they do n't need 'em,0
+15,34," [[Hospital_Administrator]] they sell 'em , trade 'em or ... store them up , get high later",0
+15,35, [[Brass]] we 're gon na need to talk to his pharmacist,0
+16,0, ( Leon looks across the hall at the line of inmates against the wall . ),0
+16,1, [[Leon_Madera]] who 's next ?,0
+16,2, ( He looks up and sees Earl . ),0
+16,3," [[Leon_Madera]] oh , come on , earl",0
+16,4, [[Leon_Madera]] there you go,0
+16,5, ( Earl takes the pills and swallows some water . ),0
+16,6," [[Leon_Madera]] hey , you know i 'm gon na bust your ass on the court , right ?",0
+16,7, ( Earl turns and walks away . ),0
+16,8, ( Leon hangs out from the counter watching Earl go . ),0
+16,9, [[Leon_Madera]] you better bring your 'a ' game next time,0
+16,10, ( The orderly escorts Earl away . ),0
+16,11," ( Down the hallway , we see Brass and Sara headed toward the pharmacy . )",0
+16,12," [[Leon_Madera]] come on , chuck , i got something for you",0
+16,13, ( Leon turns his back to the window . ),0
+16,14," ( Charles Pellew takes a step toward the pharmacy , but the security guard holds him back as Sara and Brass are at the next window . )",0
+16,15, ( Sara leans over the window counter and picks up a pill container to examine its contents . ),0
+16,16, ( Leon turns around and sees Sara and Brass there . ),0
+16,17, ( Sara notes Leon 's bleach-tipped hair . ),0
+16,18," [[Sara]] love your hair , leon",0
+16,19, [[Leon_Madera]] thanks,0
+16,20, [[Sara]] what do you got here ?,0
+16,21, ( Sara looks at the pill container . ),0
+16,22," [[Sara]] ibuprofen , laxative , aspirin what are you treating exactly , schizophrenia or constipation ?",0
+16,23," [[Brass]] where are the real drugs , leon ?",0
+16,24, ( Leon suddenly looks very nervous . ),0
+17,0, ( Brass and Sara interview Leon . ),0
+17,1," [[Brass]] man ... xanax , lanzopine , zoloft , suprazadone , clozapine , lorazapan , lithium , valium , wellbutrin , haldol , respiredone",0
+17,2, ( Sara slides a photo across the table of a drawer full of pills . ),0
+17,3, [[Sara]] you took everything with street value,0
+17,4," [[Leon_Madera]] look , dude",0
+17,5, [[Leon_Madera]] i get 22-k a year,0
+17,6, [[Leon_Madera]] that 's nothing,0
+17,7, [[Leon_Madera]] diddly-squat,0
+17,8, [[Leon_Madera]] i should get hazard pay,0
+17,9," [[Leon_Madera]] these people , i get",0
+17,10," [[Leon_Madera]] i get spit on , puked on , peed on , bitten",0
+17,11," [[Leon_Madera]] i get my hair yanked out , i get my ass pinched , i get",0
+17,12, [[Leon_Madera]] i get death threats,0
+17,13, [[Leon_Madera]] all for 22-k,0
+17,14, [[Leon_Madera]] so i supplement my income,0
+17,15, [[Leon_Madera]] it do n't hurt nobody,0
+17,16, [[Sara]] are you a doctor ?,0
+17,17," [[Leon_Madera]] look , these places , they overmedicate all the time",0
+17,18, [[Leon_Madera]] it controls the population,0
+17,19," [[Leon_Madera]] and i do n't endanger the patients , okay ?",0
+17,20, [[Leon_Madera]] i-i 'm all about the patients,0
+17,21," [[Brass]] maybe robbie caught you skimping on his meds , threatened to blow the whistle",0
+17,22, [[Brass]] there goes that supplemental income,0
+17,23, ( Quick flash of : [_PHARMACY_] Leon puts some pills into a bag . ),0
+17,24, ( Robbie is at the window and sees him . ),0
+17,25, [[Robbie_Garson]] i see what you 're doing,0
+17,26, [[Robbie_Garson]] i 'm reporting you,0
+17,27, [[Robbie_Garson]] you 're stealing,0
+17,28," [[Leon_Madera]] robbie , hold on a second , hold on a second , will you ?",0
+18,0, ( Robbie Garson screams and fights against the two orderlies trying to get him restrained on the bed . ),0
+18,1," ( During the fight , Robbie grabs some of Leon 's hair and stuffs it in his mouth . )",0
+18,2," [[Voice]] all right , here you go , here you go , here you go",0
+18,3, ( Robbie continues to scream and struggle as they try to restrain him on the bed . ),0
+19,0, ( Robbie is asleep when Leon enters the room and chokes Robbie . ),0
+19,1, ( We hear Robbie 's muffled cries . ),0
+19,2, ( End of flashback . ),0
+19,3, ( Resume to present . ),0
+19,4, [[Leon_Madera]] no,0
+19,5," [[Leon_Madera]] all right , no way , man",0
+19,6, [[Leon_Madera]] that 's a story,0
+19,7, [[Leon_Madera]] 'kay ?,0
+19,8, [[Leon_Madera]] that 's not why he went to seclusion,0
+19,9, [[Sara]] why did he go to seclusion ?,0
+19,10, [[Leon_Madera]] he freaked out in group,0
+19,11, [[Leon_Madera]] i was n't even there,0
+19,12, [[Leon_Madera]] ask somebody who was,0
+19,13, ( He looks at them . ),0
+19,14, [[Leon_Madera]] am i gon na lose my job ?,0
+19,15, [[Leon_Madera]] 'cause these people ... need me,0
+20,0, ( Sara looks at the video logs . ),0
+20,1, ( It reads: ),0
+20,2," [[Sara]] according to the video logs , the victim was brought into seclusion at 5:03 p.m. and taken out of the room at 7:06 p.m. nurse mckay noted that he was awake and in bed at the 9:30 p.m. bed checks",0
+20,3, ( Grissom refers back to the file in front of him . ),0
+20,4, [[Grissom]] body was found at 12:10,0
+20,5, [[Grissom]] so sometime between 9:30 and midnight he was suffocated,0
+20,6, [[Sara]] probably closer to 9:30,0
+20,7, [[Sara]] the blood would 've needed time to coagulate before his head was smashed in,0
+20,8, [[Grissom]] and not necessarily by the same person,0
+20,9, ( Greg walks in carrying the bagged pillow from Robbie Garson 's room . ),0
+20,10," [[Greg]] hey , how about some pillow talk ?",0
+20,11, [[Greg]] robbie 's pillow had saliva on it,0
+20,12, [[Greg]] lots of it ; all his,0
+20,13, [[Grissom]] could be from drooling,0
+20,14, [[Grissom]] or it could be from dying,0
+20,15," [[Greg]] well , look at this -- i found slits at both ends",1
+20,16, [[Greg]] left hand ... and right hand,0
+20,17, ( Grasping the pillow in his hands he turns toward Sara and motions as if smothering Sara . ),0
+20,18, ( Sara smiles . ),0
+20,19, [[Sara]] looks like we have a murder weapon,0
+21,0," [[Voice_(woman)]] all past-level-three patients , please return to your unit for a head count",0
+21,1," [[Voice_(woman)]] all past-level-three patients , please return to your unit",0
+21,2, ( Lt. Reed Owens holds the umbrella over Sara as they walk out of the facility and into the courtyard . ),0
+21,3, ( It continues to rain as they walk down the pathway over to the patio nearby where Nurse Joanne McKay is taking a smoke break . ),0
+21,4," [[Sara]] thanks , officer",0
+21,5, ( The officer turns and leaves . ),0
+21,6, ( Sara talks with Joanne McKay . ),0
+21,7," [[Sara]] nurse mckay , hi",1
+21,8, [[Sara]] dr dino said that you supervised group therapy yesterday,1
+21,9," [[Joanne_McKay]] uh , yeah",0
+21,10, [[Sara]] i heard there was an incident involving robbie,1
+21,11, [[Joanne_McKay]] he had a personal item,1
+21,12, ( She puts the cigarette to her lips to smoke . ),1
+21,13, [[Sara]] a personal item ?,0
+21,14, ( Nurse McKay nods and puts the cigarette out in the tray next to her . ),1
+21,15, [[Joanne_McKay]] you ca n't bring anything in group except a beverage,0
+21,16, [[Joanne_McKay]] it distracts the other patients,0
+21,17, [[Sara]] what did he bring ?,1
+21,18, [[Joanne_McKay]] a photograph,0
+21,19, [[Sara]] of what ?,0
+21,20, [[Joanne_McKay]] a little boy,0
+21,21, [[Sara]] what did you do ?,1
+21,22, [[Joanne_McKay]] i followed protocol,1
+21,23, ( Quick flashback to : [_GROUP_THERAPY_] Joanne McKay leads the group therapy session . ),1
+21,24, [[Joanne_McKay]] anybody else have anything they want to talk about ?,0
+21,25, [[Jake]] i wan na know why everybody 's always staring at me -- especially him,0
+21,26, [[Jake]] he 's staring at me,0
+21,27, [[Elderly_Man]] i 'm not staring at,0
+21,28, ( The two start pointing fingers at each other . ),0
+22,0, ( Robbie sits in therapy holding the photo in his hand . ),1
+22,1, ( He lifts it close to his face and kisses the photo . ),1
+22,2," [[Joanne_McKay]] hey , hey , hey",0
+22,3," [[Joanne_McKay]] hang on , hang on",0
+22,4, [[Joanne_McKay]] robbie ?,1
+22,5, [[Joanne_McKay]] wh-what have you got there ?,0
+22,6, [[Robbie_Garson]] nothing,0
+22,7, ( Robbie fingers the photo of a little boy . ),1
+22,8, [[Jake]] fag candy,0
+22,9," [[Joanne_McKay]] well , what 's the rule ?",0
+22,10, [[Robbie_Garson]] um,0
+22,11, ( Joanne McKay stands up and walks over to Robbie . ),1
+22,12, [[Joanne_McKay]] there 's no personal items in here,0
+22,13, ( Robbie gets to his feet . ),1
+22,14, [[Robbie_Garson]] no !,0
+22,15, [[Joanne_McKay]] give me the,0
+22,16," ( Adam Trent sits with the others , a smile on his face . )",0
+22,17, [[Robbie_Garson]] no !,0
+22,18, [[Joanne_McKay]] give me --,0
+22,19, ( Two security guards approach them and grab Robbie from behind . ),1
+22,20, ( Robbie shoves the photo into his mouth . ),1
+22,21, [[Robbie_Garson]] no !,0
+22,22, [[Robbie_Garson]] do n't touch me !,0
+22,23, ( They take him away . ),0
+22,24," ( Joanne starts to follow , but turns back to the other inmates . )",1
+22,25, [[Joanne_McKay]] watch it !,0
+22,26, ( The security guards drag Robbie Garson out of the room . ),1
+22,27, ( End of flashback . ),0
+22,28, ( Resume to present . ),0
+22,29," [[Joanne_McKay]] boom , boom and boom : medication , seclusion , restraint",0
+22,30, [[Sara]] tough love,0
+22,31, [[Joanne_McKay]] call it what you want -- these are n't my children,1
+22,32, ( Nurse McKay picks up her things and stands up . ),1
+22,33, [[Sara]] why did n't you mention this information last night ?,1
+22,34, [[Joanne_McKay]] because crap like that happens every day here,0
+22,35, [[Joanne_McKay]] i should get back to the unit,1
+22,36, [[Sara]] sure,0
+22,37, ( Nurse McKay leaves . ),1
+22,38, ( Sara 's phone rings . ),0
+22,39, ( She answers it . ),0
+22,40, [[Sara]] sidle,0
+22,41, [[Grissom]] we got the dna results back on the semen on robbie 's sheets,1
+22,42, [[Grissom]] patient adam trent -- the nail biter,0
+22,43, [[Sara]] okay,0
+23,0, ( Camera flashes of the artwork on Adam Trent 's wall . ),0
+23,1," ( First , of an oboe . )",0
+23,2," ( Second , of a tree with sharp blades and spikes on the end of its branches . )",0
+23,3, ( The room sign reads: ),0
+23,4, ( Sara and Grissom are in Adam Trent 's room . ),0
+23,5, ( Grissom is photographing the pictures on the wall . ),0
+23,6," ( He snaps a photo of a drawing of a cat with its back to the viewer and looking over its shoulder , the end of its tail morphs into spikes . )",0
+23,7, ( Sara stares at the photos . ),0
+23,8, ( Grissom puts his camera down . ),0
+23,9, [[Grissom]] this stuff is dark,0
+23,10, [[Sara]] yeah,0
+23,11," [[Sara]] 'course , i would n't expect winnie the pooh",0
+23,12, ( Grissom notes a drawing of Medusa . ),0
+23,13, [[Grissom]] adam 's subconscious was working overtime,0
+23,14, ( He again looks at the drawing of the cat with the thorns on its tail . ),0
+23,15, [[Sara]] i bet you aced your rorschachs,0
+23,16," [[Sara]] when i was in fifth grade , i drew a picture of a harpooned whale",0
+23,17, [[Sara]] everyone thought i was gonzo 'd,0
+23,18, [[Sara]] but i had just read moby dick,0
+23,19, [[Sara]] sometimes a dying whale is just a dying whale,0
+23,20, ( They share a look and a smile . ),0
+23,21, ( Sara reaches out to remove a smaller drawing and loses her grip on it . ),0
+23,22, ( The drawing falls behind the small drawers . ),0
+23,23, ( She and Grissom move the drawers away from the wall . ),0
+23,24, ( Sara picks up the photo near the air vent . ),0
+23,25, ( She looks at it and sets it aside . ),0
+23,26, ( She removes the air vent grating and finds something hidden inside . ),0
+23,27, ( She turns her flashlight on and finds various items She takes out a stack of letters and sets them aside . ),0
+23,28, ( Grissom picks up the letters and looks at them . ),0
+23,29, ( He notes that they 're addressed to ADAM TRENT at the DESERT STATE MENTAL HOSPITAL on CANYON AVE. and the first letter is postmarked JUN 13 '02 . ),0
+23,30, ( The second letter is also postmarked JUN 13 '02 . ),0
+23,31, [[Grissom]] these are all postdated over a year ago,0
+23,32, ( Sara removes a hair brush from the vent and looks at it carefully as she sets it on the drawers . ),0
+23,33, [[Grissom]] it 's not just his subconscious,0
+23,34, [[Grissom]] this guy 's got stuff buried everywhere,0
+23,35, ( Sara glances up from the brush . ),0
+24,0, ( Grissom and Sara sit in Valerie Dino 's office . ),0
+24,1, ( She reads from the letters they 've found . ),0
+24,2," [[Valerie_Dino]] 'dearest angel , i think of you wherever i go",0
+24,3, [[Valerie_Dino]] you are my prince,0
+24,4, [[Valerie_Dino]] i miss you,0
+24,5, [[Valerie_Dino]] write to me,0
+24,6," [[Valerie_Dino]] your only love , mother '",1
+24,7, [[Valerie_Dino]] another one,0
+24,8, [[Valerie_Dino]] uh ... 'it rained today,0
+24,9, [[Valerie_Dino]] i thought of that time when you and i got caught in the storm at the lake,0
+24,10, [[Valerie_Dino]] the fire,0
+24,11, [[Valerie_Dino]] i came home and made your favorite dinner,0
+24,12, [[Valerie_Dino]] i even set a place for you ... ' so on and so forth,0
+24,13, [[Sara]] that does not sound maternal to me,0
+24,14, [[Valerie_Dino]] it 's not,0
+24,15, [[Grissom]] incest ?,1
+24,16, [[Valerie_Dino]] fully consummated,0
+24,17, [[Valerie_Dino]] mother-son incest is rare and deeply pathological,0
+24,18, [[Sara]] oedipal complex taken too far ?,0
+24,19, [[Valerie_Dino]] oedipus ... implies son to mother,0
+24,20," [[Valerie_Dino]] in this case , the mother was seeking the love and creating the codependence",0
+24,21, [[Valerie_Dino]] we call this a jocasta complex,0
+24,22, [[Grissom]] oedipus ' mother,0
+24,23, [[Valerie_Dino]] when adam was nine his father died,0
+24,24, [[Valerie_Dino]] his mother replaced her dead husband with her son,0
+24,25, [[Sara]] that 's got to mess you up,0
+24,26, [[Valerie_Dino]] yeah,0
+24,27," [[Valerie_Dino]] adam is schizo-affective , suicidal , and a pathological narcissist",0
+24,28," [[Valerie_Dino]] when he was a teenager he was unable to retaliate against his mother and incapable of actual intimacy , so ... he started raping women",0
+24,29, [[Grissom]] always women ?,0
+24,30, [[Valerie_Dino]] yes,0
+24,31, [[Valerie_Dino]] which is why i do n't think he killed robbie,0
+24,32, [[Sara]] we found adam 's semen in robbie 's bed,0
+24,33," [[Valerie_Dino]] you see , that surprises me",0
+24,34," [[Valerie_Dino]] like any good psychopath , he rarely veers from his pattern adam is a single-celled organism who exists wholly for himself",0
+24,35, [[Valerie_Dino]] he must 've been getting something tangible in return,0
+24,36, [[Sara]] what ?,0
+24,37, [[Sara]] drugs ?,0
+24,38, [[Sara]] cigarettes ?,0
+24,39, [[Valerie_Dino]] drugs are n't his issue,0
+24,40, [[Valerie_Dino]] and as far as i know he does n't smoke,0
+24,41, [[Valerie_Dino]] um,0
+24,42," [[Grissom]] so , uh , what can we learn from his artwork ?",0
+24,43, ( She looks at the drawings . ),0
+24,44," [[Valerie_Dino]] uh ... he starts with an innocuous object : a tree , a cat , an oboe -- all of which he morphs into something deadly",0
+24,45, [[Valerie_Dino]] you can see ... all of them,0
+24,46," [[Grissom]] so , what should be safe turns into something unsafe",0
+24,47, [[Valerie_Dino]] mother becomes lover,0
+24,48, [[Sara]] what about the mother ?,0
+24,49, [[Sara]] do you have any idea where she is ?,0
+24,50, [[Valerie_Dino]] she lives near reno,0
+24,51, ( She shakes her head . ),0
+24,52," [[Sara]] based on the postmarks , it seems like she stopped writing him",0
+24,53," [[Valerie_Dino]] every time a letter came , a manic episode followed , then a severe depression , including one suicide attempt",0
+24,54, [[Valerie_Dino]] so i started sending the letters back,0
+24,55," [[Valerie_Dino]] eventually , she stopped writing",0
+25,0, ( Adam Trent bites his nails as he 's questioned by Sara . ),0
+25,1," ( Grissom sits on the side , watching . )",0
+25,2, ( Valerie Dino is also in the room . ),0
+25,3, ( Thunder rumbles softly in the background . ),0
+25,4, [[Adam_Trent]] did i kill him ?,0
+25,5, [[Adam_Trent]] yes,0
+25,6, [[Sara]] why ?,0
+25,7, [[Adam_Trent]] he was queer,1
+25,8, [[Sara]] but you had s*x with him,0
+25,9, ( Adam Trent stops biting his nails and looks at Sara . ),0
+25,10, ( Sara . ),0
+25,11, [[Adam_Trent]] no,0
+25,12, [[Adam_Trent]] he had s*x with me,0
+25,13, [[Adam_Trent]] he was the punk,0
+25,14, [[Sara]] was it consensual ?,0
+25,15, [[Adam_Trent]] i do n't know,0
+25,16, [[Sara]] so why did you do it ?,0
+25,17, [[Sara]] okay,0
+25,18, [[Sara]] so then what happened ?,0
+25,19, [[Adam_Trent]] i took his head and i smashed it into the floor,0
+25,20, ( Quick flashback to : [_ROBBIE_'S_ROOM_] Adam Trent smashes Robbie 's head against the hard floor . ),0
+25,21, ( Blood spurts on the ground . ),0
+25,22, ( End of flashback . ),0
+25,23, ( Resume to present . ),0
+25,24, [[Sara]] and that 's how you killed him ?,0
+25,25, ( He looks at her for a long moment . ),0
+25,26," ( Suddenly , Sara turns and glances at Grissom . )",0
+25,27, [[Adam_Trent]] what ?,0
+25,28, [[Adam_Trent]] you do n't believe me ?,0
+25,29, ( Sara looks at Adam . ),0
+25,30, [[Sara]] i 'm just wondering if that 's how you killed him,0
+25,31, [[Adam_Trent]] yes,0
+25,32, [[Adam_Trent]] i 'm saying this and this is true,0
+25,33," [[Adam_Trent]] and if you do n't believe me , just look in the bucket in the latrine",0
+25,34," ( Again , Sara turns and looks at Grissom . )",0
+25,35, [[Adam_Trent]] okay,0
+25,36, [[Adam_Trent]] do you really want to know why i killed him ?,0
+25,37, [[Sara]] yes,0
+25,38, ( Adam looks at Sara . ),0
+25,39," ( He looks at Sara 's face , then down to her breasts . )",0
+25,40, ( He looks at her right hand on the table between them . ),0
+25,41, ( We note that her index fingernail is painted gold . ),0
+25,42, ( Cut back to : Sara 's face . ),0
+25,43, ( Adam goes back to biting his nails . ),0
+25,44, ( We notice that his nails are bleeding . ),0
+25,45, ( He puts his hand aside and stares at Sara . ),0
+25,46, [[Adam_Trent]] it 's because i 'm crazy,1
+26,0, ( The security guard opens the door to the latrine . ),0
+26,1, ( Sara and Grissom enter . ),0
+26,2, ( Grissom 's carrying his kit . ),0
+26,3, ( They walk inside looking around . ),0
+26,4, [[Sara]] not a word about suffocation,0
+26,5," [[Grissom]] well , his nails were n't long enough to leave those tears in the pillow",0
+26,6, [[Grissom]] and there would have been traces of blood from his cuticles,0
+26,7, [[Sara]] something is off,0
+26,8, ( At the end of the bathroom near the showers are the janitor 's bucket and mop . ),0
+26,9, ( Sara walks into the small walkway and takes out her flashlight . ),0
+26,10, ( She switches it on and puts on a glove . ),0
+26,11, ( She kneels down next to the bucket and removes a bundle of clothes . ),0
+26,12, ( She puts the bundle on the floor and unrolls it . ),0
+26,13, ( They immediately see the blood on the front of the shirt . ),0
+26,14," [[Grissom]] well , there 's our blood splatter",0
+26,15, ( Sara opens up the pants and the boxer shorts . ),0
+26,16, ( They immediately notice the red stain in the front of the shorts . ),1
+26,17, [[Grissom]] what is that on the crotch ?,0
+26,18, [[Sara]] lipstick,1
+27,0, ( One of the inmates stands near the window looking down outside . ),0
+27,1," ( In the smoke break area , Sara picks up a single cigarette butt with lipstick on the end of it . )",0
+27,2, ( She puts it in a bindle . ),0
+27,3, ( Sara turns to Lieutenant Reed Owens standing near her . ),0
+27,4, [[Sara]] where is nurse mckay ?,0
+27,5, [[Sara]] i need to talk to her,0
+27,6, [[Reed_Owens]] she 's on lunch duty,0
+27,7, [[Sara]] all right,0
+27,8," [[Sara]] i can either take this and the underwear back to the lab and confirm the match , which will only extend our presence here",0
+27,9, [[Sara]] or ... you can give me access to the nurse 's station right now,0
+28,0, ( Camera slowly creeps around the hallway to reveal that Grissom and Sara are in the nurse 's station . ),0
+28,1, ( The door is wide open . ),0
+28,2, ( Grissom looks at the various file folders . ),0
+28,3, ( Sara is looking at a photo . ),0
+28,4, [[Sara]] this must be the photo that nurse mckay confiscated from robbie in group,0
+28,5, [[Sara]] the missing half ?,0
+28,6, [[Sara]] i found blue tape in robbie 's room,0
+28,7," ( We see it 's a photo of a young boy in yellow shorts standing between two other boys , his arms resting on their shoulders . )",0
+28,8, ( Both faces of the two other boys are cut or torn out . ),0
+28,9, [[Sara]] kind of looks like adam,0
+28,10, [[Grissom]] where would robbie get a picture of adam ?,0
+28,11," [[Sara]] well , they were having s*x",0
+28,12, ( Grissom tries a drawer and finds it locked . ),0
+28,13, ( Sara turns over a small heart-shaped paperweight on the desk and finds 'J + A ' painted in black under it . ),0
+28,14, ( Grissom tries more drawers and finds them locked . ),0
+28,15, [[Grissom]] i 'm going to find someone who can open these drawers,0
+28,16, [[Sara]] okay,0
+28,17, ( Grissom starts removing his gloves as he heads for the door . ),0
+28,18," ( Sara is still looking at the various items on the counter , her back to the open door . )",0
+28,19, ( Grissom walks out of the nurse 's station . ),0
+28,20, ( The door is wide open as he makes his way down the hallway . ),0
+28,21," ( Sara is in the nurse 's station , her back to the open door . )",0
+28,22," ( Grissom walks down the hallway toward Lieutenant Reed Owens , who is at his post near the main door . )",0
+28,23, ( Grissom stops in front of him and talks with him . ),0
+28,24, ( Sara is in the nurse 's station studying the different photo of Adam that she 's found . ),0
+28,25," ( Behind her , we see Adam Trent appear in the doorway . )",0
+28,26, ( He turns and walks quietly into the nurse 's station . ),0
+28,27, ( Sara has n't noticed him . ),0
+28,28," ( With his eyes on Sara , Adam starts to close the door . )",0
+28,29, [[Adam_Trent]] hey,0
+28,30, ( Sara stops and turns around . ),0
+28,31, ( She puts the photo down on the counter behind her . ),0
+28,32," ( Outside in the hallway , Reed Owens is talking with Grissom . )",0
+28,33, ( He points to the doorway on the right . ),0
+28,34," ( Grissom turns and exits the hallway , disappearing through the door . )",0
+28,35," ( Back in the nurse 's station , Sara stares at Adam Trent . )",0
+28,36, ( Adam closes the door . ),0
+28,37, [[Adam_Trent]] are you a spiritual person ?,0
+28,38, [[Sara]] sometimes,0
+28,39, [[Adam_Trent]] do you believe that everything happens for a reason ?,0
+28,40, [[Adam_Trent]] that bad things are there to teach us a karmic lesson ?,0
+28,41, ( We hear Adam move slowly toward Sara . ),0
+28,42," ( Sara backs away casually , reaching behind her , grabbing a syringe from the counter top . )",0
+28,43," [[Adam_Trent]] you know , maybe all our problems can be cured by tuning in to a higher frequency",0
+28,44, ( Adam continues to talk with Sara . ),0
+28,45," [[Adam_Trent]] there 's this one guy i read , he believes that illness , anxiety and fear all occur when people are vibrating at ten thousand cycles a second",0
+28,46, ( Sara nods . ),0
+28,47, ( Adam moves closer toward Sara . ),0
+28,48, ( Sara moves . ),0
+28,49, ( She uncaps the syringe and tries to jab it at Adam . ),0
+28,50," ( Adam grabs Sara , turns her around and holds her in front of him . )",0
+28,51, ( The syringe falls harmlessly to the floor . ),0
+28,52," ( Through the glass , we see Sara struggle against Adam . )",0
+28,53, ( They both fall out of view as they sink down to the floor . ),0
+28,54, ( Sara struggles against Adam . ),0
+28,55," ( She tries to elbow him in the chest , but Adam has a firm hold on her . )",0
+28,56, ( Adam takes out a pointed piece of hardened clay that he holds against Sara 's throat . ),0
+28,57," [[Adam_Trent]] if they could just get up to a hundred thousand cycles per second they 'd be in the realm of sound , light and spirit , and everything would be just fine",0
+28,58, [[Adam_Trent]] right ?,0
+28,59, [[Sara]] yeah,0
+28,60, ( Grissom returns with an orderly . ),0
+28,61, ( They both head back to the nurse 's station . ),0
+28,62, [[Adam_Trent]] you know what i think ?,0
+28,63, ( Adam has a firm hold on Sara . ),0
+28,64, [[Adam_Trent]] i think i 'm just vibrating at the wrong frequency,0
+28,65, ( Sara struggles against Adam 's hold on her . ),0
+28,66, [[Adam_Trent]] do n't --,0
+28,67, [[Sara]] it 's okay,0
+28,68, ( Grissom and the orderly return to the nurse 's station and find the door locked shut . ),0
+28,69, ( The orderly jiggles the lock . ),0
+28,70, ( It does n't open . ),0
+28,71, [[Adam_Trent]] do you think i 'm smart ?,0
+28,72," ( Alarmed , Grissom steps to the side to look in through the window . )",0
+28,73, [[Sara]] yeah,0
+28,74, [[Sara]] adam trent:,0
+28,75, [[Sara]] yeah ?,0
+28,76, ( Sara sees Grissom outside . ),0
+28,77, [[Sara]] uh-huh,0
+28,78," [[Grissom]] oh , dear god",0
+28,79, [[Adam_Trent]] do you think i 'm right ?,0
+28,80, [[Grissom]] open the door,0
+28,81, ( Adam presses the ceramic tip against Sara 's throat . ),0
+28,82, [[Sara]] i do,0
+28,83, [[Adam_Trent]] you do ?,0
+28,84, ( The orderly fumbles as he tries different keys . ),0
+28,85, [[Orderly]] i ca n't,0
+28,86, [[Orderly]] i do n't have the right key,0
+28,87, [[Grissom]] just open it,0
+28,88," ( Off screen , we hear keys jingling as the orderly struggles to find the right key . )",0
+28,89, ( Adam turns and finally notices that Grissom is there looking at Sara . ),0
+28,90, ( Sara has stopped struggling as she looks back at Grissom . ),0
+28,91, [[Grissom]] please open the door,0
+28,92, [[Adam_Trent]] do n't you move a muscle,0
+28,93," [[Adam_Trent]] i will grind you , you bitch",0
+28,94, [[Adam_Trent]] you hear me ?,0
+28,95," ( Sara nods , her eyes averted and gazes down at the floor . )",0
+28,96, ( We hear the alarms beep and lights flash . ),0
+28,97, [[Adam_Trent]] do not look at them !,0
+28,98, [[Sara]] okay,0
+28,99, [[Adam_Trent]] keep your eyes on the floor !,0
+28,100," ( Suddenly , Nurse Joanne McKay runs up to the nurse 's station , her hands pressed to the window glass . )",0
+28,101, [[Joanne_McKay]] wait !,0
+28,102, ( Adam turns and sees Joanne McKay through the window . ),0
+28,103, [[Joanne_McKay]] adam,0
+28,104, ( suddenly he goes wild his attention averted from sara to joanne ),0
+28,105," ( He points the ceramic piece to her , standing up , releasing his hold on Sara . )",0
+28,106, [[Adam_Trent]] you !,0
+28,107," [[Adam_Trent]] you , go away !",0
+28,108, ( Sara turns and sees Nurse McKay . ),0
+28,109," ( She quickly elbows Adam in the chest , pushing him away and getting to her feet . )",0
+28,110, ( Adam falls back against the desk . ),0
+28,111, [[Adam_Trent]] you !,0
+28,112," [[Adam_Trent]] you , go away !",0
+28,113, [[Joanne_McKay]] no !,0
+28,114, ( Adam takes the clay piece and uses it to cut his own neck . ),0
+28,115, ( Blood spurts out from the wound . ),0
+28,116, [[Joanne_McKay]] adam !,0
+28,117, [[Joanne_McKay]] stop !,0
+28,118," ( Sara opens the door and runs outside , ignoring everyone as she hurries past them . )",0
+28,119," ( She walks quickly to the end of the hallway , getting as far away as she can . )",0
+28,120, [[Joanne_McKay]] get a medic in here !,0
+28,121," ( Grissom watches Sara , then turns back to look inside the nurse 's station . )",0
+28,122," ( The guard and an orderly hold Adam Trent , who struggles against them as he cries . )",0
+28,123, [[Guard]] hold still,0
+28,124, [[Guard]] apply some pressure,0
+28,125," ( Joanne McKay rushes into the nurse 's station and kneels down to help them , pressing her hands against Adam 's wound . )",0
+28,126," ( Grissom stares at them , then turns to look back at Sara . )",0
+28,127, ( Sara has reached the end of the hallway where the metal grate covering the window is . ),0
+28,128, ( It 's raining outside . ),0
+28,129, [[Joanne_McKay]] where is it ?,0
+28,130, [[Joanne_McKay]] where is it ?,0
+28,131," ( Off screen , we hear Adam crying . )",0
+28,132," ( Sara reaches the window and slams both her hands , palm forward on the metal grate . )",0
+28,133, ( She rests her forehead against the metal grate . ),0
+28,134, [[Joanne_McKay]] we need help in here !,0
+28,135," ( Camera holds on Sara as the alarms around her continue to beep , red lights continue to flash . )",0
+29,0, ( It continues to rain outside . ),0
+29,1, ( We see the shadow of a person standing near the second floor middle window just above the front door . ),0
+29,2, ( It 's raining outside . ),0
+29,3, ( Thunder rumbles . ),0
+29,4, ( Sara looks out the window . ),0
+29,5, ( Grissom stands quietly nearby listening . ),0
+29,6," [[Sara]] when my father died , my mother came to a place like this for a while for evaluation",0
+29,7," [[Sara]] it looked the same , it smelled the same",0
+29,8, [[Sara]] it smelled like lies,0
+29,9, [[Grissom]] you sure you 're okay ?,0
+29,10, [[Sara]] crazy people do make me feel crazy,0
+29,11," [[Grissom]] if you want , i can have somebody take your place",0
+29,12, [[Sara]] i appreciate that,0
+29,13," [[Sara]] i do , i really do , but",0
+29,14," ( Down the hallway near the nurse 's station , we see Adam Trent on a gurney with the security guard , orderly and a doctor standing over him . )",0
+29,15, ( He 's in restraints . ),0
+29,16, ( Nurse Joanne McKay heads for Grissom and Sara . ),1
+29,17, [[Joanne_McKay]] i 'll be right back,0
+29,18, [[Man]] okay,0
+29,19, ( Sara continues . ),0
+29,20, [[Sara]] i kind of made a decision to move beyond that and,0
+29,21, [[Sara]] i really want to finish this case,0
+29,22, [[Joanne_McKay]] we have rules for a reason,0
+29,23, ( Grissom turns and looks at Nurse McKay . ),1
+29,24, [[Joanne_McKay]] you people come in here disrupting things,0
+29,25, [[Joanne_McKay]] you 're unsafe,0
+29,26, [[Joanne_McKay]] this is your fault,0
+29,27, [[Grissom]] really ?,0
+29,28, [[Sara]] you seem to take your job rather personally,1
+29,29, [[Joanne_McKay]] what are you suggesting ?,0
+29,30, [[Sara]] that you had an intimate relationship with adam trent,1
+29,31, [[Joanne_McKay]] that 's ridiculous,0
+29,32, [[Sara]] your lipstick is on his underwear,0
+29,33, [[Joanne_McKay]] i gave robbie my lipstick sometimes,0
+29,34, [[Joanne_McKay]] maybe he was wearing it when the whole thing,0
+29,35, [[Grissom]] we did n't find any on his lips,0
+29,36," [[Joanne_McKay]] well , that 's your problem",0
+29,37," ( She scoffs , turns and heads back to the men standing around the gurney . )",0
+29,38, [[Joanne_McKay]] what are you waiting for ?,0
+29,39," [[Joanne_McKay]] get him to the medical unit , stat",0
+30,0, ( The skies have cleared some . ),0
+30,1, ( Sirens blare in the distance . ),0
+30,2, ( Grissom walks into the day room carrying the clay piece . ),0
+30,3, ( He looks around and notes the inmates painting . ),0
+30,4, ( He walks up to the table nearest him in the center of the room with various un-fired and un-painted pottery pieces on it . ),0
+30,5, ( He notices a particular piece on the second table . ),0
+30,6, ( It 's a one-handled damaged vase . ),0
+30,7, ( He takes the piece in his hand and matches it to the vase as one of the missing handles . ),0
+30,8, ( Grissom turns and talks to the therapist sitting at his desk in the corner . ),0
+30,9, [[Grissom]] excuse me,0
+30,10, [[Grissom]] adam trent was working on this piece ?,0
+30,11, [[Therapist]] yes,0
+30,12, [[Therapist]] he made it on monday,0
+30,13, [[Therapist]] but he never got a chance to fire it,0
+30,14, [[Therapist]] nurse mckay came in ; they had a conversation,0
+30,15," [[Therapist]] actually , it was more of an argument , very heated , very loud",0
+30,16, ( Quick flashback to : [_ART_ROOM_-_DAY_] Adam Trent is on the pottery wheel making his vase . ),0
+30,17, ( Nurse McKay walks up to him and kneels down next to him . ),0
+30,18, ( She starts talking to him as Adam works on the piece . ),0
+30,19, ( End of flashback . ),0
+30,20, ( Resume to present . ),0
+30,21, [[Therapist]] and then she yanked him out of class,0
+30,22, [[Grissom]] was this on the wheel while they were arguing ?,0
+30,23, [[Therapist]] yeah,0
+30,24, ( Grissom kneels down to look at the piece at eye level . ),0
+30,25, [[Therapist]] adam 's work is very provocative,0
+30,26, ( He sees the groves in the side . ),0
+30,27, [[Grissom]] yeah,0
+30,28, [[Grissom]] it speaks to me,0
+31,0, ( Grissom and Sara walk through the hallway . ),0
+31,1, [[Sara]] acoustic archeology ?,0
+31,2," [[Grissom]] in the '60s , experiments were done on clay pots and painted canvas",0
+31,3, [[Grissom]] scientists were able to ferret out sounds that were captured during the creative process in the clay and the paint,0
+31,4, ( They step into the A/V Lab . ),0
+31,5, ( Sofia Curtis is there with the pottery piece on a turntable . ),0
+31,6, [[Sara]] trippy,0
+31,7, [[Sofia_Curtis]] it 's actually not that out there,0
+31,8," [[Sofia_Curtis]] in the old days , the first gramophone recordings were made by taking the vibrations of sound and cutting them into wax cylinders while they were turning",0
+31,9, ( Quick flash to : A woman plays the cello sitting next to an old fashioned gramophone . ),0
+31,10," [[Sofia_Curtis]] based on the frequency and intensity of the sound , the stylus cut into the wax , creating distinct variances of depth and width",0
+31,11, ( Camera zooms in through the gramophone down to the stylus as it cuts through the wax on the cylinder . ),0
+31,12, ( End of flashback . ),0
+31,13, ( Resume to pottery . ),0
+31,14," [[Sofia_Curtis]] for playback , a mechanical transducer vibrated along a groove , generating a current which , when amplified , turned into sound",0
+31,15," [[Grissom]] when the art therapist told me that there 'd been an argument while adam was on the wheel , i thought , well , maybe we can pull some sound off his pot",0
+31,16, ( Sofia flips a switch and a red light appears on the side of the turning pottery . ),0
+31,17, [[Sara]] doppler laser,0
+31,18, [[Sara]] optical transducer,0
+31,19, [[Sofia_Curtis]] we 've come a long way,0
+31,20, [[Grissom]] baby,0
+31,21, ( Grissom turns and looks at Sara . ),0
+31,22, ( Sofia works on the pottery piece . ),0
+31,23, ( She puts the sound on the computer and plays it . ),0
+31,24, ( We hear a high-pitched whine . ),0
+31,25," [[Sofia_Curtis]] well , there 's something there",0
+31,26, [[Sofia_Curtis]] and it sounds like,0
+31,27, ( She plays it back . ),0
+31,28, [[Sofia_Curtis]] this,0
+31,29," ( The sound is muffled with interference , but we can definitely hear a voice pattern there . )",0
+31,30, [[Sara]] it 's lousy signal-to-noise,0
+31,31, [[Sara]] it 's going to need a lot of processing,0
+31,32, ( Sofia clicks on FILTERS and selects BASS and TREBLE . ),0
+31,33, ( She plays it again ),0
+31,34, ( She clicks on FILTERS and selects HIGH/LOW PASS . ),0
+31,35, ( She plays it again ),0
+31,36, [[Sofia_Curtis]] speech elements skew to consonants,0
+31,37, [[Sofia_Curtis]] i 'll try and dig them out,0
+31,38, ( She plays it again This time it sounds like someone speaking . ),0
+31,39, ( Quick flashback of : [_ART_ROOM_-_DAY_] Adam Trent is at the pottery wheel while Joanne McKay is next to him . ),0
+31,40, ( Quick flash close-up of the brush on the side of the pottery piece etching the sound into the side . ),0
+31,41, [[Joanne_McKay]] rrr-bee,0
+31,42, ( CU : CLAY POTTERY . ),0
+31,43, ( The red laser light reads the sound off the grooves in the side of the turning pottery piece . ),0
+31,44, [[Joanne_McKay]] rrr-bee,0
+31,45, ( End of flashback . ),0
+31,46, ( Resume to present . ),0
+31,47, [[Grissom]] robbie ?,0
+31,48, [[Sara]] maybe,0
+31,49, [[Sara]] could you run that back a little bit ?,0
+31,50, [[Sofia_Curtis]] sure,0
+31,51, ( She replays a portion of it . ),0
+31,52, [[Sara]] what is that ?,0
+31,53, [[Joanne_McKay]] tht 's my nnn-gl,0
+31,54, [[Sara]] right there,0
+31,55, [[Joanne_McKay]] nnn-gl,0
+31,56, [[Sara]] you hear it ?,0
+31,57, [[Joanne_McKay]] that 's my angel,1
+31,58, [[Sofia_Curtis]] angle ?,0
+31,59, [[Sara]] angel,0
+31,60, ( Quick flashback to : [_ART_ROOM_-_DAY_] Joanne McKay . ),1
+31,61, [[Joanne_McKay]] that 's my angel,0
+31,62, ( Camera zooms in to the grooves in the side of the spinning pottery piece . ),0
+31,63, [[Joanne_McKay]] that 's my angel,0
+31,64, ( End of flashback . ),0
+31,65, ( Resume to present . ),0
+31,66, ( Sofia looks at Grissom . ),0
+31,67, ( He explains . ),0
+31,68," [[Grissom]] in her letters , adam 's mother called him 'angel '",0
+32,0, ( Sara and Brass interview Joanne McKay . ),1
+32,1, ( Sara looks at the DNA results . ),0
+32,2, [[Sara]] the hair from the brush in adam 's room was fresh enough to get a dna profile,0
+32,3, [[Sara]] it came back female,0
+32,4, [[Sara]] we tested it against your cigarette butt,0
+32,5, [[Sara]] it matched,1
+32,6, [[Joanne_McKay]] adam liked it when i brushed his hair,0
+32,7, [[Brass]] i bet he did,0
+32,8, [[Sara]] you were lying about giving robbie lipstick,0
+32,9," [[Sara]] you have seven out of 13 alleles in common with your patient , adam trent",1
+32,10, ( Brass holds up the bagged letters . ),0
+32,11, [[Brass]] your dearest angel,0
+32,12, ( Joanne McKay does n't say anything . ),1
+32,13, [[Brass]] okay,0
+32,14," [[Brass]] joanne mckay , registered nurse , licensed by the nevada board of nursing 1978",1
+32,15, [[Brass]] married howard trent 1980,0
+32,16, [[Brass]] the board requires you to get a new certificate when you get married,0
+32,17, [[Brass]] i guess you never complied,0
+32,18, [[Joanne_McKay]] i 've always gone by my maiden name,0
+32,19, [[Brass]] i guess that makes it less embarrassing to check into the motel with your son,0
+32,20," [[Brass]] oh , i 'm sorry",0
+32,21, [[Brass]] you checked into a psycho ward instead,0
+32,22, [[Joanne_McKay]] my son needed me,0
+32,23, [[Sara]] for what ?,0
+32,24, [[Sara]] to destroy his ego ?,0
+32,25, [[Sara]] to fill him with guilt ?,0
+32,26, [[Sara]] to make him hate himself so much he would take his own life just to be free of you ?,0
+32,27, [[Joanne_McKay]] you have no idea what goes on between us,0
+32,28," [[Brass]] let 's cut the umbilical cord , okay ?",0
+32,29, [[Brass]] six months ago your letters started to come back,1
+32,30, [[Brass]] no more communication with little lord fauntleroy,1
+32,31, [[Brass]] so you apply to desert state,1
+32,32," [[Brass]] they were desperate for nursing staff , so you got a job",1
+32,33, ( Quick flashback to : [_DAY_ROOM_-_DAY_] Valerie Dino introduces Joanne McKay to the inmates . ),1
+32,34," [[Valerie_Dino]] gentlemen , this is our new nurse , nurse mckay",1
+32,35, [[Joanne_McKay]] hello,0
+32,36, ( Joanne turns and looks directly at Adam Trent . ),0
+32,37, ( Adam looks away and starts biting his nails . ),0
+32,38, ( End of flashback . ),0
+32,39, ( Resume to present . ),0
+32,40, [[Brass]] bet it 's tough to turn a folie a deux into a menage a trois,0
+32,41, [[Brass]] n'est-ce pas ?,0
+32,42, ( Quick flashback to : [_ADAM_'S_ROOM_-_NIGHT_] Adam brushes Joanne McKay 's hair . ),0
+32,43, ( He kisses her . ),0
+32,44, ( End of flashback . ),0
+32,45, ( Resume to present . ),0
+32,46, [[Sara]] even tougher that your son was cheating on you ... with a man no less,1
+32,47, ( Quick flashback to : [_COURTYARD_-_DAY_] Joanne watches as Adam meets with Robbie . ),0
+33,0, ( Joanne talks with Adam . ),0
+33,1, [[Joanne_McKay]] you need to stop this,0
+33,2, [[Adam_Trent]] stop what ?,0
+33,3, [[Joanne_McKay]] end it with robbie,1
+33,4, [[Adam_Trent]] do n't tell me what to do,0
+33,5, [[Joanne_McKay]] end it or i will,0
+33,6, ( End of flashback . ),0
+33,7, ( Resume to present . ),0
+33,8," [[Sara]] but he did n't end it , did he ?",0
+33,9, [[Sara]] robbie was lover 's leverage,1
+33,10, [[Sara]] he was that thing that adam kept in his back pocket and pulled out whenever he needed to distance himself from you,0
+33,11, [[Brass]] so you had no choice but to get rid of robbie,1
+33,12," [[Brass]] and being a good nurse , you knew his trigger",1
+33,13, ( Quick flashback to : [_ROBBIE_'S_ROOM_-_DAY_] Joanne takes the photo of Adam off Robbie 's wall and gives it to Robbie . ),0
+33,14, [[Joanne_McKay]] i want you to talk about this in group today,0
+33,15, [[Robbie_Garson]] b-but i thought that we,0
+33,16, [[Joanne_McKay]] it 's okay,0
+33,17, [[Joanne_McKay]] you can bring it,0
+33,18, ( Joanne walks out . ),0
+34,0, ( Robbie looks at the photo in group . ),1
+34,1, [[Joanne_McKay]] hey !,0
+34,2, [[Joanne_McKay]] robbie,1
+34,3, [[Joanne_McKay]] what do you got there ?,1
+34,4, [[Joanne_McKay]] joanne mckay : there 's no personal items in group,0
+34,5, [[Robbie_Garson]] b-but y-you ... you told me ... th-th-that i could bring this,0
+34,6, [[Joanne_McKay]] i did n't say anything,0
+34,7, [[Joanne_McKay]] give me that,0
+34,8," [[Joanne_McKay]] what is that , a picture ?",0
+34,9, ( She tries to take the photo from him . ),0
+34,10, ( Robbie hides the photo from her . ),0
+34,11, [[Robbie_Garson]] you remember ?,0
+34,12, [[Joanne_McKay]] give me the picture,0
+34,13," [[Robbie_Garson]] no , do you remember ?",0
+34,14, [[Robbie_Garson]] you remember ?,0
+34,15, [[Robbie_Garson]] no !,0
+34,16," [[Robbie_Garson]] no , you do n't tell me !",0
+34,17, [[Robbie_Garson]] you told me ... !,0
+35,0, ( Robbie is being restrained on the bed . ),1
+35,1, [[Joanne_McKay]] hang on !,0
+35,2, ( They struggle to restrain Robbie as he screams ),1
+36,0, ( Joanne McKay is in Robbie 's room . ),1
+36,1, ( She takes his pillow and smothers Robbie Garson . ),1
+36,2," ( He struggles against her , but she keeps the pillow firmly on his head . )",1
+36,3, ( End of flashback . ),0
+36,4, ( Resume to present . ),0
+36,5, [[Brass]] you manipulated the situation and took advantage of his weakness,1
+36,6, [[Sara]] exactly what you have been doing to adam for the past twenty years,1
+36,7," [[Sara]] and being such a good mother , you made him cover it up",1
+36,8, [[Sara]] again,0
+36,9, ( Quick flashback to : [_ROBBIE_'S_ROOM_-_NIGHT_] Adam removes Robbie 's body from the bed and places it on the floor . ),1
+36,10, ( He smashes Robbie 's head against the floor until a pool of blood gathers under his head . ),1
+36,11, ( Blood spatters on Adam 's clothes . ),1
+36,12," ( The door opens and Kenny walks in He glances around , sees the blood on the floor and ca n't help himself . )",1
+36,13," ( He rubs his hands in the pool of blood , smashing it against his mouth trying to drink it all in )",1
+36,14, ( End of flashback . ),0
+36,15, ( Resume to present . ),0
+36,16, [[Joanne_McKay]] why would my son do that ?,0
+36,17, [[Sara]] because he loves you as much as he hates you,0
+36,18, [[Joanne_McKay]] you ca n't prove any of this,0
+36,19," [[Brass]] just the incest , which is a class b felony",0
+36,20, [[Brass]] it carries a penalty of up to ten years,0
+36,21, [[Sara]] that 's ten years away from adam,0
+36,22, [[Joanne_McKay]] good luck getting him to testify,0
+36,23, [[Brass]] well,0
+36,24, [[Brass]] okay,0
+36,25, ( Sara gathers her things and heads out of the room . ),0
+36,26, ( The officer in the room steps forward . ),0
+36,27," ( Through the reflection in the glass , we see Grissom is in the observation room watching . )",0
+36,28, ( Sara leaves the room . ),0
+36,29, ( The officer reaches for Joanne McKay . ),0
+36,30," [[Brass]] joanne mckay , you 're under arrest for the crime of incest",1
+36,31," ( Grissom turns and looks at Sara , who is standing next to him . )",0
+36,32, [[Brass]] ... your rights,0
+36,33, [[Brass]] you have the right to,0
+36,34," [[Grissom]] well , jail or no jail ,",0
+36,35, [[Grissom]] -- i do n't think she 'll last six months,0
+36,36, [[Grissom]] she 'll die without her son,0
+36,37, [[Sara]] that would be better for both of them,0
+36,38, ( Grissom turns and looks at Sara . ),0
+36,39," ( He nods , then quietly leaves the room . )",0
+36,40, ( He closes the door behind him . ),0
+36,41, ( Camera lingers on Sara . ),0

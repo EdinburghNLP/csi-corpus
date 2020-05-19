@@ -1,0 +1,1154 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( BARRY SCHICKLE and three other boys come out into the hallway . ),1
+0,1, ( One of the boys is carrying a basketball . ),0
+0,2, ( A school bell rings in the background . ),0
+0,3," [[Barry_Schickle]] i 'm telling you , man",0
+0,4," [[Friend]] see ya , bro",0
+0,5," [[Barry_Schickle]] later , losers",0
+0,6, ( The three boys walk down one hallway and BARRY SCHICKLE walks down another hallway . ),1
+0,7," ( BARRY SCHICKLE looks behind him to make sure that no one 's there , reaches into his backpack with one fluid motion and pulls out a spray can . )",1
+0,8," ( He stops in front of the long row of student lockers and with a final look to make sure that he is truly alone , he confidently sprays 'STICK ' in orange on a particular locker . )",1
+0,9, ( He shows no hesitation . ),1
+0,10, ( It 's as if he 's done this a million times before . ),1
+1,0, ( Close up of door handle as BARRY SCHICKLE enters the men 's bathroom . ),1
+1,1, ( He positions himself in front of the urinal and faces the mirror . ),1
+1,2, ( Something distracts him and he turns around . ),1
+1,3," ( He ducks as the first gunshot hits the corner of the mirror , shattering it . )",1
+1,4, ( The next three shots hit Barry in the back . ),1
+1,5, ( He falls to the floor . ),1
+2,0, [[Brass]] barry schickel,0
+2,1, [[Brass]] wallet 's still with him,0
+2,2, [[Brass]] with cash,0
+2,3, [[Brass]] 'a ' student,0
+2,4, [[Brass]] recently voted class clown,0
+2,5, ( BRASS and GRISSOM are standing over the dead body . ),0
+2,6, ( An officer stands just on the inside of the men 's bathroom door . ),0
+2,7, ( GRISSOM kneels down next to the body for a closer look . ),0
+2,8," [[Grissom]] strange , people usually are n't scared of class clowns",0
+2,9, ( He looks up at BRASS . ),0
+2,10, ( BRASS also kneels down next to GRISSOM . ),0
+2,11, [[Brass]] who said the shooter was scared,0
+2,12, [[Grissom]] shot him in the back,0
+2,13, [[Brass]] with his zipper down and his hands otherwise engaged,0
+2,14, [[Grissom]] yeah,0
+2,15, [[Grissom]] we 're looking for a coward,0
+3,0, ( Two people from the coroner 's office wheel out BARRY SCHICKLE 'S body in a bag on a gurney . ),0
+3,1, ( They pass WARRICK and CATHERINE on the way out as they walk into the school . ),0
+3,2, ( Both are carrying their CSI kits . ),0
+3,3, ( They turn the corner and Catherine sees the janitor cleaning off the orange spray-painted graffiti on the locker . ),0
+3,4, ( The same graffiti made by BARRY SCHICKLE . ),0
+3,5, [[Catherine]] hey !,0
+3,6," [[Catherine]] whoa , whoa , whoa , whoa !",0
+3,7, [[Catherine]] what are you doing ?,0
+3,8, [[Janitor]] removing graffiti,0
+3,9, [[Catherine]] there 's been a murder here,0
+3,10, [[Catherine]] nothing gets cleaned,0
+3,11," [[Janitor]] school policy , miss i have to get this graffiti down as soon as",0
+3,12, [[Catherine]] everything is evidence,0
+3,13, [[Catherine]] policy of the las vegas crime lab,0
+3,14, [[Catherine]] should we call the sheriff ?,0
+3,15, ( The janitor takes one look at CATHERINE 'S unwavering expression and relents . ),0
+3,16, [[Janitor]] no,0
+3,17, [[Catherine]] thank you,0
+3,18, ( The janitor puts his cleaning things down and leaves everything as is . ),0
+3,19, ( WARRICK and CATHERINE continue on . ),0
+3,20, [[Warrick]] bet you were like that in high school,0
+3,21, [[Catherine]] worse,0
+3,22," [[Warrick]] oh , you were the girl i ran away from",0
+3,23, [[Catherine]] yeah,0
+3,24, [[Catherine]] till you caught me,0
+3,25, ( WARRICK laughs . ),0
+3,26, ( CATHERINE smiles . ),0
+4,0, ( BRASS is questioning the School 's Principal while GRISSOM is busy looking at the bullet lodged in the mirror . ),0
+4,1," [[Brass]] so , you say that football practice was over at 5:45 ?",0
+4,2, [[Principal_Perrin]] that 's right,0
+4,3, [[Brass]] and it was okay for a student like this victim to return to the school property to use the restroom,0
+4,4, [[Brass]] that was n't out of the ordinary ?,0
+4,5, ( GRISSOM locates the bullet . ),0
+4,6, [[Grissom]] hand me a bindle,0
+4,7, ( PRINCIPAL PERRIN momentarily turns to GRISSOM . ),0
+4,8, ( The unknown person off screen hands GRISSOM a bindle . ),0
+4,9, ( He continues to extract the bullet lodged in the wall . ),0
+4,10," [[Principal_Perrin]] place is n't locked up till the janitor leaves end of his shift eight , eight-thirty",0
+4,11," [[Principal_Perrin]] until then , the kids at after-school events use the facilities",0
+4,12, ( GRISSOM removes the bullet . ),0
+4,13, [[Grissom]] brass,0
+4,14," [[Principal_Perrin]] excuse me , one of my students is dead",0
+4,15, [[Principal_Perrin]] are we interrupting you ?,0
+4,16, ( GRISSOM turns around to look at the man . ),0
+4,17, [[Grissom]] yeah,0
+4,18, [[Grissom]] a little,0
+4,19, [[Brass]] that 's okay,0
+4,20, [[Brass]] i 'll drop by your office,0
+4,21, [[Brass]] we 'll finish it there,0
+4,22, ( PRINCIPAL PERRIN leaves the men 's room . ),0
+4,23, [[Brass]] you found a slug,0
+4,24," [[Brass]] so , the treasure hunt paid off , huh ?",0
+4,25," [[Grissom]] yeah , it better",0
+4,26, [[Grissom]] we have a point of reference,0
+4,27, ( GRISSOM puts a pink marker in the bullet hole in the wall . ),0
+4,28," [[Brass]] well , the nerd squad is off and running",0
+4,29, [[Brass]] i 'm going to ... uh ... burn a little shoe leather and see whether the victim had a beef with anyone,0
+4,30, ( BRASS leaves the men 's room . ),0
+5,0, ( A Police Rescue helicopter flies over head . ),0
+5,1, [[Rescue_One]] rescue one over drop site,0
+5,2," [[Rescue_One]] we have a visual , baker one",0
+5,3," ( On the helicopter , Sara is in her # 36 hat and Nick in his # 19 hat both waiting to be taken to their location . )",0
+5,4, [[Rescue_One]] stand by for eastern approach,0
+5,5, ( The Rescue helicopter hovers over it 's location . ),0
+5,6, [[Rescue_One]] csi,0
+5,7, [[Rescue_One]] ready for descent,0
+5,8, [[Man_on_Rescue_One]] you 're good to go,0
+5,9, [[Nick]] okay,0
+5,10, [[Nick]] there he is,0
+5,11, [[Nick]] let 's get down there,0
+5,12, ( Both NICK and SARA throw their ropes off the helicopter . ),0
+5,13, ( NICK turns to SARA ... ),0
+5,14, [[Nick]] ready ?,0
+5,15, [[Sara]] i 'll race you !,0
+5,16," ( They both rappel down their ropes and in no time , they 're on the ground . )",0
+5,17, [[Rescue_One]] csi is through the air,0
+5,18, [[Rescue_One]] csi is on the ground,0
+5,19," ( On the ground , they are met by an Emergency Services Man standing guard over the large leather bag . )",0
+5,20, [[Nick]] stokes !,0
+5,21, [[Nick]] sidle !,0
+5,22, [[Nick]] crime lab,0
+5,23, [[Nick]] did you open the bag ?,0
+5,24, [[Hank_Peddigrew_(emergency_service_man)]] only long enough to see one gnarly looking hand,0
+5,25," [[Hank_Peddigrew_(emergency_service_man)]] well , skeleton of a hand",0
+5,26, ( SARA takes off her helmet . ),0
+5,27, ( NICK crouches low to look at the bag . ),0
+5,28, ( He notices the smell . ),0
+5,29, [[Sara]] anyone touch the bag since ?,0
+5,30, [[Hank_Peddigrew]] with that smell ?,0
+5,31, [[Sara]] i thought you emergency service guys were tougher than that,0
+5,32," [[Hank_Peddigrew]] hey , i 'm plenty tough",0
+5,33," [[Sara]] down , boy",0
+5,34, [[Sara]] it was a joke,0
+5,35, ( NICK gets up from his position next to the body and walks toward SARA . ),0
+5,36, ( He has a large grin on his face and is laughing openly at SARA . ),0
+5,37, [[Nick]] he-he,0
+5,38, [[Nick]] nothing like flirting over a d.b,0
+5,39, [[Nick]] you want to airlift the body to the coroner 's,0
+5,40, [[Nick]] we 'll radio ahead,0
+5,41, [[Hank_Peddigrew]] sure,0
+5,42, [[Sara]] great,0
+5,43, ( SARA pulls out a knife and begins to cut the handles off from the bag . ),0
+5,44, [[Hank_Peddigrew]] are you supposed to do that already ?,0
+5,45, [[Sara]] body 's coroner 's,0
+5,46, [[Sara]] property 's ours,0
+5,47," ( Camera holds on HANK PEDDIGREW 'S smile , then refocuses on NICK as he looks up and puts his helmet back on . )",0
+5,48, ( The helicopter overhead drops the hook . ),0
+5,49, ( The hook is attached to the basket holding the bag . ),0
+5,50," ( It takes off , taking its cargo with it . )",0
+5,51, [[Rescue_One]] we have the basket,0
+5,52, [[Rescue_One]] copy that,0
+5,53, [[Rescue_One]] rescue one returning to base,0
+6,0, ( WARRICK and CATHERINE walk in Apparently they are a bit late . ),0
+6,1, ( GRISSOM has been busy in their absence . ),0
+6,2, [[Catherine]] hi,0
+6,3, [[Warrick]] construction on flamingo,0
+6,4, [[Warrick]] i 'm sorry,0
+6,5," [[Grissom]] give me a hand , will you ?",0
+6,6, [[Warrick]] yeah,0
+6,7, ( WARRICK puts his kit down . ),0
+6,8, ( GRISSOM takes out some pink-colored string and begins unraveling it and heads toward the bullet hole in the wall . ),0
+6,9, ( WARRICK takes a closer look at the hole . ),0
+6,10, [[Warrick]] a .38 ?,0
+6,11, [[Grissom]] .44,0
+6,12," [[Grissom]] here , take this",0
+6,13, ( GRISSOM hands the string to WARRICK . ),0
+6,14, ( CATHERINE notices an orange smudged-up thumbprint on the wall in the bathroom stall . ),0
+6,15, ( The camera does a close up of the print . ),0
+6,16," [[Catherine]] brass said the victim had a can of spray paint , right ?",0
+6,17," [[Grissom]] orange , by my kit",0
+6,18, [[Grissom]] it was in his backpack,0
+6,19, ( CATHERINE snaps a picture of the print . ),0
+6,20, ( She turns and looks at the spray can in the zip locked baggie near the backpack . ),0
+6,21," ( She crouches down , picks up the paint can and sighs . )",0
+6,22, [[Grissom]] did you get something ?,0
+6,23, [[Catherine]] paint from another source,0
+6,24, [[Catherine]] i 'm going to find out who belongs to that locker,0
+6,25, ( CATHERINE leaves . ),0
+6,26, ( WARRICK is holding the spool of pink string and is standing on the opposite side of the bathroom from GRISSOM who is holding the end of the string against the bullet hole in the wall . ),0
+6,27, ( They 're trying to estimate the height and position of the shooter . ),0
+6,28, [[Warrick]] kind of weird being in a high school,0
+6,29, [[Grissom]] they do have a timeless quality,0
+6,30, [[Warrick]] what were you ?,0
+6,31, [[Warrick]] a jock or a brain ?,0
+6,32, [[Grissom]] i was a ghost,0
+6,33, ( WARRICK laughs at the response . ),0
+6,34, ( GRISSOM smiles . ),0
+6,35, [[Grissom]] here,0
+6,36, ( GRISSOM removes the pink marker from the bullet hole in the wall and looks across the room at WARRICK . ),0
+6,37, [[Grissom]] shooter was standing right there,0
+6,38, ( WARRICK holds out his index finger and thumb as if holding an imaginary gun . ),0
+6,39, ( He fires . ),0
+6,40, ( Begin bluish-white hazy flashback . ),0
+6,41, ( Camera moves along the pink-colored string in the same trajectory as the bullet shot . ),0
+6,42, ( The other gunshots follow . ),0
+6,43," ( As it passes the urinal , it hits BARRY SCHICKLE , who is standing there with this backpack . )",0
+6,44, ( The camera continues it 's movement till we see GRISSOM also in the frame . ),0
+6,45, ( BARRY SCHICKLE falls to the floor in a puddle of blood ... and disappears . ),0
+6,46, ( End of flashback . ),0
+6,47, ( Resume on GRISSOM . ),0
+6,48, ( GRISSOM kneels where BARRY SCHICKLE fell . ),0
+6,49, ( Right in front of the blood markings on the floor . ),0
+6,50, [[Grissom]] and ... ?,0
+6,51," [[Warrick]] reconstruction guys can give us a more precise angle measurement , but i 'm thinking ... five-four ... maybe three",0
+6,52, [[Warrick]] we got ourselves a shorty,0
+7,0, [[Nick]] let 's see what metal shows up,0
+7,1," ( Using a machine to x-ray into the bag without actually opening it , DAVID PHILLIPS , NICK and SARA examine its metallic contents . )",0
+7,2," [[Nick]] well , there 's no gun on our dead body",0
+7,3, [[Sara]] would n't it be easier to just unzip the bag and see what kind of shape our vic is in ?,0
+7,4, [[David_Phillips]] i like to put that off till the last possible moment with decomps,0
+7,5, [[Sara]] i see a coin looks like a half dollar,0
+7,6," [[David_Phillips]] silver , whole",0
+7,7, [[David_Phillips]] i 've done a few of these,0
+7,8, [[Nick]] what 's that ?,0
+7,9, [[Nick]] there,0
+7,10, [[Nick]] about four inches long,0
+7,11, [[Nick]] what is that ?,0
+7,12, [[David_Phillips]] it looks like a pin it 's a medical implant,0
+7,13, ( They pull the table the bag rests on completely through the machine . ),0
+7,14," [[David_Phillips]] oh , and that 's a plate in the skull",0
+7,15, [[David_Phillips]] the head 's been rolled,0
+7,16, [[Sara]] i 'd say we 're dealing with a man,0
+7,17," [[David_Phillips]] yeah , and by the sound of things he 's been dead about two months",0
+7,18, [[Sara]] sound ?,0
+7,19, ( DAVID PHILLIPS reaches out to rustle the bag . ),0
+7,20," ( Inside , we hear the shloshing sound of liquid . )",0
+7,21, [[David_Phillips]] you were n't here when esd brought this in,0
+7,22," [[Nick]] well , it was n't from lack of trying",0
+7,23, ( SARA looks at NICK ... and smiles . ),0
+7,24, [[David_Phillips]] let 's go to the v.i.p,0
+7,25, [[David_Phillips]] room,0
+7,26, [[David_Phillips]] i 'll show you what i mean,0
+8,0, ( Extreme close up of orange fingerprint . ),0
+8,1, ( Flash to white . ),0
+8,2, ( Camera moves back to reveal the bright light of the flashlight shining on the bottom of the orange spray-painted letter 't ' on the locker . ),0
+8,3, ( CATHERINE fingers the portion of the letter that was smudged . ),0
+8,4," ( Camera slowly moves left and stops on JULIA BARRETT , the school 's counselor . )",1
+8,5, [[Julia_Barett]] that 's dennis fram 's locker,0
+8,6, [[Catherine]] and was this a first or has the deceased spray-painted his locker before ?,0
+8,7," [[Julia_Barett]] look , i 'm the school counselor i do n't know every move these kids make",1
+8,8," [[Catherine]] well , that 's obvious or a young man would n't be dead",0
+8,9, [[Catherine]] tell me what 'stick ' means,0
+9,0, ( Close up on a walkie-talkie shaped hand-held device . ),0
+9,1, ( Camera moves back and we see that WARRICK is holding the device out in front of him and doing a slow air-sweep of the bathroom stall where the shooter was supposedly standing . ),0
+9,2, ( GRISSOM passes by WARRICK and notices the device . ),0
+9,3, [[Grissom]] is that a polymer sensor proboscis ?,0
+9,4," ( WARRICK stops what he 's doing and shows the device to GRISSOM , who takes it and looks at it . )",0
+9,5, [[Warrick]] cyranose 320,0
+9,6," [[Warrick]] company sent it to me , gratis for a week",0
+9,7," [[Warrick]] they figure if it helps , csi will buy one",0
+9,8, [[Grissom]] electronic noses run like ten grand,0
+9,9," [[Warrick]] yeah , well ... what if the shooter chews a certain kind of tobacco or has a unique halitosis and the e-nose picks up on it ?",0
+9,10," [[Grissom]] if that thing ran out of here and bit the shooter in the ass , the county would not approve a $ 10,000 purchase order",0
+9,11," ( GRISSOM hands the device back to WARRICK , turns and heads toward his kit . )",0
+9,12, ( He kneels and begins putting something together . ),0
+9,13, ( WARRICK slowly sweeps the air in the stall as GRISSOM speaks . ),0
+9,14, [[Warrick]] i thought it was our job to speak for the victim no matter what it took ... and to hell with the budgets,0
+9,15," [[Grissom]] our job is to think , warrick",0
+9,16, [[Grissom]] machinery should never matter more than our mind,0
+9,17, [[Grissom]] try this,0
+9,18," ( GRISSOM stands and hands WARRICK an Erlenmeyer flask , a tube with a rubber stopper and a pump . )",0
+9,19, ( He squeezes the pump a few times before giving it all to WARRICK . ),0
+9,20, [[Grissom]] glass tube,0
+9,21, [[Grissom]] air pump,0
+9,22, [[Warrick]] air pump,0
+9,23, [[Warrick]] cost about ten bucks,0
+9,24, ( GRISSOM turns and heads out the restroom . ),0
+9,25, [[Warrick]] absorption agent ?,0
+9,26," ( GRISSOM turns back to WARRICK , glances down at his kit and smiles . )",0
+9,27, [[Grissom]] fresh out,0
+9,28, [[Grissom]] improvise,0
+9,29, ( GRISSOM leaves the restroom and WARRICK holding the ten grand e-nose in his right hand and the ten dollar air pump in his left hand . ),0
+9,30, ( WARRICK sighs . ),0
+10,0," ( Out in the hallway , four boys stand with a guard near the yellow-taped barrier blocking off the hallway . )",0
+10,1, ( CATHERINE fills GRISSOM in on the kid who belonged to the spray-canned locker . ),0
+10,2," ( The school counselor , JULIA BARRETT is with them . )",0
+10,3, [[Catherine]] and miss barrett says that a dennis fram had been bullied by the deceased all year,0
+10,4, [[Catherine]] he spray-painted his locker many times always something to do with his build,0
+10,5," [[Catherine]] 'skinny , ' 'shorty ' ... that kind of thing",0
+10,6, [[Julia_Barett]] dennis is slight and barry always picks on him for it,0
+10,7, [[Grissom]] can you arrange for us to meet with dennis ?,0
+10,8," [[Julia_Barett]] of course , but he would never hurt barry",0
+10,9, [[Julia_Barett]] he 's a good kid,0
+10,10, [[Julia_Barett]] he 's totally nonviolent,0
+10,11," [[Grissom]] well , then , this will be brief",0
+10,12, ( JULIA BARRETT sighs . ),0
+10,13, ( She turns and walks down the hallway toward her office . ),0
+10,14, ( GRISSOM starts to follow . ),0
+10,15, ( CATHERINE turns back to look at the locker . ),0
+10,16, [[Julia_Barett]] we can call him from my office,0
+10,17, ( GRISSOM notices that CATHERINE is n't following . ),0
+10,18, ( He stops . ),0
+10,19, ( JULIA BARRETT continues down the hallway . ),0
+10,20, [[Grissom]] you coming ?,0
+10,21," [[Catherine]] oh , i 'll catch up to you",0
+10,22, ( GRISSOM turns and follows JULIA BARRETT . ),0
+10,23, ( CATHERINE looks around and sees THE JANITOR carrying a ladder walking along the hallway past the various colored signs hanging on the wall . ),0
+10,24, ( He stops when CATHERINE calls out to him . ),0
+10,25, [[Catherine]] hey,0
+10,26, [[Catherine]] i need to talk to you,0
+10,27, [[Janitor]] i did n't clean anything,0
+10,28, [[Catherine]] it 's not about that,0
+11,0, ( JULIA BARRETT is sitting behind her desk . ),0
+11,1, ( GRISSOM is leaning against a pillar in her office and DENNIS FRAM is standing in front of JULIA BARRETT 'S desk . ),0
+11,2," [[Grissom]] how tall are you , dennis ?",0
+11,3, [[Dennis_Fram]] five-three ... and one quarter,0
+11,4, [[Grissom]] have you washed your hands in the last hour ?,0
+11,5, [[Dennis_Fram]] yeah,0
+11,6, [[Dennis_Fram]] why ?,0
+11,7, [[Grissom]] changed your shirt ?,0
+11,8, [[Dennis_Fram]] no,0
+11,9, [[Grissom]] i 'd like to do a test on your shirt if i may,0
+11,10, [[Dennis_Fram]] what kind of test ?,0
+11,11, [[Grissom]] forensic,0
+11,12, ( DENNIS FRAM again looks nervously at JULIA BARRETT who says nothing . ),0
+11,13, ( GRISSOM 'S kit is open on the desk . ),0
+11,14, ( He picks up a small plastic pump bottle filled with a clear liquid . ),0
+11,15, ( Standing next to him is DENNIS FRAM in a white t-shirt . ),0
+11,16, ( JULIA BARRETT is standing next to DENNIS FRAM . ),0
+11,17, ( DENNIS ' blue short-sleeved shirt is on a hanger on a rack . ),0
+11,18, ( GRISSOM sprays the liquid on the shirt . ),0
+11,19, ( He puts the small plastic bottle back in the kit and picks up another bottle similar to the first . ),0
+11,20, ( He also sprays this on to the shirt . ),0
+11,21," ( In front of their eyes , the shirt emits a bright blue stain )",0
+11,22, [[Dennis_Fram]] what is that ?,0
+11,23, [[Grissom]] g.s.r,0
+11,24," [[Grissom]] when someone fires a weapon , gunshot residue plumes back onto their hands and clothing",0
+11,25, ( Short CGI video POV in slow motion of a handgun being fired ; and a cloud of residue coming from the gun and sticking onto the shirt of the person holding the gun . ),0
+11,26, ( End of CGI . ),0
+11,27, [[Grissom]] this means that you fired a gun within the last three to six hours,0
+11,28, [[Julia_Barett]] dennis,0
+11,29, [[Grissom]] the police are going to want to talk to you,0
+11,30, ( Camera holds on DENNIS FRAM 'S face . ),0
+12,0, ( Camera on GRISSOM sitting in a sofa chair in JULIA BARRETT 'S office . ),0
+12,1, ( JULIA BARRETT is sitting behind her desk . ),0
+12,2, ( BRASS is standing off to the side of her desk facing DENNIS FRAM still in his white shirt in front of the desk . ),0
+12,3," [[Brass]] so , you admit you fired a gun",0
+12,4, [[Dennis_Fram]] i was over at the shooting range on desert way,0
+12,5, [[Brass]] so the same night that barry schickel was shot and killed you were out taking target practice ?,0
+12,6, [[Dennis_Fram]] i go every monday night,0
+12,7, [[Dennis_Fram]] you can ask my sister,0
+12,8, [[Dennis_Fram]] she goes with me,0
+12,9, [[Brass]] where 's your gun ?,0
+12,10, [[Dennis_Fram]] i rent different ones there,0
+12,11, [[Grissom]] did you ever rent a .44 caliber ?,0
+12,12, [[Dennis_Fram]] sometimes,0
+12,13," ( Outside , there 's a commotion as a young woman tries to get into the office . )",0
+12,14," ( The guard is trying to stop her , the young woman pushes the guard aside and opens the door . )",0
+12,15, ( She 's angry . ),0
+12,16, [[Kelsey_Fram]] i 'm going to see my brother !,0
+12,17, [[Kelsey_Fram]] get out of the way !,0
+12,18, ( The young woman walks in and kneels in front of DENNIS FRAM . ),0
+12,19," [[Kelsey_Fram]] denny , are you okay ?",0
+12,20, [[Kelsey_Fram]] got your call,0
+12,21," [[Dennis_Fram]] i 'm fine , i 'm fine",0
+12,22, [[Brass]] we 're conducting a police investigation here,0
+12,23, [[Kelsey_Fram]] my dad 's back in town tonight and you 'll be sorry you harassed my little brother,0
+12,24, [[Brass]] 'questioned ',0
+12,25, [[Brass]] a student was shot and killed in this building tonight,0
+12,26, [[Julia_Barett]] you know what ?,0
+12,27, [[Julia_Barett]] dennis has explained to you about the gunpowder,0
+12,28, [[Julia_Barett]] and i am sure his sister will vouch for his whereabouts,0
+12,29, [[Julia_Barett]] and he 's a minor,0
+12,30, [[Grissom]] jim,0
+12,31, [[Brass]] we 'll be in touch,0
+12,32, ( Camera holds on KELSEY FRAM and DENNIS FRAM . ),0
+13,0, ( DAVID PHILLIPS starts to unzipper the leather bag . ),0
+13,1, ( He stops halfway and issues a final warning to SARA and NICK . ),0
+13,2," [[David_Phillips]] remember , breathe through your mouth",0
+13,3, ( They both nod their heads . ),0
+13,4, ( He unzippers and opens the leather bag . ),0
+13,5, ( SARA immediately reacts to the stench . ),0
+13,6," ( NICK turns his head away and swallows as he , too , has n't been unaffected by the smell of the decomposing body . )",0
+13,7, ( The first thing DAVID pulls out of the bag is an arm cut off at the elbow . ),0
+13,8," ( As he said , he 's done this before . )",0
+13,9, ( He 's breathing through his mouth . ),0
+13,10, ( SARA struggles to do the same . ),0
+13,11, ( He then pulls out the skull and shows it to the CSIs . ),0
+13,12, [[David_Phillips]] metal plate,0
+13,13, ( He places the skull with metal plate next to the arm on the table . ),0
+13,14, ( He reaches into the bag and holds out a ... ),0
+13,15, [[Sara]] silver dollar,0
+13,16," ( That , too , goes on the table . )",0
+13,17, ( He looks once again into the bag and pulls out the ... ),0
+13,18, [[Nick]] gambling chip,0
+13,19, ( SARA struggles to breathe . ),0
+13,20, [[David_Phillips]] ... and,0
+13,21," ( DAVID clears his throat and pulls out a man-sized , dripping wet ... )",0
+13,22, [[Nick]] jacket,0
+13,23," [[Nick]] government issue , army",0
+13,24, [[Sara]] ugh,0
+13,25, ( The jacket goes on the table next to the other contents from the bag . ),0
+13,26, ( NICK writes on the clip board he 's carrying . ),0
+13,27, ( DAVID looks back into the bag . ),0
+13,28, [[David_Phillips]] pile of bones and that 's it,0
+13,29, [[Sara]] that 's it ?,0
+13,30, [[Sara]] no organs ?,0
+13,31, [[Sara]] no-no tonsils ?,0
+13,32, [[Sara]] no,0
+13,33," ( DAVID turns the rest of the bag over and out pours thick , black ... )",0
+13,34, [[Sara]] ... soup ?,0
+13,35, [[Nick]] human ... soup,0
+13,36," [[Nick]] well , we are 73.5 % liquid , eh , dave ?",0
+13,37, ( The thick black 'soup ' oozes across the counter and down into the sink . ),0
+13,38," [[David_Phillips]] add some bacteria , a couple gases , and ... voila !",0
+13,39," [[Sara]] okay , i 'll take liquid man 's jacket , see what i can find",0
+13,40, ( SARA turns away . ),0
+13,41, ( She starts brushing away at her scrubs . ),0
+13,42, [[David_Phillips]] i 'll cremate this,0
+13,43, [[Nick]] what if we find the family or they find us ?,0
+13,44, [[David_Phillips]] a decomp this bad can stink up the entire building ... forever,0
+13,45," [[David_Phillips]] the sooner we dispose of this , the better",0
+13,46, ( NICK also turns away . ),0
+13,47, ( He seems to be holding what looks like the skull in his hands . ),0
+13,48, [[Nick]] not for our investigation,0
+13,49, ( They both leave DAVID to dispose the body . ),0
+14,0, ( Both SARA and NICK tear out of the Autopsy Room gasping for a breath of fresh air . ),0
+14,1, ( SARA is carrying a blue plastic bag and NICK is carrying a small plastic container . ),0
+14,2, ( They run into GRISSOM as he passes the hallway . ),0
+14,3, [[Grissom]] let me guess,0
+14,4, [[Grissom]] decomp in an enclosed space ?,0
+14,5, [[Sara]] yeah,0
+14,6," [[Nick]] yeah , in a zip bag",0
+14,7, [[Grissom]] lemons,0
+14,8, [[Sara]] what ?,0
+14,9, [[Grissom]] use lemons,0
+14,10, ( GRISSOM mimics squeezing lemons on his own head to demonstrate what he means . ),0
+14,11, [[Nick]] hmm,0
+14,12, ( NICK leaves . ),0
+14,13, ( SARA turns around and looks back into the room they just came from . ),0
+14,14," ( She sees DAVID PHILLIPS washing away Liquid Man from the table , cleaning up the mess ... disposing the body . )",0
+14,15, ( He 's breathing through his mouth ... just as he 's done so many times before . ),0
+14,16," ( As she watches through the protection of the glass window , we see a new found respect in SARA for the man and the profession . )",0
+15,0, ( A CORONER fills out a form and puts it in the metal file box on the table next to him . ),0
+15,1, ( He 's standing inside what appears to be a large file room . ),0
+15,2, ( The entire wall is filled from floor to ceiling with little file drawers . ),0
+15,3, ( The CORONER climbs the ladder and places the box in a file cabinet drawer with the following label . ),0
+16,0, ( WARRICK 'S crushing something with a pestle in a mortar . ),0
+16,1, ( CATHERINE walks by . ),0
+16,2, [[Catherine]] so how 's your new toy working out ?,0
+16,3, [[Warrick]] it 's been downsized,0
+16,4, [[Catherine]] bummer,0
+16,5, [[Catherine]] i know how you wanted to see that thing work,0
+16,6," [[Warrick]] well , it 's the same difference , really",0
+16,7," ( WARRICK stands up and holds out the Erlenmeyer flask with the crushed chalk on the bottom , tube with rubber stopper and the air pump . )",0
+16,8, ( It 's not attached yet . ),0
+16,9, ( Close up CGI POV as WARRICK speaks . ),0
+16,10, ( The air pump is squeezed and air is sucked into the flask through the tube . ),0
+16,11, ( Camera close up on the chalk inside the flash absorbing the air . ),0
+16,12, ( End of CGI POV . ),0
+16,13, ( Cut back to WARRICK and CATHERINE . ),0
+16,14, [[Warrick]] air is drawn into the last tube the chalk absorbs the chemicals from the air,0
+16,15, [[Warrick]] and mass spec will break it down at the lab,0
+16,16, [[Catherine]] so why did you need the expensive one in the first place ?,0
+16,17, [[Warrick]] 'cause it was cool,0
+16,18, ( Off CATHERINE as she smiles at WARRICK 'S honesty . ),0
+16,19," ( No matter how old they are , it 's all about the cool toys . )",0
+16,20, [[Catherine]] i 'll see you in homeroom,0
+16,21, [[Warrick]] all right,0
+16,22, ( CATHERINE leaves WARRICK to carry on . ),0
+17,0, ( ROBBINS and GRISSOM are examining BARRY SCHICKLE 'S body . ),0
+17,1, ( The body is rolled partially on its left side to expose the bullet holes on the back . ),0
+17,2, [[Robbins]] barry schickel from the high school,0
+17,3, [[Robbins]] dug three of these .44 's from his back,0
+17,4, ( ROBBINS holds out a slug . ),0
+17,5, ( He puts it in the tray on the side . ),0
+17,6, [[Robbins]] first one cracked his infraspinous fossa,0
+17,7, ( CGI POV of the bullet cracking through bone . ),0
+17,8, ( Flash to white . ),0
+17,9, ( Resume on GRISSOM . ),0
+17,10, [[Robbins]] second one entered ... past the interior angle of the scapula punctured a lung,0
+17,11, ( CGI POV of a second bullet piercing through a lung in slow motion . ),0
+17,12, ( Flash to white . ),0
+17,13, ( Resume on ROBBINS and GRISSOM . ),0
+17,14, [[Robbins]] and the last one entered just right of the right anterior sarratus muscle ... pierced the heart,0
+17,15, [[Grissom]] the heart ?,0
+17,16, [[Grissom]] that makes no sense,0
+17,17, [[Robbins]] this is a special case,0
+17,18, ( ROBBINS rolls the body onto its back . ),0
+17,19, ( He points to a small four-holed scar on the body . ),0
+17,20, [[Robbins]] see the scar ?,0
+17,21, [[Robbins]] this guy was attacked before,0
+17,22, [[Robbins]] i 'd say in the last six months,0
+17,23," [[Grissom]] but not with a knife , it looks like prongs",0
+17,24," [[Robbins]] whatever it was , it would 've killed him",0
+17,25, [[Robbins]] if his heart had been there,0
+17,26," ( CGI POV of a fork puncturing through the chest , down past the rib cage to the organ ... or non-organs beneath . )",0
+17,27, ( Flash to white . ),0
+17,28, ( Resume on GRISSOM . ),0
+17,29, [[Grissom]] where was his heart ?,0
+17,30, [[Robbins]] barry 's upper body ?,0
+17,31, [[Robbins]] all his internal organs are on the opposite side of typical placement,0
+17,32, ( ROBBINS and GRISSOM move to the x-ray viewer where the film of the body is on display . ),0
+17,33, [[Grissom]] dextrocardia ?,0
+17,34, [[Grissom]] like dr no ?,0
+17,35, [[Grissom]] that only presents in .01 % of the population ?,0
+17,36," [[Robbins]] which was good for this guy , until his luck ran out",0
+17,37, ( GRISSOM looks back at the body . ),0
+17,38, [[Grissom]] how long ago did you say he was stabbed ?,0
+17,39," [[Robbins]] six months , hand-to-hand combat",0
+17,40, [[Robbins]] sounds like something your suspect would do ?,0
+17,41, [[Grissom]] no,0
+18,0, ( Close up of tag on the jacket SARA 'S working on . ),0
+18,1, ( She 's removing the guck from it . ),0
+18,2, ( NICK bursts into the room . ),0
+18,3," [[Nick]] hey , how 's liquid man doing ?",0
+18,4, [[Sara]] you mean 'mr cartsen ' ?,1
+18,5, [[Sara]] i found this,0
+18,6, [[Sara]] it 's a nametag,0
+18,7, ( NICK puts on a pair of latex gloves to assist SARA . ),0
+18,8," [[Nick]] you know , sara , a lot of homeless guys get these army jackets cheap at salvage stores",0
+18,9," [[Sara]] well , it 's a start",0
+18,10, [[Sara]] i 'm going to get homicide to check the va medical database for a 'w,1
+18,11, [[Sara]] cartsen ' with plates or pins,1
+18,12, [[Nick]] okay,0
+18,13, ( NICK checks out the jacket pockets and finds something . ),0
+18,14, ( He pulls out a small matchbook shaped item . ),0
+18,15, [[Nick]] ugh,0
+18,16, [[Sara]] what do you got ?,0
+18,17, ( NICK holds it up for a closer look . ),0
+18,18, [[Nick]] i do n't know,0
+18,19, [[Nick]] i ca n't read an address or a phone number,0
+18,20," [[Sara]] god , it reeks !",0
+18,21, [[Sara]] q.d,0
+18,22," [[Sara]] should be able to , uh ... to bring something up",0
+18,23, ( SARA turns around and empties her stomach in the trash can behind her . ),0
+18,24, ( She 's more than a little embarrassed that it happened in front of NICK . ),0
+18,25, ( She wipes her mouth and looks at him . ),0
+18,26, [[Sara]] do n't tell anyone,0
+18,27, [[Nick]] about what ?,0
+18,28, ( The door to the room opens and L.V.P.D . ),0
+18,29, ( Emergency Services HANK PEDDIGREW looks in ),0
+18,30, [[Hank_Peddigrew]] sara ?,0
+18,31, [[Sara]] hi,0
+18,32, [[Hank_Peddigrew]] they told me out front i could find you ... here,0
+18,33," ( All of a sudden , HANK PEDDIGREW realizes what SARA is working on . )",0
+18,34, [[Sara]] yeah,0
+18,35, [[Sara]] um,0
+18,36, [[Sara]] i 'll be right out,0
+18,37, ( The door closes . ),0
+18,38, [[Sara]] give me a mint,0
+18,39, [[Nick]] you 're going to need more than one,0
+18,40, [[Sara]] just give me,0
+19,0, ( HANK PEDDIGREW waits for SARA out in the hallway taking deep breaths of fresh air . ),0
+19,1, ( SARA comes out of the room . ),0
+19,2, ( She smiles at HANK . ),0
+19,3, [[Sara]] this is a nice surprise,0
+19,4, [[Hank_Peddigrew]] i wanted to see if you 'd like to have dinner,0
+19,5, [[Sara]] yeah,0
+19,6, [[Sara]] um ... when ?,0
+19,7, [[Hank_Peddigrew]] now,0
+19,8, [[Hank_Peddigrew]] i 'm on break,0
+19,9," [[Sara]] oh , well , i 'm in the middle of that d.b",0
+19,10, [[Sara]] from the gully,0
+19,11, [[Sara]] he 's still a john doe and we do n't know the circumstances,0
+19,12, ( HANK PEDDIGREW does n't say anything . ),0
+19,13, ( He does n't seem to be smiling . ),0
+19,14," ( In fact , he does n't seem to be breathing at all . )",0
+19,15, ( SARA realizes what it must be . ),0
+19,16, [[Sara]] i smell,0
+19,17, [[Hank_Peddigrew]] no ... well ... not that bad,0
+19,18," [[Sara]] i changed clothes ... tho ' the problem is that it 's human fat reduced and it 's attached itself to my follicles and my pores , so",0
+19,19," ( Once again , HANK does n't seem to be breathing . )",0
+19,20, ( He shifts his weight uncomfortably . ),0
+19,21, [[Sara]] you do n't look good,0
+19,22, [[Hank_Peddigrew]] i need to get some air,0
+19,23, ( HANK turns to leave . ),0
+19,24, [[Sara]] ok,0
+19,25, ( She moves to follow . ),0
+19,26, ( HANK turns around to stop her . ),0
+19,27," [[Hank_Peddigrew]] uh , no , you-you stay",0
+19,28," [[Hank_Peddigrew]] uh , you 've got that john doe to worry about and , uh ... well , i can always stop by another time",0
+19,29, [[Sara]] right,0
+19,30, ( HANK peals it out of there . ),0
+19,31, [[Sara]] okay,0
+19,32, ( She lifts her hand up in a wave to his retreating back . ),0
+19,33, [[Sara]] bye,0
+19,34, ( He disappears down the hallway passing GREG on the way out . ),0
+19,35, ( GREG walks past SARA and stops . ),0
+19,36, ( quietly ),0
+19,37, [[Greg]] you smell like death,0
+19,38, [[Sara]] i 've heard,0
+19,39," ( He takes a few steps , stops again and turns around . )",0
+19,40, [[Greg]] you know ... a real man would n't mind,0
+19,41, ( GREG disappears around the corner . ),0
+19,42, ( SARA turns to look at GREG for a moment . ),0
+19,43, ( The then turns to stare at the empty hallway in the direction that PEDDIGREW just left . ),0
+19,44, ( She sighs . ),0
+20,0, ( Long Camera Shot of GRISSOM and JULIA BARRETT walking through the main school grounds . ),0
+20,1, [[Julia_Barett]] have you talked to barry 's parents ?,0
+20,2, [[Grissom]] i did ; they had no idea he 'd been stabbed,0
+20,3, [[Julia_Barett]] the older kids get the less they talk to their parents,0
+20,4," [[Grissom]] they talk to you , though , right ?",0
+20,5, [[Grissom]] the guidance counselor ?,0
+20,6, [[Grissom]] who else may have had it in for barry schickel ?,0
+20,7, ( JULIA BARRETT stops . ),0
+20,8," [[Julia_Barett]] look , he was very popular and he was a bully",0
+20,9, [[Julia_Barett]] so there was probably a dozen kids who wanted to see him dead,0
+20,10, ( She continues in the direction they were walking . ),0
+20,11, ( GRISSOM follows . ),0
+20,12, [[Grissom]] really ?,0
+21,0, [[Bram]] i 'd be walking by and ... he would punch me,0
+21,1, ( Flash to white . ),0
+21,2, ( Flashback of BARRY SCHICKLE hitting BRAM rather hard in the head . ),0
+21,3, ( BRAM falls to the ground . ),0
+21,4, ( Cut to abdomen shot of students in crowd laughing . ),0
+21,5, ( Flash to white . ),0
+21,6, ( Resume on BRAM . ),0
+21,7, [[Bram]] everybody started calling me 'flinch ',0
+21,8, [[Bram]] even the teachers,0
+22,0, ( Flashback of kid carrying school books . ),0
+22,1, ( Someone ( BARRY SCHICKLE ) bumping into the kid to deliberately make them drop the books . ),0
+22,2, ( Books falling to the ground . ),0
+22,3, [[Barry_Schickle]] move !,0
+22,4, ( Flash to white . ),0
+22,5, ( End of Flashback . ),0
+22,6, ( Resume on ALAN . ),0
+22,7, [[Alan]] he was the meanest guy i 've ever known,0
+22,8," [[Alan]] but the way he put you down , it sounded funny",0
+22,9, [[Alan]] if it was n't you,0
+23,0," [[Dylan]] he 'd wait for me , every day",0
+23,1," [[Dylan]] lunch time , fourth period",0
+23,2, [[Dylan]] take my food,0
+23,3, ( Flash to white . ),0
+23,4, ( Flashback of close-up of a plate of food on a tray on a table . ),0
+23,5, [[Barry_Schickle]] yo !,0
+23,6, [[Barry_Schickle]] hungry ?,0
+23,7, [[Barry_Schickle]] ha !,0
+23,8, [[Barry_Schickle]] thanks for the sandwich,0
+23,9, ( Someone deliberately knocking over the try of food and it falls to the ground . ),0
+23,10, ( Flash to white . ),0
+23,11, ( End of flashback . ),0
+23,12, ( Resume on DYLAN . ),0
+23,13, [[Dylan]] until i fixed him,0
+23,14," [[Dylan]] it was about half a year ago , i went at him",0
+23,15, [[Grissom]] with a fork ?,0
+23,16, [[Grissom]] stabbed him above his left pectoral,0
+23,17, [[Dylan]] yeah,0
+23,18, [[Dylan]] it still did n't stop him,0
+23,19," [[Dylan]] i mean , today was the first day i could come to school and not feel like a moving target",0
+23,20, [[Grissom]] where were you last night about 6:00 ?,0
+23,21, [[Dylan]] when barry was shot ?,0
+23,22, ( GRISSOM does n't crack a smile . ),0
+23,23, [[Dylan]] boxing practice,0
+23,24, [[Grissom]] okay,0
+23,25, [[Grissom]] thanks,0
+23,26, ( DYLAN leaves . ),0
+23,27, [[Julia_Barett]] i can protect them from being called a derogatory word for homosexual or the n-word,0
+23,28, [[Julia_Barett]] everything else falls under free speech,0
+23,29, [[Grissom]] no one 's blaming you,0
+23,30, [[Julia_Barett]] i am,0
+23,31," [[Grissom]] you know who did this , do n't you ?",0
+23,32, [[Julia_Barett]] you have no idea what these kids go through,0
+23,33, [[Julia_Barett]] i listen to them every day,0
+23,34," [[Julia_Barett]] divorce , working parents ... cliques",0
+23,35, [[Julia_Barett]] and all they need is just one person to believe in them,0
+23,36, [[Grissom]] yeah,0
+23,37, [[Grissom]] but where does that leave barry schickel ?,0
+23,38, [[Julia_Barett]] that 's your job,0
+23,39, ( Camera holds on GRISSOM . ),0
+24,0, [[Nick]] shut up,0
+24,1, [[Nick]] she was not,0
+24,2, [[Warrick]] i saw her in action,0
+24,3, [[Nick]] really ?,0
+24,4," [[Warrick]] yeah , she was",0
+24,5, [[Nick]] catherine ?,0
+24,6, ( CATHERINE walks into the break room . ),0
+24,7, ( She smiles . ),0
+24,8, [[Catherine]] i was what ?,0
+24,9, [[Warrick]] i was just telling nick how you were a big bully in high school,0
+24,10, [[Catherine]] a bully ?,0
+24,11," [[Catherine]] all right , i guess i was",0
+24,12," [[Catherine]] but , i mean , not the kind that people want to take a gun out and shoot",0
+24,13, [[Warrick]] no,0
+24,14," [[Nick]] no , no",0
+24,15, [[Nick]] you were the kind that guys fall all over themselves trying to impress,0
+24,16," [[Catherine]] like you , nick , huh ?",0
+24,17, ( CATHERINE puts a hand on NICK 'S shoulder for emphasis . ),0
+24,18," ( Oh , yeah . )",0
+24,19, ( NICK gets her meaning . ),0
+24,20, ( She smiles . ),0
+24,21, ( He moves to sit down . ),0
+24,22," [[Catherine]] oh , nick ... what were you in high school ?",0
+24,23, [[Nick]] me ?,0
+24,24," [[Nick]] i was , uh",0
+24,25, [[Nick]] i was 'dependable ',0
+24,26, [[Catherine]] dependable,0
+24,27, [[Nick]] mm-hmm,0
+24,28," [[Catherine]] dependable jock , dependable stoner ?",0
+24,29, [[Nick]] no,0
+24,30," [[Nick]] never a strap , never a smoker",0
+24,31," [[Nick]] just all-around 'dependable ' guy , i guess",0
+24,32, [[Warrick]] what nick 's trying to say he was unpopular,0
+24,33, ( CATHERINE laughs . ),0
+24,34," [[Nick]] i was popular with the right people , i can tell you that",0
+24,35, [[Nick]] i can also tell you what i was n't,0
+24,36," [[Nick]] i was n't a mac daddy wannabe with a members only jacket , putting his swerve on all the ladies",0
+24,37, [[Warrick]] what was wrong with those members only jackets ?,0
+24,38, [[Warrick]] they were kind of cool back in the day,0
+24,39, ( SARA walks in and lingers at the doorway . ),0
+24,40," [[Sara]] hey , nick",0
+24,41," [[Sara]] ronnie 's got something on liquid man , says it 's hot",0
+24,42, [[Nick]] good,0
+24,43, ( NICK gets up to leave . ),0
+24,44," [[Warrick]] hey , sara",0
+24,45, [[Warrick]] what were you in high school ?,0
+24,46, [[Sara]] science nerd,0
+24,47, ( NICK passes SARA in the doorway and stops . ),0
+24,48, ( He leans in a bit . ),0
+24,49, [[Nick]] you changed,0
+24,50, [[Nick]] but you still smell,0
+24,51," ( He heads out and down the hallway , calling back to SARA: )",0
+24,52, [[Nick]] let 's go !,0
+24,53," [[Catherine]] so that leaves you , warrick",0
+24,54, [[Catherine]] what were you ?,0
+24,55," [[Warrick]] oh , i was short , i had big feet , thick glasses",0
+24,56, [[Catherine]] you ?,0
+24,57, [[Warrick]] yeah,0
+24,58, [[Warrick]] i got pushed around by all the guys and never got any play from the girls,0
+24,59, [[Catherine]] the girls did n't even notice your eyes ?,0
+24,60," [[Warrick]] no , they used to tease me about my eyes",0
+24,61, [[Warrick]] called me names,0
+24,62," [[Catherine]] aww ... well , what do they know ?",0
+24,63, [[Catherine]] they 're your best feature,0
+24,64, [[Warrick]] i did n't have a best feature in high school,0
+24,65," [[Warrick]] looking back on it now i can say i could see both sides of it thinking about this guy barry schickel , and how he was shot and whichever kid did it",0
+24,66," [[Warrick]] i 'm not saying it was right , but i kind understand , you know ?",0
+25,0, ( Close up of the match book cover . ),0
+25,1, ( Nothing but white on the screen . ),0
+25,2, ( Camera cut to RONNIE LITRE looking through a microscope/machine and fiddling with the knobs . ),0
+25,3, ( They are all wearing plastic goggles . ),0
+25,4," [[Ronnie_Litre]] i wanted to hold off on this matchbook until it dried out , but then i realized",0
+25,5," [[Nick]] ... human fat never dries out , it just gets waxy",0
+25,6, [[Ronnie_Litre]] exactly,0
+25,7, [[Ronnie_Litre]] what i 'm doing is adding pixels at some points and erasing pixels at other points,0
+25,8, ( RONNIE works on the machine while SARA and NICK watch the screen . ),0
+25,9," ( With every adjustment , more and more writing can be seen on the matchbook cover . )",0
+25,10, [[Ronnie_Litre]] got it,0
+25,11, [[Sara]] 'roma,1
+25,12, [[Sara]] ' 'roman,1
+25,13, [[Sara]] nini 's,1
+25,14, [[Sara]] ' never heard of it,0
+25,15, [[Nick]] i have,0
+25,16, [[Nick]] nightclub for boomers off the strip,0
+25,17," [[Nick]] thanks , man",0
+25,18, [[Ronnie_Litre]] you bet,0
+25,19, ( NICK and SARA leave . ),0
+26,0, ( NICK and SARA exit Q.D . ),0
+26,1, ( NICK puts on his jacket . ),0
+26,2," [[Det._O'Riley]] hey , stokes",0
+26,3, [[Det._O'Riley]] your 'w,1
+26,4, [[Det._O'Riley]] cartsen ' ?,1
+26,5, [[Nick]] yeah ?,0
+26,6, ( DET O'RILEY hands NICK a file . ),0
+26,7, ( NICK opens it to reveal a young photograph of William Cartsen . ),1
+26,8, ( He hands the photo to SARA . ),0
+26,9, [[Det._O'Riley]] he 's a second lieutenant william cartsen,1
+26,10," [[Det._O'Riley]] served in the war , wounded in action",0
+26,11, [[Det._O'Riley]] got sent stateside after they put him back together,1
+26,12, [[Det._O'Riley]] they put a pin in his spine and a plate in his head 31 years ago,1
+26,13," [[Det._O'Riley]] walked out of the hospital , has n't been heard of since",0
+26,14, ( NICK closes the file . ),0
+26,15, [[Nick]] okay,0
+26,16, [[Nick]] come with us,0
+27,0, ( CATHERINE conducts a test using the orange spray paint . ),0
+27,1," ( She sprays some paint onto a locker and using a stop watch , she times how long it takes for it to dry . )",0
+27,2, ( She makes her notes on a nearby pad on a clipboard . ),0
+27,3, ( She watches as the orange paint drips down the locker door . ),0
+27,4," ( When she 's through , she stops the watch and looks at it . )",0
+28,0, ( WARRICK takes a small sample of a white liquid from an Erlenmeyer flask and puts it in a small brown-colored bottle . ),0
+28,1, ( He caps the bottle and puts it in a machine along with other bottles . ),0
+28,2, ( He starts the machine . ),0
+28,3, ( It picks up the bottle and starts to process it . ),0
+28,4, ( WARRICK looks up and sees GRISSOM standing in the doorway . ),0
+28,5, ( He 's holding a large glass jar . ),0
+28,6," [[Warrick]] what 's the matter , you do n't trust me ?",0
+28,7, [[Grissom]] i trust you,0
+28,8, ( The printer prints the test results . ),0
+28,9, ( WARRICK looks at it . ),0
+28,10, [[Warrick]] i got a boatload of chemical components here,0
+28,11," [[Warrick]] marijuana , bubble gum , cigars",0
+28,12, [[Warrick]] it 's like every guy 's bathroom in america,0
+28,13, [[Grissom]] what does n't belong ?,0
+28,14, ( GRISSOM walks into the lab and past WARRICK . ),0
+28,15, ( WARRICK nods his head slowly as he considers the question . ),0
+29,0, [[Manager_Of_Romanini's]] how can i help you people ?,1
+29,1, [[Det._O'Riley]] valet guy said you 're the manager,1
+29,2," [[Det._O'Riley]] detective o'riley , las vegas p.d",0
+29,3, [[Det._O'Riley]] stokes and sidle from the crime lab,0
+29,4, [[Manager_Of_Romanini's]] crime lab ?,0
+29,5, [[Manager_Of_Romanini's]] what 's going on ?,0
+29,6, [[Det._O'Riley]] this man a patron of your establishment ?,1
+29,7, [[Det._O'Riley]] name 's william cartsen,1
+29,8, ( DET O'RILEY holds out the old black and white photograph of WILLIAM CARTSEN for the manager to look at . ),1
+29,9, [[Manager_Of_Romanini's]] not that i recognize,1
+29,10, [[Manager_Of_Romanini's]] no,0
+29,11, [[Nick]] are you sure you have n't seen him around here ?,1
+29,12," [[Nick]] wore an army jacket , might 've been down on his luck ?",0
+29,13," [[Manager_Of_Romanini's]] oh , you mean 'moses '",1
+29,14, [[Nick]] moses ?,1
+29,15, [[Manager_Of_Romanini's]] yeah,0
+29,16," [[Manager_Of_Romanini's]] guy had a beard down to here , wore a robe , the army jacket",1
+29,17, [[Manager_Of_Romanini's]] stood out here scaring every patron i had,1
+29,18, ( Quick flashback to WILLIAM CARTSEN pushing a group of patrons aside . ),1
+29,19, ( Flash to white . ),0
+29,20, ( Close up of WILLIAM CARTSEN speaking to the group of patrons . ),1
+29,21, [[William_Cartsen_(Moses)]] hey !,0
+29,22, [[William_Cartsen_(Moses)]] the whole world is watching,0
+29,23, ( Flash to white . ),0
+29,24, ( WILLIAM CARTSEN waving his arms about wildly and scaring the group of patrons . ),1
+29,25, [[William_Cartsen_(Moses)]] bidi dou !,0
+29,26, [[William_Cartsen_(Moses)]] bidi dou !,0
+29,27, ( Flash to white . ),0
+29,28, ( End of Flashback . ),0
+29,29, ( Resume present . ),0
+29,30, ( Camera on the MANAGER OF ROMANINI 'S . ),1
+29,31, [[Manager_Of_Romanini's]] guy was ruining my business,1
+29,32, [[Det._O'Riley]] so what 'd you do ?,1
+29,33, [[Manager_Of_Romanini's]] i tried to reason with him,1
+29,34, ( Quick flashback to the manager holding up his hand to calm 'MOSES ' down . ),1
+29,35, [[Manager_Of_Romanini's]] hey !,0
+29,36," [[Manager_Of_Romanini's]] hey , buddy , you 've g t to leave my customers alone , okay ?",1
+29,37, ( He holds out a gambling chip for Moses . ),1
+29,38, [[Manager_Of_Romanini's]] here,0
+29,39, [[Manager_Of_Romanini's]] cash that and move on,0
+29,40, ( 'MOSES ' takes the chip . ),1
+29,41, ( Flash to white . ),0
+29,42, ( End of flashback . ),0
+29,43, ( Resume present on the MANAGER OF ROMANINI 'S . ),1
+29,44, [[Manager_Of_Romanini's]] that 's the last i saw of him,1
+29,45, [[Sara]] when was that ?,0
+29,46, [[Manager_Of_Romanini's]] i do n't know,1
+29,47, [[Manager_Of_Romanini's]] about two months ago,0
+29,48, [[Sara]] that 's funny we found his body,1
+29,49, [[Sara]] coroner says he 's been dead two months,1
+29,50, [[Det._O'Riley]] we 're going to want you to take a little ride with us,1
+29,51, [[Manager_Of_Romanini's]] okay,0
+30,0, ( GRISSOM is along in a room . ),0
+30,1," ( He 's working on a laptop , setting up a graphic depiction of the crime scene . )",0
+30,2," ( From the initial bullet lodged in the bathroom wall , he sets up a scenario of what happened in the bathroom at the time of the murder . )",0
+30,3, ( BRASS enters the room . ),0
+30,4, [[Brass]] i checked out those kids you talked to,0
+30,5, [[Brass]] none of them was even near the school when barry schickel was killed,0
+30,6, ( CATHERINE enters the room . ),0
+30,7, [[Brass]] the only one who does n't check out is dennis fram,0
+30,8, [[Catherine]] there 's a reason,0
+30,9, [[Catherine]] i can put him at the crime scene,0
+30,10," [[Catherine]] jim , can you call them from the car ?",0
+30,11," [[Brass]] sure , let 's go",0
+30,12, ( BRASS leaves the room . ),0
+30,13," ( CATHERINE turns to follow , but stops when GRISSOM asks: )",0
+30,14," [[Grissom]] put him there , how ?",0
+30,15, [[Catherine]] oh ... well,0
+30,16, [[Catherine]] i 'll explain on the way,0
+30,17," [[Grissom]] no , no",0
+30,18," [[Grissom]] i 'm going stay here ... with this , close to warrick",0
+30,19, [[Catherine]] okay,0
+30,20, [[Catherine]] but you 'll miss all the fireworks,0
+30,21, ( CATHERINE leaves . ),0
+30,22, ( Camera holds on GRISSOM who goes back to work on his laptop . ),0
+31,0," [[Mr._Fram]] i know i must sound like the typical parent , but my son had nothing to do with the death of the schickel boy",0
+31,1, [[Catherine]] we 've placed him at the murder,0
+31,2, [[Mr._Fram]] what ?,0
+31,3, ( CATHERINE places a photograph on the table of the spray paint smudge of the locker . ),0
+31,4, ( The photograph also contains measurements ( in cm ) running across the top and down the left side . ),0
+31,5, [[Catherine]] here 's the fingerprint that i recovered from dennis ' locker,0
+31,6, [[Catherine]] these are dennis ' prints on file at school -- the missing kids prevention drive,0
+31,7, [[Catherine]] there 's a match,0
+31,8," [[Mr._Fram]] well , his own fingerprints on his own locker that does n't prove anything",0
+31,9, [[Catherine]] proves a timeline,0
+31,10, [[Catherine]] the alkyd particles in the victim 's spray paint adhere and dry in 30 seconds,0
+31,11, ( CGI POV of orange paint being sprayed on a locker door surface . ),0
+31,12, ( Camera moves up close to the spray to show a magnified view of the rough surface turning from a shiny orange ( wet ) to a hard-brownish orange ( dry ) . ),0
+31,13, ( Flash to white . ),0
+31,14, ( End of CGI POV . ),0
+31,15, [[Catherine]] oxidation,0
+31,16, [[Catherine]] dennis had to have swiped the paint within seconds of barry putting it on his locker for his print to take,0
+31,17," [[Mr._Fram]] well , how do you know ... ?",0
+31,18, [[Catherine]] the janitor,0
+31,19, ( CATHERINE places a 'Las Vegas School District Graffiti Log ' on the table . ),0
+31,20," ( The log contains information regarding date , time , location and fourth column . )",0
+31,21, ( The log page is nearly 3/4 filled . ),0
+31,22, [[Catherine]] he keeps timed records of graffiti,0
+31,23, [[Catherine]] job security,0
+31,24, [[Catherine]] and dennis left paint on the door jamb in the bathroom where barry was shot,0
+31,25, ( Quick flash to the orange smudge on the doorjam in the men 's bathroom . ),0
+31,26, ( Flash to white . ),0
+31,27, ( Close-up of the orange fingerprint . ),0
+31,28," [[Brass]] that 's the timeline of the murder , mr fram",0
+31,29, [[Brass]] we know every move your son made up until the gun,0
+31,30, [[Brass]] that 's why we want to see your collection,0
+31,31, [[Brass]] you 're registered as having two dozen weapons ?,0
+31,32, ( DENNIS begins to have a panic attack in his seat . ),0
+31,33, ( KELSEY FRAM walks into the living room carrying a serving tray full of drinks . ),0
+31,34, [[Kelsey_Fram]] denny ?,0
+31,35, ( She notices her brother 's discomfort and quickly puts the tray down on the table . ),0
+31,36, [[Dennis_Fram]] ow,0
+31,37," [[Kelsey_Fram]] it 's okay , it 's okay",0
+31,38, [[Kelsey_Fram]] come on,0
+31,39, [[Kelsey_Fram]] we 'll fix it,0
+31,40, ( KELSEY FRAM helps DENNIS out of the room . ),0
+31,41, ( CATHERINE gets up to follow . ),0
+32,0, [[Warrick]] this ... does not belong in a guy 's bathroom,0
+32,1, [[Warrick]] can we prove this ?,0
+32,2, [[Warrick]] i mean there 's got to be a thousand different brands of this stuff out there,0
+32,3," [[Grissom]] you still got that $ 10,000 e-nose you were using ?",0
+32,4, [[Warrick]] oh,0
+32,5, [[Warrick]] now you want my tricked-out toy,0
+32,6, [[Grissom]] i just want the software,0
+32,7, ( WARRICK hands GRISSOM the software . ),0
+32,8, ( GRISSOM holds it up and grins . ),0
+33,0, ( KELSEY FRAM holds out a spoonful of medicine for DENNIS to swallow . ),0
+33,1, ( CATHERINE appears in the doorway . ),0
+33,2, ( She watches as KELSEY takes care of her brother . ),0
+33,3," [[Kelsey_Fram]] come on , drink up",0
+33,4, [[Kelsey_Fram]] here you go,0
+33,5, [[Kelsey_Fram]] good,0
+33,6," [[Kelsey_Fram]] just hold this to your face , okay ?",0
+33,7, [[Kelsey_Fram]] i 'll be right back,0
+33,8, ( She turns around and finds CATHERINE in the doorway . ),0
+33,9, [[Kelsey_Fram]] he 's got a bleeding ulcer from being bullied by barry schickel,0
+33,10, ( Quick Flashback to DENNIS FRAM riding his skateboard on the pavement at school . ),0
+33,11, ( BARRY SCHICKLE hits him in the face . ),0
+33,12, ( DENNIS goes down on the pavement . ),0
+33,13, ( BARRY SCHICKLE looms over DENNIS . ),0
+33,14," [[Barry_Schickle]] hey , shrimp , want to go for a ride ?",0
+33,15, ( Several Flashes of a crowd of students standing around and laughing . ),0
+33,16, ( End of flashback . ),0
+33,17, ( Resume on CATHERINE . ),0
+33,18, [[Kelsey_Fram]] you do n't know how hard it was for him every morning trying to work up the courage just to go to school,0
+33,19, ( Quick flashback of DENNIS FRAM throwing up in the bathroom . ),0
+33,20," ( In the background , KELSEY peers around the wall to see her brother suffer . )",0
+33,21, ( End of flashback . ),0
+33,22, ( Resume to present . ),0
+33,23, [[Kelsey_Fram]] i thought my little brother was going to kill himself,0
+33,24, [[Catherine]] and then someone killed barry,0
+33,25, [[Kelsey_Fram]] yeah,0
+33,26, [[Catherine]] how tall are you ?,0
+33,27, [[Kelsey_Fram]] five-four ... with heels,0
+33,28, [[Kelsey_Fram]] why ?,0
+33,29, [[Catherine]] no reason,0
+34,0, ( Close up of laptop screen . ),0
+34,1, ( Camera moves to the larger wall screen hooked up to the computer . ),0
+34,2, ( GRISSOM hits 'enter ' . ),0
+34,3, ( Various colored bars pop up in a single graph-like formation . ),0
+34,4, [[Grissom]] you grabbed a top note of 'floral ' and now we ask the software to break it into ingredients,0
+34,5, [[Grissom]] do you recognize any of these ?,0
+34,6, [[Warrick]] that 's all from one perfume ?,0
+34,7," [[Grissom]] some of these perfumes have , like , 750 ingredients",0
+34,8, ( The computer beeps as it finishes the analysis . ),0
+34,9, ( The following results screen appears on the bottom under the bar-graph: ),0
+34,10, [[Grissom]] chanteuse,1
+34,11, [[Warrick]] we can narrow it down to one brand ?,0
+34,12," [[Grissom]] yeah , the original application for this program was perfume companies",0
+34,13," [[Grissom]] you know , testing new brands stealing from the competition",0
+34,14, ( A cell phone rings interrupting the discussion . ),0
+34,15, ( GRISSOM answers . ),0
+34,16, [[Grissom]] grissom,0
+35,0," [[Catherine]] grissom , we got a suspect",0
+35,1, [[Catherine]] but it 's not who you think,0
+35,2, [[Grissom]] let me guess,0
+35,3, [[Grissom]] denny fram 's sister ?,0
+35,4, [[Catherine]] how did you know ?,0
+35,5, [[Grissom]] vapor molecules,0
+35,6, [[Grissom]] see if you can get a warrant for her perfume and have brass bring her in,0
+35,7, [[Catherine]] her perfume ?,0
+36,0," [[Brass]] let 's get back to my first question , miss fram",0
+36,1, [[Brass]] where were you the night barry schickel was killed ?,0
+36,2," [[Kelsey_Fram]] i told you , i was out driving around",0
+36,3," [[Brass]] so what , your perfume just wafted into the boys ' room all the way from highway 10 ?",0
+36,4, [[Kelsey_Fram]] yes,0
+36,5, [[Kelsey_Fram]] i wear chanteuse,0
+36,6, [[Kelsey_Fram]] what 's that got to do with anything ?,0
+36,7, [[Kelsey_Fram]] my mom used to wear it and ... after her car accident i started to wear it,0
+36,8," [[Warrick]] well , aromas have fingerprints",0
+36,9," [[Warrick]] they 're like a unique combination of vapor molecules that linger in the air , long after the source has gone",0
+36,10, [[Grissom]] we isolated a combination in the restroom where barry schickel was shot,0
+36,11, [[Grissom]] it matches your perfume,0
+36,12, [[Catherine]] a high-end woman 's perfume,0
+36,13, [[Catherine]] it 's doubtful that any other girl at the school wears it,0
+36,14," [[Mr._Fram]] wait , wait , wait ... she has no reason to hurt barry schickel",0
+36,15, [[Catherine]] what about revenge for her little brother ?,0
+36,16, [[Mr._Fram]] i ca n't believe this,0
+36,17," [[Mr._Fram]] that b*st*rd schickel dogged my family , now he 's doing it from the grave",0
+36,18," [[Mr._Fram]] come on , kelsey",0
+36,19," [[Mr._Fram]] you come near us again , you do it through my lawyer",0
+36,20, ( The FRAMS leave . ),0
+36,21, [[Catherine]] wears her dead mother 's perfume,0
+36,22, [[Catherine]] nice touch,0
+36,23, [[Grissom]] might be true,0
+36,24, [[Grissom]] scent triggers memory more acutely than any of the five senses,0
+36,25, [[Catherine]] yeah ?,0
+36,26," [[Catherine]] well , i smell a rat in the fram family",0
+37,0, [[Sara]] so you did n't hurt him,1
+37,1, [[Sara]] you just put him in your car,1
+37,2, [[Sara]] is that what you 're saying ?,1
+37,3, [[Manager_Of_Romanini's]] back seat,0
+37,4, [[Manager_Of_Romanini's]] then i drove him out of town,1
+37,5," [[Manager_Of_Romanini's]] i left him on the side of the road , out by red rock",1
+37,6, [[Nick]] you did n't maybe zip him up in a bag because he was giving you trouble ... anything like that ?,1
+37,7, [[Manager_Of_Romanini's]] no,0
+37,8, ( SARA pulls out two photographs . ),0
+37,9, [[Sara]] these ... are the handles from the bag that he was found in,0
+37,10, ( PHOTO 1 of the handle contains the following writing : SS # 1 2001-14794 ),0
+37,11, ( PHOTO 2 has a measuring guide on it along side the handle . ),0
+37,12, [[Sara]] you see these prints here ?,0
+37,13," [[Nick]] can i see your right hand , sir ?",1
+37,14, ( NICK brings out a finger print machine . ),0
+37,15, ( MANAGER OF ROMANINI 'S starts to look nervous . ),1
+37,16," [[Manager_Of_Romanini's]] look , he was drunk",1
+37,17, [[Manager_Of_Romanini's]] he was rolling all over my backseat,1
+37,18, [[Manager_Of_Romanini's]] so i put him in a bag from my trunk,1
+37,19," [[Manager_Of_Romanini's]] once we got out of town , i just tipped him down the hill",1
+37,20, ( Flash to white . ),0
+37,21, ( Quick flashback of body in bag rolling down the hill . ),0
+37,22, ( flash to white . ),0
+37,23, ( bag bouncing down the hill and landing on the bottom . ),0
+37,24, ( Flash to white . ),0
+37,25," ( The MANAGER OF ROMANINI 'S calmly standing at the top of the hill , looking around . )",1
+37,26, ( Flash to white . ),0
+37,27, ( Resume to present . ),0
+37,28, [[Manager_Of_Romanini's]] i figured he 'd get out once he slept it off,1
+37,29, [[Manager_Of_Romanini's]] the guy always shows up,1
+37,30, [[Manager_Of_Romanini's]] what am i looking at ?,1
+37,31, [[Det._O'Riley]] homicide,1
+37,32," [[Manager_Of_Romanini's]] look , i was just doing my job",1
+37,33, [[Nick]] hey ... treating another human being like garbage is not a job,0
+37,34, [[Nick]] it 's a choice,0
+37,35, ( NICK and SARA leave the room . ),0
+38,0," ( WARRICK , GRISSOM and CATHERINE walk down the hallway . )",0
+38,1, ( They turn the corner and see DENNIS FRAM standing there . ),0
+38,2, [[Warrick]] paperwork,0
+38,3, [[Warrick]] later,0
+38,4, ( WARRICK leaves . ),0
+38,5, [[Catherine]] dennis ?,0
+38,6, [[Dennis_Fram]] i need to talk to you,0
+39,0, [[Dennis_Fram]] you have to understand anything my sister did was to protect me,0
+39,1, [[Grissom]] you said that you went back to the high school that night after target practice,0
+39,2, [[Dennis_Fram]] i forgot a book i needed for homework,0
+39,3, [[Dennis_Fram]] and i knew barry had been there,0
+39,4, ( Quick flashback . ),0
+39,5, ( DENNIS FRAM rubbing the orange paint on his locker . ),0
+39,6, ( End of flashback . ),0
+39,7, ( Resume on DENNIS FRAM . ),0
+39,8, [[Dennis_Fram]] i was n't looking for him,0
+39,9, [[Dennis_Fram]] i had to go to the bathroom,0
+39,10, ( Quick flashback to DENNIS FRAM opening the men 's bathroom door . ),0
+39,11, ( He walks into a stall and leaves behind the orange fingerprint on the stall wall . ),0
+39,12, ( Flash to white . ),0
+39,13, ( BARRY SCHICKLE in the same men 's bathroom using the urinal and a hand holding a gun taking aim from behind . ),0
+39,14, ( The gun fires . ),0
+39,15, ( BARRY SCHICKLE turns around and gets hit three times . ),0
+39,16, ( DENNIS FRAM in the next stall flinching with every gunshot . ),0
+39,17, ( BARRY SCHICKLE falls to the floor dead . ),0
+39,18, ( DENNIS FRAM tearing out of the bathroom stall . ),0
+39,19, ( Flash to white . ),0
+39,20, ( End of flashback . ),0
+39,21, ( Resume on GRISSOM . ),0
+39,22, [[Dennis_Fram]] my dad 's freaking out,0
+39,23, [[Dennis_Fram]] my sister wo n't come out of her room,0
+39,24, [[Dennis_Fram]] i figure if you can get the police to make some kind of deal for her,0
+39,25," [[Catherine]] well , dennis , you have n't told us that you explicitly saw kelsey shoot the victim",0
+39,26, [[Dennis_Fram]] she was in a stall,0
+39,27, [[Dennis_Fram]] i could n't see her,0
+39,28, ( BRASS enters the room . ),0
+39,29," [[Brass]] can i , uh ... can i talk to you for a minute ?",0
+39,30, [[Grissom]] excuse us,0
+39,31, ( GRISSOM and CATHERINE leave the room . ),0
+39,32, [[Brass]] he copping to anything ?,0
+39,33, [[Catherine]] he says that his sister did it,0
+39,34, [[Brass]] i do n't think so,0
+39,35, [[Brass]] kelsey was 'otherwise indisposed ' she got a parking ticket the same time the vic was shot in an alley behind a motel off fremont street,0
+39,36," [[Brass]] in fact , a lot of cars got tickets that night",0
+39,37, ( BRASS hands one parking ticket to CATHERINE and one parking ticket to GRISSOM . ),0
+39,38, ( GRISSOM looks down at his ticket . ),0
+39,39, [[Grissom]] who 's jeremy spencer ?,0
+39,40, [[Brass]] football coach,0
+39,41, [[Catherine]] oh,0
+39,42, [[Catherine]] at a motel with the high school coach,0
+39,43, [[Catherine]] no wonder she would n't talk,0
+39,44," [[Brass]] well , i paid 'coach ' a visit",0
+39,45," [[Brass]] the guy 's 23 , just got engaged",0
+39,46," [[Brass]] i mean , he 'll testify to anything as long as his fiancé does n't find out",0
+39,47, [[Brass]] he says that kelsey gave him a roll in the hay asked him to intercede with barry-the-bully and get the kid to leave her little brother alone,0
+39,48, [[Brass]] she did n't kill anyone,0
+39,49, [[Catherine]] so why is he saying she did ?,0
+39,50, [[Grissom]] do you ever smell a fart and end up blaming the wrong guy ?,0
+39,51, ( GRISSOM walks back into the room where DENNIS FRAM waits . ),0
+39,52, [[Grissom]] why do you think your sister shot barry ?,0
+39,53, [[Dennis_Fram]] because,0
+39,54, [[Grissom]] because why ?,0
+39,55, [[Dennis_Fram]] 'cause of the last time he beat me up,0
+39,56, ( Quick flashback to BARRY SCHICKLE hitting DENNIS FRAM . ),0
+39,57, ( DENNIS throwing up in the bathroom . ),0
+39,58, ( KELSEY telling DENNIS: ),0
+39,59, [[Kelsey_Fram]] i 'll protect you,0
+39,60, [[Kelsey_Fram]] i 'll fix things so he never comes near you again,0
+39,61, ( Flash to white . ),0
+39,62, ( End of flashback . ),0
+39,63, ( Resume on DENNIS FRAM . ),0
+39,64, [[Dennis_Fram]] she always keeps her word,0
+39,65, [[Grissom]] she asked barry 's coach to help you,0
+39,66, [[Grissom]] that was her protection plan,0
+39,67, [[Grissom]] she was nowhere near the high school that night,0
+39,68, [[Dennis_Fram]] i smelled her perfume,0
+39,69, ( White flash to BARRY SCHICKLE standing in the men 's bathroom . ),0
+39,70, [[Dennis_Fram]] i saw barry,0
+39,71, ( Cut to Camera close up of the barrel of the handgun . ),0
+39,72, [[Dennis_Fram]] i saw the gun,0
+39,73, ( Cut to Camera close up DENNIS FRAM taking a breath . ),0
+39,74, [[Dennis_Fram]] and i smelled my sister 's perfume,0
+39,75, ( Cut to BARRY SCHICKLE getting shot and the sounds of three gunshots . ),0
+39,76, ( Cut to DENNIS FRAM turning to run out of the bathroom . ),0
+39,77, ( End of flashback . ),0
+39,78, [[Grissom]] no,0
+39,79, [[Grissom]] you smelled her brand of perfume,0
+39,80," [[Dennis]] but then , who was it ?",0
+39,81, ( Camera holds on GRISSOM . ),0
+40,0, ( Camera close up of a bagged bottle of Chanteuse perfume being placed on the desk top by GRISSOM . ),0
+40,1, [[Grissom]] we recovered this from your townhouse on a warrant,1
+40,2, [[Grissom]] chanteuse,0
+40,3, ( GRISSOM puts a photograph of a gun on the desk . ),0
+40,4, [[Grissom]] we also found the gun,0
+40,5, [[Grissom]] it has n't been cleaned,0
+40,6," [[Julia_Barett]] well , i do n't know how to clean a gun",1
+40,7, [[Julia_Barett]] that was my husband 's,0
+40,8, [[Grissom]] you know how to shoot one,1
+40,9, [[Julia_Barett]] do you know how many kids go to school and kill just to get relief from the bullying ?,1
+40,10, [[Julia_Barett]] you talked to them,1
+40,11, [[Julia_Barett]] boxing lessons and target practice,1
+40,12," [[Julia_Barett]] how long before one of them came in here and opened fire on a hallway full of kids , huh ?",1
+40,13, [[Julia_Barett]] i just thought that one life was better than 20 ... or 30,1
+40,14, [[Grissom]] or eleven,0
+40,15, [[Grissom]] captain brass ran a search on you,0
+40,16," [[Grissom]] tetrick high school , tetrick , arizona",1
+40,17, [[Grissom]] eleven kids shot a few days after columbine,1
+40,18, [[Grissom]] you were the assistant principal,1
+40,19, [[Julia_Barett]] i watched them die at my feet,1
+40,20, [[Julia_Barett]] just because some sophomore could n't take the jokes about his glasses,1
+40,21, [[Grissom]] it says that you were left with post traumatic stress disorder,1
+40,22, [[Grissom]] you might want to mention that to your lawyer,0
+40,23, [[Julia_Barett]] i did this for my kids,1
+40,24," [[Grissom]] you know , miss barrett as difficult as high school can be for kids , eventually , it 's over ... but too soon for barry schickel",0
+40,25, (GRISSOM gathers his things and leaves the office),0
+40,26, (Two officers standing outside the door go in and arrest Ms Barret just as the school bell rings and the students start exiting the classrooms into the hallway),1
+40,27, ( SARA in the shower washing her hair using lemons to get rid of the smell that plagued her throughout the show . ),0
+41,0, ( NICK is on the top of the ladder extracting John Doe 's metal box of possessions from the file . ),0
+42,0, ( SARA in the shower . ),0
+43,0, ( Close up of the 'TRANSFER TO CITY CEMETERY ORDER FOR RELEASE ' Form containing the following information: ),0
+43,1, ( NICK finishes the form and places a hand on the metal box . ),0
+43,2," [[Nick]] rest in peace , lieutenant",0
+43,3, [[Nick]] rest in peace,0
+44,0, ( GRISSOM sits behind his desk busy filling out a purchase of requisition form with the following information: ),0
+44,1, ( He puts it in an envelope to: ),0
+44,2," ( He begins opening his desk drawers , searching for something . )",0
+44,3," ( Without a word , CATHERINE walks in , opens a container on his desk and pulls out a roll of stamps . )",0
+44,4, ( She walks out . ),0
+44,5, ( WARRICK walks by the office door and sees GRISSOM sealing the envelope . ),0
+44,6, ( He smiles and walks away . ),0
+44,7, ( Camera hold on GRISSOM 'S look of satisfaction . ),0

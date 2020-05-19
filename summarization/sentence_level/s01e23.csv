@@ -1,0 +1,1198 @@
+scene_id,sentence_id,sentence_text,in_summary
+0,0, ( Camera holds over the city . ),0
+0,1, ( Thunder rumbles ; lightning flashes in the sky . ),0
+1,0, ( The front left glass door is open . ),0
+1,1, ( Building number 5595 . ),0
+1,2, ( Thunder rumbles outside . ),0
+2,0, ( Camera moves slowly down the hallway toward the bedroom door . ),0
+2,1, ( There 's a bicycle resting against the wall in the hallway ; the light from outside illuminates the bathroom . ),0
+2,2, ( Lightning flashes . ),0
+2,3, ( The camera turns the corner and enters the bedroom . ),0
+2,4, ( There 's someone asleep in the bed . ),0
+2,5, ( The camera lingers in the doorway . ),0
+3,0, ( EILEEN SNOW suddenly gets up . ),1
+3,1, ( She sits up in bed and looks out the open bedroom door . ),1
+3,2, ( Thunder rumbles ; lightning flashes . ),0
+3,3," ( She looks outside the bedroom window , then around the bedroom . )",1
+3,4, ( The closet light is on . ),0
+3,5," ( She lies back down in bed , leans on her side and tries to go back to sleep . )",1
+3,6," ( Again , she suddenly gets up in bed . )",1
+3,7, ( Thunder claps outside as lightning flashes through the window . ),0
+3,8, ( She swallows as she stares straight ahead at the shadows in front of her . ),1
+3,9, ( Lightning flashes . ),0
+3,10," ( This time , there 's a man holding a cord in his hands and standing at the foot of the bed . )",1
+3,11, ( He 's wearing a hooded sweatshirt that covers his face . ),1
+3,12, ( EILEEN SNOW starts screaming . ),1
+3,13, ( The man snaps the iron cord . ),1
+3,14, ( EILEEN SNOW backs away from him . ),1
+3,15, ( The iron falls . ),0
+3,16, ( EILEEN SNOW screams ),1
+4,0, ( GRISSOM walks into the bedroom carrying his kit . ),1
+4,1, ( BRASS follows behind him . ),0
+4,2, ( There are other officers already in the room . ),0
+4,3," ( Though we ca n't see the body , GRISSOM pauses near the bed , his eyes glued to the body . )",0
+4,4, [[Brass]] eileen jane snow,1
+4,5, [[Brass]] lady she carpools with could n't get her to answer the door,1
+4,6, [[Brass]] police broke in,0
+4,7, [[Grissom]] this is exactly the same as the last two,0
+4,8, [[Brass]] audrey hayes was strangled in her basement and the other one ended up in a park,0
+4,9," [[Grissom]] different m.o. , but it 's the same signature",0
+4,10, [[Brass]] m.o,0
+4,11, [[Brass]] is how he breaks in signature 's what he does once inside,0
+4,12, ( A Camera flashes . ),0
+4,13, ( Close up of EILEEN SNOW on the bed . ),1
+4,14, ( Her hands are tied together to the bed metal headboard . ),1
+4,15, ( Her mouth is bruised . ),1
+4,16, ( Her eyes are open . ),1
+4,17, ( Cut back to GRISSOM . ),0
+4,18, [[Grissom]] three or four overpowering blows to the head from a homemade weapon fashioned at the scene,1
+4,19, ( A camera flash to : Close up of the iron used to subdue EILEEN SNOW . ),1
+4,20, ( Cut back to GRISSOM . ),0
+4,21, [[Grissom]] forces her to drink a mixture of sodium amytal as a chemical restraint,1
+4,22, ( Flash to white . ),0
+4,23, ( Close up of the drinking glass discarded on it 's side . ),0
+4,24, [[Grissom]] overligature of the victim,1
+4,25, [[Grissom]] ... and an object rape,1
+4,26, [[Grissom]] then he strangles her,1
+4,27, [[Grissom]] ejaculates on the bedsheets,1
+4,28, ( SARA walks in and sees the body . ),0
+4,29, [[Grissom]] and as a final act of degradation he poses her like a pinup,1
+4,30, ( She reacts to the sight of yet another body in a series of serial rapes . ),0
+4,31, [[Sara]] damn it,0
+4,32, ( BRASS turns around to look at SARA . ),0
+4,33, [[Brass]] sara,0
+4,34, [[Sara]] damn that guy,0
+4,35, ( SARA starts to walk out of the bedroom . ),0
+4,36, ( GRISSOM follows her outside to the hallway . ),0
+5,0, ( GRISSOM takes SARA out into the hallway . ),0
+5,1," [[Grissom]] listen , no emotions in here",0
+5,2," [[Sara]] he 's escalating , grissom",0
+5,3, [[Grissom]] that 's the pattern ; it 's a continuum,0
+5,4, [[Sara]] guess he wants to get caught,0
+5,5, [[Grissom]] signature killers never want to get caught,0
+5,6, [[Grissom]] and they wo n't stop until they do,0
+6,0, ( SARA and WARRICK are in the bedroom near the bed . ),0
+6,1, ( SARA is looking at the tape lift in her hand ; WARRICK is going through the sheets on the bed . ),0
+6,2," [[Sara]] i have tape-lifted , roll-lifted -- i 'm not finding one hair",0
+6,3, ( GRISSOM walks into the room and lingers near the door . ),0
+6,4, ( He 's carrying a clipboard as he watches them work . ),0
+6,5, [[Grissom]] i wonder what that might mean,0
+6,6, [[Sara]] he vacuumed this place before he left,0
+6,7, [[Sara]] we 've established that he utilizes materials from the victim 's domicile,0
+6,8," ( Thinking about it , SARA walks over to the closet to look for the vacuum cleaner . )",0
+6,9, ( She pushes the closet door open to reveal the vacuum cleaner just inside . ),0
+6,10, ( GRISSOM leans over to look at the bedside table . ),0
+6,11, ( WARRICK continues to check the bed sheets . ),0
+6,12, ( SARA opens the machine and looks inside . ),0
+6,13," [[Sara]] hey , guys",0
+6,14, [[Sara]] he took the bag,0
+6,15, ( GRISSOM shakes his head . ),0
+6,16," [[Grissom]] well , look for prints",0
+6,17," ( Before she can do anything , CATHERINE walks in She 's carrying something that looks for prints and is wearing protective eyewear . )",0
+6,18, [[Catherine]] do n't bother,0
+6,19, [[Catherine]] there are n't any,0
+6,20, [[Catherine]] just like the last time,0
+6,21, [[Catherine]] the guy 's mr clean,0
+6,22," [[Catherine]] here , knock yourself out",0
+6,23, [[Sara]] thanks,0
+6,24, ( CATHERINE hands it over to SARA who takes it . ),0
+6,25, [[Grissom]] he stalked this woman,0
+6,26," [[Grissom]] he knew how much time he had in this apartment to kill her , and to clean up after himself",0
+6,27, [[Catherine]] i 'll tell brass to check for s*x offenders in a two-mile radius,0
+6,28," [[Grissom]] yeah , have him check peeping toms , too five years back",0
+6,29, [[Grissom]] that 's how they get started,0
+6,30, ( CATHERINE turns to leave the room . ),0
+6,31, ( WARRICK looks up from his spot near the bed . ),0
+6,32, [[Warrick]] peeping toms to murderers ?,0
+6,33, [[Grissom]] it 's about crossing boundaries,0
+6,34," [[Grissom]] it 's like , uh , with cake , you know ?",0
+6,35, [[Grissom]] you 're just going to have a little bit of the frosting and you end up eating the entire plate,0
+6,36, ( WARRICK pulls the bed cover aside . ),0
+6,37, ( He sees a single hair strand . ),0
+6,38, [[Warrick]] nobody move,0
+6,39, ( He picks it up and holds it up . ),0
+6,40, [[Warrick]] mr clean needs a maid,0
+6,41, [[Warrick]] i 'm going to take this back to the lab,0
+6,42, ( SHERIFF BRIAN MOBLEY walks up to the door and looks around . ),0
+6,43, ( He sees GRISSOM . ),0
+6,44, [[Sheriff_Brian_Mobley]] gil,0
+6,45, [[Sheriff_Brian_Mobley]] i need a word with you outside,0
+6,46, ( GRISSOM sighs . ),0
+6,47, ( The SHERIFF leaves . ),0
+6,48, ( GRISSOM glances over at WARRICK . ),0
+7,0, ( THE SHERIFF walks out of the apartment . ),0
+7,1, ( GRISSOM is close behind him . ),0
+7,2, ( The SHERIFF is headed somewhere . ),0
+7,3, [[Grissom]] you 're bringing the fbi in ?,0
+7,4, [[Grissom]] why ?,0
+7,5," [[Sheriff_Brian_Mobley]] they offered their assistance , and i 'm inclined to take it",0
+7,6," [[Sheriff_Brian_Mobley]] of course , uh , i 'd want to make sure you 're okay with that",0
+7,7, ( GRISSOM puts his sunglasses on . ),0
+7,8," ( In the background , we hear people from the news media talking . )",0
+7,9," [[Grissom]] i-i do n't believe the investigation should go that way , brian",0
+7,10," [[Grissom]] i mean , roadblocks and special ops ?",0
+7,11," [[Sheriff_Brian_Mobley]] oh , that 's a pity , 'cause i do",0
+7,12, [[Sheriff_Brian_Mobley]] maybe you 'll feel different when you meet rick culpepper,0
+7,13, ( A man in a suit approaches them . ),0
+7,14, ( He holds out his hand to the Sheriff . ),0
+7,15, ( Behind him standing just behind the crime scene tape is the news media . ),0
+7,16, [[Agent_Rick_Culpepper]] sheriff mobley,0
+7,17, [[Sheriff_Brian_Mobley]] rick,0
+7,18, ( They shake hands . ),0
+7,19, ( AGENT RICK CULPEPPER turns to GRISSOM . ),0
+7,20," [[Agent_Rick_Culpepper]] hi , rick culpepper",0
+7,21, [[Agent_Rick_Culpepper]] federal bureau of investigation,0
+7,22, ( They shake hands . ),0
+7,23," [[Grissom]] gil grissom , agent culpepper",0
+7,24," [[Agent_Rick_Culpepper]] uh , 'special agent '",0
+7,25, [[Agent_Rick_Culpepper]] it 's great to meet you,0
+7,26, [[Agent_Rick_Culpepper]] all our kids back in quantico are always going on about your bugs,0
+7,27, ( GRISSOM does n't say anything . ),0
+7,28, ( AGENT RICK CULPEPPER takes off his sunglasses and looks at GRISSOM . ),0
+7,29," [[Agent_Rick_Culpepper]] well , listen , the fbi is here to help you and your people at csi",0
+7,30," [[Agent_Rick_Culpepper]] of course , uh , as sac , the investigation will run through me",0
+7,31, [[Agent_Rick_Culpepper]] sheriff probably already told you that,0
+7,32, ( GRISSOM glances at the SHERIFF standing silently next to him . ),0
+7,33," [[Grissom]] no , he did n't mention that , either",0
+7,34, [[Agent_Rick_Culpepper]] all rivers run through rome so to speak,0
+7,35," [[Agent_Rick_Culpepper]] but , uh , you get an 'attaboy '",0
+7,36, [[Agent_Rick_Culpepper]] three women dead 'cause you could n't get the job done,0
+7,37, [[Agent_Rick_Culpepper]] there 's not many guys who would hand the case over to us fibbies,0
+7,38, [[Grissom]] i 'm not handing it over,0
+7,39, [[Grissom]] i 'm willing to work in conjunction with you,0
+7,40," [[Agent_Culpepper]] well , that 's fine",0
+7,41, [[Agent_Culpepper]] we 'll work the 'strip strangler ' case in conjunction,1
+7,42, [[Grissom]] the what ?,0
+7,43, [[Agent_Rick_Culpepper]] he strangles them near las vegas boulevard then removes their clothes,1
+7,44, [[Agent_Rick_Culpepper]] strip strangler,1
+7,45, [[Agent_Rick_Culpepper]] why ?,0
+7,46, [[Agent_Rick_Culpepper]] what do you call him ?,1
+7,47," [[Grissom]] unknown signature homicide , metropolitan las vegas",0
+7,48, [[Agent_Rick_Culpepper]] oh,0
+7,49," [[Agent_Rick_Culpepper]] he 's not kidding , is he ?",0
+7,50, ( THE SHERIFF shakes his head . ),0
+7,51, [[Sgt._O'Riley]] excuse me,0
+7,52, [[Sgt._O'Riley]] guy over here 's got something you might want to hear,0
+7,53, [[Sgt._O'Riley]] syd goggle,1
+7,54, [[Sgt._O'Riley]] he 's a security guard,1
+7,55, [[Sgt._O'Riley]] community patrol,1
+7,56, [[Sgt._O'Riley]] says he saw a man speeding away from here last night,1
+7,57, ( GRISSOM follows SGT O'RILEY to the security guard . ),1
+7,58, ( He approaches the crowd behind the yellow police tape . ),0
+7,59," [[Grissom]] mr , uh , goggle ?",1
+7,60, [[Grissom]] gil grissom,0
+7,61, ( SYD GOGGLE is let through the police tape . ),1
+7,62," [[Syd_Goggle]] i know who you are , sir",1
+7,63, [[Syd_Goggle]] i 've seen you on tv,1
+7,64, [[Agent_Rick_Culpepper]] special agent culpepper,0
+7,65," [[Agent_Rick_Culpepper]] you have information for us , sir ?",1
+7,66, [[Agent_Rick_Culpepper]] about a man fleeing the scene ?,0
+7,67, [[Syd_Goggle]] i did n't get his license,1
+7,68, [[Syd_Goggle]] i did n't think of it till this morning,1
+7,69," [[Syd_Goggle]] but he was really burning rubber , though",0
+7,70, [[Grissom]] would you please give detective o'riley a full statement ?,1
+7,71," [[Grissom]] if we have any more questions , we 'll get back to you",1
+7,72," [[Syd_Goggle]] listen , if you need any help in your investigation , mr grissom",0
+7,73," [[Grissom]] the last time a security guard tried to help me , he ended up dead",0
+7,74, [[Grissom]] but thank you,1
+7,75, ( SYD GOGGLE walks past GRISSOM and follows SGT O'RILEY . ),1
+7,76, [[Sgt._O'Riley]] this way,0
+7,77, ( GRISSOM turns to the other two men . ),0
+7,78, [[Grissom]] i 'm late for an autopsy,0
+7,79, ( GRISSOM turns and leaves . ),0
+7,80, ( AGENT RICK CULPEPPER puts his sunglasses back on and watches GRISSOM leave . ),0
+7,81, [[Sheriff_Brian_Mobley]] he 'll need a little patience,0
+7,82, [[Agent_Rick_Culpepper]] would n't respect him if he did n't,0
+7,83, ( Both men head back toward the apartments . ),0
+8,0, ( DR. ROBBINS goes over the body with NICK and GRISSOM . ),0
+8,1, [[Nick]] what can you tell us ?,0
+8,2, [[Dr._Albert_Robbins]] nothing you do n't know,0
+8,3, [[Dr._Albert_Robbins]] trauma to the head with a blunt object,1
+8,4, [[Dr._Albert_Robbins]] overwhelmed her,1
+8,5," ( Quick flashback to : In the bedroom , the intruder hits Eileen Snow . )",1
+8,6, ( Hard . ),1
+8,7, ( End of flashback . ),0
+8,8, ( Resume to present . ),0
+8,9, [[Dr._Albert_Robbins]] he got a mixture of sodium amytal in her,1
+8,10, [[Nick]] a hypnotic,0
+8,11," ( Quick flashback to : In the bedroom , EILEEN SNOW is out on the bed . )",1
+8,12, ( The intruder is straddled across her as he forces the liquid down her throat . ),1
+8,13, ( End of flashback . ),0
+8,14, ( Resume to present . ),0
+8,15, [[Dr._Albert_Robbins]] allowed him to control her for up to six hours,1
+8,16, [[Dr._Albert_Robbins]] torture her,1
+8,17, [[Dr._Albert_Robbins]] look at the bruises,0
+8,18, ( He points to the purple bruises on her face and neck . ),0
+8,19, ( GRISSOM leans in to look . ),0
+8,20, [[Dr._Albert_Robbins]] purple means she was alive for all of it,1
+8,21," ( Quick flashback to : In the bedroom , the intruder strangles EILEEN SNOW . )",1
+8,22, ( End of flashback . ),0
+8,23, ( Resume to present . ),0
+8,24, [[Nick]] percussive control,0
+8,25, [[Grissom]] he choked her unconscious and then brought her to multiple times,1
+8,26, [[Grissom]] what about the rape ?,0
+8,27, [[Dr._Albert_Robbins]] same as the others : indeterminate object caused severe internal lacerations,1
+8,28, ( DR. ROBBINS turns back to get the sample . ),0
+8,29, [[Dr._Albert_Robbins]] i did find a small trace of something creviced in the uterine wall,0
+8,30, [[Dr._Albert_Robbins]] looks like an everyday polymer to me,0
+8,31, ( He hands it over to NICK to look at . ),0
+8,32, ( Camera zooms in for a close up of the item . ),0
+8,33, ( Broken piece of unknown object with the letters 'THA ' on it . ),0
+8,34, [[Nick]] okay,0
+8,35," [[Nick]] i 'll go back to the scene , try to find something like it",0
+8,36," [[Grissom]] be careful , nicky",0
+8,37, [[Grissom]] the cliché 's true,0
+8,38, [[Grissom]] signatures return to their scenes,0
+8,39, [[Nick]] will do,0
+8,40, ( NICK turns and leaves . ),0
+8,41, [[Grissom]] are we done ?,0
+8,42, [[Dr._Albert_Robbins]] something we did n't find with the other two women,0
+8,43, ( DR. ROBBINS turns around and picks up a single strand of cotton fiber . ),0
+8,44, ( He hands it to GRISSOM . ),0
+8,45, [[Dr._Albert_Robbins]] fibers,1
+8,46, [[Dr._Albert_Robbins]] one in the back of her throat,1
+8,47, ( Camera CGI POV close up of a fiber stuck in between two teeth . ),0
+8,48, ( Flash to white . ),0
+8,49, ( Resume GRISSOM . ),0
+8,50, [[Dr._Albert_Robbins]] one stuck between her lower molars,1
+8,51, [[Grissom]] this looks like cotton,0
+8,52, [[Grissom]] maybe terry cloth,0
+8,53, [[Dr._Albert_Robbins]] hmmm,0
+8,54," ( GRISSOM glances at the body , then back at the fiber . )",0
+8,55, [[Grissom]] could be silencing them with ... white bath towels ?,1
+8,56," [[Dr._Albert_Robbins]] well , it would explain why no one hears the victim 's screams",0
+8,57, [[Grissom]] he brings it with him and takes it away after,1
+8,58," [[Grissom]] so , somewhere , there 's evidence of this victim on a towel",1
+8,59, [[Dr._Albert_Robbins]] kind of a forensic smoking gun,0
+8,60, [[Grissom]] mmm,0
+8,61, [[Grissom]] now we just have to find the guy and hope that he has n't done his laundry,1
+9,0, ( CATHERINE is in GREG 'S lab . ),0
+9,1, ( GREG reaches over to get the file folder . ),0
+9,2, [[Greg_Sanders]] the semen taken from this morning 's homicide matches the semen taken from the bedsheets of the last two female victims,0
+9,3, ( GREG opens the file folder and takes out a sheet of paper . ),0
+9,4, ( He hands it to CATHERINE . ),0
+9,5," [[Catherine]] so , we 're looking at the same guy",0
+9,6," [[Greg_Sanders]] yeah , but , check this out",0
+9,7, [[Greg_Sanders]] the ejaculate sample,0
+9,8, ( GREG points to the microscope . ),0
+9,9, ( CATHERINE looks at the sample through the scope . ),0
+9,10, [[Catherine]] what 's the red stuff ?,0
+9,11, [[Greg_Sanders]] mystery substance,0
+9,12, [[Catherine]] not blood ?,0
+9,13, [[Greg_Sanders]] no,0
+9,14," [[Catherine]] so , what , this guy 's got some strange chemical in his mutated dna ?",0
+9,15," [[Greg_Sanders]] freaky , huh ?",0
+9,16, ( CATHERINE sighs and turns to leave the lab . ),0
+9,17," ( As she leaves , she turns around . )",0
+9,18, [[Catherine]] freakiest semen i 've seen in a while,0
+9,19, [[Catherine]] call me,0
+9,20, ( CATHERINE steps out of the DNA lab and nearly bumps into the SHERIFF in the hallway . ),0
+9,21, ( Literally . ),0
+9,22, [[Catherine]] oh,0
+10,0, ( The SHERIFF looks at CATHERINE . ),0
+10,1," [[Sheriff_Brian_Mobley]] catherine , you busy ?",0
+10,2, [[Sheriff_Brian_Mobley]] i was hoping we might be able to talk about a few things,0
+10,3, [[Catherine]] pertaining to the case ?,0
+10,4, [[Sheriff_Brian_Mobley]] as a jumping-off point,0
+10,5," [[Catherine]] well , sheriff , i 'd say let 's go to my office , but i do n't have one",0
+10,6, ( The SHERIFF glances behind him and says slyly . ),0
+10,7," [[Sheriff_Brian_Mobley]] well , that 's just the sort of thing i was hoping we would discuss",0
+11,0," ( SARA looks up from the scope , a bit puzzled by the conclusions she 's reaching . )",0
+11,1, ( She turns and sees WARRICK walking by the lab door . ),0
+11,2, ( She calls out to him . ),0
+11,3," [[Sara]] hey , warrick you got a second ?",0
+11,4, ( WARRICK turns and walks into the lab . ),0
+11,5, [[Warrick]] what 's up ?,0
+11,6, [[Sara]] i got this hair that you guys found this morning and i 'm trying to compare it to the one hair we recovered from the murder last week - the hayes girl ?,0
+11,7, [[Warrick]] and you got a match microscopically but it does n't mean a damn thing 'cause it still does n't lead us to the guy ?,0
+11,8, [[Sara]] no,0
+11,9, [[Sara]] i ca n't even tell if we have a dna match,0
+11,10, [[Sara]] there 's no skin tag on either one,0
+11,11," [[Warrick]] whoa , whoa , whoa",0
+11,12, [[Warrick]] a girl defending herself against a guy is going to pull that hair out by the roots,0
+11,13, ( Quick CGI POV . ),0
+11,14, ( Close up of female hand grabbing hair and ripping it out . ),0
+11,15, ( Cut to : Microscopic close up of the skin tag at the root of the hair . ),0
+11,16," [[Warrick]] i mean , you get scalp skin filled with dna",0
+11,17, ( End of CGI POV . ),0
+11,18, ( Resume to present . ),0
+11,19, ( SARA is looking at the hair through the scope again ),0
+11,20," [[Sara]] no scalp , no skin it 's almost like this hair was",0
+11,21, [[Warrick]] ... shed ?,0
+11,22, ( He nods . ),0
+11,23, ( Then the pagers start beeping . ),0
+11,24, ( Both SARA and WARRICK reach for their pagers . ),0
+11,25, [[Warrick]] mine,0
+12,0, ( GRISSOM turns the corner in the hallway . ),0
+12,1, ( He 's carrying a file and NICK catches up to him from behind . ),0
+12,2," [[Nick]] hey , gil , you want to give me the skinny on this meeting of yours ?",0
+12,3, [[Nick]] i 'm on my way back to the crime scene,0
+12,4, [[Grissom]] what meeting ?,0
+12,5, [[Grissom]] i 'm going to evidence,0
+12,6, ( He points in front of him . ),0
+12,7, [[Nick]] i got paged about the signature case,0
+12,8, ( SARA and WARRICK catch up with GRISSOM and NICK on their way to the meeting . ),0
+12,9," [[Sara]] hey , warrick and i just got a break",0
+12,10, [[Sara]] the guy 's been planting hairs,0
+12,11, [[Warrick]] shedding,0
+12,12, [[Warrick]] he 's trying to throw us off,0
+12,13," [[Warrick]] what he does n't realize , we got no dna on the hairs so we ca n't chase down his other suspect",0
+12,14," ( On the far end of the hall in front of them , GRISSOM sees some Federal Agents entering a conference room . )",0
+12,15, ( He does n't like the conclusions he 's reaching . ),0
+12,16, [[Sara]] grissom ... are you hearing us ?,0
+12,17, ( GRISSOM approaches the door . ),0
+12,18, ( AGENT RICK CULPEPPER and several Federal Agents are in the room and around the table . ),0
+13,0, ( GRISSOM slowly walks into the room . ),0
+13,1, [[Agent_Rick_Culpepper]] you all got my page,0
+13,2, [[Agent_Rick_Culpepper]] good,0
+13,3, [[Grissom]] i did n't,0
+13,4, [[Agent_Rick_Culpepper]] we 'll get you a new battery,0
+13,5, ( GRISSOM is getting angry at the games these people are playing . ),0
+13,6, [[Agent_Rick_Culpepper]] i thought we 'd convo about the strangler,0
+13,7, [[Agent_Rick_Culpepper]] hear what you 've got tell you what we think our next move should be,0
+13,8, ( GRISSOM turns to his team . ),0
+13,9," [[Grissom]] would you guys go back to my office , please ?",0
+13,10, [[Grissom]] i 'll be in in a few minutes,0
+13,11," ( WARRICK , NICK and SARA turn and leave the room . )",0
+13,12, [[Grissom]] i 'll be happy to pass on any pertinent information you may have to my team,0
+13,13, [[Agent_Rick_Culpepper]] okay,0
+13,14, [[Agent_Rick_Culpepper]] fine,0
+13,15, [[Agent_Rick_Culpepper]] got anything to report to us ?,0
+13,16, [[Grissom]] you first,0
+13,17, [[Agent_Rick_Culpepper]] we have an operation in place,0
+13,18," [[Agent_Rick_Culpepper]] your csi , sidle , has expressed an interest to my agents in availing herself",0
+13,19, [[Agent_Rick_Culpepper]] i wanted to let you know before we made the official offer,0
+13,20, [[Grissom]] really ?,0
+13,21, [[Grissom]] what kind of operation ?,0
+13,22, [[Agent_Rick_Culpepper]] all this talk about your great capacity for observation,0
+13,23," [[Agent_Rick_Culpepper]] sara sidle matches the victim prototype to a 't ' she 's a young woman , brunette , tall for a female",0
+13,24, ( SARA walks back to the room . ),0
+13,25," ( As if sensing her return , GRISSOM turns to look back at her . )",0
+13,26, ( SARA meets his gaze . ),0
+13,27, ( GRISSOM turns back to CULPEPPER . ),0
+13,28, [[Grissom]] you 're not serious,0
+13,29," [[Agent_Rick_Culpepper]] and by all reports , she 's steady",0
+13,30, [[Agent_Rick_Culpepper]] has the right personality for a decoy operation,0
+13,31, [[Grissom]] you 're going to bait this guy with a human being ?,0
+13,32, [[Grissom]] this is your big fbi plan,0
+13,33," [[Agent_Rick_Culpepper]] before he kills again , yes",0
+13,34, [[Agent_Rick_Culpepper]] got a better idea ?,0
+13,35," [[Grissom]] understanding him first , completely , so that we can get out ahead of him",0
+13,36," ( Behind him , SARA is getting impatient at what he 's saying . )",0
+13,37, [[Agent_Rick_Culpepper]] and if he kills again while we 're trying to understand him ?,0
+13,38," [[Grissom]] well , i 'm sorry , but he 's not going to kill my csi",0
+13,39, ( GRISSOM indicates SARA behind him . ),0
+13,40," [[Sara]] i 'm going to do it , grissom",0
+13,41," ( GRISSOM turns around , surprised . )",0
+13,42, [[Sara]] i want to,0
+13,43, [[Grissom]] you want to put yourself in the path of a psychotic killer ?,0
+13,44, [[Sara]] i 'm trained in weaponless defense,0
+13,45," [[Grissom]] too bad , because that 's what turns him on -- women fighting back",0
+13,46, [[Grissom]] gives him a greater sense of power when he makes his final kill,0
+13,47, [[Sara]] grissom,0
+13,48," [[Grissom]] sit down , sara",0
+13,49," ( GRISSOM turns back to CULPEPPER , who is vastly amused by the exchange he just witnessed . )",0
+13,50, ( SARA moves to take a seat . ),0
+13,51, ( GRISSOM looks at CULPEPPER . ),0
+13,52, [[Agent_Rick_Culpepper]] okay,0
+13,53, [[Agent_Rick_Culpepper]] if we 're to follow your line of thinking are you out ahead of him ?,0
+13,54, [[Grissom]] not yet,0
+13,55, [[Grissom]] he knows just enough about forensics to be dangerous,0
+13,56, [[Grissom]] he thinks he 's throwing us off track by planting confederate hairs,0
+13,57, [[Grissom]] he probably shaves his head maybe his entire body as dna protection,0
+13,58, [[Grissom]] he may gag his victims using a garden-variety bath towel which he then takes with him as part of his murder kit,0
+13,59, [[Grissom]] he will go after another tall brunette and the torture will be worse,0
+13,60," [[Grissom]] but this time , he wo n't ejaculate",0
+13,61, [[Grissom]] at least not at the scene,0
+13,62," [[Agent_Rick_Culpepper]] at home , later",0
+13,63, [[Agent_Rick_Culpepper]] he 's learning control,0
+13,64, [[Sara]] think he knows his next victim ?,0
+13,65," ( Without looking at her and still watching CULPEPPER , GRISSOM answers her . )",0
+13,66, [[Grissom]] signature killers always know their next victim,0
+13,67, [[Grissom]] but they do n't know him,0
+13,68, ( GRISSOM suddenly turns to look directly at SARA . ),0
+13,69," [[Grissom]] ... until he tortures , rapes and kills them",0
+13,70, ( Camera holds on SARA . ),0
+14,0, ( An OFFICER stands just outside the front door . ),0
+14,1," ( Along the sidewalk a small shrine of flowers , candles and pictures is at the corner near the sidewalk . )",0
+14,2, ( NICK walks to the door of EILEEN SNOW 'S bedroom . ),0
+14,3," ( He puts his kit down on the floor near the doorway , then pauses as he takes a deep breath before entering the bedroom . )",0
+14,4," ( He shines his flashlight into the room and looks around at the bare bed , stripped of its sheets . )",0
+14,5, ( The window next to it is open . ),0
+14,6, ( NICK walks into the room . ),0
+14,7, ( He looks around . ),0
+14,8, ( The closet light is on . ),0
+14,9, ( NICK does n't pay too much attention to it . ),0
+14,10, ( He continues to circle the room and look around . ),0
+14,11, ( NICK walks up to the chair in front of the window and kneels down . ),0
+14,12, ( He sees something on the floor near the chair cover and picks it up . ),0
+14,13, ( He looks at it . ),0
+14,14, ( It appears to be a piece of latex . ),0
+14,15, ( Quick flashback to : The intruder puts on a pair of latex gloves . ),0
+14,16, ( End of flashback . ),0
+14,17, ( Resume to present . ),0
+14,18, ( NICK hears something creak and turns around to look . ),0
+14,19, ( He looks at the closet . ),0
+14,20, ( The closet light is off . ),0
+14,21, ( NICK shines the flashlight into the closet . ),0
+14,22, ( He stands and slowly approaches the closet door . ),0
+14,23," ( When he gets close enough , he reaches out a hand to push the door open . )",0
+14,24," ( At the same time , a woman appears inside the closet , the closet light goes on , and everyone screams in surprise . )",0
+14,25, ( NICK takes a step back . ),0
+14,26, [[Nick]] freeze !,0
+14,27, ( LYNDA DARBY takes a step back into the closet . ),0
+14,28, ( She bumps her back against the hanging clothes and holds up her hands showing that all she has in her right hand is a digital camera . ),0
+14,29, [[Nick]] hey,0
+14,30, ( NICK gets a good look at her and motions for her to get out . ),0
+14,31, [[Nick]] get out of there,0
+14,32, [[Nick]] get out of the closet,0
+14,33, [[Lynda_Darby]] hmm,0
+14,34, ( LYNDA DARBY steps out of the closet . ),0
+14,35, [[Nick]] what are you doing ?,0
+14,36," [[Lynda_Darby]] um , i a reporter",0
+14,37, [[Lynda_Darby]] what ?,0
+14,38," [[Lynda_Darby]] we know the police are withholding information from us , so i came down here because",0
+14,39, [[Nick]] all right,0
+14,40, [[Nick]] quiet,0
+14,41, [[Nick]] quiet,0
+14,42, [[Nick]] are you out of your mind ?,0
+14,43, [[Nick]] i could 've killed you,0
+14,44, [[Nick]] this is a crime scene,0
+14,45, [[Nick]] you do n't belong here,0
+14,46, [[Nick]] unless you want me to get the cop at the front door you 'll get out of here now,0
+14,47, [[Nick]] and i 'd better not see any pictures of this apartment in your paper ... or i 'll have the d.a,0
+14,48, [[Nick]] on your front door,0
+14,49, [[Lynda_Darby]] i 'm sorry that i scared you,0
+14,50, [[Nick]] you did n't scare me,0
+14,51, [[Nick]] mm-mm,0
+14,52, [[Lynda_Darby]] want to tell me what you found over by the window ?,0
+14,53, [[Nick]] no,0
+14,54, [[Lynda_Darby]] okay,0
+14,55," ( Not daring to push her luck more than she already has , LYNDA DARBY turns and heads out of the room . )",0
+14,56, ( NICK watches her leave . ),0
+15,0, ( CATHERINE pushes the door open and walks into the lab . ),0
+15,1, [[Catherine]] fast,0
+15,2, [[Catherine]] i 'm impressed,0
+15,3, [[Greg_Sanders]] you got a hot dog ?,0
+15,4," [[Catherine]] this one of your jokes , greg ?",0
+15,5, [[Greg_Sanders]] i got the ketchup,0
+15,6, [[Catherine]] i 'm sure this is meaningful,0
+15,7, [[Greg_Sanders]] i went back and looked at the ejaculate from the last two murders,0
+15,8, [[Greg_Sanders]] the same thing,0
+15,9," [[Greg_Sanders]] 'indeterminate red stuff ' it 's c12 , h22 and o11 , nacl , h2o and tomato paste",0
+15,10," [[Catherine]] sugar , water , salt and tomato paste",0
+15,11, [[Catherine]] ketchup ?,0
+15,12, [[Greg_Sanders]] ketchup,0
+15,13," [[Catherine]] well , does he add it after or is it organic ?",0
+15,14," [[Greg_Sanders]] do n't ask me why , but , uh ... he adds it",0
+16,0, ( GRISSOM scoffs as he looks at CATHERINE . ),0
+16,1, [[Grissom]] i was expecting something a little more elemental,0
+16,2, ( CATHERINE stands in front of GRISSOM 'S desk . ),0
+16,3, ( He 's behind it reading through GREG 'S test results . ),0
+16,4," [[Catherine]] when we zig , he zags",0
+16,5," [[Grissom]] yeah , well , he 's not as smart as he thinks , you know ?",0
+16,6," [[Grissom]] i mean , ketchup is not going to mask the dna in his semen",0
+16,7, [[Catherine]] all of which i 'm sure you 'll share with the fbi,0
+16,8, [[Grissom]] i 'm sure,0
+16,9, [[Catherine]] hey ... is it so bad to avail our lab to the resources of the federal government ?,0
+16,10, ( GRISSOM stares at CATHERINE and at her choice of words . ),0
+16,11, [[Grissom]] you 've been to talking to our sheriff,0
+16,12, [[Catherine]] i 've been listening to our sheriff,0
+16,13, [[Catherine]] he says that you wo n't,0
+16,14," [[Grissom]] yeah , yeah , i know",0
+16,15, [[Grissom]] and if i do n't shape up he going to have ecklie take over the case,0
+16,16, ( GRISSOM scoffs . ),0
+16,17," [[Catherine]] well , no",0
+16,18, [[Catherine]] he preferred someone from night shift and it may be more than just this case,0
+16,19, ( GRISSOM turns to look at CATHERINE and leans forward toward her into the desk . ),0
+16,20, [[Grissom]] ah,0
+16,21," [[Grissom]] now that the trees are gone , i can almost see the forest",0
+16,22, ( CATHERINE also leans in forward over the desk to look at GRISSOM . ),0
+16,23, [[Catherine]] gil ... learn to be more politic,0
+16,24, ( There 's a light knock on the front door . ),0
+16,25, ( NICK walks into the office . ),0
+16,26, [[Nick]] you guys got a sec ?,0
+16,27, [[Nick]] he 's wearing latex gloves,0
+16,28," [[Nick]] the thick kind , too",0
+16,29, [[Nick]] he must know the thin ones leave prints,0
+16,30, ( NICK hands the bagged latex sample to CATHERINE . ),0
+16,31, ( She turns to look from NICK to GRISSOM . ),0
+16,32," [[Catherine]] when we zig , he zags",0
+16,33, ( CATHERINE passes the bagged sample to GRISSOM . ),0
+16,34, ( GRISSOM takes it and looks at it . ),0
+17,0, ( GRISSOM is sitting in front of BRASS ' desk . ),0
+17,1, [[Brass]] what about paul millander ?,0
+17,2, [[Brass]] maybe he 's our guy,0
+17,3, ( BRASS sits down in his chair . ),0
+17,4," [[Brass]] and , uh , he had the latex hands",0
+17,5, [[Brass]] and he 's a serial,0
+17,6, [[Grissom]] millander stages suicides in bathtubs with paternal figures,0
+17,7, [[Grissom]] this guy 's signature is overkill rage against young women,0
+17,8, [[Grissom]] it 's completely different,0
+17,9, [[Brass]] maybe our brethren at the fbi have some sort of special database when did you become friendly with the feds ?,0
+17,10, [[Grissom]] i did n't think you had that in you,0
+17,11, [[Brass]] never make an enemy when you can just as easily make a friend fbi 's okay,0
+17,12, [[Brass]] i 've kissed worse ass,0
+17,13, [[Brass]] but i 've got to say i do n't like this decoy op the feds are talking up,0
+17,14, ( GRISSOM leans forward in his chair . ),0
+17,15," ( Suddenly , this conversation really interests him . )",0
+17,16, [[Brass]] i remember when holly gribbs died,0
+17,17, [[Brass]] i sent her out in the field and she was n't ready,0
+17,18, [[Grissom]] i told culpepper that he could not have sara,0
+17,19, [[Brass]] i know what you told him,0
+17,20, ( Camera holds on GRISSOM as he realizes what BRASS is implying . ),0
+18,0, ( OFFICER cars are gathered under the bridge . ),0
+18,1," [[Agent_Rick_Culpepper]] okay , listen up",0
+18,2, [[Agent_Rick_Culpepper]] all personnel will be tethered to our decoy by this radio,0
+18,3, ( AGENT RICK CULPEPPER stands in the open doorway of the back of the van . ),0
+18,4," ( Inside the van , the techs help SARA on with the mic . )",0
+18,5, ( She pulls her shirt down . ),0
+18,6, ( GRISSOM 'S tahoe pulls up . ),0
+18,7, [[Agent_Rick_Culpepper]] according to captain james brass two of our assailant 's victims patronized this specialty grocery store to which we are about to embark forthwith two days before they turned up dead,0
+18,8, ( GRISSOM and BRASS get out of the car . ),0
+18,9, ( GRISSOM walks up to the van . ),0
+18,10," [[Agent_Rick_Culpepper]] there 's a very good chance our assailant will re-frequent this store , looking for his next victim",0
+18,11, ( SARA steps out of the van just as GRISSOM reaches it . ),0
+18,12," [[Grissom]] this is a pretty flimsy excuse to get your circus up and running , do n't you think ?",0
+18,13, [[Agent_Rick_Culpepper]] lives are at stake,0
+18,14, [[Agent_Rick_Culpepper]] i 'll take flimsy over nothing,0
+18,15, ( CULPEPPER steps down from the van . ),0
+18,16, [[Grissom]] this is action for action 's sake culpepper,0
+18,17, [[Grissom]] you 're risking my csi 's life,0
+18,18, ( CULPEPPER does n't say anything and walks away . ),0
+18,19, ( SARA steps up to GRISSOM . ),0
+18,20," [[Sara]] look , this is my idea",0
+18,21, [[Sara]] i want to do something before another girl gets killed and,0
+18,22," [[Grissom]] listen to me , sara",0
+18,23," [[Grissom]] if we study his past , we can predict his future",0
+18,24, [[Sara]] you 've been saying that for weeks,0
+18,25, [[Sara]] it 's taking too long,0
+18,26, [[Sara]] someone else is going to die and you 're still going to be figuring it out,0
+18,27, ( GRISSOM stares at SARA as if seeing her for the first time . ),0
+18,28," [[Agent_Rick_Culpepper]] okay , sidle we 're good to go",0
+18,29, [[Sara]] wish me luck,0
+18,30, ( SARA turns and leaves . ),0
+18,31, ( GRISSOM stands there stunned . ),0
+18,32, ( She steps up into the van past CULPEPPER who simply looks at GRISSOM . ),0
+18,33," ( Frustrated and helpless , GRISSOM turns around and looks at BRASS . )",0
+19,0, ( SARA walks cautiously through the grocery store . ),0
+19,1, ( She carries her shopping basket her grasp . ),0
+19,2, ( 'Danke schoen ' plays over the pa system . ),0
+20,0," ( Inside the van , CULPEPPER and GRISSOM sit side-by-side watching the various camera monitors on SARA . )",0
+20,1," ( Cut to : In his car parked outside the store , BRASS watches as the front door opens and a customer walks out . )",0
+20,2," ( Back inside the store , SARA continues to troll the aisles . )",0
+20,3, ( She stops and stares at a male shopper . ),0
+20,4, ( He turns to look at her . ),0
+20,5, ( His companion walks up to the cart and puts something in it . ),0
+20,6, ( SARA moves along . ),0
+20,7," ( Inside the van , CULPEPPER looks at his watch and sighs . )",0
+20,8, [[Agent_Rick_Culpepper]] oh ... it 's three hours expended,0
+20,9, [[Agent_Rick_Culpepper]] maybe we should reposition over at that borders book store,0
+20,10, [[Agent_Rick_Culpepper]] gets a lot of foot traffic in there according to the field agents,0
+20,11," ( Inside the store , SARA walks up to a display and takes an item off the shelf to look at it . )",0
+20,12, ( A man carrying his own basket appears in the aisle . ),0
+20,13," ( SARA glances at him , then puts the item in her hand back on the shelf . )",0
+20,14, ( The man walks past the aisle . ),0
+20,15," ( SARA looks up , then back at the shelf . )",0
+20,16, ( The man turns around and walks back into the aisle where SARA is . ),0
+20,17," ( He watches her intently , then turns around to pick something up off the shelf . )",0
+20,18, ( He turns back to her . ),0
+20,19," ( Cut to : Inside the van on the monitors , GRISSOM sees the double take and the man head for SARA . )",0
+20,20, [[Grissom]] whoa,0
+20,21, [[Grissom]] that guy 's coming back,0
+20,22," ( Inside the store , the MALE SHOPPER walks up to SARA . )",0
+20,23, [[Male_Shopper]] would you happen to have a cigarette ?,0
+20,24," [[Sara]] uh ... yeah , actually",0
+20,25, ( SARA reaches into her bag to get the cigarettes . ),0
+21,0, [[Grissom]] culpepper,0
+21,1, [[Agent_Rick_Culpepper]] let her play,0
+21,2, [[Male_Shopper]] i 've been trying to quit,0
+21,3, [[Male_Shopper]] did n't want to buy a pack,0
+21,4," [[Sara]] me , too",0
+21,5," [[Sara]] this is my last pack ... but , uh , i say that every week , so",0
+21,6, ( She offers it to him . ),0
+21,7, ( He takes a cigarette out of the pack . ),0
+21,8, ( She puts the pack back in her bag . ),0
+21,9," ( Inside the van , GRISSOM and CULPEPPER watch the interplay . )",0
+21,10, [[Male_Shopper]] non-filtered,0
+21,11," [[Male_Shopper]] the women i know smoke filtered -- you know those long , skinny cigarettes ?",0
+21,12, ( He smiles at her . ),0
+21,13, [[Sara]] guess it depends on the woman,0
+21,14, [[Male_Shopper]] guess it does,0
+21,15, ( He puts the cigarette between his lips . ),0
+21,16, [[Male_Shopper]] you got a light ?,0
+21,17, [[Sara]] sure,0
+21,18, [[Sara]] yeah,0
+21,19, ( SARA looks down into her bag to search for the light . ),0
+21,20, ( She takes her eyes off of the shopper in front of her . ),0
+21,21, ( He glances around . ),0
+21,22, [[Male_Shopper]] you live around here ?,0
+21,23, [[Sara]] maybe,0
+21,24, ( The SHOPPER tucks the cigarette on his right ear . ),0
+21,25, ( SARA looks up at him . ),0
+21,26, [[Sara]] i do n't usually give out that kind of information,0
+21,27, [[Male_Shopper]] it 's probably smart,0
+21,28, [[Male_Shopper]] i would n't tell me either,0
+21,29, [[Male_Shopper]] you 're cute,0
+21,30, [[Sara]] thanks,0
+21,31, ( He glances to the side . ),0
+21,32," ( SARA automatically glances to the side , too . )",0
+21,33," ( He reaches for her bag , his hand slipping inside . )",0
+21,34, ( CULPEPPER alerts the officers . ),0
+21,35," [[Agent_Rick_Culpepper]] all right , we 're on the move",0
+21,36, [[Agent_Rick_Culpepper]] let 's go,0
+21,37, ( The van doors open and GRISSOM jumps out of the van . ),0
+21,38," ( CULPEPPER and the other OFFICERS follow , their guns drawn and cocking them as they run . )",0
+21,39, ( He heads for the store . ),0
+21,40, ( The MALE SHOPPER reaches into SARA 'S bag and grabs something . ),0
+21,41, ( She turns around and shouts . ),0
+21,42, [[Sara]] hey !,0
+21,43, ( FBI OFFICERS with their guns drawn converge on SARA and the MALE SHOPPER . ),0
+21,44, [[Officer]] do n't move !,0
+21,45, ( He immediately takes a step back and holds up SARA 'S wallet . ),0
+21,46, [[Male_Shopper]] i 'll give it back,0
+21,47, [[Male_Shopper]] here,0
+21,48, ( He drops the wallet to the floor as the FBI AGENT cuffs him behind his back . ),0
+21,49, ( GRISSOM picks up the wallet . ),0
+21,50, ( A cell-phone rings . ),0
+21,51, ( CULPEPPER answers it . ),0
+21,52," [[Agent_Rick_Culpepper]] yeah , culpepper",0
+21,53, [[Agent_Rick_Culpepper]] time and coordinate ?,0
+21,54," [[Agent_Rick_Culpepper]] yeah , will do",0
+21,55," [[Agent_Rick_Culpepper]] all right , gentlemen",0
+21,56," [[Agent_Rick_Culpepper]] nothing ventured , nothing gained",0
+21,57, [[Agent_Rick_Culpepper]] i do not believe this is our man,0
+21,58, [[Grissom]] what was your first clue ?,0
+21,59, [[Agent_Rick_Culpepper]] murder at the monaco hotel,0
+21,60, [[Agent_Rick_Culpepper]] woman found bound in her room stripped and strangled,0
+21,61, ( CULPEPPER turns and leaves . ),0
+21,62, ( GRISSOM turns and looks at SARA . ),0
+21,63, [[Sara]] he met the profile,0
+21,64, ( GRISSOM hands the wallet back to SARA . ),0
+21,65," [[Grissom]] sometimes , the hardest thing to do is to do nothing",0
+21,66, ( They both turn and head out of the store . ),0
+22,0, ( GRISSOM and CATHERINE walk into the hotel room . ),0
+22,1," ( Inside , BRASS and CULPEPPER are interviewing the victim 's husband . )",1
+22,2, ( GRISSOM stares at the body on the bed . ),0
+22,3, [[Catherine]] starting to look like deja vu all over again,0
+22,4, ( He glances over at the husband . ),1
+22,5, [[Grissom]] hmm,0
+22,6, ( CATHERINE turns to look at GRISSOM noting that he does n't particularly sound convinced . ),0
+22,7, [[Catherine]] not ?,0
+22,8, [[Grissom]] occasionally i 'm struck by the absence of evidence,0
+22,9, [[Catherine]] it 's there or it is n't,0
+22,10, ( CATHERINE turns to look at the scene . ),0
+22,11, [[Grissom]] the lamp -- cord 's still attached,0
+22,12," [[Grissom]] all the others , he yanked the cords off",1
+22,13, [[Grissom]] look at the table,0
+22,14, [[Grissom]] books are n't even disturbed,0
+22,15, [[Catherine]] staged ?,0
+22,16, [[Grissom]] first time in a hotel ?,0
+22,17, [[Grissom]] first time he did n't come in through the window ?,0
+22,18, [[Catherine]] i do n't think he made a deposit ... either,0
+22,19, ( CULPEPPER heads toward them catching CATHERINE 'S comment . ),0
+22,20," [[Agent_Rick_Culpepper]] that just means his signature 's evolving is n't that right , grissom ?",1
+22,21, ( GRISSOM does n't answer him . ),0
+22,22, ( BRASS joins the group . ),0
+22,23, [[Grissom]] who 's that guy ?,1
+22,24, [[Brass]] he 's the husband,1
+22,25, [[Brass]] his name 's brad walden,1
+22,26," [[Brass]] they 're locals , come here a couple times a year",1
+22,27, [[Brass]] he was downstairs playing poker,1
+22,28, [[Brass]] she was up here reading a romance novel,1
+22,29, [[Brass]] he comes back five grand richer,1
+22,30, [[Brass]] he finds her like this,1
+22,31, [[Grissom]] husband ?,1
+22,32, [[Grissom]] let 's bring him in,1
+22,33, [[Agent_Rick_Culpepper]] i 'll transport the witness,0
+22,34, ( GRISSOM stops him . ),0
+22,35, [[Grissom]] witness ?,0
+22,36, ( CULPEPPER looks at GRISSOM . ),0
+22,37, [[Grissom]] suspect,0
+23,0, ( GRISSOM walks down the hallway toward DR. ROBBINS just coming out of the autopsy room . ),0
+23,1, [[Grissom]] what did you get ?,0
+23,2," [[Dr._Albert_Robbins]] i posted the lady from the hotel , and i have to say it 's the same menu as the last three -- chemical restraint , overligature , death by strangulation",0
+23,3, [[Grissom]] what about the object-rape ?,0
+23,4, [[Grissom]] indeterminate polymer ?,0
+23,5," [[Dr._Albert_Robbins]] no , this one 's different",0
+23,6, [[Grissom]] different how ?,0
+23,7, ( They both turn and head back into the autopsy room . ),0
+24,0," [[Dr._Albert_Robbins]] cross-hatched leather , with tiny air holes for breathing",0
+24,1, ( GRISSOM looks at DR. ROBBINS . ),0
+24,2," [[Dr._Albert_Robbins]] i was thinking driving gloves , or weightlifting gloves , or",1
+24,3, ( DR. ROBBINS looks up and sees the autopsy room door swing shut . ),0
+24,4, ( GRISSOM 'S gone . ),0
+25,0, ( CULPEPPER interviews BRAD WALDEN . ),1
+25,1," [[Agent_Rick_Culpepper]] i 'm not accusing you of anything , but a man and his wife get a hotel room for a romantic weekend then spend that whole weekend apart --",1
+25,2, [[Agent_Rick_Culpepper]] makes me wonder if there 's trouble in the marriage,0
+25,3, [[Brad_Walden]] i like ... to gamble,1
+25,4, [[Brad_Walden]] she liked to read,1
+25,5," [[Brad_Walden]] it was , you know ... just the perfect getaway",0
+25,6, ( The door opens and GRISSOM walks in ),0
+25,7," [[Grissom]] you liked to play golf , too",1
+25,8, ( CULPEPPER watches as GRISSOM brings in a hard golf club case . ),0
+25,9, ( He sets it up near the table . ),0
+25,10, [[Grissom]] these are your golf clubs,1
+25,11, [[Grissom]] we found them in your hotel room,1
+25,12," [[Grissom]] i prefer a titanium driver , mr walden",1
+25,13," [[Grissom]] i 'd like to see what you use , but your carrier is locked",1
+25,14," [[Brad_Walden]] yeah , i have a key on my keychain ... my car keys",1
+25,15," [[Grissom]] so you wo n't mind opening it , though ?",1
+25,16, [[Brad_Walden]] no,0
+25,17, ( BRAD WALDEN reaches into his pants pocket to get the keys . ),0
+25,18," [[Brad_Walden]] uh , uh , w-why ?",0
+25,19," [[Grissom]] well , so i can see if the leather on your club handles matches the leather from the object used to violate your wife",1
+25,20, ( GRISSOM holds up a baggie with the leather sample in it to show BRAD WALDEN . ),1
+25,21, ( CULPEPPER takes the baggie and looks at it . ),0
+25,22, ( BRAD WALDEN stands up and unlocks the golf case . ),1
+25,23," [[Brad_Walden]] well , i-i , you know , if it does",1
+25,24," [[Brad_Walden]] i read that this , uh ... this , uh , you know , character uses whatever is at the scene of the crime for , uh ... for killing his victims",1
+25,25, ( GRISSOM takes out a golf club . ),0
+25,26," ( Realizing where GRISSOMS is going with this , CULPEPPER looks at WALDEN in a new light . )",1
+25,27, ( GRISSOM puts the club on the table . ),0
+25,28," [[Grissom]] well , if this 'character ' ... killed your wife ?",1
+25,29, [[Grissom]] how did he get your clubs out of the case without the keys ?,1
+25,30," ( One by one , GRISSOM looks for the club . )",0
+25,31," [[Grissom]] or , for that matter back into the case after he killed your wife ?",1
+25,32, ( He places the third club on the table . ),0
+25,33, ( The very next golf club he pulls out is the one with the ripped handle . ),0
+25,34, ( Camera zooms in for a close up of the frayed leather . ),0
+25,35, ( GRISSOM shows the club handle to CULPEPPER who holds up the baggied sample next to it . ),0
+25,36, ( GRISSOM turns to look at WALDEN . ),1
+25,37," [[Agent_Rick_Culpepper]] read this man his rights , please",1
+25,38," [[Agent_Rick_Culpepper]] you 're under arrest for the murder of jennifer walden ... and eileen snow ,",1
+25,39," ( Surprised at the leap , GRISSOM turns to look at CULPEPPER as the officers arrest BRAD WALDEN . )",1
+25,40," [[Agent_Rick_Culpepper]] ... and tracy berg , and",1
+25,41, ( GRISSOM puts the golf club in one hand and reaches for the baggied sample with the other . ),0
+25,42, ( He stops CULPEPPER . ),0
+25,43, [[Grissom]] can i have a word with you outside ... please ?,0
+26,0, ( GRISSOM walks out into the hallway ; CULPEPPER follows close behind and closes the door to the interview room behind him . ),0
+26,1, [[Grissom]] you ca n't charge him for the other women,0
+26,2, [[Agent_Rick_Culpepper]] what do you mean ?,0
+26,3," [[Grissom]] for the murder of his wife , maybe but i am certain that he did n't do the others",0
+26,4, [[Agent_Rick_Culpepper]] every piece of the signature is there,0
+26,5, [[Grissom]] he read the papers -- he piggybacked on top of the killer,0
+26,6, [[Agent_Rick_Culpepper]] for what possible reason ?,0
+26,7, [[Grissom]] who knows ?,0
+26,8, [[Grissom]] convenient way out of a lousy marriage ?,0
+26,9, [[Grissom]] he 's not our guy,0
+26,10," [[Agent_Rick_Culpepper]] you know , this is where i like to reference the majesty and the power of the republic of the united states of america",0
+26,11, [[Grissom]] go ahead,0
+26,12, [[Grissom]] pull rank,0
+26,13, [[Grissom]] but that hotel crime scene was staged to look like the signature 's,0
+26,14," [[Agent_Rick_Culpepper]] and that golfer just got lucky that the victim type fits his wife to a texas t , is that it ?",0
+26,15," [[Grissom]] if you stop and think , you 'll see it",0
+26,16," [[Agent_Rick_Culpepper]] duly noted , supervisor grissom",0
+26,17, ( He turns and walks away from GRISSOM shouting over his shoulder as he leaves . ),0
+26,18, [[Agent_Rick_Culpepper]] duly noted,0
+26,19, ( CULPEPPER walks back into the interview and shuts the door behind him . ),0
+27,0, ( Close up of the television monitor during the news report . ),0
+27,1, ( The heading on the bottom of the screen reads : STRIP STRANGLER CAUGHT . ),0
+27,2, [[Paula_Francis_(tv_Reporter)]] details of the arrest will be forthcoming in this live report,0
+27,3, ( SARA walks past the break room and sees the news report through the glass from the hallway . ),0
+27,4, [[Paula_Francis_(tv_Reporter)]] federal agent culpepper is about to start his news conference,0
+27,5," [[Paula_Francis_(tv_Reporter)]] as we 've been reporting , a suspect has been arrested in the strip-strangler case",0
+27,6," ( In a press conference to the media , CULPEPPER gives his report . )",0
+27,7, [[Agent_Rick_Culpepper]] we believe that bradley mac walden not only killed his wife but also took the lives of audrey hayes and eileen snow and tracy berg,0
+27,8, [[Agent_Rick_Culpepper]] our field agents have divulged that mr walden lived within two miles of the other victims worked in the same office building as ms snow and has no believable explanation for his whereabouts on the dates of their murders,0
+27,9," [[Agent_Rick_Culpepper]] we believe that bradley mac walden found and stalked these victims , and",0
+27,10, ( CATHERINE walks into the conference room and takes the seat next to GRISSOM . ),0
+27,11, [[Catherine]] i just talked with brass,0
+27,12, [[Catherine]] he said that walden was having an affair with a dentist in his office,0
+27,13," [[Grissom]] i 'm telling you , this guy did not kill those other women",0
+27,14," ( Overhearing GRISSOM , the reporter sitting in the seat two rows in front of him turns around to look back at GRISSOM . )",0
+27,15, ( It 's LYNDA DARBY . ),0
+27,16, [[Agent_Rick_Culpepper]] this statement is concluded,0
+27,17," [[Agent_Rick_Culpepper]] las vegas , its locals and visitors can rest a little easier tonight",0
+27,18, [[Agent_Rick_Culpepper]] a suspect is in custody,0
+27,19, [[Agent_Rick_Culpepper]] thank you,0
+27,20, [[Agent_Rick_Culpepper]] i 'll take some questions,0
+27,21," ( While the other media reporters raise their hands to be recognized by the AGENT on stage , LYNDA DARBY turns around and addresses GRISSOM . )",0
+27,22," [[Lynda_Darby]] mr grissom -- lynda darby , las vegas tribune",0
+27,23," [[Lynda_Darby]] as the lead csi on this case , do you have anything to add to the fbi statement ?",0
+27,24, [[Catherine]] politics,0
+27,25, ( GRISSOM glances at CATHERINE . ),0
+27,26, [[Grissom]] no,0
+27,27," ( In the front row , SHERIFF BRIAN MOBLEY turns around to look at GRISSOM . )",0
+27,28," [[Lynda_Darby]] so , las vegas can breathe easier ?",0
+27,29, [[Lynda_Darby]] you do have the strip strangler behind bars ?,0
+27,30," ( Unwilling to lie , GRISSOM answers her . )",0
+27,31," [[Grissom]] no , we do n't",0
+27,32, ( GRISSOM glances at CATHERINE who knows what this means . ),0
+27,33, ( GRISSOM stands up and leaves . ),0
+27,34, [[Agent_Rick_Culpepper]] that 's all the information we have,0
+27,35, ( SHERIFF BRIAN MOBLEY watches GRISSOM leave . ),0
+27,36, ( He turns and faces the front of the room as the reporters continue to shout out their questions . ),0
+27,37, ( CATHERINE sees MOBLEY in the front of the room . ),0
+28,0, ( SHERIFF BRIAN MOBLEY and GRISSOM walk outside the building . ),0
+28,1, [[Sheriff_Brian_Mobley]] the fbi did me a favor being here and they have a viable suspect,0
+28,2," [[Grissom]] he 's not viable , brian",1
+28,3, [[Sheriff_Brian_Mobley]] then further investigation will prove that out,0
+28,4," [[Sheriff_Brian_Mobley]] in the meantime , people will feel better about their daily lives",0
+28,5," [[Sheriff_Brian_Mobley]] now , why on earth would you want to counteract that ?",0
+28,6," [[Grissom]] for those who have to ask , no answer could suffice",0
+28,7," [[Sheriff_Brian_Mobley]] look , i see we 've come to an impasse",0
+28,8, [[Sheriff_Brian_Mobley]] if further investigation determines that walden did n't kill those other women then you can rejoin the investigation,1
+28,9," [[Grissom]] oh , do i get the weekend off ?",0
+28,10, [[Sheriff_Brian_Mobley]] for starters ... and a two-week holiday ... anywhere but csi you brought this on yourself,0
+28,11," [[Sheriff_Brian_Mobley]] now , the next time you want to play with my career , maybe you 'll think twice",0
+28,12, ( THE SHERIFF leaves . ),0
+29,0, ( GRISSOM closes his locker door and heads out the room . ),0
+29,1, ( The entire team is in the locker room upset by the decision to remove GRISSOM from the investigation . ),0
+29,2," [[Nick]] you know , it 's not fair , grissom",0
+29,3, [[Nick]] you know more about signatures than most of them put together,0
+29,4, [[Catherine]] that may have been the problem,0
+29,5, [[Warrick]] is there 's no one you can appeal to ?,0
+29,6, [[Grissom]] no,0
+29,7, [[Grissom]] i 'm off,0
+29,8, ( SARA remains quiet . ),0
+29,9," [[Warrick]] come on , this guy 's on the loose and there 's nothing you can do ?",0
+29,10, [[Grissom]] it 's all catherine,0
+29,11, [[Grissom]] she 's the boss,0
+29,12, ( CATHERINE looks up at GRISSOM . ),0
+29,13, [[Grissom]] good luck,0
+29,14, ( GRISSOM turns and leaves the locker room ... and his team . ),0
+29,15," ( Cut to reaction shots of SARA , WARRICK , NICK , and CATHERINE . )",0
+29,16, ( Camera holds on CATHERINE . ),0
+30,0, ( The door opens and GRISSOM walks into his living room . ),0
+30,1, ( He puts his briefcase down and turns on the stereo . ),0
+30,2, ( Classical music fills the room . ),0
+30,3, ( He goes to the kitchen to get his medicine . ),0
+30,4, ( He opens the fridge to get some water . ),0
+30,5, ( He opens a prescription medication bottle and tips out a couple of tablets into the palm of his hand . ),0
+30,6, ( He swallows them and takes a sip of water . ),0
+30,7, ( He sighs and caps the bottle up tight . ),0
+30,8, ( He puts his glasses on and opens the file in front of him and goes over the file . ),0
+30,9," ( Quick flashback to : Just outside the bedroom window , the intruder watches a woman asleep inside . )",0
+30,10, ( Cut to : The intruder suffocates the woman with a cord wrapped around her neck . ),0
+30,11, ( Cut to : The intruder wipes the dead woman 's hands with a towel . ),0
+30,12, ( Cut to : The intruder wipes the dead woman 's body of any evidence he 's been there . ),0
+30,13, ( End of flashback . ),0
+30,14, ( Resume to GRISSOM . ),0
+30,15, ( GRISSOM takes off his glasses and closes his eyes . ),0
+30,16, ( He leans back against the arm of the couch and chucks his shoes off to the floor . ),0
+30,17, ( He leans back and sighs . ),0
+30,18, ( Camera moves into the living room from the door . ),0
+30,19, ( The visitor 's sights are on GRISSOM on the couch . ),0
+30,20, ( The visitor slowly crosses the living room toward GRISSOM . ),0
+30,21, [[Catherine]] hey !,0
+30,22, ( GRISSOM jumps up and turns around . ),0
+30,23, ( CATHERINE walks up to him . ),0
+30,24, [[Catherine]] your door was open,0
+30,25, [[Catherine]] you okay ?,0
+30,26, ( CATHERINE picks up the prescription medication bottle and looks at it . ),0
+30,27, [[Catherine]] migraine,0
+30,28, [[Catherine]] it 's been a while,0
+30,29, [[Grissom]] i 'm not used to having people in my house,0
+30,30, [[Catherine]] you just do n't like it when you ca n't solve a case or command your troops,0
+30,31, ( CATHERINE turns and walks away toward the shelves . ),0
+30,32, [[Grissom]] did you come here to tell me about your new job ?,0
+30,33, ( CATHERINE looks at the books on GRISSOM 'S shelves . ),0
+30,34, [[Catherine]] i told the sheriff i 'd pass,0
+30,35, [[Grissom]] you do n't want to be a supervisor ?,0
+30,36," [[Catherine]] well , if i get a promotion , i want it to be on merit ... not because you 're politically tone-deaf",0
+30,37, ( CATHERINE turns around to look at GRISSOM . ),0
+30,38," [[Catherine]] so , our guys are outside in their tahoes",0
+30,39," [[Catherine]] if you 're a civilian , we are",0
+30,40, ( GRISSOM looks at CATHERINE as he realizes what she 's saying . ),0
+30,41, [[Catherine]] except we are putting in for overtime,0
+30,42, ( CATHERINE heads for the front door . ),0
+30,43, ( Camera holds on GRISSOM . ),0
+31,0," ( SARA , NICK and WARRICK are sitting around GRISSOM 'S table having a meeting just as if they were at work . )",0
+31,1, [[Grissom]] we should reexamine each victim -- all the evidence pertaining to each one individually,0
+31,2," [[Nick]] all right , well , i got dibs on eileen snow",0
+31,3, [[Nick]] and i have a strong feeling i 'm going to be the one to break the case,0
+31,4, [[Sara]] tracy berg,0
+31,5," [[Warrick]] i got audrey hayes , but those fibers we found in the snow lady 's throat are n't going to give us anything",0
+31,6, [[Warrick]] white cotton fibers are like oxygen -- they 're everywhere,0
+31,7," [[Grissom]] well , then go back to your crime scenes and look for a persistence of fibers",0
+31,8," [[Warrick]] 'if you ca n't prove uniqueness , prove abundance '",0
+31,9," ( With their assignments , everyone stands up and leaves . )",0
+31,10, [[Grissom]] something 's better than nothing,0
+31,11, [[Warrick]] yeah,0
+32,0, ( Camera opens on the computer monitor with the results of the DNA search . ),0
+32,1, ( GREG taps the monitor screen . ),0
+32,2, [[Greg_Sanders]] hunter f. baumgartner,0
+32,3, [[Greg_Sanders]] our ketchup dna guy,0
+32,4, [[Catherine]] this guy showed up on the database,0
+32,5, ( CATHERINE pulls out the chair and sits down . ),0
+32,6, [[Greg_Sanders]] codis,0
+32,7, [[Greg_Sanders]] updates its database every couple weeks,0
+32,8," [[Catherine]] yeah , well , do n't act like it 's so simple",0
+32,9, [[Catherine]] this guy could have gone another year without being picked up,0
+32,10, [[Catherine]] what did they get him on ?,0
+32,11," [[Greg_Sanders]] well , indecent exposure",0
+32,12, [[Greg_Sanders]] caught in an alley behind the monaco,0
+32,13, [[Catherine]] oh,0
+32,14," [[Catherine]] suspended sentence , released two days ago",0
+32,15, [[Catherine]] call grissom on his cell,0
+32,16, [[Greg_Sanders]] i thought he was off the case,0
+32,17, [[Catherine]] he is,0
+32,18, [[Catherine]] dial,0
+32,19, [[Catherine]] tell him to meet me at this guy 's work address,0
+32,20, ( GREG nods to do it as CATHERINE gets up and leaves . ),0
+33,0, ( GRISSOM and CATHERINE walk up to the entrance of the bar . ),0
+33,1," ( Inside , rock music blares . )",0
+33,2, [[Catherine]] you think anything illegal goes on in here ?,0
+33,3, ( GRISSOM pushes the bars open . ),0
+33,4, ( CATHERINE walks in They both walk up to the bar where the bartender restocks on ice . ),0
+33,5, ( GRISSOM holds the photo of the man they 're looking for and compares it to the bartender . ),0
+33,6, [[Grissom]] excuse me ?,0
+33,7, [[Grissom]] hunter ?,0
+33,8, ( The bartender looks up and walks over to them . ),0
+33,9, [[Hunter_Baumgartner]] yeah,0
+33,10, [[Hunter_Baumgartner]] you two look like you made a wrong turn somewhere,0
+33,11, [[Catherine]] we 're with the crime lab,0
+33,12, [[Catherine]] heard you just copped a plea for indecent exposure,0
+33,13," [[Hunter_Baumgartner]] i 'm sorry , i 'm working",0
+33,14," ( HUNTER turns to leave , GRISSOM stops him . )",0
+33,15, [[Grissom]] uh-uh,0
+33,16, ( GRISSOM starts putting out the photos on the counter . ),0
+33,17, [[Grissom]] you recognize any of these women ?,0
+33,18, ( He looks at the photos . ),0
+33,19, [[Hunter_Baumgartner]] yeah,0
+33,20, [[Hunter_Baumgartner]] strip strangler girls,0
+33,21, [[Hunter_Baumgartner]] they are all over tv,0
+33,22, [[Grissom]] do you know them ?,0
+33,23, [[Hunter_Baumgartner]] no,0
+33,24, [[Catherine]] how do you explain your dna on the bedsheets they were murdered in ?,0
+33,25, [[Hunter_Baumgartner]] i do n't know,0
+33,26," [[Grissom]] yeah , 'i do n't know ' does n't get it , pal",0
+33,27, [[Grissom]] dna 's like fingerprints,0
+33,28, [[Grissom]] no two samples are alike,0
+33,29, [[Grissom]] you were in these women 's bedrooms,0
+33,30," [[Hunter_Baumgartner]] believe me , mister , the last place that you will find me is in a woman 's bedroom",0
+33,31, [[Hunter_Baumgartner]] unless we 're discussing window treatments,0
+33,32," [[Hunter_Baumgartner]] hey , and my indecent was for tricking too close to the boulevard",0
+33,33, [[Hunter_Baumgartner]] i do n't know anything about killing women,0
+33,34, [[Hunter_Baumgartner]] that 's straight boy stuff,0
+33,35, [[Catherine]] any recent trick offer you money for something a little weird ?,0
+33,36, [[Catherine]] say a portable sample of your dna ?,0
+33,37, [[Hunter_Baumgartner]] only about ten times this month,0
+33,38, [[Hunter_Baumgartner]] this is vegas,0
+33,39, [[Grissom]] would you be able to recognize any of these guys ?,0
+33,40," [[Hunter_Baumgartner]] well , i 'd have to be looking at them in the face now , would n't i ?",0
+33,41, ( HUNTER looks at GRISSOM and playfully 'bites ' him . ),0
+33,42, ( He turns and leaves . ),0
+33,43, ( CATHERINE clears throat . ),0
+33,44, [[Catherine]] i guess we should have known if our guy was planting hairs he was planting semen,0
+33,45, [[Grissom]] yeah,0
+33,46, [[Grissom]] probably in little hollowed-out packets of ketchup,0
+34,0," ( Back at GRISSOM 'S , SARA and WARRICK fill him in )",0
+34,1, [[Sara]] i did n't really find anything instructive but warrick hit pay dirt,0
+34,2," [[Warrick]] well , i went back audrey hayes ' apartment and i paid particular attention to the point of entry",1
+34,3, [[Warrick]] i found a small persistence of white cotton fibers,0
+34,4, ( Quick flash to : The camera moves low along the carpet till it stops at a couple of strands of cotton . ),0
+34,5, ( One is picked up . ),0
+34,6, ( End of flash . ),0
+34,7, ( Resume to present . ),0
+34,8, [[Grissom]] could have been the staging area,0
+34,9, [[Grissom]] maybe he wears his murder kit,1
+34,10, ( Quick flashback to : The intruder is pulling out a cotton towel from his jacket pocket . ),1
+34,11," ( His hands are gloved , his face covered . )",1
+34,12, ( End of flashback . ),0
+34,13, ( Resume to present . ),0
+34,14," [[Warrick]] well , i remember what you said about signature guys and how they have low self-esteem",0
+34,15, [[Warrick]] they 're always going to the gym to work out so i 'm thinking gym towels,0
+34,16, [[Sara]] the frequented locations report said none of the women belong to a gym where he could have spotted them,1
+34,17, [[Warrick]] so,0
+34,18, [[Warrick]] i went back to see if any of them had tried out introductory offers,1
+34,19, [[Sara]] which i do all the time,0
+34,20," [[Sara]] it 's a free workout , and you do n't have to sign up",0
+34,21, [[Warrick]] but you do have to sign in,0
+34,22, ( WARRICK holds out the sign in sheets to GRISSOM . ),0
+34,23, ( He takes them and looks at them . ),0
+34,24, [[Warrick]] all three women went to strong 's gym once in the last three months,1
+34,25," [[Warrick]] so , i 'm going back there , grab some towels bring them back to the lab see if i can get a match from the crime scene fibers",0
+34,26," [[Sara]] and , of course , get a list of the club 's male gym members",0
+34,27," [[Grissom]] call brass , tell him to meet you guys there",0
+34,28, [[Grissom]] let me know,0
+34,29, [[Warrick]] will do,0
+34,30, ( WARRICK and SARA leave the place . ),0
+34,31, ( GRISSOM 'S phone rings . ),0
+34,32, ( He answers it . ),0
+34,33, [[Grissom]] grissom,0
+35,0, ( NICK is in the room on the phone talking softly . ),0
+35,1," [[Nick]] yeah , i 'm looking in front of eileen snow 's apartment",1
+35,2, [[Nick]] this security guard said he saw a guy burn rubber out of there tight of eileen 's murder,1
+35,3, [[Grissom]] i remember that guy,1
+35,4," [[Nick]] yeah , well , there 's no rubber here",1
+35,5, [[Nick]] on the pavement or curb,0
+35,6," [[Nick]] a coup of oil spots , that 's about it",0
+35,7, [[Nick]] and i called brass,0
+35,8, [[Nick]] nobody took any photographs of any tire marks,1
+35,9, [[Nick]] not the las vegas p.d,0
+35,10, [[Nick]] not the feds,0
+35,11, [[Grissom]] hmm,0
+35,12," [[Grissom]] little lie , big lie ?",0
+35,13, [[Nick]] mm-hmm,0
+35,14, ( AGENT RICK CULPEPPER walks into the evidence vault and interrupts NICK 'S phone call . ),0
+35,15, [[Agent_Rick_Culpepper]] the only shift csi i can actually find,0
+35,16," [[Agent_Rick_Culpepper]] you 're tampering with evidence of the united states government there , mr stokes",0
+35,17, [[Nick]] i was just looking for a quiet spot to call my girlfriend,0
+35,18," [[Agent_Rick_Culpepper]] well , tell your girlfriend she 's going to have you out of a job",0
+35,19, [[Agent_Rick_Culpepper]] best thing you could do for your boss -- protect him from himself,0
+35,20, [[Nick]] grissom ?,0
+35,21," [[Nick]] i got to run , peanut",0
+35,22," [[Nick]] love you , too",0
+35,23, [[Nick]] bye-bye,0
+35,24," ( On the other end of the phone , GRISSOM stares at it . )",0
+35,25," ( Back in the evidence vault , CULPEPPER watches NICK , then turns and leaves the room . )",0
+36,0," ( With the new information , GRISSOM flips through the file looking for the name . )",0
+36,1, [[Grissom]] goggle,0
+36,2, ( Quick flashback to : SYD GOGGLE in his security guard uniform talks to GRISSOM . ),0
+36,3," [[Syd_Goggle]] if you need any help in your investigation , mr grissom",0
+36,4, ( End of flashback . ),0
+36,5, ( Resume to present . ),0
+36,6, [[Grissom]] syd goggle,0
+36,7, ( GRISSOM closes the file . ),0
+37,0, ( GRISSOM walks down the sidewalk looking for the correct address . ),0
+37,1, ( He compares it with the slip of paper in his hand . ),0
+37,2, ( He walks down the steps looking for the residence . ),0
+37,3, ( Cut to : GRISSOM walks up to the front door and knocks . ),0
+37,4, ( The door is n't closed nicely . ),0
+37,5," ( GRISSOM pauses for a moment , then pushes the door open . )",0
+37,6, ( He looks into the room . ),0
+37,7, [[Grissom]] mr goggle ?,1
+37,8," ( From where he stands , GRISSOM can see the various items on the table . )",0
+37,9," ( An open book turned over , some remote controls , a grip exerciser , an electric shaver , a brush and a barber 's pair of scissors to name some . )",0
+37,10, ( Quick flash to : The intruder using the electric shaver to shave off the hairs on his arm . ),0
+37,11, ( The camera pulls back and we see that the intruder is bald . ),0
+37,12, ( End of flashback . ),0
+37,13, ( Resume to present . ),0
+37,14, ( GRISSOM turns around and does n't enter the apartment . ),0
+37,15," ( He looks down the hallway , then looks down where he sees some splotches of clear liquid on the pavement directly in front of his feet . )",0
+37,16, ( GRISSOM turns and looks down the hallway . ),0
+37,17, ( Cut to : GRISSOM follows the liquid splotches on the pavement . ),0
+37,18," ( The further he goes , the larger they get till finally he reaches the trash bin )",0
+37,19, ( GRISSOM kneels down and looks at the trash bag and looks inside . ),0
+37,20, ( He finds discarded packets of ketchup . ),1
+37,21, ( The sounds of a washing machine clunking distracts GRISSOM . ),0
+37,22, ( He turns and looks down at the basement stairs nearby . ),0
+37,23, ( He stands and follows the machine noise . ),0
+38,0, ( GRISSOM descends the stairs into the laundry room where SYD GOGGLE is doing his laundry . ),1
+38,1," ( He 's leaning both hands on the washing machine , his back toward GRISSOM . )",1
+38,2," ( When GRISSOM reaches the bottom of the laundry room , SYD GOGGLE turns around . )",1
+38,3, ( GRISSOM shuts off his flashlight . ),0
+38,4, [[Syd_Goggle]] gil grissom,0
+38,5, [[Grissom]] syd goggle,1
+38,6, [[Syd_Goggle]] i thought you were too busy with the fbi to talk to me,1
+38,7, [[Grissom]] these investigations are always in flux,0
+38,8," [[Grissom]] am i , uh , interrupting your laundry ?",1
+38,9, ( GRISSOM pockets his flashlight . ),0
+38,10, ( SYD GOGGLE walks toward the basket full of white cotton gym towels . ),1
+38,11, [[Syd_Goggle]] i 'm just doing some gym towels,1
+38,12, ( GRISSOM does n't say anything . ),0
+38,13, ( He stares at the hair on SYD GOGGLE 'S head . ),1
+38,14," ( SYD notices it and calmly , boldly takes off his wig . )",1
+38,15, ( He drops it on the table between them . ),1
+38,16, [[Grissom]] you were so meticulous about so many things,1
+38,17, [[Grissom]] shaving,1
+38,18, [[Grissom]] the gloves,1
+38,19, [[Grissom]] planted evidence,1
+38,20, [[Grissom]] that 's why i do n't understand why you 'd bring towels that eventually could be tracked,1
+38,21, [[Syd_Goggle]] i do n't know what you 're talking about,1
+38,22, [[Grissom]] strong 's gym,0
+38,23," [[Grissom]] that 's where the women told you to you to get lost , right ?",1
+38,24, [[Grissom]] stuffing club towels down their throat make your point ?,1
+38,25," [[Syd_Goggle]] you know , the thing with women ... is they work out because they want us to look at them",1
+38,26, [[Syd_Goggle]] and then they ... parade around,1
+38,27, [[Syd_Goggle]] and you just want to ... say hello,1
+38,28," ( As he talks , SYD folds the towel and wrings it in his hands , as if he 's done this before . )",1
+38,29, [[Syd_Goggle]] everybody knows white cotton fibers are n't like fingerprints,0
+38,30, [[Syd_Goggle]] they ca n't be traced,0
+38,31, [[Syd_Goggle]] you do n't get a ... match on a towel,0
+38,32, [[Grissom]] in theory,0
+38,33, [[Grissom]] but the truth is every object is changed by its owner,0
+38,34, [[Grissom]] by his habits,0
+38,35," [[Grissom]] his ... washing machine , for instance",0
+38,36, [[Grissom]] his detergent,0
+38,37, ( GRISSOM glances at the washing machine . ),0
+38,38, ( SYD GOGGLE smiles and walks toward GRISSOM . ),1
+38,39, [[Syd_Goggle]] the totality of microscopic elements,0
+38,40, [[Syd_Goggle]] it 's locard 's theory,0
+38,41, ( GRISSOM nods . ),0
+38,42, ( The washing machine starts thumping as the towels clump inside the machine . ),0
+38,43, [[Grissom]] your towel is caught in the agitator,0
+38,44, ( SYD turns to look at the washing machine . ),1
+38,45," [[Grissom]] now , see , that 's going to leave distinctive marks on the fabric , syd",0
+38,46, [[Grissom]] and that 's just the beginning,0
+38,47, [[Grissom]] i 've had a look at your garbage,1
+38,48, [[Syd_Goggle]] you were in my apartment,1
+38,49," [[Syd_Goggle]] now , nothing from there 's admissible in court",0
+38,50, [[Grissom]] your garbage is in a public area ... plain sight,1
+38,51, [[Grissom]] it 's enough for me to get a warrant,0
+38,52, ( SYD knows that he 's caught . ),1
+38,53, ( Things happen fast . ),0
+38,54, ( The washing machine starts to make loud noises . ),0
+38,55, ( GRISSOM turns to look in that direction . ),0
+38,56, ( SYD grabs a wrench off of the nearby table with the tools on it . ),1
+38,57, ( He swings . ),1
+38,58, ( GRISSOM raises a hand to block the blow to his head and gets caught in the side of his arm . ),0
+38,59, ( He goes down . ),0
+38,60, ( SYD drops the wrench and uses two hands to pick up a short-handled shovel . ),1
+38,61, ( He raises it high above his head to swing . ),1
+38,62, ( GRISSOM puts up a hand to block the blow when a gun is fired . ),0
+38,63," ( Standing on the stairs , CATHERINE fires multiple times at SYD GOGGLE . )",1
+38,64, ( He screams She continues firing . ),1
+38,65, ( He falls down backward and drops the shovel . ),1
+38,66, ( GRISSOM looks at CATHERINE and slowly gets up . ),0
+38,67, [[Catherine]] you all right ?,0
+38,68," ( Clutching his arm , GRISSOM gets to his feet . )",0
+38,69, ( He glances between SYD GOGGLE on the ground dead and CATHERINE standing right next to him . ),1
+38,70, [[Grissom]] yeah,0
+38,71, [[Grissom]] how did you know i was here ?,0
+38,72, [[Catherine]] nick told me,0
+38,73, ( they both look down at the body . ),0
+38,74," ( CULPEPPER slowly walks down the basement stairs , his gun in his hands . )",0
+38,75, [[Agent_Rick_Culpepper]] everybody okay ?,0
+38,76," [[Agent_Rick_Culpepper]] special agents , we got a shooting",0
+38,77, [[Agent_Rick_Culpepper]] notify lvpd and paramedics asap,0
+38,78, ( CULPEPPER walks past GRISSOM . ),0
+38,79, [[Grissom]] i just wanted to talk to him,1
+39,0," ( On the television monitors , SHERIFF BRIAN MOBLEY holds a news conference . )",0
+39,1," [[Sheriff_Brian_Mobley]] we can say unequivocally , based on statements made by a certain local law enforcement employee and corresponding evidence that the deceased , syd booth goggle is the strip strangler",0
+39,2," [[Sheriff_Brian_Mobley]] furthermore , since goggle was killed by a second member of las vegas law enforcement during his apprehension , this case is now closed",0
+39,3," [[Sheriff_Brian_Mobley]] i would like to thank the fbi , along with special agent rick culpepper for his invaluable leadership in this pursuit",0
+39,4," [[Sheriff_Brian_Mobley]] in short , we could n't have done it without you",0
+39,5, ( GRISSOM and the CSI team sit in a booth at the local diner . ),0
+39,6, ( They watch the news conference while waiting for their breakfast . ),0
+39,7," [[Special_Agent_Rick_Culpepper]] i 'd like to thank you , sheriff , las vegas police",0
+39,8, [[Special_Agent_Rick_Culpepper]] i 'd also like to thank the citizens of las vegas for their courage,0
+39,9, [[Special_Agent_Rick_Culpepper]] we at the federal bureau of investigation are proud to have served you,0
+39,10, [[Special_Agent_Rick_Culpepper]] thank you,0
+39,11," [[Warrick]] aw , that 's cool",0
+39,12, [[Warrick]] we do n't need props,0
+39,13," [[Warrick]] at the end of the day , we know what time it is",0
+39,14, [[Nick]] give me some of that,0
+39,15," [[Sara]] do we have a breakfast budget , grissom ?",0
+39,16, [[Grissom]] i believe catherine was going to requisition one,0
+39,17," [[Sara]] good , cause our plates are up , and nobody has any money",0
+39,18, ( SARA stands up to get the plates . ),0
+39,19, ( WARRICK follows to help her . ),0
+39,20, [[Warrick]] right behind you,0
+39,21," [[Nick]] you , uh ... you got me , right , war ?",0
+39,22, [[Warrick]] yeah,0
+39,23, [[Warrick]] picture that,0
+39,24, ( NICK also stands up to help . ),0
+39,25, ( GRISSOM and CATHERINE sit across from each other in the booth . ),0
+39,26," [[Grissom]] i never should have put you in that position , catherine",0
+39,27, [[Grissom]] i 'm sorry,0
+39,28, [[Catherine]] what position ?,0
+39,29, [[Catherine]] never doubt and never look back,0
+39,30, [[Catherine]] that 's how i live my life,0
+39,31, [[Grissom]] i admire that,0
+39,32, ( Everyone returns with the plates . ),0
+39,33, [[Sara]] whole wheat and fruit ?,0
+39,34, [[Sara]] who ordered that ?,0
+39,35, ( GRISSOM motions for his plate . ),0
+39,36, [[Grissom]] here,0
+39,37, [[Nick]] how 's this for service ?,0
+39,38, ( The plates are distributed . ),0
+39,39, ( WARRICK slips back into his seat . ),0
+39,40, [[Catherine]] very good,0
+39,41, [[Nick]] re ... fried beans,0
+39,42, [[Nick]] mmm !,0
+39,43, ( Everyone laughs . ),0
+39,44, ( SARA pulls up her chair to the table and takes her seat . ),0
+39,45, ( They all settle in for breakfast as the camera slowly pulls away from the table . ),0
