@@ -68,7 +68,7 @@ Note that except for the columns 'word', 'killer_gold',
 sentence-level (i.e., their values are invariant for words in the same sentence).
 
 
-# Movie Summarization corpus
+# Screenplay Summarization corpus
 
 The directory data_summarization contains human annotations for the summary of each episode in the dataset. The dataset has been introduced and used in the paper [*Screenplay Summarization Using Latent Narrative Structure*](https://arxiv.org/pdf/2004.12727.pdf).
 
