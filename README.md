@@ -23,7 +23,7 @@ The annotations include:
 (sentence-level).
 
 If you would like to obtain the visual and auditory features used in
-this work please email l.frermann@ed.ac.uk. Please note that in order
+this work please email lea.frermann@unimelb.edu.au. Please note that in order
 for us to make these available to you, you must purchase the CSI:Crime Scene Investigation DVDs (seasons 1-5) which are available on sites like
 Amazon and eBay. 
 
